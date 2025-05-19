@@ -1,0 +1,169 @@
+﻿[PGKEY]
+{You have picked up the PRISON GATE KEY.}
+Has recogido la LLAVE DE LA PUERTA DE LA PRISIÓN.
+
+[GOAL1]
+{Follow the rabbit by exiting the cellblock}
+Sigue al conejo saliendo del bloque de celdas.
+
+[GOAL2]
+{Kill the patrolling hunter and get up to the control room}
+Mata al cazador que está patrullando y llega hasta la sala de control.
+
+[GOAL3]
+{Kill all the death row hunters}
+Mata a todos los cazadores del corredor de la muerte.
+
+[GOAL4]
+{Get to the workshop anyway you can}
+Llega como puedas hasta el taller.
+
+[GOAL5]
+{Activate the sensor lock and chase that rabbit}
+Activa la placa sensora y persigue al conejo.
+
+[GOAL6]
+{Kill the ~green~White Rabbit~colour~ to acquire the KEY to the prison's gates}
+Mata al ~green~conejo blanco~colour~ para conseguir la LLAVE de las puertas de la prisión.
+
+[GOAL7]
+{Get to the gates and exit the prison}
+Llega hasta las puertas y sal de la prisión.
+
+[SCREW1]
+{Darling, I'm coming to get you!}
+Cariño, ¡vengo a por ti!
+
+[COVER1]
+{Take cover, you idiots!}
+¡Idiotas! ¡Poneos a cubierto!
+
+[COVER2]
+{Take cover! Take cover!}
+¡Cubríos! ¡Cubríos!
+
+[COVER3]
+{He's packing! Take cover!}
+¡Está armado! ¡Cubríos!
+
+[DIE1]
+{You did well! Very well. But every film has its ending and this here is yours!}
+¡Lo has hecho bien! Muy bien. Pero toda película tiene un final ¡y éste es el tuyo!
+
+[DIE2]
+{You made it! Oh dear, you see, you didn't make it after all! Ha-ha-heee-hooo!}
+¡Lo hiciste! ¡Oh, vaya, después de todo no lo conseguiste! ¡Ja, ja, jeee, jeee!
+
+[DIE3]
+{Close your eyes, bad boy! Time for bye-byes!}
+Cierra los ojos, chico malo. ¡Es hora de decir adiós!
+
+[OUT1]
+{Hey, you ain't dead! He ain't dead! Oh shit, I've got the keys outta here!}
+¡Eh, no estás muerto! ¡No está muerto! Mierda, ¡Tengo las llaves para salir de aquí!
+
+[OUT2]
+{You're supposed to be dead! Aw fuck, he's after my frikkin' key!}
+¡Se suponía que estabas muerto! Joder, ¡viene a por la jodida llave!
+
+[OUT3]
+{Holy frogger! I've got the key - if he gets me he's outta here!}
+¡Maldita sea! Tengo la llave, ¡si me la quita, saldrá de aquí!
+
+[POL1A1]
+{You're my big ugly Alice, so go on, follow the White Rabbit!}
+Eres mi Alicia particular, pero en grande y feo, así que adelante, ¡sigue al conejo blanco!
+
+[POL2A1]
+{They're messing with you, Cash, trying to fuck with your head! I wouldn't stand for that!}
+¡Van a por ti, Cash, quieren joderte! ¡Yo no me quedaría para que lo hicieran!
+
+[POL3A1]
+{You might want to clean the filth out of the showers...}
+Puede que quieras sacudirles el polvo un poco...
+
+[POL4A1]
+{Get rid of the pink dressed freak and get up to the watch room. Mr. Rabbit has left you a gift!}
+Líbrate del tipejo del vestido rosa y consigue llegar hasta la sala de vigilancia. ¡El señor conejo te ha dejado un regalo!
+
+[POL5A1]
+{A new meaning for death row! Get yourself up to that watch room!}
+¡Un nuevo significado para corredor de la muerte! ¡Consigue llegar hasta la sala de vigilancia!
+
+[POL6A1]
+{You're a threshing machine, Cash! Now head for the door below the control room!}
+Cash, ¡eres una máquina de machacar! ¡Ahora ve a buscar la puerta que está debajo de la sala de control!
+
+[POL7A1]
+{Watch those cells closely. Kill 'em all!}
+Vigila cuidadosamente esas celdas. ¡Acaba con todos!
+
+[POL8A1]
+{Almost there, baby! Chew your way through these chumps!}
+¡Casi has llegado, hombre! ¡Ábrete camino y pasa por encima de estos imbéciles!
+
+[POL9A1]
+{What can I say? You were a good leading man, the audience will love you.}
+¿Qué puedo decir? Eras un buen protagonista, la audiencia te adorará.
+
+[POL9A2]
+{Don't expect any royalty cheques where you're going though!}
+Pero teniendo en cuenta a dónde vas, ¡no esperes ingresos por derechos de imagen!
+
+[POL10A1]
+{Hey, Cash, what are you doing? Are you insane?}
+Ey, Cash, ¿qué es lo que haces? ¡¿Estás loco?!
+
+[POL11A1]
+{Where are you gonna go? The state wants you dead, Cash, dead!}
+¿Dónde vas a ir? El estado quiere matarte, Cash, ¡matarte!
+
+[POL12A1]
+{Cash? Come back here!}
+¿Cash? ¡Vuelve aquí!
+
+[MPG1]
+{Ramirez!}
+¡Ramírez!
+
+[MPG2]
+{You let Cash slip his leash - bring him to heel!}
+Has dejado que Cash se libere, ¡vuelve a controlarlo!
+
+[MPG3]
+{Failure isn't an option. NOW GO!}
+Fallar no es una opción. ¡VE!
+
+[PRI1A1]
+Director: Follow the White Rabbit! You're one ugly fuckin' Alice though!
+
+[PRI2A1]
+Director: Get rid of that screw and get up to that room. The rabbit has left you a gift!
+
+[PRI3A1]
+Director: A new meaning for death row! Get yourself up to that control room!
+
+[PRI4A1]
+Director: Fine shooting! Head for the door below the control room!
+
+[PRI5A1]
+Director: Watch those cells closely! Pick them all off!
+
+[PRI6A1]
+Director: Almost there, get through this last section anyway you can!
+
+[PRI_08]
+Rabbit: You did well! Very well. Every film has an ending and this is yours.
+
+[PRI7A1]
+Director: What can I say? You were a good leading man, the audience will love you... don't expect any royalty cheques where you're going though!
+
+[PRI_10]
+White Rabbit: Shit! The punk has survived the final cut! He gets me, he gets out! Get me some backup!
+
+[PRI_15]
+Director: The rabbit is dead! Storm that tower!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

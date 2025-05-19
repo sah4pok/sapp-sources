@@ -1,0 +1,319 @@
+﻿[USE]
+{To make the Tramp follow you, press the Use button when you are facing him and he is waiting.}
+Pour que le clodo te suive, appuie sur la touche "Utiliser" lorsque tu es en face de lui et qu'il est immobile.
+
+[USE2]
+{To make the Tramp stop and wait for you, press the Use button when you are facing him and he is following you.}
+Pour que le clodo s'arrête et t'attende, appuie sur la touche "Utiliser" lorsque tu es en face de lui et qu'il te suit.
+
+[WALK]
+{Hunters will attack the tramp, so make sure they don't find him. He can hide in the shadows if you guide him there.}
+Les chasseurs attaqueront le clodo, alors veille à ce qu'ils ne le trouvent pas. Il peut se planquer dans les ombres si tu l'y mènes.
+
+[STOP]
+{The tramp's health bar and arrow on the radar will go blue when he is hidden in a safe zone.}
+La barre de santé et la flèche sur le radar du clodo virent au bleu lorsqu'il est planqué dans un endroit sûr.
+
+[GOAL1]
+{Rescue the tramp from his cell}
+Sors le clodo de sa cellule.
+
+[GOAL2]
+{Take the tramp past the streets to the graveyard}
+Fais traverser les rues au clodo, direction le cimetière.
+
+[GOAL3]
+{Find a shotgun then take the tramp to the old tomb}
+Trouve un fusil à pompe et amène le clodo à la vieille tombe.
+
+[MOAN1]
+{How did we end up on this shit post?}
+Comment on a atterri dans cet endroit pourri ?
+
+[MOAN2]
+{Should be getting high with the guys guarding the derelict house.}
+Et dire que je pourrais être en train de me défoncer avec les gardes de la vieille bicoque...
+
+[MOAN3]
+{Stop whining, this is what we do.}
+Arrête de te plaindre, c'est ce qu'on est en train de faire !
+
+[MOAN4]
+{Fuck this guarding shit! Why only the others have to get all the fun?}
+Fait chier ! Pourquoi c'est toujours les autres qui se marrent ?
+
+[MOAN5]
+{This sucks. Kinda like your sister.}
+Ouais, ça craint, mais pas autant que ta soeur !
+
+[QUIET1]
+{Shut up in there!}
+Vos gueules là-dedans !
+
+[QUIET2]
+{Stop it! You're making me mad!}
+Fermez-la, vous me rendez dingue !
+
+[TCHAT1]
+{Apparently a bum is gonna show up 'round here and we've got to do him. Poor bastard.}
+Paraît qu'un clodo va se pointer pour qu'on s'occupe de lui. Pauvre connard...
+
+[TCHAT2]
+{It's one thing to wax some psycho... but I aint into killing no bum.}
+Buter des tarés, ça me va... mais moi, je touche pas aux SDF !
+
+[TCHAT3]
+{I saw that tramp before. Trust me - if he gets close, we'll smell him.}
+Je l'ai déjà vu. Crois-moi, on le sentira venir de loin.
+
+[TCHAT4]
+{I killed a bum once in ... It was no big deal.}
+J'ai buté un clodo à... Pas de quoi en faire un plat.
+
+[TCHAT5]
+{Oh que pasa, you don't have the stomach for this?}
+Eh, que pasa ! T'as pas les tripes pour ça ?
+
+[TCHAT6]
+{Ohhhhhh I think I can smell him already!}
+Oh putain, je peux déjà le sentir !
+
+[TFOLL1]
+{Ok, buddy, anything you say!}
+OK, mon pote, comme tu veux.
+
+[TFOLL2]
+{Whatever.}
+Ben voyons.
+
+[TFOLL3]
+{Hey, you're boss!}
+C'est toi le boss !
+
+[TFOLL4]
+{Anything for my new bestest buddy!}
+Y'a rien que je ferais pas pour mon meilleur pote !
+
+[TFOLL5]
+{We going to get some liquor?}
+Bon, on va chercher de la bibine ?
+
+[TFOLL6]
+{Where we going, me ol'pal?}
+Où on va, mon pote ?
+
+[TSTAY1]
+{What the hell, this looks comfortable enough!}
+Allez, arrête. C'est au poil ici !
+
+[TSTAY2]
+{Bring back something to drink, would ya!}
+Tu me ramènes quelqu'chose à boire, hein ?
+
+[TSTAY3]
+{No need to be so bossy - I was thinking of hanging around here anyway!}
+Oh, pas besoin de jouer les grands chefs ! J'allais rester ici de toute façon !
+
+[TSTAY4]
+{Make your mind up, buddy!}
+Putain, décide-toi, mon pote !
+
+[TSTAY5]
+{Ok, you two be careful now!}
+OK, soyez prudents tous les deux !
+
+[TSTAY6]
+{Hey, you better come back for me, buddy...}
+Hé, t'as intérêt à revenir me chercher !
+
+[TRMP1]
+{Uh -oh.. Hello.}
+Oh oh. Salut.
+
+[TRMP2]
+{You got a couple of dollars, huh? Huh?}
+T'aurais pas un ou deux biftons en trop, hein ?
+
+[TRMP3]
+{You better have something to drink, pal.}
+T'as intérêt à avoir de la picole sur toi, mon pote !
+
+[CMON1]
+{Follow me.}
+Suis-moi !
+
+[CMON2]
+{Move it!}
+Bouge-toi !
+
+[CMON3]
+{Come 'ere.}
+Viens ici !
+
+[CMON4]
+{Stay close - make a sound an' I'll kill you myself.}
+Ferme-la. Tu fais un seul bruit et je te bute !
+
+[CMON5]
+{Shift your ass.}
+Bouge ton cul !
+
+[CMON6]
+{You're with me.}
+Viens avec moi !
+
+[HOLD1]
+{Park it here.}
+Bouge plus de là !
+
+[HOLD2]
+{Stay here an' don't move a fuckin' muscle.}
+T'as pas intérêt à bouger d'ici !
+
+[HOLD3]
+{Stay put and shut up.}
+Ta gueule et bouge plus !
+
+[HOLD4]
+{Don't move.}
+Bouge plus !
+
+[HOLD5]
+{Stay here, out of trouble.}
+Reste ici, bien au frais !
+
+[HOLD6]
+{Stop following me!}
+Arrête de me suivre !
+
+[DRK1A1]
+{I've got a little surprise for you. You looked lonely, so I got you some company.}
+J'ai une surprise pour toi. Tu m'avais l'air un peu seul, alors je t'ai trouvé de la compagnie.
+
+[DRK1A2]
+{Unfortunately the Innocentz thought better of it and locked him up.}
+Mais manque de bol, les Innocents étaient pas d'accord et ils l'ont bouclé !
+
+[DRK1A3]
+{You're gonna have to bust him out!}
+Va falloir que tu le sortes de là !
+
+[DRK2A1]
+{Well what do you think of your new friend? You look good together, Cash, really you do.}
+Alors, qu'est-ce que tu penses de ton nouveau copain ? Vous faites la paire, Cash, pas vrai ?
+
+[DRK2A2]
+{I'll only open any gates if he's with you, alive and well.}
+Je t'ouvrirai les portes que s'il est avec toi, sain et sauf.
+
+[DRK2A3]
+{Now get going. Entertain me.}
+Allez, fais-moi ton numéro !
+
+[DRK3A1]
+{You're going to have to think of a way of separating these guys and picking them off one by one…}
+Va falloir que tu te démerdes pour séparer ces gars et te les faire un par un...
+
+[DRK4A1]
+{I told you. Get that hobo safely to the gate and I'll buzz you through.}
+Je t'ai déjà dit ce que tu dois faire. Amène ce clodo à la grille et je t'ouvre la porte.
+
+[DRK5A1]
+{I thought this graveyard would make a great location for a shoot-out - what do you think, Cash?}
+Je me disais que ce cimetière était l'endroit idéal pour une fusillade. Tu trouves pas, Cash ?
+
+[DRK6A1]
+{Aw, Cash, I'm disappointed, really I am,}
+Oh, Cash. Je suis déçu, très déçu !
+
+[DRK6A2]
+{is that any way to care for your bestest buddy?!}
+Alors c'est comme ça que tu t'occupes de tes amis ?
+
+[DRK6B1]
+{Cash! You let that poor man down in the biggest possible way.}
+Cash ! T'as laissé tomber ce pauvre type au pire moment, tu le sais, ça ?
+
+[DRK6B2]
+{I only hope you can live with yourself.}
+Je me demande comment tu fais pour te regarder dans une glace.
+
+[DRK6C1]
+{You blew it Cash! All you had to do was look out for someone for ten minutes and you blew it...}
+C'est foutu, Cash ! On te demande de faire du baby-sitting pendant dix minutes et tu fous tout en l'air...
+
+[DRK6D1]
+{Cash, baby, you let them kill your friend}
+Cash, mon grand, t'as laissé ton ami se faire buter.
+
+[DRK6D2]
+{and you made such a lovely couple!}
+Vous alliez si bien ensemble...
+
+[DRK7A1]
+{See that old house? That's where you're headed.}
+Tu vois cette vieille bicoque ? C'est ton objectif.
+
+[DRK8A1]
+{You're doing good Cash, you'll need to go through the pedestrian tunnel - find it.}
+Tu t'en sors bien, Cash. Faut que tu traverses le tunnel piéton. Trouve-le.
+
+[DRK9A1]
+{Aren't you forgetting someone, Cash?}
+T'oublies personne là, Cash ?
+
+[DRK9B1]
+{Hey, what about your new buddy - you're not going to abandon him are you?}
+Hé, et ton nouvel ami ? Tu vas quand même pas l'abandonner ?
+
+[DRK9C1]
+{You've left your new chum behind - friends are supposed to look out for each other!}
+T'as laissé tomber ton pote ! Entre amis, faut veiller l'un sur l'autre, tu sais !
+
+[DRK9D1]
+{Is that how you treat your pals? Leave 'em to rot?}
+C'est comme ça que tu traites tes potes ?
+
+[DRK10A1]
+{Cash! Your buddy's getting the crap kicked out of him!}
+Cash ! Ton pote va finir en pâtée pour chiens !
+
+[DRK10B1]
+{You've got to learn how to care for others, Cash - Your new friend's in trouble!}
+Tu dois apprendre à t'occuper des autres, Cash ! Ton nouveau pote a des emmerdes !
+
+[DRK10C1]
+{Heads up, Cash, you better go rescue your new friend!}
+Allez, Cash ! Faut que t'ailles sauver ton copain !
+
+[DRK10D1]
+{Oh dear, looks like your new bunk buddy's run into a few Hunters!}
+Oh là, ton ami le clodo s'est jeté dans les pattes de Lascars en vadrouille !
+
+[DRK11A1]
+{You know the deal, Cash. I open the door when I see your friend.}
+Tu connais le deal, Cash ! J'ouvre la porte que si je vois ton pote !
+
+[DRK11B1]
+{When I see your smelly friend I'll open the door.}
+Pas de copain puant, pas de porte ouverte !
+
+[DRK11C1]
+{I'm not blind Cash, where's your hobo buddy?}
+Je suis pas bigleux, Cash ! Où est le clodo ?
+
+[DRK11D1]
+{The tramp! Where's the fucking tramp, Cash?}
+Le clodo, Cash ! Où est ce foutu clodo ?
+
+[DRK12A1]
+{The Exit is behind this old tomb. You'll need a shotgun}
+La sortie est derrière cette vieille tombe. T'auras besoin d'un fusil à pompe.
+
+[DRK12A2]
+{so make sure to pick one up along the way.}
+Alors oublie pas de faire tes courses en chemin.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

@@ -1,0 +1,140 @@
+﻿[GOAL1]
+{Get to the street}
+Va dans la rue.
+
+[GOAL2]
+{Find something to break the ~blue~PADLOCK~colour~}
+Trouve un truc pour péter le ~blue~cadenas~colour~.
+
+[GOAL3]
+{Use the CROWBAR to break the ~blue~PADLOCK~colour~}
+Sers-toi du pied-de-biche pour péter le ~blue~cadenas~colour~.
+
+[GOAL4]
+{Win the fight in the cellar}
+Remporte le combat au sous-sol.
+
+[GOAL5]
+{Head through the buildings to get to the library}
+Traverse le bâtiment pour entrer dans la bibliothèque.
+
+[GOAL6]
+{Go through the cellar to the exit}
+Passe par le sous-sol pour sortir.
+
+[START0]
+{You can look behind you by pressing down the Look Back button.}
+Tu peux jeter un coup d'oeil derrière toi en appuyant sur la touche Regarder derrière.
+
+[START2]
+~!~
+
+[START1]
+~!~
+
+[BLUE]
+{One handed weapons like the Bat are ~blue~Blue ~colour~Objects. They are not lost after use but make noise during executions.}
+Les armes à une main sont des objets ~blue~bleus~colour~. Ils sont réutilisables, mais bruyants pour les exécutions.
+
+[SWAP]
+{You can select individual weapons using the four Inventory Item buttons, or cycle through them with the Inventory button.}
+Tu peux sélectionner des armes à l'aide des touches Objet inventaire, ou les passer en revue à l'aide de la touche Inventaire.
+
+[LOOK]
+{Hold down the First Person button to view your surroundings. You can use this to spot hunters at a distance.}
+Maintiens la touche 1ère personne enfoncée pour regarder autour de toi. Profites-en pour repérer les chasseurs à distance.
+
+[SMASH]
+{Select the crowbar then press the Use button to break the padlock.}
+Sélectionne le pied-de-biche et appuie sur la touche "Utiliser" pour bousiller le cadenas.
+
+[GRAB]
+{Press the Action and the Action2 buttons together to grapple. Time the attack right and you can chain 3 hits together.}
+Appuie sur les touches "Action 1" et "Action 2" pour agripper une cible. Si tu minutes bien ton attaque, tu pourras enchaîner 3 coups.
+
+[GRAB2]
+{To break free from a hunter's grapple press the Action button repeatedly.}
+Pour te libérer de la prise d'un chasseur, appuie comme un taré sur la touche "Action 1".
+
+[BAT]
+{The bigger weapons are stronger but not as fast as the lighter weapons like the crowbar.}
+Les grosses armes sont plus efficaces mais moins rapides que les armes légères comme le pied-de-biche.
+
+[TRIAN]
+{The Crowbar can be used to break padlocks and other locked objects.}
+Le pied-de-biche peut être utilisé pour péter les cadenas et d'autres objets.
+
+[GRAVE]
+{Walking on gravel will make noise that attracts the hunters.}
+Quand tu marches sur du gravier, tu fais du bruit qui risque d'attirer des chasseurs.
+
+[WBAT]
+{Big weapons like this Baseball Bat are ~red~RED ~colour~items. They are stronger, but not as fast as the lighter weapons.}
+Les grosses armes comme cette batte de baseball sont des objets ~red~ROUGES~colour~. Elles sont plus efficaces, mais moins rapides que les armes légères.
+
+[BREAK]
+{Special Windows like this one can be smashed. They will create a glass shard for you to collect.}
+Les fenêtres spéciales comme celle-là peuvent être brisées. Après, tu peux récupérer un morceau de verre pour l'utiliser comme arme.
+
+[RADAR]
+{Objectives are shown as a dot on the radar.}
+Les objectifs sont représentés par un point sur le radar.
+
+[PISS]
+{Hunter : I'm taking a leak, I'll be out in the alley.}
+Chasseur : je vais pisser, je serai dans l'allée.
+
+[PISS1]
+{I need a leak. I'll be outside.}
+Je vais pisser dehors.
+
+[PISS2]
+{Man, I gotta take a piss.}
+Putain, faut que j'aille pisser.
+
+[DOR1A1]
+{You're doing fine, Cash, just fine. We're getting some great material here! Keep going!}
+Tu te débrouilles bien, Cash. C'est de la bonne qualité tout ce qu'on vient de shooter. Continue!
+
+[DOR2A1]
+{There's a Hood upstairs. Make some noise - hit something - that should get his attention!}
+Il y a un Lascar en haut. Fais du bruit en tapant sur un truc, ça devrait l'attirer !
+
+[DOR3A1]
+{You're going to have to find something to bust that padlock!}
+Va falloir que tu trouves un moyen de péter ce cadenas !
+
+[DOR4A1]
+{A crowbar! That would be ideal for...}
+Un pied-de-biche ! Ca serait bien pour...
+
+[DOR4A2]
+{smashing a padlock, say!}
+péter un cadenas, par exemple.
+
+[DOR5A1]
+{Okay, this is what I like to call a 'set up'.}
+Ca, c'est un coup monté ou j'y connais rien !
+
+[DOR5A2]
+{This guy will fight dirty, but once you're through with him, I'll open the next door.}
+Ce type se battra pas de façon réglo, mais, quand t'en auras fini avec lui, je t'ouvrirai la porte.
+
+[DER1A1]
+Director : Go through that building up ahead to get to the street.
+
+[DER2A1]
+Director : That hunter is watching the stairs, lure him downstairs by hitting a wall, then wait in a safe zone.
+
+[DER3A1]
+Director : This door is padlocked. You ever want to get outta here alive, you better find a way to bust that padlock!
+
+[DER4A1]
+Director : Okay Cash, nice going. Now Grab the crowbar and head back to smash that padlock.
+
+[DER5A1]
+Director : Okayyy, Put on a good show against this hooded fuck for me and it might help you outta here. Watch tho' this guy fights dirty.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

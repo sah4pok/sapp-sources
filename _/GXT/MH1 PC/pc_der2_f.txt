@@ -1,0 +1,86 @@
+﻿[GOAL1]
+{Make your way to the abandoned library}
+Va à la bibliothèque désertée.
+
+[GOAL2]
+{Find a way into the library cellar}
+Trouve un passage vers le sous-sol de la bibliothèque.
+
+[GOAL3]
+{Get through the cellar to the exit out the back}
+Traverse le sous-sol pour sortir par l'arrière.
+
+[GOAL4]
+{Win the fight in the cellar}
+Remporte le combat au sous-sol.
+
+[GOAL5]
+{Head through the buildings to get to the library}
+Traverse les bâtiments pour atteindre la bibliothèque.
+
+[GOAL6]
+{Go through the cellar to the exit}
+Traverse le sous-sol pour sortir.
+
+[JUMP]
+{When you fall from a height you will make noise that attracts hunters.}
+Quand tu tombes de haut, le bruit risque d'attirer les chasseurs.
+
+[TRASH]
+{Press the Use button to kick this trashcan and use it as a lure for hunters.}
+Appuie sur la touche Utiliser pour shooter dans la poubelle et attirer les chasseurs.
+
+[WALL]
+{To strafe against a wall, position the character against it and press the Use button.}
+Pour longer un mur, place-toi contre lui et appuie sur la touche Utiliser.
+
+[WALL1]
+{Then press Left or Right on the keyboard to slide against the wall. Reach a corner and continue to press the button in the same direction to lean out and peek.}
+Appuie ensuite sur la touche fléchée gauche ou droite pour te diriger, plaqué contre le mur. A un angle, appuie sur la même touche fléchée pour jeter un coup d'oeil.
+
+[WALL2]
+{You can hit the wall to lure hunters by pressing the Action button. To detach from the wall, press the Use button or Down on the keyboard.}
+Tu peux frapper le mur en appuyant sur la touche Action 1 pour distraire les chasseurs. Pour te décoller du mur, appuie sur la touche Utiliser ou la touche fléchée bas du clavier.
+
+[BRICK]
+{Bricks and all other lures are ~yellow~YELLOW ~colour~items and can be thrown to make noise and attract hunters.}
+Les briques et autres leurres sont des objets ~yellow~JAUNES~colour~ et peuvent être lancés pour faire du bruit et attirer les chasseurs.
+
+[BRICK1]
+{To throw the brick, hold down the Action button. The longer you hold, the further away the object will be thrown. When you release the Action button, you will throw the object.}
+Pour lancer la brique, maintiens la touche Action 1 enfoncée. Plus tu appuies longtemps, plus tu lances loin. Quand tu relâches la touche Action 1, tu lances l'objet.
+
+[BRICK2]
+{~yellow~Lures ~colour~cannot be used to execute hunters.}
+Les ~yellow~leurres ~colour~ne peuvent pas servir d'armes.
+
+[WBAT]
+{Big weapons like this Baseball Bat are ~red~RED ~colour~items. They are stronger, but not as fast as the lighter weapons.}
+Les armes encombrantes, comme cette batte de baseball, sont des objets ~red~ROUGES~colour~. Elles sont plus efficaces mais moins rapides que les armes légères.
+
+[DOR6A1]
+{You're doing great, kid. Grade A stuff.}
+Tu te débrouilles bien, gamin. Un vrai pro !
+
+[DOR6A2]
+{Now find your way to the cellar door.}
+Maintenant, trouve la porte du sous-sol.
+
+[MPG1]
+{Get ready, boys, he's coming...}
+Préparez-vous, les gars, il arrive !
+
+[MPG2]
+{Alright, get him out of here.}
+OK, sortez-le de là !
+
+[MPG3]
+{Oh shit!}
+Et merde !
+
+[EXIT]
+Director : Your doing real good Cash!, It's almost over. This is the entrance to the cellar find it.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

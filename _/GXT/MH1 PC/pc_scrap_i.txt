@@ -1,0 +1,171 @@
+﻿[NAIL]
+{When using guns, shoot by pressing the Action button.}
+Quando usi le pistole, spara premendo il tasto Azione.
+
+[NAIL2]
+{Press the Action2 button to zoom in on the closest hunter.}
+Premi il tasto Azione2 per zoomare verso i cacciatori.
+
+[NAIL0]
+{When wall-strafing you can aim at hunters around corners by holding the Action2 button.}
+Quando strisci contro un muro, puoi mirare i cacciatori oltre l'angolo tenendo premuto il tasto Azione2.
+
+[NAIL1]
+{Press the Reload button to reload your weapon.}
+Premi il tasto Ricarica per ricaricare l'arma.
+
+[NAIL4]
+{Press the Reload button to reload your weapon.}
+Premi il tasto Ricarica per ricaricare l'arma.
+
+[NAIL3]
+{Aim to the head if you can. Headshots do more damage and with firearms they can kill instantly.}
+Se ne hai la possibilità, mira alla testa. I colpi alla testa provocano maggiori danni e, se effettuati con armi da fuoco, uccidono istantaneamente.
+
+[PADLOCK]
+{You need something sharp to cut this rope.}
+Hai bisogno di qualcosa di affilato per tagliare la corda.
+
+[OPEN]
+{Kill that hunter to open this gate.}
+Uccidi il cacciatore per aprire questo cancello.
+
+[DRUM]
+{You can detonate these Gas Canisters by shooting them with the nailgun.}
+Puoi far detonare queste bombe fumogene sparandogli contro con la sparachiodi.
+
+[AMMOPK]
+{This is an ammo pick-up, you must have the desired weapon in your inventory to collect this.}
+Puoi raccogliere queste munizioni solo se hai l'arma adatta nel tuo inventario.
+
+[GOAL1]
+{Kill the hunter guarding the gate}
+Uccidi il cacciatore di guardia al cancello.
+
+[GOAL2]
+{Find something to cut the ~blue~rope ~colour~on the gate}
+Trova qualcosa per tagliare la ~blue~corda ~colour~sul cancello.
+
+[GOAL3]
+{Find a way into the trailer to get the nailgun}
+Entra nel rimorchio e recupera lo sparachiodi.
+
+[GOAL4]
+{Find and activate the switch to open the ~blue~gate}
+Trova e aziona l'interruttore per aprire il ~blue~cancello~colour~.
+
+[GOAL5]
+{Go back to the gate to get to the exit}
+Per raggiungere l'uscita, torna al cancello.
+
+[CRAP1]
+{I can smell it's putrid corruption}
+Questa è sporca corruzione.
+
+[CRAP2]
+{Hallelujah! Praise The Lord!}
+Alleluia! Sia lodato il cielo!
+
+[WHO1]
+{Hallelujah! There he is!}
+Alleluia! Eccolo!
+
+[WHO2]
+{Hallelujah! There he is!}
+Alleluia! Eccolo!
+
+[FILL1]
+{There he is! Sick deviant...}
+Eccolo! Maledetto pervertito...
+
+[FILL2]
+{The Lord hath delivered! Amen!}
+Riposi in pace! Amen!
+
+[SEEN1]
+{G-guys! I... I see him! He's here! Guys!}
+R...ragazzi! L...lo vedo! È qui! Ragazzi!
+
+[SEEN2]
+{Holy fuck - th - there he is! Hey he's over here!}
+Santo cielo... ec...eccolo! Ehi, è qui!
+
+[WHT1A1]
+{Ok, so I lied. We haven't quite wrapped this gig up, but hey}
+Ok, ho mentito. Non è ancora arrivato il momento di calare il sipario, ma...
+
+[WHT1A2]
+{you're having fun, right?!}
+...almeno ti stai divertendo, vero?
+
+[WHT1A3]
+{There's a double gate that leads on through to our next location - find it.}
+C'è un doppio cancello che porta al tuo prossimo set... trovalo.
+
+[WHT2A1]
+{Careful, there's a bigot guarding the gate. If he sees you he'll call his cheery buddies...}
+Fai attenzione, c'è un disgraziato di guardia al cancello. Se ti vede, chiamerà i suoi simpatici amici...
+
+[WHT3A1]
+{That's a pretty thick rope - you're gonna need a blade...}
+È una corda piuttosto spessa... ti servirà una lama...
+
+[WHT4A1]
+{You didn't think I'd let you out that easily did you? It's an electric lock}
+Pensavi che ti avrei lasciato andare così facilmente, vero? È una serratura elettronica.
+
+[WHT4A2]
+{Find the release switch.}
+Trova il comando di apertura.
+
+[WHT5A1]
+{Beautiful! That's his hunting days over!}
+Perfetto! Quel dannato cacciatore è passato a miglior vita!
+
+[WHT6A1]
+{There's a nailgun in that trailer - if you can stand the smell!}
+C'è una sparachiodi nel rimorchio, se riesci a sopportare il fetore!
+
+[WHT7A1]
+{He's got his hands full at the moment - go grab his nailgun...}
+In questo momento ha le mani occupate. Vai a prendere lo sparachiodi.
+
+[MPG1]
+{Ok, you limp-dicked faggots!}
+Luridi smidollati!
+
+[MPG2]
+{Let's give Mr. Starkweather a show to remember.}
+Prepariamo uno spettacolo indimenticabile per Mr. Starkweather!
+
+[MPG3]
+{MOVE IT!!}
+FORZA!!!
+
+[INTRO]
+Director : Find this gate, and get past it.
+
+[WATCH]
+Director : Watch out for this guy though, he'll call in back-up if he sees you.
+
+[START]
+Director : Your on the Skinz turf now Cash, these racist pricks hate everything, grab a weapon and find a way into the scrapyard.
+
+[GLASS]
+Hunter : Bastard, You made me shit my pants.
+
+[GATE]
+Spotter : I see him, I see him, calling in back-up.
+
+[EXIT]
+Director : Through that door is the way out, I've hidden a power switch to open it, find that switch.
+
+[DOPE]
+Director : If you could just find a way into the trailer and steal that nailgun....
+
+[HEAR]
+Hunter : Is that you guys out there?, comon I'm taking a crap in here.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

@@ -1,0 +1,124 @@
+﻿[SHOT]
+{You've been tranquilized, while in this state you won't be able to use the crowbar, wait until the effects have worn off.}
+Tu as reçu une dose de tranquillisant : tu peux même pas te servir du pied-de-biche. Attends que les effets s'estompent.
+
+[RIFLE]
+{Hold down the Action2 button to use the scope. You can zoom in and out using the movement buttons on the keyboard.}
+Maintiens la touche Action 2 enfoncée pour utiliser la lunette et zoome à l'aide des touches fléchées.
+
+[GOAL1]
+{Find a weapon and get past the ~blue~rope-tied ~colour~door}
+Trouve une arme et passe la porte ~blue~avec une corde~colour~.
+
+[GOAL2]
+{Get past the ~blue~padlocked ~colour~gate}
+Passe le portail ~blue~cadenassé~colour~.
+
+[GOAL3]
+{Find a way into the ~blue~restaurant ~colour~at the top of the zoo}
+Démerde-toi pour entrer dans le ~blue~restaurant ~colour~au-dessus du zoo.
+
+[GOAL4]
+{Go out the back of the restaurant to the ~blue~exit}
+Sors par ~blue~l'arrière ~colour~du restaurant.
+
+[GOAL5]
+{Make your way to the zoo pens}
+Va aux cages du zoo.
+
+[SOU1A1]
+{These pricks call themselves the Wardogs - real dickless gung-ho losers}
+Ces idiots se surnomment les Chiens de guerre: des têtes de pine en treillis!
+
+[SOU1A2]
+{You're gonna have to tool up if you're gonna make it - take it slow and see what you can take from these guys.}
+Il va falloir t'équiper pour t'en sortir. Prends ton temps et vois ce que tu peux récupérer sur ces gars.
+
+[SOU2A1]
+{There are some doors over the otherside of this location that will get your sorry hide out of here.}
+Y'a des portes à l'autre bout qui te permettront de te tirer d'ici.
+
+[SOU3A1]
+{Where did I hide that crowbar? Think, think, think!}
+Où est-ce que j'ai bien pu planquer ce pied-de-biche ?
+
+[SOU3A2]
+{Sorry Cash, this is a grizzly situation...}
+Désolé, Cash, c'est une situation grizzly-ante...
+
+[SOU4A1]
+{Oh hell, that wasn't in the script! Honest Cash, they're making it up as they're going along, I swear!}
+Ouh là ! C'était pas dans le script, ça ! Cash, je te jure ! Ils improvisent, je te le jure !
+
+[MPG1]
+{Give him the fucking food, enough bullshitting.}
+Arrête tes conneries, file-lui à bouffer !
+
+[MPG2]
+{Give him the fucking food!}
+File-lui juste de quoi grailler !
+
+[MPG3]
+{Ah fuck! This guy fucking stinks!}
+Putain, ça pue la mort, ici !
+
+[MPG4]
+{Just give him the fucking food and let's get the hell out of here.}
+Filez-lui sa putain de bouffe et foutons le camp d'ici !
+
+[MPG5]
+{Fall in and listen up!}
+Garde à vous ! On m'écoute !
+
+[MPG6]
+{At ease. It's time to get out there and nail that bastard!}
+Repos. C'est le moment d'aller choper cet enfoiré.
+
+[MPG7]
+{WARDOGS - YEEAH!}
+ALLEZ LES CHIENS DE GUERRE !
+
+[MPG8]
+{Ha Ha!}
+Ha ha !
+
+[OLD1]
+{Jesus Christ! Come on, give this stinking guy his food.}
+Putain, ce qu'il pue ! Vas-y, donne-lui sa bouffe ! Vite !
+
+[OLD2]
+{This ain't time for games.}
+C'est pas un jeu, je te signale.
+
+[OLD3]
+{Alright!}
+OK !
+
+[OLD4]
+{Just give it to him.}
+Donne-lui, qu'on en finisse !
+
+[INTRO]
+{Director : These pricks will kill you in a second if you're unarmed. Find an Executor and steal his weapon.}
+Director : These pricks will kill you in a second unarmed, find an executor, and steal his weapon.
+
+[PAD1]
+Director : Where could that crowbar be, maybe the bear took it.
+
+[TOP]
+Director : Lets see if you can figure this one out. Be careful Cash, some of these wardogs have tranquilizer rifles.
+
+[PAD]
+Director : Find these doors and get past them, you'll need to find a crowbar first!!
+
+[CHECK1]
+{Kill the two hunters to open this door.}
+Director : Kill those two pricks first, then I'll open this door.
+
+[CHECK2]
+{Kill the last hunter to open this door.}
+Director : Find and kill the last hunter and I'll open the door.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

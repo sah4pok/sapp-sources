@@ -1,0 +1,5 @@
+gxt -i "VC PC/american.txt" -o "VC PC/american.gxt" -t "tables/vc_sa_table.txt"
+gxt -i "VC PC/french.txt" -o "VC PC/french.gxt" -t "tables/vc_sa_table.txt"
+gxt -i "VC PC/german.txt" -o "VC PC/german.gxt" -t "tables/vc_sa_table.txt"
+gxt -i "VC PC/italian.txt" -o "VC PC/italian.gxt" -t "tables/vc_sa_table.txt"
+gxt -i "VC PC/spanish.txt" -o "VC PC/spanish.gxt" -t "tables/vc_sa_table.txt"

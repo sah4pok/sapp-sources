@@ -1,0 +1,207 @@
+﻿[GOD1]
+{Kill ~green~Ramirez~colour~ before he calls in back up!}
+¡Mata a ~green~Ramírez~colour~ antes de que pida refuerzos!
+
+[GOD2]
+{Make your way to the ~blue~gate~colour~!}
+¡Ábrete camino hasta la ~blue~puerta~colour~!
+
+[GOAL1]
+{Dispose of the three stalking hunters}
+Encárgate de los tres cazadores que están acechando.
+
+[GOAL2]
+{Get into the old apartment block and track down ~green~Ramirez~colour~}
+Ve al viejo bloque de apartamentos y atrapa a ~green~Ramírez~colour~.
+
+[GOAL3]
+{Kill ~green~Ramirez~colour~ before he calls in back up}
+Mata a ~green~Ramírez~colour~ antes de que pida refuerzos.
+
+[GOAL4]
+{Make your way to the ~blue~gate~colour~}
+Ábrete camino hasta la ~blue~puerta~colour~.
+
+[GOAL5]
+{Kill ~green~Ramirez~colour~}
+Mata a ~green~Ramírez~colour~
+
+[KILL1]
+{Get out there and bring me his fucking head!}
+¡Salid ahí y traedme su jodida cabeza!
+
+[KILL2]
+{He's making fools of us - get out there and find him!}
+Se está burlando de nosotros, ¡salid y encontradle!
+
+[KILL3]
+{First man brings me his severed dick gets ten thousand dollars!}
+¡El primero que me traiga su polla cortada, ganará diez mil dólares!
+
+[SRCH1]
+{Move it, you assholes, he's down there somewhere!}
+¡Moveos, gilipollas, está ahí abajo, en algún lugar!
+
+[SRCH2]
+{You inept motherfuckers! He's down there - Find him!}
+¡Seréis inútiles, panda de hijos de puta! Está ahí abajo, ¡encontradle!
+
+[SRCH3]
+{He's making fools of you all! Check the shadows!}
+¡Os está haciendo quedar como idiotas! ¡Mirad en las sombras!
+
+[SRCH4]
+{Put some fucking effort into it!}
+¡Tomáoslo en serio de una puta vez!
+
+[SRCH5]
+{Look harder, you spineless gimps!}
+Buscad mejor, ¡panda de huevones!
+
+[SRCH6]
+{He's laughing at you! Assholes!}
+¡Se está descojonando de vosotros! ¡Gilipollas!
+
+[SRCH7]
+{This isn't a game! Find him!}
+¡Esto no es un juego! ¡Encontradle!
+
+[SRCH8]
+{If you don't find him soon I'll shoot you myself!}
+¡Si no le encontráis pronto empezaré a disparos a vosotros!
+
+[SRCH9]
+{I swear I'll kill you all myself if you don't find that motherfucker soon!}
+¡Os juro que os mataré con mis propias manos si no encontráis a ese hijo de puta de una vez!
+
+[SRCH10]
+{He's here somewhere! Just flush him out so I can nail the bastard!}
+¡Está aquí, en algún lugar! ¡Haced que salga a la luz para que pueda acabar con el cabronazo!
+
+[MPG0]
+{Where do you think you're going, little man? Huh? Huh!}
+¿A dónde crees que vas, pequeñín?
+
+[MPG1]
+{You think you're tough?}
+¿Te crees muy duro?
+
+[MPG2]
+{Think you're tough?}
+¿Te crees un tipo duro?
+
+[MPG3]
+{I'll rip your fucking head off!}
+¡Te voy a arrancar la puta cabeza!
+
+[MPG4]
+{You like hide and seek? You like hide and fucking seek?}
+¿Te gusta el escondite? ¿Te gusta el jodido escondite?
+
+[MPG5]
+{Well we're coming for you, asshole.}
+Voy a por ti, gilipollas.
+
+[MPG6]
+{Get in, you idiot, GET IN!}
+Entra, imbécil, ¡ENTRA!
+
+[MPG7]
+{THERE HE IS!!}
+¡¡AHÍ ESTÁ!!
+
+[MPG8]
+{Pull over - PULL OVER!}
+A un lado, ¡A UN LADO!
+
+[MPG9]
+{Who are you - I've seen your face before!}
+¿Quién eres? ¡Reconozco esa cara!
+
+[MPG10]
+{Get offa me! I'm a reporter - I was at your execution!}
+¡Aléjate de mí! Soy una periodista, ¡estuve en tu ejecución!
+
+[MPG11]
+{Keep talking.}
+Sigue hablando.
+
+[MPG12]
+{I've been following Starkweather's little operation for months.}
+Llevo meses investigando la pequeña operación de Starkweather.
+
+[MPG13]
+{Who's Starkweather?}
+¿Quién es Starkweather?
+
+[MPG14]
+{The guy that's been talking you through this whole circus of death!}
+¡El que te ha estado hablando a lo largo de este circo mortal!
+
+[MPG15]
+{Look, I've got all I need to expose that sick bastard}
+Mira, tengo todo lo que necesito para descubrir a ese maldito enfermo,
+
+[MPG16]
+{But he's definitely onto me now, so I have to get back to my apartment}
+pero anda detrás de mí, así que tengo que volver a mi apartamento,
+
+[MPG17]
+{Collect my material and get out of town before I become another of Starkweather's 'extras'.}
+recoger el material y salir de la ciudad antes de que me convierta en otro de los "extras" de Starkweather.
+
+[MPG19]
+{You can bring him down, this Starkweather?}
+¿Puedes acabar con ese Starkweather?
+
+[MPG20]
+{Absolutely - this is gonna make my career.}
+Sin duda, es el reportaje de mi vida.
+
+[MPG21]
+{Ok, let's go.}
+Vale, vamos.
+
+[MPG22]
+{Huh?}
+¿Eh?
+
+[MPG23]
+{To your apartment – DRIVE!}
+A tu apartamento, ¡CONDUCE!
+
+[MPG24]
+{What the fuck?}
+¿Qué hostias?
+
+[MPG25]
+{Don't you want to play any more?}
+¿No quieres jugar más?
+
+[MPG26]
+{What's the matter, little boy?}
+¿Qué pasa contigo, chavalín?
+
+[MPG27]
+{It's our turn now! Run, RUN!}
+¡Es nuestro turno! ¡Corre! ¡CORRE!
+
+[MPG28]
+{Ready or not – HA HA!}
+Estés listo o no. ¡JA, JA!
+
+[RAMINTR]
+Ramirez: Flush that bitch-ass punk out! I'm da black Lee Harvey Oswald!
+
+[RAMKILL]
+Ramirez: He gives you any trouble, slice that punk into food for my bitch!
+
+[RAMGUN]
+Ramirez: Bitch! Unlock that bottom door! He gets to me, he really is a bad ass!
+
+[RAMHERE]
+Ramirez: How'd he get this far? I gotta do tha job myself!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

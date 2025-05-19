@@ -1,0 +1,127 @@
+﻿[GOAL1]
+{Kill Piggsy and find a way to reach Starkweather}
+Mata a Piggsy y encuentra una manera de llegar a Starkweather
+
+[GOAL2]
+{Take care of the Cerberus guards to enter Starkweather's room}
+Encárgate de los guardias de Cerberus para entrar en la habitación de Starkweather
+
+[GOAL3]
+{Kill Starkweather}
+Mata a Starkweather
+
+[GOD]
+{The chainsaw makes noise when its engine is running. Turn it OFF with the Action2 button.}
+Cuando está en marcha, la motosierra hace ruido. Apágala con el botón Acción2.
+
+[SICK1]
+{Hurt…huuurrrrttt!}
+Duele ... ¡duele !
+
+[SICK2]
+{No more. Noo moooorre!!}
+No más. ¡¡¡Nooo mássss!!
+
+[SICK3]
+{Going home, hoooooome!}
+¡Ir a casa, a caaasaaa!
+
+[AWAY1]
+{Go! Away! Go!}
+¡Vete! ¡Fuera! ¡Veteee!
+
+[AWAY2]
+{Not playing! Not funny!}
+¡No juego! ¡No divertido!
+
+[AWAY3]
+{Stop! Not fair! Stop!}
+¡Parar! ¡No justo! ¡Parar!
+
+[ANGRY1]
+{Piggsy angry! Aarrgghhnngry!}
+¡Piggsy hambriento! ¡Haaaaambreeee!
+
+[ANGRY2]
+{Rraarggh! Piggsy gonna suck your guts!}
+¡Rrarrrgh! ¡Piggsy se comerá tus tripas!
+
+[ANGRY3]
+{This Piggsy's home! Raaarrghh!!!}
+¡Éste es hogar de Piggsy! ¡¡¡Raaarrrgh!!!
+
+[HOME1]
+{Piggsy forget why here...}
+Piggsy ha olvidado porqué está aquí...
+
+[HOME2]
+{Piggsy bored. Go home to bed and sleep...}
+Piggsy aburrido. Irá a casa a dormir en la cama...
+
+[HOME3]
+{Piggsy not play no more. Piggsy go hoome...}
+Piggsy no jugar más. Piggsy irá a casa...
+
+[LIFT1]
+{Starkweather said no unexpected visitors.}
+Starkweather dijo que no quería visitantes que no esperara.
+
+[STORM1]
+{Fuck this, I'm going in!!!!}
+¡Que le jodan! ¡¡¡Voy a entrar!!!
+
+[STORM2]
+{I'm coming in there to fuck you up!!!}
+¡¡¡Voy a entrar a joderte bien jodido!!!
+
+[STORM3]
+{Who dares, wins - rraagghh!!!}
+Quien la sigue, la consigue... ¡¡¡Raaaargh!!!
+
+[DIR]
+{Send him to hell! Go on!}
+¡Vamos! !Mandadlo al infierno!
+
+[MPG1]
+{Acclaimed movie maker Lionel Starkweather has been found dead today}
+El aclamado cineasta Lionel Starkweather ha sido encontrado muerto hoy
+
+[MPG2]
+{along with several of his bodyguards, at his estate at the Wapona Hills residential district.}
+Junto con varios de sus guardaespaldas en su propiedad del distrito residencial de Wapona Hills.
+
+[MPG3]
+{In what investigators are calling a bloody vendetta,}
+En lo que los investigadores definen como una sangrienta venganza,
+
+[MPG4]
+{An unknown assailant infiltrated the compound, killing Starkweather,}
+Un asaltante desconocido se infiltró en el complejo, matando a Starkweather
+
+[MPG5]
+{but more interestingly, leading police to the site of a snuff film ring being run from the estate's confines.}
+y, lo más interesante de todo, llevando a la policía hasta un lugar donde operaba una red de películas "snuff", dentro de la finca.
+
+[MPG6]
+{Linked to this ring is Carcer City's own police chief Gary Schaffer,}
+El jefe de policía de la ciudad de Carcer, Gary Schaffer, se ha visto relacionado con esta red.
+
+[MPG7]
+{whose lawyer stated that he intends to plead not guilty.}
+y su abogado ha anunciado que pretende declararse no culpable.
+
+[MPG8]
+{Hello Kiddies...}
+Hola, chavales...
+
+[MPG9]
+{Pigsy ANGRY! Unh! Pigsy Angry!}
+¡Piggsy enfadado! ¡Uh! ¡Piggsy enfadado!
+
+[MPG10]
+{Ahhh! Yeah! Pigsy Angry!}
+¡Aahh! ¡Sí! Piggsy enfadado!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

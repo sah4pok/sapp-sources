@@ -1,0 +1,88 @@
+﻿[GAMEGOD]
+{To jump from roof to roof and over big gaps, run as fast as you can towards the edge and the player will jump automatically.}
+Um von Dach zu Dach oder über weite Lücken zu springen, musst du so schnell du kannst auf den Rand zulaufen, dann springt die Figur automatisch.
+
+[HAMMER]
+{To open this door you need to find something to rip off its lock.}
+Um diese Tür zu öffnen, musst du etwas finden, mit dem du das Schloss abreißen kannst.
+
+[HIDE]
+{Watch out for hunters hiding in the shadows. They will not appear on the radar until you spot them.}
+Sei vorsichtig, im Schatten verstecken sich Jäger. Sie sind auf dem Radar erst dann zu erkennen, wenn du sie entdeckst.
+
+[GOAL1]
+{Kill all the Hoods before the time runs out}
+Töte alle Hoods, bevor die Zeit um ist.
+
+[GOAL2]
+{Make your way to the exit gates}
+Kämpfe dich zu den Ausgangstoren durch.
+
+[W_CLEAN]
+{You have cleared the WAREHOUSE of all the Hoods}
+Du hast alle Hoods im LAGERHAUS getötet.
+
+[RS_FULL]
+{There are still hunters hiding away in the ROOFTOPS and in the ALLEYS}
+Auf den DÄCHERN und in den GASSEN sind immer noch Jäger versteckt.
+
+[W_FULL]
+{Remember to finish the Hoods hiding in the WAREHOUSE}
+Vergiss nicht, die Hoods im LAGERHAUS auszuschalten.
+
+[R_CLEAN]
+{You have cleared the ROOFTOPS of all the Hoods}
+Du hast alle Hoods auf den DÄCHERN getötet.
+
+[R_FULL]
+{Remember to finish the Hoods hiding on the ROOFTOPS}
+Vergiss nicht, die Hoods auf den DÄCHERN auszuschalten.
+
+[WS_FULL]
+{There are still hunters hiding away in the WAREHOUSE and in the ALLEYS}
+Im LAGERHAUS und in den GASSEN sind immer noch Jäger versteckt.
+
+[S_CLEAN]
+{You have cleared the ALLEYS of all the Hoods}
+Du hast alle Hoods in den GASSEN getötet.
+
+[S_FULL]
+{Remember to finish the Hoods hiding in the ALLEYS}
+Vergiss nicht, die Hoods in den GASSEN auszuschalten.
+
+[RW_FULL]
+{There are still hunters hiding away on the ROOFTOPS and in the WAREHOUSE}
+Auf den DÄCHERN und im LAGERHAUS sind immer noch Jäger versteckt.
+
+[MUR1A1]
+{Cash, baby, you're scaring the shit out of these Hoods. They're trying to bug out!}
+Cash, mein Freund, du jagst diesen Hoods eine Heidenangst ein. Sie wollen abhauen!
+
+[MUR1A2]
+{I can see their van coming, should be here in ten minutes or so.}
+Ich sehe ihren Bus. Er müsste in etwa zehn Minuten hier sein.
+
+[MUR1A3]
+{Fucking low-life cowards... Do me a favour, kill every last one of them!}
+Diese miesen, kleinen Feiglinge ... Tu mir einen Gefallen und bring sie um, und zwar jeden einzelnen!
+
+[MUR2A1]
+{Well that's it! That wasn't too bad, was it? Head on over to that gate and I'll let you out…}
+Tja, das war's! Gar nicht übel, oder? Geh jetzt zum Tor, dann lasse ich dich raus.
+
+[MUR3A1]
+{Oh, for christ's sake, Cash, you blew it! It's the cutting room floor for you!}
+Oh, Teufel noch mal, Cash, du hast Mist gebaut! Jetzt musst du in den Schneideraum.
+
+[START01]
+Cash, my man, you scared the shit out of the HOODS. They dont want to play with us anymore.
+
+[START02]
+It will take 10 minutes for their VAN to arrive. Do me a favour and kill EVERYONE, Ok?
+
+[END]
+Well done Cash, the Hoods have been wiped out and the gates are open. Make your way towards them and Ill let you go.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

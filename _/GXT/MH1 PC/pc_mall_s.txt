@@ -1,0 +1,180 @@
+﻿[COVER]
+{Certain objects can be used to wall-strafe against. Press the Use button when near a wall or object to wall-strafe.}
+Algunos objetos pueden usarse para moverse pegado a ellos. Pulsa el botón Usar cuando estés cerca de una pared o un objeto para moverte pegado a la superficie.
+
+[SHOOT]
+{While in wall-strafe mode press the Action2 button to aim over the object or to the side.}
+Mientras estés en modo de movimiento pegado a la pared, pulsa el Acción2 para apuntar al objeto o a un lado.
+
+[LOCK]
+{This door wont budge, try shooting off the lock.}
+Esta puerta no va a ceder, prueba a volar la cerradura de un disparo.
+
+[BAR]
+{Go to the basement in the bar.}
+Ve al sótano del bar.
+
+[GOAL1]
+{Get your hands on a gun}
+Consigue un arma
+
+[GOAL2]
+{Find the video tape}
+Encuentra la cinta de vídeo
+
+[GOAL3]
+{Find the video camera}
+Encuentra la cámara de vídeo
+
+[GOAL4]
+{Go watch the video on the bar TV}
+Ve a ver el vídeo en la tele del bar
+
+[GOAL5]
+{Go to the bar basement and turn on the power}
+Ve al sótano del bar y conecta la electricidad
+
+[FAL1A1]
+{So, how are we doing, Cash? Enjoying it so far?}
+¿Qué tal vamos, Cash? ¿Te diviertes?
+
+[FAL1A2]
+{I thought you could do with a little R&R, so I've arranged a special}
+Creí que podrías tomarte un descanso, así que he preparado una proyección
+
+[FAL1A3]
+{screening... just for you...}
+especial... solo para ti...
+
+[FAL1A4]
+{It's work in progress, but I think you'll appreciate it.}
+Es un trabajo no terminado, pero creo que sabrás apreciarlo.
+
+[FAL13A1]
+{I've hidden the tape and a video camera in the Mall. Find them.}
+He escondido la cinta y una videocámara en el centro comercial. Encuéntralos.
+
+[FAL2A1]
+{By the way, these guys are packing heat, so you might want to find a gun for yourself.}
+A todo esto, estos tíos van armados, así que seguramente querrás conseguir un arma para ti.
+
+[FAL3A1]
+{Ok, we're cooking with gas now! Go find that tape!}
+Anda, ¡ahora sí que nos entendemos! ¡Ve a encontrar la cinta!
+
+[FAL4A1]
+{Now all you need is the camera.}
+Ahora todo lo que necesitas es la cámara.
+
+[FAL5A1]
+{Aw hell, that's the camera with the broken screen! I told those guys...}
+Maldición, ¡la cámara tiene la pantalla rota! Les dije a esos tíos...
+
+[FAL5A2]
+{No problem, there's a TV in a bar somewhere around here.}
+No pasa nada, hay una tele en un bar, en algún lugar por aquí cerca.
+
+[FAL6A1]
+{Does nothing fucking work round here?}
+¿Pero es que nada funciona por aquí, coño?
+
+[FAL7A1]
+{You're gonna have to see if you can turn on the power in the basement.}
+Tendrás que ir a ver si puedes conectar la electricidad en el sótano.
+
+[FAL8A1]
+{Beautifully done, Cash, now just toddle back up to the bar and enjoy the show.}
+¡Muy bien hecho, Cash, ahora solo tienes que volver al bar y disfrutar del espectáculo!
+
+[FAL9A1]
+{You must understand, Cash, I could never have let them go.}
+Debes entenderlo, Cash, no habría podido dejarles marchar.
+
+[FAL10A1]
+{You must understand, Cash, I could never have let him go.}
+Debes entenderlo, Cash, no habría podido dejarle marchar.
+
+[FAL11A1]
+{You must understand, Cash, I could never have let her go.}
+Debes entenderlo, Cash, no habría podido dejarla marchar.
+
+[FAL12A1]
+{Where were your family when you were facing your final moments in the chamber anyway?}
+De todas maneras, ¡¿dónde estaba tu familia cuando estabas afrontando tu destino en la cámara?!
+
+[FAL12A2]
+{And what gratitude did they show you when you saved them from those gung-ho assholes, eh?}
+¿Y estuvieron agradecidos cuando los salvaste de esos estúpidos matones, eh?
+
+[FAL12A3]
+{You've left your old life, your old self, behind.}
+Has dejado atrás tu antigua vida, has dejado atrás tu antiguo yo.
+
+[FAL12A4]
+{I'm all the family you need now.}
+Ahora, yo soy toda la familia que necesitas.
+
+[MPG1]
+{You! Get out to the graveyard!}
+¡Tú! ¡Sal del cementerio!
+
+[MPG2]
+{You and you! I want you up there!}
+¡Tú y tú! ¡Os quiero allí!
+
+[MPG3]
+{And I want you to follow him over to the Mall...}
+Y quiero que le sigáis hasta el centro comercial...
+
+[MPG4]
+{NOW FUCKING MOVE!!}
+¡¡AHORA MUÉVETE DE UNA JODIDA VEZ!
+
+[MPG5]
+¡Mierda! Hijo de perra.
+
+[ENT1]
+So, how are we doing, Cash? enjoying it so far?
+
+[ENT2]
+I thought you could do with a little R & R, so I've arranged a special screening just for you.
+
+[ENT3]
+It's a work in progress, but I think you'll appreciate it.
+
+[ENT4]
+I've hidden the tape and a video camera in the mall, find them
+
+[GUN]
+By the way, these guys are packing heat, so you might want to find a gun yourself, before you venture too far...
+
+[CAMVHS]
+Ok, we're cooking with gas now! go and find that tape!
+
+[GTAPE]
+Now all you need is the camera...
+
+[GBOTH]
+Aw hell, that's the camera with the broken screen! I told those guys...
+
+[GBOTH2]
+Not a problem, there's a TV in a bar around here someplace
+
+[INBAR]
+Does nothing fucking work around here?
+
+[CELLAR]
+You're gonna have to see if you can turn the power on in the basement.
+
+[ENDTHEM]
+You must understand, Cash, I could never have let them go.
+
+[ENDHIM]
+You must understand, Cash, I could never have let him go.
+
+[ENDHER]
+You must understand, Cash, I could never have let her go.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

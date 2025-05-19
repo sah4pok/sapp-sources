@@ -1,0 +1,86 @@
+﻿[JUMP]
+{When you fall from a height you will make noise that attracts hunters.}
+Wenn du irgendwo runterfällst, machst du Lärm und lockst die Jäger damit an.
+
+[TRASH]
+{Press the Use button to kick this trashcan and use it as a lure for hunters.}
+Mit der Benutzen-Taste kannst du den Mülleimer umtreten und als Köder für die Jäger benutzen.
+
+[WALL]
+{To strafe against a wall, position the character against it and press the Use button.}
+Um an einer Mauer entlang zu schleichen, musst du deine Spielfigur zur Mauer drehen und die Benutzen-Taste drücken.
+
+[WALL1]
+{Then press Left or Right on the keyboard to slide against the wall. Reach a corner and continue to press the button in the same direction to lean out and peek.}
+Drücke auf der Tastatur links oder rechts, um dich nach links oder rechts zu bewegen. Wenn du an einer Ecke die Taste weiterhin in die gleiche Richtung drückst, kannst du um die Ecke spähen.
+
+[WALL2]
+{You can hit the wall to lure hunters by pressing the Action button. To detach from the wall, press the Use button or Down on the keyboard.}
+Um die Jäger anzulocken, kannst du gegen eine Mauer schlagen, indem du die Aktionstaste drückst. Um dich von der Mauer zu lösen, drücke die Benutzen-Taste oder runter auf der Tastatur.
+
+[BRICK]
+{Bricks and all other lures are ~yellow~YELLOW ~colour~items and can be thrown to make noise and attract hunters.}
+Ziegelsteine und alle anderen Köder sind ~yellow~GELBE Gegenstände~colour~ und können geworfen werden, um Lärm zu machen und Jäger anzulocken.
+
+[BRICK1]
+{To throw the brick, hold down the Action button. The longer you hold, the further away the object will be thrown. When you release the Action button, you will throw the object.}
+Um den Ziegelstein zu werfen, halte die Aktionstaste gedrückt. Je länger du sie gedrückt hältst, desto weiter fliegt das Objekt. Wenn du die Aktionstaste loslässt, wirfst du das Objekt.
+
+[BRICK2]
+{~yellow~Lures ~colour~cannot be used to execute hunters.}
+Mit ~yellow~Ködern ~colour~können keine Jäger getötet werden.
+
+[WBAT]
+{Big weapons like this Baseball Bat are ~red~RED ~colour~items. They are stronger, but not as fast as the lighter weapons.}
+Große Waffen wie der Baseballschläger sind ~red~ROTE ~colour~Gegenstände. Sie sind stärker, aber nicht so schnell wie die leichteren Waffen.
+
+[GOAL1]
+{Make your way to the abandoned library}
+Schlage dich zur verlassenen Bibliothek durch.
+
+[GOAL2]
+{Find a way into the library cellar}
+Finde einen Weg in den Keller der Bibliothek.
+
+[GOAL3]
+{Get through the cellar to the exit out the back}
+Geh durch den Keller zum Ausgang an der Rückseite.
+
+[GOAL4]
+{Win the fight in the cellar}
+Gewinne den Kampf im Keller.
+
+[GOAL5]
+{Head through the buildings to get to the library}
+Durchquere die Gebäude, um zur Bibliothek zu gelangen.
+
+[GOAL6]
+{Go through the cellar to the exit}
+Gehe durch den Keller zum Ausgang.
+
+[DOR6A1]
+{You're doing great, kid. Grade A stuff.}
+Das machst du gut, Kleiner. 1 A.
+
+[DOR6A2]
+{Now find your way to the cellar door.}
+Such dir jetzt einen Weg zur Kellertür.
+
+[MPG1]
+{Get ready, boys, he's coming...}
+Macht euch bereit, Jungs, er kommt ...
+
+[MPG2]
+{Alright, get him out of here.}
+In Ordnung, schafft ihn hier raus.
+
+[MPG3]
+{Oh shit!}
+Oh Scheiße!
+
+[EXIT]
+Director : Your doing real good Cash!, It's almost over. This is the entrance to the cellar find it.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

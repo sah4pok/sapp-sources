@@ -1,0 +1,16 @@
+ROTAT1 Rotation On
+ROTAT0 Rotation Off
+CSMODES Select mode
+CSDFMOD All vehicles
+BOATS Boats
+CARS Cars
+HELIS Helis
+MOTOCYC Motorcycles
+BICYCLE Bicycles
+TRAILS Trailers
+PLANES Planes
+QUADS Quads
+TRUTRAI Trucks with trailer
+TRAINS Trains
+CSPAWN Car Spawner
+CSBOX Use UP and DOWN to select an area.~N~~k~~PED_SPRINT~ Select~N~~k~~VEHICLE_ENTER_EXIT~ Quit

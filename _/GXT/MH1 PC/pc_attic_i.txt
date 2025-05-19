@@ -1,0 +1,127 @@
+﻿[GOAL1]
+{Kill Piggsy and find a way to reach Starkweather}
+Uccidi Piggsy e trova un modo per raggiungere Starkweather.
+
+[GOAL2]
+{Take care of the Cerberus guards to enter Starkweather's room}
+Occupati delle guardie Cerberus per accedere alla camera di Starkweather.
+
+[GOAL3]
+{Kill Starkweather}
+Uccidi Starkweather.
+
+[GOD]
+{The chainsaw makes noise when its engine is running. Turn it OFF with the Action2 button.}
+La sega elettrica fa rumore, se accesa. Per spegnerla, premi il tasto Azione2.
+
+[SICK1]
+{Hurt…huuurrrrttt!}
+Fa male... fa maaaaaaaale!
+
+[SICK2]
+{No more. Noo moooorre!!}
+Basta. Baaaaasta!!!
+
+[SICK3]
+{Going home, hoooooome!}
+Voglio andare a casa, a caaaaaaaaaasa!
+
+[AWAY1]
+{Go! Away! Go!}
+Via! Vattene! Vai via!
+
+[AWAY2]
+{Not playing! Not funny!}
+Non volere giocare! Non divertente!
+
+[AWAY3]
+{Stop! Not fair! Stop!}
+Fermati! Non è giusto! Fermati!
+
+[ANGRY1]
+{Piggsy angry! Aarrgghhnngry!}
+Piggsy arrabbiato! Aarrgghhnngry!
+
+[ANGRY2]
+{Rraarggh! Piggsy gonna suck your guts!}
+Rraarggh! Piggsy strapperà a te budella!
+
+[ANGRY3]
+{This Piggsy's home! Raaarrghh!!!}
+Ecco casa di Piggsy. Raaarrghh!!!
+
+[DIR]
+{Send him to hell! Go on!}
+Forza! Speditelo all'inferno!
+
+[HOME1]
+{Piggsy forget why here...}
+Piggsy dimenticato perché qui...
+
+[HOME2]
+{Piggsy bored. Go home to bed and sleep...}
+Piggsy annoiato. Andare casa a dormire...
+
+[HOME3]
+{Piggsy not play no more. Piggsy go hoome...}
+Piggsy non volere più giocare. Piggsy andare caasa...
+
+[LIFT1]
+{Starkweather said no unexpected visitors.}
+Starkweather ha detto che non vuole intrusi.
+
+[STORM1]
+{Fuck this, I'm going in!!!!}
+Al diavolo, io entro!!!
+
+[STORM2]
+{I'm coming in there to fuck you up!!!}
+Sto entrando per fotterti!!!
+
+[STORM3]
+{Who dares, wins - rraagghh!!!}
+Chi osa vince! Rraagghh!!!
+
+[MPG1]
+{Acclaimed movie maker Lionel Starkweather has been found dead today}
+Oggi, il noto produttore cinematografico Lionel Starkweather è stato trovato morto
+
+[MPG2]
+{along with several of his bodyguards, at his estate at the Wapona Hills residential district.}
+insieme a molte delle sue guardie del corpo nella sua tenuta nella zona residenziale di Wapona Hills.
+
+[MPG3]
+{In what investigators are calling a bloody vendetta,}
+In quella che gli investigatori chiamano "una sanguinosa vendetta",
+
+[MPG4]
+{An unknown assailant infiltrated the compound, killing Starkweather,}
+uno sconosciuto aggressore si è infiltrato nella proprietà, massacrando Starkweather e,
+
+[MPG5]
+{but more interestingly, leading police to the site of a snuff film ring being run from the estate's confines.}
+cosa ancora più interessante, conducendo la polizia sul set di un brutale filmino snuff, all'interno della tenuta stessa.
+
+[MPG6]
+{Linked to this ring is Carcer City's own police chief Gary Schaffer,}
+Sono emersi collegamenti con il capo della polizia di Carcer City, Gary Schaffer,
+
+[MPG7]
+{whose lawyer stated that he intends to plead not guilty.}
+anche se il suo avvocato intende dichiararlo non colpevole.
+
+[MPG8]
+{Hello Kiddies...}
+Ciao belli...
+
+[MPG9]
+{Pigsy ANGRY! Unh! Pigsy Angry!}
+Piggsy FAME! Uhh! Piggsy fame!
+
+[MPG10]
+{Ahhh! Yeah! Pigsy Angry!}
+Ahhh! Yesh! Piggsy fame!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

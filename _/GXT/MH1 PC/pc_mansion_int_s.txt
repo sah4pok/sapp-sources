@@ -1,0 +1,208 @@
+﻿[KEY]
+{You have collected the ELEVATOR KEY.}
+Has conseguido la LLAVE DEL ASCENSOR
+
+[KEY2]
+{The Cerberus Leader has dropped the ~green~ELEVATOR KEY~colour~, go and get it!}
+El líder de Cerberus ha dejado caer la ~green~LLAVE DEL ASCENSOR~colour~, ¡ve a cogerla!
+
+[CAMERA]
+{You have been spotted by a SECURITY CAMERA - The guards will know your position now.}
+Una CÁMARA DE SEGURIDAD te ha localizado, ahora los guardias sabrán dónde estás.
+
+[CAMERA2]
+{Watch out for SECURITY CAMERAS. The Cerberus guards use them to know where you are.}
+Cuidado con las CÁMARAS DE SEGURIDAD. Los guardias de Cerberus las usan para saber dónde estás.
+
+[LIFT]
+{The ELEVATOR is now operational again.}
+El ASCENSOR vuelve a funcionar
+
+[GOD1]
+{You cannot use the elevator yet. You don't have the KEY and the POWER is still off.}
+Todavía no puedes usar el ascensor. No tienes la LLAVE y todavía no hay ENERGÍA.
+
+[GOD2]
+{You cannot use the elevator yet. You don't have the KEY.}
+Todavía no puedes usar el ascensor. No tienes la LLAVE.
+
+[GOD3]
+{You cannot use the elevator yet. The POWER is still off.}
+Todavía no puedes usar el ascensor. Todavía no hay ENERGÍA.
+
+[GOAL1]
+{Find the ~green~LEADER~colour~ of the Cerberus team and acquire the ELEVATOR KEY}
+Encuentra al ~green~LÍDER~colour~ del equipo Cerberus y consigue la LLAVE DEL ASCENSOR
+
+[GOAL2]
+{Reach the ~blue~basement~colour~ in the west wing and turn Starkweather's ELEVATOR back on}
+Llega hasta el ~blue~sótano~colour~ del ala oeste y conecta el ASCENSOR de Starkweather
+
+[GOAL3]
+{Use the ELEVATOR to reach Starkweather}
+Utiliza el ASCENSOR para llegar hasta Starweather
+
+[SUPRT1]
+{Copy that request for support! Hang in there guys, help is coming!}
+¡Recibida la petición de refuerzos! Aguantad, muchachos, ¡la ayuda va para allá!
+
+[SUPRT2]
+{Roger that! Reinforcements are on their way!}
+¡Recibido! ¡Los refuerzos van en camino!
+
+[SUPRT3]
+{Wilco, should be with you guys ASAP!}
+¡Oído! ¡Deberían estar con vosotros lo antes posible!
+
+[CNV1_1]
+{Sir, one of the men is not responding. We have to move you somewhere more secure.}
+Señor, uno de los hombres no responde. Tenemos que llevarle a un sitio más seguro.
+
+[CNV1_2]
+{I want that asshole's head on a spike, sergeant!}
+¡Sargento, quiero la cabeza de ese cabrón en una pica!
+
+[CNV1_3]
+{It will be a pleasure, sir! Escort him upstairs.}
+¡Será un placer, señor! Escoltadle arriba.
+
+[CNV2_1]
+{How did that psycho bastard get past the perimeter guards?}
+¿Cómo ha conseguido ese psicópata cabrón superar el perímetro de guardia.
+
+[CNV2_2]
+{Cash has already neutralised two of our snipers, sir. We should assume he is armed.}
+Cash ha neutralizado a dos de nuestros francotiradores, señor. Debemos suponer que va a armado.
+
+[CNV2_3]
+{Leave two of your best men in the basement, I don't want any more surprises.}
+Deja dos de tus mejores hombres en el sótano, no quiero más sorpresas.
+
+[CNV2_4]
+{Already taken care of, sir. All the men are ready.}
+Ya me he encargado de eso, señor. Todos los hombres están preparados.
+
+[CNV2_5]
+{I have instructed them to equip themselves from the armoury.}
+Les he ordenado que se equipen en el arsenal.
+
+[CNV2_6]
+{Very well. Any sign of him on the security cameras?}
+Muy bien. ¿Alguna señal suya en las cámaras de seguridad?
+
+[CNV2_7]
+{No sir, but if he gets anywhere near that elevator we will be right on him.}
+No, señor, pero si se acerca al ascensor, le cogeremos.
+
+[LIFT1]
+{Shut the lift down, Starkweather said no unexpected visitors.}
+Desconecta el ascensor, Starkweather dijo que no quería visitantes que no esperara.
+
+[LIFT2]
+{Roger.}
+Recibido.
+
+[GUN1]
+{Target is armed! Keep him confined!}
+¡El objetivo está armado! ¡Mantenedlo controlado!
+
+[NOGUN1]
+{Target is not armed! Flush him so we can take him out!}
+¡El objetivo no va armado! ¡Haced que salga para que nos podamos encargar de él!
+
+[HEAVY1]
+{What the? -oh shit!!!}
+Pero ¿qué? Oh, ¡¡¡mierda!!!
+
+[HEAVY2]
+{Holy fuck! He's packing heavy!}
+¡Coño! ¡Va bien armado!
+
+[HEAVY3]
+{Take cover, he means business!}
+¡Cubríos, va en serio!
+
+[STORM1]
+{Fuck this, I'm going in!!!!}
+Que le jodan, ¡¡¡¡voy a entrar!!!!
+
+[STORM2]
+{I'm coming in there to fuck you up!!!}
+¡¡¡Voy a entrar para joderte vivo!!!
+
+[STORM3]
+{Who dares, wins - rraagghh!!!}
+Quien la sigue, la consigue. ¡¡¡Rraaggghhh!!!
+
+[MPG1]
+{Have you locked the elevator?}
+¿Has cerrado tú el ascensor?
+
+[MPG2]
+{Nobody gets anywhere near Starkweather. Give me the key.}
+Nadie debe acercarse a Starkweather. Dame la llave.
+
+[MPG3]
+{Yes sir.}
+Sí, señor.
+
+[MPG4]
+{I want you to go down to the basement and turn off the motor.}
+Quiero que bajes al sótano y apagues el motor.
+
+[MPG5]
+{We can't be safe with these two bastards running around.}
+No podemos estar muy seguros con esos dos bastardos por ahí.
+
+[MPG6]
+{We're on it, sir.}
+Estamos en ello, señor.
+
+[GEN]
+RADIO VOICE: We have reported casualties! Hang tough guys, reinforcements on their way!
+
+[CERB1]
+GUARD: Shut the lift down, Strarkweather said no unexpected visitors.
+
+[CERB2]
+GUARD: Roger. (Pulls lever).
+
+[CERB3]
+GUARD: Sir, One of the men is not responding. We have to take you somewhere more secure.
+
+[CHF1]
+CHIEF: Order the men to shoot at anything that moves.
+
+[CERB4]
+GUARD: Consider it done, sir. Escort him upstairs.
+
+[CHF2]
+CHIEF: How did that bastard get past the perimeter guards?
+
+[CERB5]
+GUARD: He has killed two of our snipers, sir. We should assume he is armed.
+
+[CHF3]
+CHIEF: I want his head on a silver plate, seargent!
+
+[CERB6]
+GUARD: All men are ready, I have instructed them to equip themselves from the armoury.
+
+[CHF4]
+CHIEF: Very well. Any sign of him in the security cameras?
+
+[CERB7]
+GUARD: No sir, but if he gets anywhere near that elevator we will be right on him
+
+[CHF5]
+CHIEF: Leave two of your best men in the basement, I don't want more surprise.
+
+[CERB8]
+GUARD: This has been already taken care of, sir.
+
+[BAS1]
+GUARD: OH SHIT!!!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

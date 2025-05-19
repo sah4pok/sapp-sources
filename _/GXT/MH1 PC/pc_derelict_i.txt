@@ -1,0 +1,140 @@
+﻿[GOAL1]
+{Get to the street}
+Raggiungi la strada.
+
+[GOAL2]
+{Find something to break the ~blue~PADLOCK~colour~}
+Trova qualcosa per forzare il ~blue~LUCCHETTO~colour~.
+
+[GOAL3]
+{Use the CROWBAR to break the ~blue~PADLOCK~colour~}
+Usa il PIEDE DI PORCO per forzare il ~blue~LUCCHETTO~colour~.
+
+[GOAL4]
+{Win the fight in the cellar}
+Vinci il combattimento nella cantina.
+
+[GOAL5]
+{Head through the buildings to get to the library}
+Attraversa gli edifici per raggiungere la libreria.
+
+[GOAL6]
+{Go through the cellar to the exit}
+Per uscire, passa per la cantina.
+
+[BLUE]
+{One handed weapons like the Bat are ~blue~Blue ~colour~Objects. They are not lost after use but make noise during executions.}
+Le armi a una sola mano, come la mazza, sono oggetti di colore ~blue~blu~colour~. Non vengono perse dopo averle usate, ma fanno rumore durante le esecuzioni.
+
+[SWAP]
+{You can select individual weapons using the four Inventory Item buttons, or cycle through them with the Inventory button.}
+Puoi selezionare un'arma utilizzando i quattro tasti Oggetto Inventario, o alternarle utilizzando il tasto Inventario.
+
+[GRAVE]
+{Walking on gravel will make noise that attracts the hunters.}
+Muoversi sulla ghiaia farà rumore e attirerà i cacciatori.
+
+[BREAK]
+{Special Windows like this one can be smashed. They will create a glass shard for you to collect.}
+Finestre speciali come questa possono essere infrante... Produrranno un frammento di vetro che potrai raccogliere.
+
+[LOOK]
+{Hold down the First Person button to view your surroundings. You can use this to spot hunters at a distance.}
+Tieni premuto il tasto Prima Persona per guardarti intorno. Puoi usare questa funzione per individuare i cacciatori a distanza.
+
+[WBAT]
+{Big weapons like this Baseball Bat are ~red~RED ~colour~items. They are stronger, but not as fast as the lighter weapons.}
+Le armi pesanti, come la mazza da baseball, sono oggetti di colore ~red~rosso~colour~. Sono più potenti, ma meno veloci delle armi leggere.
+
+[START0]
+{You can look behind you by pressing down the Look Back button.}
+Puoi guardarti alle spalle premendo il tasto Guarda Dietro.
+
+[START2]
+~!~
+
+[START1]
+~!~
+
+[SMASH]
+{Select the crowbar then press the Use button to break the padlock.}
+Seleziona il piede di porco e premi il tasto Usa per rompere il lucchetto.
+
+[GRAB]
+{Press the Action and the Action2 buttons together to grapple. Time the attack right and you can chain 3 hits together.}
+Premi contemporaneamente i tasti Azione e Azione 2 per una presa. Scegli il momento giusto per attaccare e potrai inanellare tre colpi consecutivi.
+
+[GRAB2]
+{To break free from a hunter's grapple press the Action button repeatedly.}
+Per liberarti dalla presa di un cacciatore, premi il tasto Azione ripetutamente.
+
+[BAT]
+{The bigger weapons are stronger but not as fast as the lighter weapons like the crowbar.}
+Le armi pesanti sono più potenti, ma meno veloci delle armi leggere come il piede di porco.
+
+[TRIAN]
+{The Crowbar can be used to break padlocks and other locked objects.}
+Il piede di porco può essere usato per rompere lucchetti e altri oggetti con serratura.
+
+[RADAR]
+{Objectives are shown as a dot on the radar.}
+Gli obiettivi sono mostrati come puntini colorati sul radar.
+
+[PISS]
+{Hunter : I'm taking a leak, I'll be out in the alley.}
+Cacciatore: devo fare una pisciata, la farò nel vicolo.
+
+[PISS1]
+{I need a leak. I'll be outside.}
+Devo pisciare. La farò fuori.
+
+[PISS2]
+{Man, I gotta take a piss.}
+Merda, devo pisciare.
+
+[DOR1A1]
+{You're doing fine, Cash, just fine. We're getting some great material here! Keep going!}
+Stai facendo davvero un buon lavoro, Cash. Stiamo mettendo assieme del buon materiale. Continua così.
+
+[DOR2A1]
+{There's a Hood upstairs. Make some noise - hit something - that should get his attention!}
+C'è un Hood di sopra. Fai rumore... colpisci qualcosa... che possa attirare la sua attenzione.
+
+[DOR3A1]
+{You're going to have to find something to bust that padlock!}
+Devi trovare qualcosa per rompere il lucchetto.
+
+[DOR4A1]
+{A crowbar! That would be ideal for...}
+Un piede di porco! sarebbe l'ideale per...
+
+[DOR4A2]
+{smashing a padlock, say!}
+rompere il lucchetto, non credi?!
+
+[DOR5A1]
+{Okay, this is what I like to call a 'set up'.}
+Ok, questo è ciò che si dice 'organizzazione'!
+
+[DOR5A2]
+{This guy will fight dirty, but once you're through with him, I'll open the next door.}
+Quest'uomo combatterà in maniera sleale. Una volta che l'avrai superato, aprirò la prossima porta.
+
+[DER1A1]
+Director : Go through that building up ahead to get to the street.
+
+[DER2A1]
+Director : That hunter is watching the stairs, lure him downstairs by hitting a wall, then wait in a safe zone.
+
+[DER3A1]
+Director : This door is padlocked. You ever want to get outta here alive, you better find a way to bust that padlock!
+
+[DER4A1]
+Director : Okay Cash, nice going. Now Grab the crowbar and head back to smash that padlock.
+
+[DER5A1]
+Director : Okayyy, Put on a good show against this hooded fuck for me and it might help you outta here. Watch tho' this guy fights dirty.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

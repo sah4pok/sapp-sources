@@ -1,0 +1,43 @@
+#
+# file: pedgrp.dat
+# description: contains the list of ped groups for each zone. Each ped
+#				group should contain eight ped type names. Please dont
+#				use 'male01' in any of the pedgroups
+
+criminal01,	male03,	mod_man,	male02,	li_man1,	female03,	mod_wom,	female02,	cas_man,	female01,	li_man2,	fatmale02,	ct_wom2,	fatmale01,	fatfemale01,	fatfemale02	# default 
+worker1,	worker2,	scum_wom,	scum_man,	prostitute,	prostitute2,	pimp,	pimp,	ct_man1,	male03,	ct_wom2,	male02,	prostitute,	prostitute2,	fatmale01,	fatmale02	# Redlight
+scum_wom,	scum_man,	prostitute2,	prostitute2,	prostitute,	fatmale02,	pimp,	pimp,	fatfemale01,	male03,	ct_man2,	male02,	scum_man,	prostitute,	criminal02,	criminal01	# Redlight Night
+male03,	male02,	ct_wom1,	li_wom2,	fatfemale02,	p_wom1,	li_man2,	female02,	criminal01,	li_man1,	female01,	female03,	cas_wom,	ct_man2,	ct_man1,	cas_man	# Little Italy
+scum_wom,	scum_man,	prostitute,	prostitute2,	p_man1,	male03,	li_wom2,	ct_wom2,	li_man2,	ct_man2,	fatmale02,	li_man1,	criminal01,	criminal02,	ct_man1,	cas_man	# Little Italy Night
+male02,	male03,	female01,	female02,	fatmale01,	fatmale02,	fatfemale01,	fatfemale02,	ct_wom2,	li_man1,	li_man2,	ct_wom1,	ct_man2,	li_wom1,	criminal02,	ct_man1	# China Town
+male03,	male02,	fatfemale01,	fatfemale02,	ct_wom2,	female01,	li_man2,	ct_wom1,	fatmale01,	ct_man2,	fatmale02,	ct_man1,	criminal01,	criminal02,	scum_wom,	cas_man	# China Town night
+worker2,	worker2,	worker1,	worker1,	scum_man,	scum_wom,	male03,	male02,	docker2,	docker2,	docker1,	docker1,	const2,	fatmale02,	ct_man2,	const1	# Docks
+worker1,	worker2,	scum_wom,	scum_man,	prostitute2,	ct_man2,	const1,	prostitute,	fatmale01,	fatmale02,	docker2,	docker2,	docker1,	docker1,	criminal02,	criminal01	# Docks Night
+scum_man,	scum_wom,	prostitute2,	female02,	p_wom2,	ct_wom1,	p_wom1,	li_man2,	p_man2,	fatfemale02,	p_man1,	fatmale02,	fatfemale01,	female01,	criminal02,	criminal01	# projects
+prostitute2,	ct_man2,	li_man1,	prostitute,	p_wom2,	ct_wom1,	fatfemale01,	scum_man,	fatmale02	fatfemale02,	li_man2,	p_man1,	criminal01,	criminal02,	ct_man1,	cas_man	# projects night
+worker2,	p_wom2,	p_wom1,	worker1,	male02,	male03,	female02,	female03,	female01,	fatfemale02,	ct_man2,	fatmale01,	const2,	ct_wom1,	ct_man1,	const1	# industrial
+p_wom2,	worker2,	li_man1,	worker1,	scum_wom,	ct_man1,	li_man2,	scum_man,	prostitute,	prostitute2,	male02,	male03,	female02,	ct_wom2,	criminal02,	criminal01	# industrialnight
+mod_wom,	mod_wom,	mod_man,	mod_man,	b_wom3,	b_wom3,	b_wom2,	b_wom2,	b_wom1,	b_wom1,	b_man3,	b_man3,	b_man2,	b_man2,	b_man1,	b_man1	# south area
+scum_wom,	scum_wom,	scum_man,	scum_man,	p_man2,	p_man2,	p_man1,	p_man1,	criminal02,	criminal01,	b_wom1,	b_wom1,	b_man2,	b_man2,	b_man1,	b_man1	# south area night
+stud_man,	stud_wom,	st_wom,	li_wom1,	cas_wom,	st_man,	male03,	male02,	p_wom2,	female02,	fatmale02,	fan_wom,	li_wom2,	fan_man2,	fatmale01,	fan_man1	# stadium
+st_wom,	b_wom1,	stud_man,	st_man,	scum_man,	scum_wom,	male02,	male03,	fan_man1,	fan_man2,	fan_wom,	fatmale02,	criminal02,	criminal01,	b_man2,	b_man3	# stadium night
+p_wom1,	p_wom2,	male02,	p_man2,	hos_wom,	ct_man1,	cas_man,	ct_wom1,	hos_man,	li_man1,	female03,	li_man2,	fatmale01,	fatmale02,	fatfemale01,	fatfemale02	# hospital
+male02,	male03,	hos_wom,	fatfemale02,	worker1,	fatmale02,	scum_man,	hos_man,	cas_man,	female01,	criminal01,	criminal02,	const1,	const2,	b_man1,	b_wom1	# hospital night
+p_wom1,	const2,	p_man1,	shopper2,	p_wom2,	shopper1,	mod_wom,	li_wom2,	mod_man,	li_wom1,	cas_wom,	cas_man,	b_wom1,	b_wom2,	b_man1,	b_man2	# Fort Staunton (construction
+female03,	shopper2,	p_wom1,	scum_wom,	b_wom2,	scum_man,	prostitute,	prostitute2,	p_man1,	p_man2,	criminal02,	criminal01,	const1,	pimp,	b_man3,	cas_man	# Fort Staunton (construction) Night
+shopper3,	cas_man,	criminal02,	shopper2,	ct_wom2,	shopper1,	b_wom2,	mod_wom,	p_wom1,	mod_man,	cas_wom,	female03,	b_wom1,	b_wom3,	b_man1,	b_man2	# shopping
+shopper1,	shopper3,	scum_wom,	mod_wom,	b_man2,	scum_man,	prostitute,	prostitute2,	p_man1,	p_man2,	criminal02,	criminal01,	b_wom2,	b_wom3,	mod_man,	cas_man	# shopping night
+stud_wom,	cas_wom,	scum_man,	stud_man,	fatmale01,	li_wom2,	criminal02,	male02,	p_man1,	female03,	mod_wom,	female02,	mod_man,	p_wom2,	fatfemale02,	li_wom1	# university
+stud_wom,	b_wom2,	p_man1,	stud_man,	male03,	pimp,	scum_wom,	scum_man,	prostitute,	prostitute2,	mod_man,	mod_wom,	criminal01,	criminal02,	li_wom1,	male02	# university night
+p_man2,	male02,	female02,	female03,	female01,	ct_wom2,	cas_wom,	ct_man2,	criminal01,	mod_wom,	mod_man,	li_wom2,	b_wom3,	b_wom2,	b_man2,	cas_man	# park
+scum_wom,	p_man1,	scum_man,	shopper1,	prostitute2,	prostitute,	male02,	male03,	criminal01,	criminal02,	mod_man,	cas_wom,	b_wom2,	b_man2,	fatmale02,	cas_man	# park night
+criminal02,	fatmale01,	female03,	p_man1,	p_man2,	li_man2,	scum_wom,	b_man1,	b_man2,	b_man3,	b_wom1,	b_wom3,	mod_man,	mod_wom,	cas_man,	li_wom2	# airport
+criminal02,	fatmale01,	scum_wom,	p_man1,	p_man2,	li_man2,	p_wom1,	fatmale02,	b_man2,	b_man3,	scum_man,	b_wom3,	mod_man,	mod_wom,	cas_man,	li_wom2	# airport night
+mod_wom,	li_wom1,	li_wom2,	female03,	li_man2,	b_man1,	male02,	male03,	p_wom2,	ct_wom2	p_wom1,	female02,	fatmale01,	b_wom3,	mod_man,	li_man1	# swanksville 
+mod_wom,	mod_man,	p_wom2,	b_wom1,	b_man3,	male03,	b_man1,	male02,	li_wom2,	female03,	ct_wom2,	female02,	criminal01,	li_man1,	p_man1,	fatmale02	# swanksville night
+camp_wom,	stud_wom,	st_wom,	st_man,	camp_man,	stud_man,	male03,	male02,	p_wom2,	female02,	mod_man,	fan_wom,	fan_man2,	b_man2,	fatmale01,	fan_man1	# stadium with campaign workers
+st_wom,	camp_man,	p_wom2,	st_man,	scum_man,	scum_wom,	male02,	male03,	b_wom1,	fan_man2,	fan_man1,	fatmale02,	criminal02,	criminal01,	b_man2,	camp_wom,	# stadium night with campaign workers
+camp_man,	shopper3,	shopper2,	b_wom1,	camp_wom,	shopper1,	b_wom2,	mod_wom,	p_wom1,	mod_man,	cas_wom,	female03,	cas_man,	b_wom3,	b_man1,	b_man2	# shopping with campaign workers
+shopper1,	shopper3,	scum_wom,	camp_man,	camp_wom,	scum_man,	prostitute,	prostitute2,	p_man1,	p_man2,	criminal02,	criminal01,	b_wom2,	b_wom3,	mod_man,	cas_man	# shopping night with campaign workers
+worker2,	camp_man,	worker1,	p_wom1,	male02,	male03,	female02,	female03,	camp_wom,	female01,	ct_man2,	fatmale01,	const2,	fatfemale02,	p_wom2,	const1	# industrial with campaign workers
+worker2,	fatfemale02,	camp_man,	worker1,	scum_wom,	camp_wom,	ct_man1,	scum_man,	prostitute,	prostitute2,	male02,	male03,	female02,	ct_wom2,	criminal02,	criminal01	# industrialnight with campaign workers

@@ -1,0 +1,190 @@
+﻿[GOAL1]
+{You must find the side entrance to the mansion cellar}
+Tu dois trouver l'entrée du sous-sol du manoir.
+
+[PIGSY1]
+{What the-? Back up! I need immediate backupaarrgghh!}
+Qu'est-ce que... ? Des Renforts ! Il me faut des renfoooorrrttt !
+
+[PIGSY2]
+{Holy fuck! Gimme some help here-aarrgghh!}
+Bordel de merde ! Aidez-moaaaaah !
+
+[PIGSY3]
+{Eerr, control, I'm gonna need some backup here! Control? Aarrgghh!}
+Hum, Contrôle ! J'ai besoin de renforts, moi ! Contrôle ? Aaarrgg !
+
+[REMOT1]
+{Who's got the fucking remote for the door?!?}
+Où est la putain de télécommande de cette porte ?
+
+[REMOT2]
+{Somebody get this damned door open!}
+Que quelqu'un ouvre cette foutue porte !
+
+[REMOT3]
+{Ok, who's got the remote - we gotta open this door!}
+OK, qui a la télécommande ? Faut ouvrir cette porte !
+
+[WHAT]
+{What the hell was that?!?}
+C'était quoi ce truc ?
+
+[SHIT]
+{Holy shit!}
+Putain de merde !
+
+[INGAR1]
+{He's gone in there!}
+Il est là-dedans !
+
+[INGAR2]
+{He's locked himself in the garage!}
+Il s'est enfermé dans le garage !
+
+[INGAR3]
+{He's holed up in there!}
+Il est pris au piège !
+
+[ENRTE1]
+{A team is en route to your position, over.}
+Un groupe devrait vous rejoindre bientôt. Terminé.
+
+[ENRTE2]
+{We're sending a backup team, over.}
+Renforts en route. Terminé.
+
+[ENRTE3]
+{Hang in there, backup is on its way.}
+Tenez bon, les renforts arrivent.
+
+[KILL1]
+{Bring 'em down! Starkweather wants 'em both dead.}
+Butez-les ! Starkweather les veut morts, tous les deux !
+
+[KILL2]
+{Shoot to kill, repeat, shoot to kill - Both targets!}
+Tirez pour tuer, je répète, tirez pour tuer ! Sur les deux cibles !
+
+[KILL3]
+{Starkweather wants 'em both taken out!}
+Starkweather les veut morts tous les deux !
+
+[SNIPE1]
+{No sign of either target, they won't get through this way!}
+Aucun signe des deux cibles. Ils ne passeront pas par là !
+
+[SNIPE2]
+{I got my sector covered - nobody's coming through this way!}
+Mon secteur est couvert. Personne passera !
+
+[SNIPE3]
+{The angel of death is home and awaiting visitors!}
+Ange de la mort en place et en attente d'invités !
+
+[SHUT1]
+{Who shut this door?}
+Qui a fermé cette porte ?
+
+[SHUT2]
+{Hold on - this door was open a moment ago!}
+Attendez ! Cette porte était ouverte tout à l'heure !
+
+[SHUT3]
+{Hey wait a minute, wasn't this open?}
+Hé, elle était pas ouverte, cette porte ?
+
+[MPG1]
+{...but Mr. Starkweather refuses to comment on these allegations.}
+... Mais M. Starkweather refuse de répondre à ces accusations.
+
+[MPG2]
+{At this point it is unclear as to whether or not he will ever be allowed to direct again.}
+A l'heure actuelle, il est difficile de dire s'il tournera à nouveau.
+
+[MPG3]
+{This is Rob...}
+C'est Rob...
+
+[MPG4]
+{You know what?}
+Tu sais quoi ?
+
+[MPG5]
+{You know what? I don't give a fuck what Starkweather wants.}
+Hé, tu sais quoi ? J'en ai rien à foutre de ce que veut Starkweather.
+
+[MPG6]
+{Maybe today I kill you, maybe not.}
+Peut-être que je te tuerai, peut-être que non.
+
+[MPG7]
+{Kill the camera.}
+Bousille la caméra.
+
+[MPG8]
+{What was that? Go check it out.}
+C'était quoi, ça ? Va voir !
+
+[MPG9]
+{Maybe it is your day.}
+C'est peut-être ton grand jour.
+
+[MPG10]
+{Shit, what the fuck is THAT?}
+Merde, c'était quoi, CA ?
+
+[MPG11]
+{Support, repeat, send in...}
+Des renforts, je répète, envoyez des...
+
+[MPG12]
+{oh shit...}
+Oh putain...
+
+[MPG13]
+{AAHHHH! Fuck! Fuck! Fuck!}
+AAAHHHH ! Merde ! Merde ! Merde !
+
+[MPG14]
+{Keep an eye on him for a minute.}
+Garde un oeil sur lui !
+
+[MPG15]
+{Piggsy Angry!}
+Porky pas content !
+
+[NOISE1]
+VOICES SCREAMING: Man down, I need backup here! ARGH!!!!!
+
+[CERB1]
+{CERBERUS: What the hell was THAT?}
+CERBERUS: What the hell was THAT?!?
+
+[CERB2]
+CERBERUS: Holy SHIT!
+
+[HTLK1]
+CERBERUS: He's gone in there.
+
+[HTLK2]
+CERBERUS2: Who's got the fucking remote control?!?
+
+[CERB3]
+RADIO: A kill team is en route to your position.
+
+[CERB4]
+CERBERUS: Shoot targets on sight!, Starkweather want's them both dead.
+
+[CERB5]
+CERBERUS: No sign of either target, they won't get through this way!
+
+[DEAD1]
+CERBERUS : Ah these guys have been slaughtered, What the fuck did this?
+
+[CERB6]
+CERBERUS: Who shut this door?
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

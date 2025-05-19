@@ -1,0 +1,15 @@
+﻿[INTRO1]
+{The banana shortage has given the Zoo monkeys an appetite for death!}
+¡La escasez de plátanos ha hecho que los monos del zoo tengan un hambre de muerte!
+
+[INTRO2]
+{Start feeding them lead to stop being on the menu too!}
+¡Empieza a alimentarlos si no quieres convertirte en parte de su menú!
+
+[GOAL]
+{Get out of the Zoo alive}
+Sal vivo del zoo
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

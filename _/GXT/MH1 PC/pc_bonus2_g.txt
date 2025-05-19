@@ -1,0 +1,15 @@
+﻿[INTRO1]
+{The banana shortage has given the Zoo monkeys an appetite for death!}
+Durch den Bananenmangel sind die Zoo-Affen in einen Blutrausch geraten!
+
+[INTRO2]
+{Start feeding them lead to stop being on the menu too!}
+Wenn du sie mit Blei fütterst, wirst du von ihrem Speiseplan gestrichen!
+
+[GOAL]
+{Get out of the Zoo alive}
+Entkomme lebend aus dem Zoo
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

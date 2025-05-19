@@ -1,0 +1,450 @@
+﻿[GOAL2A]
+{To execute, sneak behind the hunter and press the Action button}
+Para ejecutar, acércate sigilosamente por detrás del enemigo y pulsa el botón Acción
+
+[GOAL8]
+{Kill all the hunters to open the chute door}
+Mata a todos los cazadores para abrir la trampilla de la ropa sucia
+
+[GOAL2B]
+{~green~Green ~colour~items can be used to execute}
+Los objetos ~green~verdes ~colour~se pueden usar para ejecutar
+
+[GOAL2C]
+{~green~Green ~colour~items are disposable}
+Los objetos ~green~verdes ~colour~son desechables
+
+[GOAL7]
+{Find a way into the mall}
+Encuentra una manera de entrar en el centro comercial
+
+[GOAL7A]
+{Run away when facing multiple hunters}
+Cuando te enfrentes a varios cazadores, huye
+
+[GOAL1]
+{Follow the street}
+Sigue la calle
+
+[GOAL1A]
+{The keyboard controls the player}
+El teclado controla al jugador
+
+[GOAL1C]
+{Press the Run button to sprint}
+Pulsa el botón Correr para esprintar
+
+[GOAL2]
+{Execute the hunter with the plastic bag}
+Ejecuta al cazador con la bolsa de plástico
+
+[GOAL3]
+{Hide in the shadows next to the gate}
+Escóndete en las sombras de al lado del portal
+
+[GOAL4]
+{Wait until the hunter is facing away, then execute him}
+Espera a que el cazador se dé la vuelta y, entonces, ejecútalo
+
+[GOAL4A]
+{Hide in the shadows to lose hunters}
+Para despistar a los cazadores, escóndete en las sombras
+
+[GOAL5]
+{Beat up the hunter using your fists}
+Sacude al cazador con los puños
+
+[GOAL5A]
+{Press the Action button for a quick attack}
+Pulsa el botón Acción para efectuar un ataque rápido
+
+[GOAL5B]
+{Press the Action2 button for a hard attack}
+Pulsa el botón Acción2 para realizar un ataque poderoso
+
+[GOAL6]
+{Find a way to the car park}
+Encuentra una forma de llegar al parking
+
+[GOAL8A]
+{You can attract hunters by hitting a wall}
+Puedes atraer a los cazadores golpeando una pared
+
+[GOAL6A]
+{To peek press the Peek Right or the Peek Left button}
+Puedes echar un vistazo con los botones de Vistazo derecha y Vistazo izquierda
+
+[MOVE1]
+{Use the keyboard to control the player and the mouse to rotate the camera. Hold the Sneak button to move quietly.}
+Utiliza el teclado para controlar al jugador y el ratón para girar la cámara. Deja pulsado el botón Sigilo para moverte silenciosamente.
+
+[H_RUN]
+{Hold the Run button to sprint. You have limited Stamina, as shown on the flashing ~yellow~yellow ~colour~bar so use it sparingly.}
+Para esprintar, deja pulsado el botón Correr. Tu resistencia es limitada, tal y como se muestra en la barra centelleante ~yellow~amarilla ~colour~, así que hazlo moderadamente.
+
+[H_RUN2]
+{Watch your noise. Sneaking is totally silent, but hunters can hear you running. The ~red~red ~colour~pulse on the radar indicates your noise level.}
+Ten cuidado con los ruidos que haces. Mientras estás en sigilo, serás totalmente silencioso, pero los cazadores pueden oírte mientras corres. El parpadeo ~red~rojo ~colour~ del radar indica tu nivel de ruido.
+
+[H_RUN3]
+{Watch your noise. Sneaking is totally silent, but hunters can hear you running.}
+Ten cuidado con los ruidos que haces. Mientras estás en sigilo, serás totalmente silencioso, pero los cazadores pueden oírte mientras corres.
+
+[H_WEAP1]
+{Walk over items to pick them up.}
+Para recoger objetos, camina sobre ellos.
+
+[H_SHARD]
+{Items are color-coded according to their type. Small improvised weapons, like the Glass Shard are ~green~Green~colour~.}
+Los objetos tienen un código de color que depende de su tipo. Las armas pequeñas, improvisadas, como los fragmentos de cristal, son de color ~green~verde~colour~.
+
+[H_BAG]
+{Items are color-coded according to their type. The bag can be used to suffocate hunters.}
+Los objetos tienen un código de color que depende de su tipo. La bolsa se puede usar para ahogar a cazadores.
+
+[H_SHAR1]
+{Only ~green~Green ~colour~weapons, like the Glass Shard, allow you to execute in complete silence.}
+Solo las armas ~green~verdes ~colour~, como el fragmento de cristal, te permiten ejecutar en completo silencio.
+
+[H_RADR1]
+{The radar shows you the location of the hunters. Hunters are displayed whenever they are visible or making noise. The arrow shows the direction they are facing.}
+El radar muestra la localización de los cazadores. Los cazadores se muestran siempre que hagan ruido o sean visibles. La flecha indica la dirección en la que están mirando.
+
+[H_RADR2]
+{The color of the arrow indicates the level of the hunter's awareness, ~red~red ~colour~is aware, ~orange~orange ~colour~is suspicious, ~yellow~yellow ~colour~is idle.}
+El color de la flecha indica el grado de atención del cazador. Si es ~red~roja ~colour~está atento, si es ~orange~naranja ~colour~está desconfiado, si es ~yellow~amarilla ~colour~está despistado.
+
+[H_EXE1]
+{To execute the hunter, sneak up behind him and press either the Action or the Action2 button. When you are ready to execute, the player's stance will change.}
+Para ejecutar a un cazador, acércate sigilosamente por su espalda y pulsa los botones Acción o Acción2. Cuando estés listo para ejecutar, cambiará la postura del jugador.
+
+[H_NO]
+{To execute the hunter, go back and collect the plastic bag, then sneak up behind the hunter and press either the Action or the Action2 button. When you are ready to execute, the player's stance will change.}
+Para ejecutar al cazador, ve y recoge la bolsa de plástico; a continuación, acércate sigilosamente por su espalda y pulsa los botones Acción o Acción2. Cuando estés listo para ejecutar, cambiará la postura del jugador.
+
+[H_EXE2]
+{The longer you hold down either the Action or the Action2 button, the more vicious the execution.}
+Cuanto más tiempo mantengas pulsado el botón Acción o Acción2, más cruel será la ejecución.
+
+[H_WEAP2]
+{~green~Green ~colour~weapons like the Plastic Bag can only execute one hunter and are lost after use.}
+Las armas ~green~verdes ~colour~, como la bolsa de plástico, solo pueden usarse para ejecutar a un cazador, después hay que tirarlas, ya que no son de utilidad.
+
+[H_SAFE]
+{Hide in the shadows over there. Hunters will not see you in the dark unless they are actively searching for you.}
+Escóndete en las sombras de por allí. Los cazadores no te verán en la oscuridad a menos que te estén buscando activamente.
+
+[H_HERE]
+{Here comes a hunter. Wait until he is facing away from you, then attack.}
+Aquí viene un cazador. Espera hasta que esté mirando en otra dirección y ataca.
+
+[H_WAIT]
+{Your Status Icon goes ~blue~blue ~colour~when you are safely hidden in the shadows.}
+El icono de estado se pondrá de color ~blue~azul ~colour~ cuando estés escondido a salvo en las sombras.
+
+[H_WAIT1]
+{If you are seen entering the shadows you won't be able to hide there.}
+Si te ven entrando en las sombras, no podrás esconderte ahí.
+
+[H_WAIT2]
+{The icon will flash ~red~red ~colour~when you are in danger or have been spotted.}
+Cuando estés en peligro o te hayan localizado, el icono empezará a parpadear en color ~red~rojo ~colour~.
+
+[H_HEAL]
+{These are painkillers. Each bottle replenishes 50% of your health, shown on the flashing ~green~green ~colour~bar.}
+Esto son analgésicos. Cada botella te permite recuperar el 50% de tu salud, que se muestra en la barra parpadeante ~green~verde ~colour~.
+
+[H_FIGHT]
+{When facing a hunter, press the Action button to perform a quick attack.}
+Cuando te enfrentes a un cazador, pulsa el botón Acción para realizar un ataque rápido.
+
+[H_FIGH2]
+{Use the Action2 button to perform a hard attack.}
+Si quieres realizar un ataque poderoso, pulsa el botón Acción2.
+
+[H_FIGH3]
+{To block an attack do not press any button. Move backwards using the keyboard to back off from combat.}
+Para parar un ataque, no pulses ningún botón. Muévete atrás usando el teclado para retirarte del combate.
+
+[H_SAVE]
+{This is a SAVE POINT. Walk over it to activate it. If you die you will start from here.}
+Éste es un PUNTO DE GUARDADO. Camina por encima de él para activarlo. Si mueres, podrás continuar desde aquí.
+
+[H_SAVE1]
+{You can save your progress by selecting save in the Pause menu.}
+Puedes guardar tus avances seleccionando guardar en el menú de pausa.
+
+[PAUSE]
+{You can review the director's objectives on the Pause screen by pressing the Pause button.}
+Puedes repasar los objetivos del director en la pantalla de pausa, pulsando el botón de pausa.
+
+[H_PATR1]
+{Watch out for patrolling hunters around corners. You can peek out by pressing the Peek Left and Peek Right buttons.}
+Vigila en las esquinas, puede haber cazadores patrullando. Puedes echar un vistazo pulsando los botones de Vistazo a la izquierda y Vistazo a la derecha.
+
+[H_RUN1]
+{Sprinting creates noise which will attract hunters, this is represented on the radar by the ~red~red ~colur~circle.}
+Al esprintar haces ruido que atrae a los cazadores, esto se representa en el radar mediante un círculo ~red~rojo ~colour~.
+
+[CPARK]
+{Be quick to finish off a hunter before his friends are alerted. Run away when facing multiple hunters, or they will overpower you.}
+Date en prisa en acabar con un cazador antes de que sus amigos se alerten. Cuando te enfrentes a varios cazadores, huye o te superarán.
+
+[H_UPPE]
+{You can lure a hunter by hitting any wall. See that he heard the sound by checking his arrow on the radar. Use this to split up large groups.}
+Puedes atraer a un cazador golpeando una pared. Para ver si ha oído el sonido, fíjate en la flecha del radar. Usa este método para que los grupos se dispersen.
+
+[H_UPP1]
+{You can lure a hunter by hitting any wall. Use this to split up large groups.}
+Puedes distraer a un cazador golpeando una pared. Usa este método para que los grupos se dispersen.
+
+[LOCK]
+~!~
+
+[EXE]
+{You must have a weapon to execute a hunter.}
+Para ejecutar a un cazador, necesitas un arma.
+
+[ABOVE]
+{Hunters on different floors from yours are displayed as small triangles on the radar.}
+Los cazadores que estén en pisos diferentes al tuyo se muestran como triángulos más pequeños.
+
+[CHECK]
+{Kill that hunter to open this door.}
+Para abrir esta puerta, mata a ese cazador.
+
+[H_NOIS]
+{When hunters are executed they will make a noise which may attract other hunters in the area.}
+Cuando los cazadores son ejecutados, hacen un ruido que puede atraer a otros cazadores que estén por la zona.
+
+[SEEN]
+{You have been spotted! Fight or run.}
+¡Te han localizado! Lucha o corre.
+
+[HEAR]
+{Be careful when you execute enemies, other hunters can hear the noise if they are too close.}
+Ten cuidado al ejecutar enemigos, si hay otros cazadores cerca, pueden oír el ruido.
+
+[OPEN]
+{The Chute door is now open.}
+La trampilla de la ropa sucia está abierta.
+
+[GATE]
+{Kill those two hunters to open this gate.}
+Mata a esos dos cazadores para abrir esta puerta.
+
+[GATE1]
+{Kill the remaining hunter to open this gate.}
+Mata al cazador que queda para abrir esta puerta.
+
+[EXIT]
+{Getting close, my friend, we are getting close. Just pull another little stunt to get rid of the guy over there and we should be done with this location. See that door? It'll take you out of this dump.}
+Cerca, amigo mío, estamos cerca. Solo un esfuerzo más, para librarte del tipo de ahí y deberíamos haber acabado con esta zona. ¿Ves esa puerta? Te sacará de este basurero.
+
+[START]
+{Alright Cash, let's work together on this and we will both get through to the happy ending. Remember, I am on your side, I'll try to help you out as much as I can. (short pause) Ok, ready? Camera... Action!}
+De acuerdo, Cash, trabajemos en equipo y saldremos bien parados. Recuerda, estoy de tu lado, intentaré ayudarte en lo que pueda. (Una pequeña pausa) Vale, ¿preparado? Cámara... ¡Acción!
+
+[COURT]
+{Excellent! that bit with the glass shard was hot stuff, no wonder you were given the chair. Well. here's where your fighting skills get into the picture. Just give me the best you've got and you'll get out in one piece! the gate will open once we are done filming here.}
+¡Excelente! Eso que has hecho con el trozo de cristal ha sido increíble, con razón te dieron la silla. Bien, aquí es dónde hay que recurrir a tu habilidad como luchador. Da lo mejor de ti ¡y saldrás de aquí entero! La puerta se abrirá cuando hayamos acabado de filmar aquí.
+
+[CARPARK]
+{Be vigilant Cash, I see a few Hoods around these vans. Try reaching the abandoned shops upstairs, the way out is right there. Oh, and I want more cut-throat action. I need a few close-up shots.}
+Ten cuidado, Cash, he visto unos cuantos matones alrededor de esas furgonetas. Intenta llegar a las tiendas abandonadas de arriba, la salida está aquí mismo. Oh, y quiero más acción salvaje. Quiero sacar algunos primeros planos.
+
+[BRN1A1]
+{These streets are being patrolled by gangs. They're scum, just like you}
+Las bandas patrullan estas calles. Son escoria, como tú
+
+[BRN1A2]
+{and they're here to hunt you down and cut you up.}
+y están aquí para cazarte y hacerte pedazos.
+
+[BRN1A3]
+{I'll try to direct you as best I can but other than that you're on your own - It's up to you!}
+Intentaré dirigirte lo mejor que pueda, pero aparte de eso estás solo. ¡Dependes de ti mismo!
+
+[BRN1A4]
+{Ok, you ready? Camera... Action!}
+Bien, ¿preparado? Cámara... ¡Acción!
+
+[BRN2A1]
+{We're filming something very special here tonight and if we work together on this}
+Esta noche estamos filmando algo muy especial y, si trabajamos juntos,
+
+[BRN2A2]
+{we both get the big rewards, so get your shit together!}
+los dos conseguiremos grandes recompensas así que, ¡ponte al tema!
+
+[BRN2A3]
+{Remember: as far as the world's concerned you're dead already}
+Recuerda: por lo que respecta al resto del mundo, ya estás muerto
+
+[BRN2A4]
+{so don't hold back - it's them or you}
+así que no te contengas, es o ellos o tú
+
+[NIL]
+{Hot damn, that's the spirit! Hot stuff, Cash, no wonder the state wanted shot of you!}
+Maldita sea, ¡ésta es la actitud! ¡Eres un crack, no importa que el estado te quiera muerto!
+
+[BRN3A1]
+{I'll be frank with you, we set that chump up to see if you had what it takes to be our leading man!}
+Seré franco contigo; hemos preparado esto ¡para ver si tienes lo que hace falta para ser nuestro protagonista!
+
+[BRN3B1]
+Bien, seré franco contigo; hemos preparado esto ¡para ver si tienes lo que hace falta para ser nuestro protagonista!
+
+[BRN3A2]
+{A little audition, if you will. Heh heh.}
+Una pequeña audición, si lo prefieres. Je, je.
+
+[BRN4A1]
+{From here on in we're gonna need some fighting skills to get through the action. We're talking toe-to-toe.}
+A partir de aquí, nos va a hacer falta algo de habilidad en el combate para pasar la acción. Trabajamos codo con codo.
+
+[BRN4A2]
+{I know you've got the balls, so just give me the best you've got and you'll deal with this pussy}
+Sé que tienes lo que hace falta, así que sigue dando lo mejor de ti y no tendrás problemas con este pequeñín.
+
+[BRN4A3]
+{no problem. The gate will open once I'm done filming here.}
+Ningún problema. Se abrirá la puerta cuando acabe de filmar aquí.
+
+[BRN5A1]
+{Now take your time, Cash, I see a few Hoods around these vans. Sorry, I should explain.}
+Ahora tómate tu tiempo, Cash, veo unos cuantos Hoods alrededor de estas furgonetas. Lo siento, debería explicártelo.
+
+[BRN5A2]
+{Each gang has their... Let's just call it their thing.}
+Cada banda tiene, bueno, llamémosle su cosa.
+
+[BRN5A3]
+{These guys call themselves 'The Hoods', but none of that should bother you.}
+Estos tíos se llaman a sí mismo “los Hoods”, pero no deberían preocuparte.
+
+[BRN5A4]
+{As far as you're concerned, they're meat. Ok, on you go...}
+Por lo que a ti concierne, son carne. Bien, adelante...
+
+[BRN6A1]
+{Try reaching the abandoned shops up on the next floor, the stair is right over there.}
+Intenta llegar a las tiendas abandonadas del siguiente piso, la escalera está por ahí.
+
+[BRN6A2]
+{Oh, and give me some more of that cut-throat psycho action you illustrated so beautifully earlier.}
+Ah, y mira a ver si puedes darme algo de esa acción psicópata degolladora que me has ofrecido tan maravillosamente hace un momento.
+
+[BRN6A3]
+{We're talking the 'money shot', you with me?}
+Estamos hablando de planos impactantes, de dinero, ¿me sigues?
+
+[BRN7A1]
+{Ok, there are some more of these shitheads hanging around the exit.}
+Vale, hay varios de esos estúpidos rondando por la salida.
+
+[BRN7A2]
+{Give me some grade-A honest-to-god gore and you'll be buzzed through the door.}
+Proporcióname algo de buena acción sangrienta y podrás traspasar la puerta.
+
+[BRN9A1]
+{One of the little freaks is still running around. I told you, you get buzzed through the door when the action's in the can.}
+Aún queda uno de esos monstruitos. Te lo dije, podrás cruzar la puerta cuando la película esté en la lata.
+
+[BRN8A1]
+{It's a WRAP!! Attaboy Cash, you're a natural, I swear to god you are!}
+¡Hemos terminado! Madre mía, Cash, tienes talento, ¡te juro que lo tienes!
+
+[BRN8A2]
+{No time to hang around – time is money! Let’s see how you handle the next scene…}
+No hay tiempo que perder, ¡el tiempo es dinero! Veamos cómo te las apañas en la siguiente escena...
+
+[MPG1]
+{It looks like this goes all the way to the top.}
+Parece que lleva hasta la cima
+
+[MPG2]
+{I can't trust anyone, least of all the police, and time's running out.}
+No puedo confiar en nadie, menos que nadie en la policía y el tiempo se acaba.
+
+[MPG3]
+{I've got to get the one piece of evidence that will expose Starkweather without a shadow of a doubt.}
+Tengo que encontrar la prueba que señale a Starkweather sin asomo de duda.
+
+[MPG4]
+{footage and testimony of a man who was executed by the state five hours ago...}
+Imágenes y el testimonio de un hombre que fue ejecutado por el Estado hace cinco horas...
+
+[MPG5]
+{I hope you rot IN HELL!!}
+¡¡Espero que te pudras en el INFIERNO!!
+
+[MPG6]
+{James Earl Cash...}
+JAMES EARL CASH...
+
+[MPG7]
+{...found guilty and sentenced to death...}
+ENCONTRADO CULPABLE Y SENTENCIANDO A MUERTE...
+
+[MPG8]
+{...has been on deathrow for the past three years and was executed last night.}
+... HA ESTADO DURANTE LOS PASADOS TRES AÑOS EN EL CORREDOR DE LA MUERTE Y FUE EJECUTADO LA PASADA NOCHE
+
+[MPG9]
+{Hey, tough guy, wake up. You're not dead.}
+Eh, tipo duro, despierta. No estás muerto.
+
+[MPG10]
+{Well, not yet anyway. You're getting a second chance another throw of the dice.}
+Bueno, al menos no todavía. Se te ha dado una segunda oportunidad, otra tirada de los dados.
+
+[MPG11]
+{As far as the world is concerned, you died back in the chamber.}
+Por lo que respecta al mundo, moriste en la cámara.
+
+[MPG12]
+{Justice was served - James Earl Cash is rotting in Hell.}
+La justicia actuó y James Earl Cash está pudriéndose en el infierno.
+
+[MPG13]
+{Hey, hey, get a grip and calm down.}
+Ey, céntrate y cálmate.
+
+[MPG14]
+{You're probably suffering from shock but I'm here to help.}
+Seguramente estás en estado de shock, pero estoy aquí para ayudar.
+
+[MPG15]
+{Pick up the earpiece. Put it on. Go on.}
+Coge el auricular y póntelo. Vamos.
+
+[MPG16]
+{There that's better.}
+Eso está mejor.
+
+[MPG17]
+{Now only you can hear me and that's the way you're going to want it because I'm your only way out of here.}
+Ahora solo puedes oírme tú y eso es lo que vas a querer hacer, porque soy tu único medio para salir de aquí.
+
+[MPG18]
+{Hey, hey, easy, easy! Look.}
+¡Eh, tranquilo, tranquilo! Mira.
+
+[MPG19]
+{You've had an unexpected reprieve, do exactly as I say and I promise this will be over before the night is out.}
+Has recibido un indulto inesperado, haz exactamente lo que te diga y te prometo que esto se acabará antes de que se haga de día.
+
+[2GOALC]
+BUg Fix
+
+[1GOALC]
+BUg Fix
+
+[GOALC]
+BUg Fix
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

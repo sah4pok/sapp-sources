@@ -1,0 +1,142 @@
+﻿[LOCK]
+{Old rusty locks like this can be broken with a well placed bullet.}
+Las cerraduras viejas y oxidadas, como ésta, pueden romperse con un buen balazo
+
+[GOAL1]
+{Restore power to the rails so that the last train can leave the station}
+Haz que los raíles vuelvan a tener energía para que el último tren pueda salir de la estación
+
+[GOAL2]
+{Get onto the last train before the police order its departure}
+Entra en el último tren antes de que la policía ordene su partida
+
+[GOAL3]
+{Find a way out of this subway station}
+Encuentra una forma de salir de la estación de metro
+
+[OHFK1]
+{Oh shit, it's him!}
+¡Mierda! ¡Es él!
+
+[OHFK2]
+{Fuck, there he is!}
+¡Joder, ahí está!
+
+[OHFK3]
+{It's him!}
+¡Es él!
+
+[LOC1]
+{We are under fire! Secure the station - repeat - secure the station !!}
+¡Nos están disparando! ¡¡Asegurad la estación!! Repito, ¡¡asegurad la estación!!
+
+[LOC2]
+{Roger - we are at the station.}
+Entendido, estamos en la estación.
+
+[LOC3]
+{This is Adam11 - we've located the suspect! Send in reinforcements, now!}
+Aquí Adam11, ¡hemos localizado al sospechoso! Enviad refuerzos, ¡ya!
+
+[CHAT4]
+{Do you reckon he is gonna show up?}
+¿Crees que va a dar la cara?
+
+[CHAT5]
+{If he's got any sense he'll be long gone by now.}
+Si tiene un poco de sentido común, ahora mismo estará muy lejos.
+
+[CHAT6]
+{He could be watching us right now, for all we know...}
+Por lo que sabemos, podría estar vigilándonos ahora mismo...
+
+[DISP3]
+{This is dispatch to Adam11 - we have a code1 - suspect is presumed to be heading your way.}
+Central a Adam11, tenemos un código 1, se cree que el sospechoso se dirige hacia allí
+
+[SEAL1]
+{Officers down! We need to seal this place right now!}
+¡Oficiales caídos! ¡Tenemos que aislar este lugar, inmediatamente!
+
+[CHAT1]
+{Seems a pretty big operation - this guy must be real dangerous!}
+Parece una operación bastante grande, ¡este tío tiene que ser peligroso de verdad!
+
+[CHAT2]
+{I don't like this, they only pull out all the stops for real nut jobs!}
+No me gusta, parece serio... ¡de otro modo no se explicaría tal bloqueo!
+
+[CHAT3]
+{He must be a terrorist or something - they ain't leaving nothing to chance!}
+Tiene que ser un terrorista o algo así, ¡no están dejando nada al azar!
+
+[SWAT1]
+{This is Bravo leader, regroup at the tracks!}
+Aquí líder Bravo, ¡reagrupaos en los caminos!
+
+[SWAT2]
+{Roger Alpha team, Charlie is en route from the precinct as we speak.}
+Oído, equipo Alfa, mientras hablamos, Charlie va de camino.
+
+[SWAT3]
+{This is Charlie leader. Power has been shut off. Repeat - power is off!}
+Aquí líder Charlie. La energía ha sido cortada. Repito, ¡la energía ha sido cortada!
+
+[MID1A1]
+{<radio static> sure you will never get out of that subway alive <radio static>}
+<estática> seguro que no saldrás vivo del metro <estática>
+
+[DIR1]
+Director: <static>...sure you'll never get out of that subway alive, Cash...<static>
+
+[START1]
+Roger Dispatch - we are in.
+
+[DIA1_3]
+Shit! It's him!
+
+[2_1RGT]
+This is Bravo Leader - regroup at the tracks!
+
+[2_1ZI]
+THIS IS BRAVO LEADER, TARGET SIGHTED! ZERO IN MY POSITION!
+
+[2_2ZI]
+THIS IS BRAVO 2, TARGET SIGHTED! REPEAT - TARGET SIGHTED!
+
+[2_3ZI]
+THIS IS BRAVO 3, I HAVE SIGHT OF THE TARGET
+
+[COPS1]
+Do you reckon he is gonna show up here?
+
+[COPS2]
+Dont know, but they are sending cops at all terminals...hope we dont meet the guy.
+
+[RADIO1]
+We are under fire! Secure the station - repeat - secure the station!
+
+[RADIO2]
+Officer down! Bravo 1 please respond - seal the perimeter right now!
+
+[RADIO3]
+Roger TEAM1, Bravo team is moving in to your position
+
+[RADIO4]
+This is Charlie Leader. Power to the rails has been disconnected. Repeat - POWER IS OFF
+
+[RADIO5]
+This is Adam 11 - We have the fugitive! Send in reinforcements!!
+
+[RADIO6]
+This is dispatch - we have a code 11 - Fugitive is presumed to be heading your way
+
+[RADIO7]
+We have a situation - Fugitive has reconnected power to the rails - repeat POWER IS ON.
+
+[RADIO8]
+Move that fucking train out of there!!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

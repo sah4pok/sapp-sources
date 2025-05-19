@@ -1,0 +1,2058 @@
+﻿[CRMOK]
+OK
+
+[CRMCANC]
+{CANCEL}
+CANCELAR
+
+[SCENE]
+{SCENE}
+ESCENA
+
+[CAMFX]
+{CAMERA FX}
+EFECTOS DE CÁMARA
+
+[SAVING]
+{Saving Manhunt.}
+Guardando Manhunt.
+
+[IN_SPAC]
+{Your Hard Drive does not have enough free space to save games. Press any key to continue without saving.}
+El disco duro no tiene espacio libre suficiente para guardar partidas. Pulsa cualquier tecla para continuar sin guardar.
+
+[OVWR_SA]
+{This slot already contains a previously saved game. Do you want to overwrite this saved game? Enter to overwrite Esc to cancel.}
+Esta ranura ya tiene una partida guardada. ¿Quieres sobrescribirla? Intro para sobrescribir; Esc para cancelar.
+
+[SAV_SUC]
+{Game saved successfully.}
+La partida se ha guardado correctamente.
+
+[SAV_FAI]
+{Unknown Error while saving. Unable to save Manhunt data. Press any key to continue.}
+Error desconocido al guardar. Imposible guardar datos de Manhunt. Pulsa cualquier tecla para continuar.
+
+[LOADING]
+{Loading Manhunt.}
+Cargando Manhunt.
+
+[LOAD_FA]
+{Unable to load Manhunt data. Data may be unusable. Press any key to continue.}
+Imposible cargar datos de Manhunt. Puede que los datos estén defectuosos. Pulsa cualquier tecla para continuar.
+
+[HSETDET]
+{Headset detected. The headset allows you to generate noise within the game using your voice. The reactions of the hunters will vary according to how loud you speak. The microphone and earpiece volumes can be adjusted in the SETTINGS page of the front-end. Press any key to continue.}
+Auriculares detectados. Los auriculares te permiten generar ruido dentro del juego usando tu voz. Las reacciones de los cazadores varían según lo alto que hables. El volumen del micrófono y del auricular puede ajustarse en la página de CONFIGURACIÓN de la interfaz del juego. Pulsa cualquier tecla para continuar.
+
+[LEVEL_C]
+{Scene completed!}
+¡Escena completada!
+
+[LEVEL_F]
+{Scene Failed!}
+¡Escena fallida!
+
+[TIME]
+{Time}
+Tiempo
+
+[TARGET]
+{Target}
+Objetivo
+
+[HUN_KIL]
+{Hunters Killed}
+Cazadores muertos
+
+[HUN_EXE]
+{Hunters Executed}
+Cazadores ejecutados
+
+[STL_PTS]
+{Style Points}
+Puntos de estilo
+
+[TIMBON]
+{Time Bonus}
+Bonificador de tiempo
+
+[TOTAL]
+Total
+
+[PENE]
+{Fetish}
+Muñequita
+
+[PENN]
+{Hardcore}
+A saco
+
+[FINAL]
+{Final Score}
+Puntuación final
+
+[PREVIOU]
+{Previous Best Score}
+Antiguo récord
+
+[CONTC]
+{Continue ~cross~ button}
+Continuar, botón ~cross~
+
+[SAVEC]
+{Save ~cross~ button}
+Guardar, botón ~cross~
+
+[QUITT]
+{Quit to menu ~triangle~ button}
+Salir al menú, botón ~triangle~
+
+[UPDS]
+{~up~ ~down~ Select}
+Seleccionar, ~up~ ~down~
+
+[LRS]
+{~left~ ~right~ Select}
+Seleccionar, ~left~ ~right~
+
+[CONFC]
+{Confirm ~cross~ button}
+Confirmar, botón ~cross~
+
+[BACKT]
+{Back ~triangle~ button}
+Volver, botón ~triangle~
+
+[CANCELT]
+{Cancel ~triangle~ button}
+Cancelar, botón ~triangle~
+
+[OKC]
+{OK ~cross~ button}
+Aceptar, botón ~cross~
+
+[BACKWL]
+{Back without load ~triangle~ button}
+Volver sin cargar, botón ~triangle~
+
+[BACKWLC]
+{Back without load ~cross~ button}
+Volver sin cargar, botón ~cross~
+
+[LRUDS]
+{~left~ ~right~ ~up~ ~down~ Select}
+Seleccionar, ~left~ ~right~ ~up~ ~down~
+
+[CONALC]
+{Confirm and load ~cross~ button}
+Confirmar y cargar, botón ~cross~
+
+[BWSTR]
+{Continue without save ~triangle~ button}
+Continuar sin guardar, botón ~triangle~
+
+[BWSCR]
+{Back without save ~cross~ button}
+Volver sin guardar, botón ~cross~
+
+[COASAC]
+{Confirm and save ~cross~ button}
+Confirmar y guardar, botón ~cross~
+
+[CONOSAV]
+{Continue without saving ~triangle~ button}
+Continuar sin guardar, botón ~triangle~
+
+[UDRSEL]
+{~up~ ~down~ ~right~ Select}
+Seleccionar, ~up~ ~down~ ~right~
+
+[UDLSEL]
+{~up~ ~down~ ~left~ Select}
+Seleccionar, ~up~ ~down~ ~left~
+
+[UDLRSEL]
+{~up~ ~down~ ~left~ ~right~ Select}
+Seleccionar, ~left~ ~right~ ~up~ ~down~
+
+[NOMENU]
+{No menu items available yet!}
+¡Todavía no hay elementos disponibles del menú!
+
+[RSETB]
+{~right~ Set brightness}
+Modificar brillo, ~right~
+
+[LSETB]
+{~left~ Set brightness}
+Modificar brillo, ~left~
+
+[LRSETB]
+{~left~ ~right~ Set brightness}
+Modificar brillo, ~left~ ~right~
+
+[WELLD]
+{WELL DONE}
+BIEN HECHO
+
+[THEEND]
+{THE END}
+FIN
+
+[CAM1]
+CAM1
+
+[MAINM]
+{MAIN MENU}
+MENÚ PRINCIPAL
+
+[PLAY]
+{PLAY}
+JUGAR
+
+[SELSCE]
+{SELECT SCENE}
+SELECCIONAR ESCENA
+
+[SETT]
+{SETTINGS}
+CONFIGURACIÓN
+
+[QUESNO]
+NO
+
+[QUESYES]
+{YES}
+SÍ
+
+[DEFAULT]
+{RESTORE DEFAULTS}
+RESTAURAR PREDETERMINADOS
+
+[DEFQUE]
+{ARE YOU SURE YOU WANT TO RESTORE ALL SETTINGS TO THE DEFAULT?}
+¿SEGURO QUE QUIERES RESTAURAR LA CONFIGURACIÓN A SUS VALORES PREDETERMINADOS?
+
+[QUITPRG]
+{QUIT}
+SALIR
+
+[QUITQUE]
+{ARE YOU SURE YOU WANT TO QUIT THE PROGRAM?}
+¿SEGURO QUE QUIERES SALIR DEL PROGRAMA?
+
+[BOCOUNT]
+{Death counter}
+Contador de muertos
+
+[C_RUN]
+{Runner}
+Incansable
+
+[C_SILEN]
+{Silence}
+Silencio
+
+[C_REGEN]
+{Regenerate}
+Regenerar
+
+[C_HELI]
+{Helium hunters}
+Cazadores de helio
+
+[C_FULEQ]
+{Fully equipped}
+Completamente equipado
+
+[C_SUPUN]
+{Super punch}
+Superpuñetazo
+
+[C_RABBI]
+{Rabbit skin}
+Piel de conejo
+
+[C_MONKE]
+{Monkey skin}
+Piel de mono
+
+[C_INVIS]
+{Invisibility}
+Invisibilidad
+
+[C_PIGGS]
+{Piggsy skin}
+Piel de Piggsy
+
+[C_GOD]
+{God mode}
+Modo dios
+
+[BONFEA]
+{BONUS FEATURES}
+CONTENIDOS ADICIONALES
+
+[CURRSCO]
+TU PUNTUACIÓN:
+
+[SCRTOOP]
+{SCORE TO OPEN:}
+PUNTUACIÓN PARA ACTIVAR:
+
+[BONUSSC]
+{BONUS}
+BONIFICADOR
+
+[GAMCOMP]
+{GAME COMPLETED}
+JUEGO COMPLETADO
+
+[FINLSCR]
+{FINAL SCORE}
+PUNTUACIÓN FINAL
+
+[CONTR]
+{CONTROLS}
+CONTROLES
+
+[AUDIO]
+{AUDIO}
+SONIDO
+
+[HEADSET]
+{HEADSET}
+AURICULARES
+
+[RECVOL]
+{MICROPHONE}
+MICRÓFONO
+
+[PBVOL]
+{EARPIECE}
+AURICULAR VOLUMEN DE MICRO A AURICULAR
+
+[VIDEO]
+{VIDEO}
+GRÁFICOS
+
+[BRIGHTN]
+{BRIGHTNESS}
+BRILLO
+
+[DEFSET]
+{DEFAULT SETTINGS}
+CONFIGURACIÓN PREDETERMINADA
+
+[SAVSET]
+{SAVE SETTINGS}
+GUARDAR CONFIGURACIÓN
+
+[AUDSET]
+{AUDIO SETTINGS}
+CONFIGURACIÓN DE SONIDO
+
+[SUBTIT]
+{SUBTITLES}
+SUBTÍTULOS
+
+[OFF]
+{OFF}
+NO
+
+[ON]
+{ON}
+SÍ
+
+[SFXVOL]
+{SFX VOLUME}
+VOLUMEN DE EFECTOS ESPECIALES
+
+[MUSVOL]
+{MUSIC VOLUME}
+VOLUMEN DE MÚSICA
+
+[DIRVOL]
+{DIRECTOR VOLUME}
+VOLUMEN DE DIRECTOR
+
+[SNDOPT]
+{SOUND OPTIONS}
+OPCIONES DE SONIDO MONO ESTÉREO PRO LOGIC II
+
+[SPKRST]
+{STEREO SPKR.}
+ALTAV. ESTÉREO
+
+[HEADPST]
+{HEADPHONES}
+AURICULARES
+
+[SPKR4]
+{4 SPKR.}
+4 ALTAV.
+
+[SPKR51]
+{5.1 SPKR.}
+ALTAV. 5.1
+
+[SPKR71]
+{7.1 SPKR.}
+ALTAV. 7.1
+
+[VIDSET]
+{VIDEO SETTINGS}
+CONFIGURACIÓN GRÁFICA
+
+[NOISEFX]
+{NOISE FX}
+EFECTOS DE RUIDO
+
+[RATIO]
+{RATIO}
+PROPORCIÓN
+
+[WIDESC]
+{WIDESCREEN}
+PANORÁMICA
+
+[DETGAME]
+{GAME DETAIL}
+DETALLE DEL JUEGO
+
+[DETSHAD]
+{SHADOW DETAIL}
+SOMBRAS
+
+[SCRH]
+{SCREEN H}
+PANTALLA H
+
+[SCRV]
+{SCREEN V}
+PANTALLA V
+
+[BRSET1]
+{PLEASE CHECK THIS PICTURE}
+MIRA ESTA IMAGEN Y ASEGÚRATE DE
+
+[BRSET2]
+{AND MAKE SURE THAT THE BOX}
+QUE LA CASILLA DE LA IZQUIERDA
+
+[BRSET3]
+{ON THE LEFT IS JUST VISIBLE.}
+ES JUSTAMENTE VISIBLE.
+
+[BRSET4]
+^
+
+[BRINFO1]
+{TO BEST EXPERIENCE MANHUNT YOU SHOULD...}
+PARA DISFRUTAR AL MÁXIMO DE MANHUNT DEBERÍAS...
+
+[BRINFO2]
+{TURN OFF THE LIGHTS...}
+APAGAR LAS LUCES...
+
+[BRINFO3]
+{CLOSE THE DRAPES...}
+CORRER LAS CORTINAS...
+
+[BRINFO4]
+{LOCK THE DOOR...}
+CERRAR LA PUERTA...
+
+[BRINFO5]
+{THEN GET READY TO KILL!}
+¡Y PREPARARTE PARA MATAR!
+
+[CONTMOD]
+{CONTROL SETTINGS}
+CONFIGURACIÓN DE CONTROL
+
+[CONTTYP]
+{CONTROL TYPE}
+TIPO DE CONTROL
+
+[CTYPE1]
+{MODE A}
+MODO A
+
+[CTYPE2]
+{MODE B}
+MODO B
+
+[CTYPE3]
+{MODE C}
+MODO C
+
+[INVERTY]
+{INVERT Y}
+INVERTIR Y
+
+[MOUSENX]
+{MOUSE SENSITIVITY X}
+SENSIBILIDAD X RATÓN
+
+[MOUSENY]
+{MOUSE SENSITIVITY Y}
+SENSIBILIDAD Y RATÓN
+
+[VIBR]
+{VIBRATION}
+VIBRACIÓN
+
+[REMAPC]
+{REMAP CONTROLS}
+CONFIGURAR CONTROLES
+
+[ACTION1]
+{ACTION}
+ACCIÓN
+
+[ACTION2]
+{ACTION2}
+ACCIÓN2
+
+[INVUP]
+{INVENTORY UP}
+INVENTARIO ARRIBA
+
+[INVDN]
+{INVENTORY DOWN}
+INVENTARIO ABAJO
+
+[INV1]
+{INVENTORY ITEM 1}
+OBJ. 1 INVENTARIO
+
+[INV2]
+{INVENTORY ITEM 2}
+OBJ. 2 INVENTARIO
+
+[INV3]
+{INVENTORY ITEM 3}
+OBJ. 3 INVENTARIO
+
+[INV4]
+{INVENTORY ITEM 4}
+OBJ. 4 INVENTARIO
+
+[INVSWAP]
+{INVENTORY SWAP}
+CAMBIO INVENTARIO
+
+[RELOAD]
+{RELOAD}
+RECARGAR
+
+[USE]
+{USE}
+USAR
+
+[PAUSE]
+{PAUSE / MENU}
+PAUSA/MENÚ
+
+[PERSON1]
+{FIRST PERSON}
+PRIMERA PERSONA
+
+[PEEKL]
+{PEEK LEFT}
+VISTAZO IZQUIERDA
+
+[PEEKR]
+{PEEK RIGHT}
+VISTAZO DERECHA
+
+[LOOKB]
+{LOOK BACK}
+MIRAR ATRÁS Mover suff
+
+[MFWD]
+{FORWARD}
+ADELANTE
+
+[MBACK]
+{BACK}
+ATRÁS
+
+[MLEFT]
+{STRAFE LEFT}
+LATERAL IZQ.
+
+[MRIGHT]
+{STRAFE RIGHT}
+LATERAL DCHA.
+
+[SPRINT]
+{RUN}
+CORRER
+
+[SNEAK]
+{SNEAK}
+SIGILO
+
+[RMBBACK]
+PULSA EL BOTÓN DERECHO DEL RATÓN PARA CONTINUAR
+
+[KEYSEP]
+{OR}
+O
+
+[KEYUNDF]
+- ? -
+
+[KEYSPC]
+{SPACE}
+BARRA ESP.
+
+[KEY0]
+0
+
+[KEY1]
+1
+
+[KEY2]
+2
+
+[KEY3]
+3
+
+[KEY4]
+4
+
+[KEY5]
+5
+
+[KEY6]
+6
+
+[KEY7]
+7
+
+[KEY8]
+8
+
+[KEY9]
+9
+
+[KEYA]
+A
+
+[KEYB]
+B
+
+[KEYC]
+C
+
+[KEYD]
+D
+
+[KEYE]
+E
+
+[KEYF]
+F
+
+[KEYG]
+G
+
+[KEYH]
+H
+
+[KEYI]
+I
+
+[KEYJ]
+J
+
+[KEYK]
+K
+
+[KEYL]
+L
+
+[KEYM]
+M
+
+[KEYN]
+N
+
+[KEYO]
+O
+
+[KEYP]
+P
+
+[KEYQ]
+Q
+
+[KEYR]
+R
+
+[KEYS]
+S
+
+[KEYT]
+T
+
+[KEYU]
+U
+
+[KEYV]
+V
+
+[KEYW]
+W
+
+[KEYX]
+X
+
+[KEYY]
+Y
+
+[KEYZ]
+Z
+
+[KEYHYP1]
+`
+
+[KEYMINU]
+-
+
+[KEYEQU]
+=
+
+[KEYLBR]
+{LEFT BRACKET}
+CORCHETE IZQ.
+
+[KEYRBR]
+{RIGHT BRACKET}
+CORCHETE DCHA.
+
+[KEYSEMI]
+;
+
+[KEYHYP2]
+'
+
+[KEYHASH]
+#
+
+[KEYCOMM]
+,
+
+[KEYFSTO]
+.
+
+[KEYBSLA]
+\
+
+[KEYFSLA]
+/
+
+[KEYESC]
+ESC
+
+[KEYF1]
+F1
+
+[KEYF2]
+F2
+
+[KEYF3]
+F3
+
+[KEYF4]
+F4
+
+[KEYF5]
+F5
+
+[KEYF6]
+F6
+
+[KEYF7]
+F7
+
+[KEYF8]
+F8
+
+[KEYF9]
+F9
+
+[KEYF10]
+F10
+
+[KEYF11]
+F11
+
+[KEYF12]
+F12
+
+[KEYINS]
+INSERT
+
+[KEYDEL]
+{DELETE}
+SUPR
+
+[KEYHOME]
+{HOME}
+INICIO
+
+[KEYEND]
+{END}
+FIN
+
+[KEYPGUP]
+{PAGE UP}
+RE PÁG
+
+[KEYPGDN]
+{PAGE DOWN}
+AV PÁG
+
+[KEYUP]
+{UP}
+ARRIBA
+
+[KEYDOWN]
+{DOWN}
+ABAJO
+
+[KEYLEFT]
+{LEFT}
+IZQUIERDA
+
+[KEYRIGH]
+{RIGHT}
+DERECHA
+
+[KEYPINS]
+{NUM INSERT}
+INS NUM
+
+[KEYPDEL]
+{NUM DELETE}
+SUPR NUM
+
+[KEYPHOM]
+{NUM HOME}
+INICIO NUM
+
+[KEYPEND]
+{NUM END}
+FIN NUM
+
+[KEYPPGU]
+{NUM PAGE UP}
+RE PÁG NUM
+
+[KEYPPGD]
+{NUM PAGE DOWN}
+AV PÁG NUM
+
+[KEYPUP]
+{NUM UP}
+ARRIBA NUM
+
+[KEYPDOW]
+{NUM DOWN}
+ABAJO NUM
+
+[KEYPLEF]
+{NUM LEFT}
+IZQ. NUM
+
+[KEYPRIG]
+{NUM RIGHT}
+DERECHA NUM
+
+[KEYNLOC]
+{NUM LOCK}
+BLOQ NUM
+
+[KEYPDIV]
+NUM /
+
+[KEYPTIM]
+NUM *
+
+[KEYPMIN]
+NUM -
+
+[KEYPPLU]
+NUM +
+
+[KEYPENT]
+{NUM ENTER}
+NUM INTRO
+
+[KEYPAD5]
+NUM 5
+
+[KEYBS]
+{BACKSPACE}
+RETROCESO
+
+[KEYTAB]
+TAB
+
+[KEYCAPS]
+{CAPS LOCK}
+BLOQ MAYÚS
+
+[KEYENT]
+{ENTER}
+INTRO
+
+[KEYLSH]
+{LEFT SHIFT}
+MAYÚS IZQ.
+
+[KEYRSH]
+{RIGHT SHIFT}
+MAYÚS DCHA.
+
+[KEYSH]
+{SHIFT}
+MAYÚS
+
+[KEYLCTR]
+{LEFT CTRL}
+CTRL IZQ.
+
+[KEYRCTR]
+{RIGHT CTRL}
+CTRL DCHA.
+
+[KEYLALT]
+{LEFT ALT}
+ALT IZQ.
+
+[KEYRALT]
+{RIGHT ALT}
+ALT DCHA.
+
+[KEYLWIN]
+{LEFT WIN}
+WIN IZQUIERDO
+
+[KEYRWIN]
+{RIGHT WIN}
+WIN DERECHO
+
+[KEYRCLI]
+{RIGHT CLICK}
+CLIC DERECHO
+
+[PCLMB]
+{MOUSE L}
+RATÓN I
+
+[PCMMB]
+{MOUSE M}
+RATÓN C
+
+[PCRMB]
+{MOUSE R}
+RATÓN D
+
+[PCX1MB]
+{MOUSE X1}
+RATÓN X1
+
+[PCX2MB]
+{MOUSE X2}
+RATÓN X2
+
+[PCMWUP]
+{WHEEL UP}
+RUEDA ARR.
+
+[PCMWDN]
+{WHEEL DOWN}
+RUEDA ABA.
+
+[INPRO]
+{-(IN PROGRESS)}
+- (EN PROGRESO)
+
+[COMPLT]
+{-(COMPLETE)}
+- (COMPLETO)
+
+[INPROG]
+{IN PROGRESS}
+EN PROGRESO
+
+[DIFF]
+{DIFFICULTY}
+DIFICULTAD
+
+[EASY]
+{FETISH}
+MUÑEQUITA
+
+[EASYI]
+{The standard level of difficulty}
+El nivel normal de dificultad
+
+[NORMAL]
+{HARDCORE}
+A SACO
+
+[NORMALI]
+{The hardest level of difficulty}
+El nivel de dificultad más elevado
+
+[BACK]
+{BACK}
+VOLVER
+
+[SCESEL]
+{SCENE SELECTION}
+SELECCIÓN DE ESCENAS
+
+[IBACK]
+{Back}
+Volver
+
+[ICANCEL]
+{Cancel}
+Cancelar
+
+[IOK]
+{OK}
+Aceptar
+
+[CONF_SA]
+{Save Game Data?}
+¿Guardar datos del juego?
+
+[GFC_SUC]
+{Game Files Created Successfully.}
+Archivos de juego creados con éxito.
+
+[NEWG]
+{START A NEW GAME}
+COMENZAR UNA PARTIDA NUEVA
+
+[LOADG]
+{LOAD GAME}
+CARGAR PARTIDA
+
+[SAVEG]
+{SAVE GAME}
+GUARDAR PARTIDA
+
+[CRE_DIR]
+{~circle~ Create Directory ~cross~ Continue without saving}
+~circle~ Crear directorio ~cross~ Continuar sin guardar
+
+[CREATIN]
+{Creating Game Directory}
+Creando directorio de juego
+
+[DIR_SUC]
+{Directory Created Successfully}
+Directorio creado con éxito
+
+[EMPTY]
+{EMPTY}
+VACÍO
+
+[CRPT_D]
+{CORRUPT DATA}
+DATOS DAÑADOS
+
+[YES]
+{Yes}
+Sí
+
+[NO]
+No
+
+[CRO_2_C]
+{Press ~cross~ to Continue}
+Pulsa ~cross~ para continuar
+
+[UQUIT?]
+{Are you sure you want to quit?}
+¿Seguro que quieres salir?
+
+[SETINGS]
+{SETTINGS}
+CONFIGURACIÓN
+
+[SAVEGAM]
+{SAVE}
+GUARDAR
+
+[QUIT]
+{QUIT}
+SALIR
+
+[CONTINU]
+{CONTINUE}
+CONTINUAR
+
+[LANGUA]
+{LANGUAGES}
+IDIOMAS
+
+[ENG]
+ENGLISH
+
+[FRA]
+FRANÇAIS
+
+[ITA]
+ITALIANO
+
+[GER]
+DEUTSCH
+
+[ESP]
+ESPAÑOL
+
+[FISTS]
+{Fists}
+Puños
+
+[PLA_BAG]
+{Plastic Bag}
+Bolsa de plástico
+
+[WIRE]
+{Wire}
+Cable
+
+[PIG_WIR]
+{Wire}
+Cable
+
+[G_SHARD]
+{Glass Shard}
+Fragmento de cristal
+
+[PIG_SHA]
+{Shard}
+Fragmento
+
+[SPIKE]
+{Wooden Spike}
+Pincho de madera
+
+[KNIFE]
+{Knife}
+Cuchillo
+
+[CROWBAR]
+{Crowbar}
+Palanca
+
+[BLAKJAK]
+{Blackjack}
+Porra
+
+[NITSTIK]
+{Nightstick}
+Cachiporra
+
+[HAMMER]
+{Hammer}
+Martillo
+
+[AXE]
+{Axe}
+Hacha
+
+[ICE_PIK]
+{Ice Pick}
+Piolet
+
+[MACHETE]
+Machete
+
+[SICKLE]
+{Sickle}
+Hoz
+
+[MEAT_C]
+{Meat Cleaver}
+Cuchillo de carnicero
+
+[WBASBAT]
+{Baseball Bat}
+Bate de béisbol
+
+[MBASBAT]
+{Baseball Bat}
+Bate de béisbol
+
+[BAT_SPI]
+{Baseball Bat with Spikes}
+Bate de béisbol con pinchos
+
+[CHAINSW]
+{Chainsaw}
+Motosierra
+
+[BRICK]
+{Brick}
+Ladrillo
+
+[CAN]
+{Can}
+Lata
+
+[BOTTLE]
+{Bottle}
+Botella
+
+[NAILGUN]
+{Nail Gun}
+Pistola de clavos
+
+[REVLVR]
+{Revolver Six Shooter}
+Revólver de seis balas
+
+[GLOCK]
+{Light Handgun}
+Pistola ligera
+
+[D_EAGLE]
+{Heavy Handgun}
+Pistola pesada
+
+[UZI]
+{Sub-Machine Gun}
+Subfusil
+
+[SAWNOFF]
+{Sawn Off Shotgun}
+Escopeta de cañones recortados
+
+[SHOTGUN]
+{Shotgun}
+Escopeta
+
+[SHO_TOR]
+{Shotgun + Light}
+Escopeta + linterna
+
+[TRANQ_R]
+{Tranquillizer Rifle}
+Fusil tranquilizante
+
+[COLT_C]
+{Assault Rifle}
+Fusil de asalto
+
+[SNI_RIF]
+{Sniper Rifle (Scoped)}
+Fusil de francotirador (con mira telescópica)
+
+[SSNIRIF]
+{Sniper Rifle (Scoped) + Silencer}
+Fusil de francotirador (con mira telescópica) + silenciador
+
+[PAINKIL]
+{Painkillers}
+Analgésico
+
+[GASTANK]
+{Gasoline Tank}
+Tanque de gasolina
+
+[DOLL_1]
+{doll_1}
+Doll_1
+
+[DOLL_2]
+{Doll 2}
+Doll_2
+
+[DOLL_3]
+{Doll 3}
+Doll_3
+
+[KEY]
+{Key}
+Llave
+
+[DVTAPE]
+{Video Tape}
+Cinta de vídeo
+
+[HANDCAM]
+{Video Camera}
+Cámara de vídeo
+
+[HEAD]
+{Head}
+Cabeza
+
+[NAILS]
+{Box of Nails (10)}
+Caja de clavos (10)
+
+[TDARTS]
+{Darts (6)}
+Dardos (6)
+
+[SHELLS]
+{Shotgun Shells (8)}
+Cartuchos de escopeta (8)
+
+[PIST_A]
+{Pistol Ammo}
+Munición de pistola
+
+[A_CLIP]
+{Ammo Clip (30)}
+Cargador de munición (30)
+
+[RIFLE_A]
+{Rifle Bullets (6)}
+Balas de fusil (6)
+
+[HB_BUL]
+{Handgun Bullets (12)}
+Balas de pistola (12)
+
+[SWAPINV]
+{Press and hold the Inventory button to swap this item for the}
+Pulsa y mantén pulsado el botón de Inventario para cambiar este objeto por
+
+[PICKDUP]
+{Picked Up :}
+Recogido:
+
+[CHEKPNT]
+{Save Point Hit}
+Alcanzado punto de guardado
+
+[LVL_CLO]
+{???}
+¿¿??
+
+[LVL_1]
+{BORN AGAIN}
+RENACIDO
+
+[LVL_1A]
+-
+
+[LVL_2]
+{DOORWAY INTO HELL}
+PUERTA AL INFIERNO
+
+[LVL_2A]
+-
+
+[LVL_3]
+{ROAD TO RUIN}
+CARRETERA DE PERDICIÓN
+
+[LVL_3A]
+-
+
+[LVL_4]
+{WHITE TRASH}
+BASURA BLANCA
+
+[LVL_4A]
+-
+
+[LVL_5]
+{FUELLED BY HATE}
+MOVIDO POR EL ODIO
+
+[LVL_5A]
+-
+
+[LVL_6]
+{GROUNDS FOR ASSAULT}
+TIERRAS PARA EL ASALTO
+
+[LVL_6A]
+-
+
+[LVL_7]
+{STRAPPED FOR CASH}
+SIN UN DURO
+
+[LVL_7A]
+-
+
+[LVL_8]
+{VIEW OF INNOCENCE}
+IMAGEN DE INOCENCIA
+
+[LVL_8A]
+-
+
+[LVL_9]
+{DRUNK DRIVING}
+CONDUCCIÓN CON ALCOHOL
+
+[LVL_9A]
+-
+
+[LVL_10]
+{GRAVEYARD SHIFT}
+TURNO DE NOCHE
+
+[LVL_10A]
+-
+
+[LVL_11]
+{MOUTH OF MADNESS}
+LA BOCA DEL MIEDO
+
+[LVL_11A]
+-
+
+[LVL_12]
+{DOING TIME}
+CUMPLIENDO CONDENA
+
+[LVL_12A]
+-
+
+[LVL_13]
+{KILL THE RABBIT}
+MATAR AL CONEJO
+
+[LVL_13A]
+-
+
+[LVL_14]
+{DIVIDED THEY FALL}
+DIVIDIDOS CAERÁN
+
+[LVL_14A]
+-
+
+[LVL_15]
+{PRESS COVERAGE}
+COBERTURA MEDIÁTICA
+
+[LVL_15A]
+-
+
+[LVL_16]
+{WRONG SIDE OF THE}
+LADO MALO DE LAS
+
+[LVL_16A]
+{TRACKS}
+VÍAS
+
+[LVL_17]
+{TRAINED TO KILL}
+ENTRENADO PARA MATAR
+
+[LVL_17A]
+-
+
+[LVL_18]
+{BORDER PATROL}
+PATRULLA FRONTERIZA
+
+[LVL_18A]
+-
+
+[LVL_19]
+{KEY PERSONNEL}
+PERSONAL CRUCIAL
+
+[LVL_19A]
+-
+
+[LVL_20]
+{DELIVERANCE}
+SALVACIÓN
+
+[LVL_20A]
+-
+
+[LVL_21]
+{HARD AS NAILS}
+DURO COMO UN CLAVO
+
+[LVL_21A]
+-
+
+[LVL_22]
+{BRAWL GAME}
+JUEGO DE LUCHA
+
+[LVL_22A]
+-
+
+[LVL_23]
+{MONKEY SEE,}
+EL PARDILLO BUENO,
+
+[LVL_23A]
+{MONKEY DIE!}
+¡EL PARDILLO MUERTO!
+
+[LVL_24]
+{TIME 2 DIE}
+HORA DE MORIR
+
+[LVL_24A]
+-
+
+[JAN]
+{JAN}
+ENE
+
+[FEB]
+FEB
+
+[MAR]
+MAR
+
+[APR]
+{APR}
+ABR
+
+[MAY]
+MAY
+
+[JUN]
+JUN
+
+[JUL]
+JUL
+
+[AUG]
+{AUG}
+AGO
+
+[SEP]
+SEP
+
+[OCT]
+OCT
+
+[NOV]
+NOV
+
+[DEC]
+{DEC}
+DIC
+
+[CRED1]
+ROCKSTAR NORTH
+
+[CRED2]
+@- Producer -
+
+[CRED3]
+Andy Hay
+
+[CRED4]
+@- Lead Level Designer -
+
+[CRED5]
+Christian Cantamessa
+
+[CRED6]
+@- Level design -
+
+[CRED7]
+Paul Davis, Steve Taylor, William Mills
+
+[CRED8]
+Simon Lashley, John Haime
+
+[CRED9]
+@- Lead Programmer -
+
+[CRED10]
+John Whyte
+
+[CRED11]
+@- Programmers -
+
+[CRED12]
+John Gurney, Derek Ward, Keith McLeman, Steve Gallacher
+
+[CRED13]
+Shaun McKillop, Alexander Illes, Alexander Roger, Greg Smith
+
+[CRED14]
+@- Lead Artist -
+
+[CRED15]
+Andy Hay
+
+[CRED16]
+@- Character Design -
+
+[CRED17]
+Alan Davidson
+
+[CRED18]
+@- Lead Environment Artist -
+
+[CRED19]
+Michael Pirso
+
+[CRED20]
+@- Artists -
+
+[CRED21]
+Alan Burns, Campbell-John Dick, Gillian Bertram, Simon Little
+
+[CRED22]
+@- Lead Animator -
+
+[CRED23]
+Mark Tennant
+
+[CRED24]
+@- Animators -
+
+[CRED25]
+Terry Kenny, Ray O'Dwyer, Gus Braid
+
+[CRED26]
+@- Audio Design -
+
+[CRED27]
+Allan Walker
+
+[CRED28]
+@- Music -
+
+[CRED29]
+Craig Conner
+
+[CRED30]
+@- Dialogue Engineering -
+
+[CRED31]
+Will Morton
+
+[CRED32]
+@- Audio Programming -
+
+[CRED33]
+Colin Entwistle
+
+[CRED34]
+@- Development Director -
+
+[CRED35]
+Leslie Benzies
+
+[CRED36]
+@- Art Director -
+
+[CRED37]
+Aaron Garbut
+
+[CRED38]
+@- Technical Directors -
+
+[CRED39]
+Obbe Vermeij, Adam Fowler
+
+[CRED40]
+@- Hunter Dialogue -
+
+[CRED41]
+James Worrall, Christian Cantamessa
+
+[CRED42]
+@- Cut Scene Animation -
+
+[CRED43]
+Mondo Ghulam, Iwan Scheer, Lee Montgomery
+
+[CRED44]
+@- Graphic design -
+
+[CRED45]
+Stuart Petrie
+
+[CRED46]
+@- Story -
+
+[CRED47]
+Alan Davidson, Christian Cantamessa
+
+[CRED48]
+@- Test Manager -
+
+[CRED49]
+Craig Arbuthnott
+
+[CRED50]
+@- Lead Analysts -
+
+[CRED51]
+David Murdoch, Dave Watson, Neil Corbett
+
+[CRED52]
+@- Testers -
+
+[CRED53]
+Neil Meikle, James Allan, David Beddoes, George Williamson
+
+[CRED54]
+Scott Cameron, Thomas Whittaker, Neil Walker, Chris Wood
+
+[CRED55]
+@- Additional Art -
+
+[CRED56]
+Tony Porter, Craig Moore, Jolyon Orme, Ian McQue
+
+[CRED57]
+@- Technical support -
+
+[CRED58]
+Lorraine Roy, Christine Chalmers
+
+[CRED59]
+@- Studio Director -
+
+[CRED60]
+Andrew Semple
+
+[CRED61]
+@- Office Support -
+
+[CRED62]
+Kim Gurney, Charlene McGuire
+
+[CRED63]
+@@ROCKSTAR NYC
+
+[CRED64]
+@- Executive Producer -
+
+[CRED65]
+Sam Houser
+
+[CRED66]
+@- VP of Creative -
+
+[CRED67]
+Dan Houser
+
+[CRED68]
+@- VP of Development -
+
+[CRED69]
+Jamie King
+
+[CRED70]
+@- Chief Technology Officer -
+
+[CRED71]
+Gary J. Foreman
+
+[CRED72]
+@- Director of Quality Assurance -
+
+[CRED73]
+Jeff Rosa
+
+[CRED74]
+@- Technical Manager -
+
+[CRED75]
+Sandeep Bisla
+
+[CRED76]
+@- Lead Analyst -
+
+[CRED77]
+Lee Cummings
+
+[CRED78]
+@- Rockstar Test Team -
+
+[CRED79]
+Lance Williams, Brian Planer, Rich Huie, Chris Choi
+
+[CRED80]
+Scott Peterman, Christopher Plummer, Ethan Abeles
+
+[CRED81]
+William Rompf, Elizabeth Satterwhite
+
+[CRED82]
+Devin Smither, Tammy Beatty
+
+[CRED83]
+@- Research and Analysis -
+
+[CRED84]
+Joe Howell
+
+[CRED85]
+@- Production Team -
+
+[CRED86]
+Terry Donovan, Alex Horton, Mark Garone, Jenefer Gross
+
+[CRED87]
+Jeff Castaneda, Jennifer Kolbe, Adam Tedman
+
+[CRED88]
+Devin Winterbottom, Brian Wood, Brian Noto, David Kim
+
+[CRED89]
+Lindsey Caldwell, Hosi Simon, Daniel Einzig, Jerry Luna
+
+[CRED90]
+Stuart Petri, Futaba Hayashi, Jeff Williams, Richard Kruger
+
+[CRED91]
+Jake King, Jordan Chew, Devin Bennett, Chris Carro
+
+[CRED92]
+Rob Fleischer, Bill Linn, Noelle Sadler, John Zurhellen
+
+[CRED93]
+Kerry Shaw, David Thomson, Susan Lewis
+
+[CRED94]
+@- Rockstar Games Intro Animation -
+
+[CRED95]
+- Manhunt Title Sequence -
+
+[CRED96]
+Maryam Parwana
+
+[CRED97]
+@- Cut scenes -
+
+[CRED98]
+Written by: James Worrall, Christian Cantamessa
+
+[CRED99]
+Audio Directed by: Renaud Sebbane
+
+[CRED100]
+Audio Talent procurement: Judy Henderson
+
+[CRED101]
+Motion Capture Directed by: Navid Khonsari
+
+[CRED102]
+Studios: Track Nine and Sound Space
+
+[CRED103]
+@Acting
+
+[CRED104]
+@Cash : Kurt Bauccio
+
+[CRED105]
+Cerberus : Jon Bernthal
+
+[CRED106]
+Ramirez : Darren Lenz
+
+[CRED107]
+Starkweather : Alan Mozes
+
+[CRED108]
+Piggsy : Alex Wouman
+
+[CRED109]
+Journalist : Melle Powers
+
+[CRED110]
+Gang Member : Lawrence Ballard
+
+[CRED111]
+Stunt Coordinator : Manny Siverio
+
+[CRED112]
+Stunts : Bob Colletti
+
+[CRED113]
+@- Voiceover -
+
+[CRED114]
+@Hoods:
+
+[CRED115]
+Sean Lynch, John Doman, Lenny Venito, Greg Salata
+
+[CRED116]
+Peter Appel, Nestor Serrano
+
+[CRED117]
+@Innocents:
+
+[CRED118]
+Greg Sims, Adam Seitz, Geoffrey Cantor, Antone Pagan
+
+[CRED119]
+James Urbaniak, David Coburn
+
+[CRED120]
+@War Dogs:
+
+[CRED121]
+Kendall Clark aka Loose Cannon, Ricky Aiello
+
+[CRED122]
+Julian Rebolledo aka Julian Dean, Chris McKinney
+
+[CRED123]
+Erik Bergman, PJ Sosko
+
+[CRED124]
+@Skinz:
+
+[CRED125]
+Burke Moses, Todd Cummings, Evan Seinfeld, Andrew Totolos
+
+[CRED126]
+Lloyd Floyd, Jeff Gurner
+
+[CRED127]
+@Smilies:
+
+[CRED128]
+Robert Stanton, Patrick McCartney, Rob Sedgwick
+
+[CRED129]
+Glenn Fleshler, David Pittu, Tony Devito, Jeremy Schwartz
+
+[CRED130]
+@Cerberus:
+
+[CRED131]
+Brian Maillard, Julian Fletcher, Michael Mulheren
+
+[CRED132]
+@Cops:
+
+[CRED133]
+John Henry Cox, Dennis Ostermaier, Gary Littman
+
+[CRED134]
+Hunter Platin
+
+[CRED135]
+@SWAT's:
+
+[CRED136]
+Richard Mover, Matt Walton, Rodd Houston
+
+[CRED137]
+@Ramirez:
+
+[CRED138]
+Barry Carl, Chris McKinney
+
+[CRED139]
+@Director:
+
+[CRED140]
+Brian Cox
+
+[CRED141]
+@Cash:
+
+[CRED142]
+Stephen Wilfong
+
+[CRED143]
+@Journalist:
+
+[CRED144]
+Kate Miller
+
+[CRED145]
+@Piggsy:
+
+[CRED146]
+Hunter Platin
+
+[CRED147]
+@Prison Voice:
+
+[CRED148]
+Brad Abelle
+
+[CRED149]
+@Dispatcher:
+
+[CRED150]
+Noelle Sadler
+
+[CRED151]
+@- Additional voice acting -
+
+[CRED152]
+Kevin Wong, Adam Cochrane, Kim Gurney, Paul Kurowski
+
+[CRED153]
+@- Additional Testing -
+
+[CRED154]
+Alex Bazlinton, Paul Green, Brenda Carey,
+
+[CRED155]
+Stephen Anderson, Pedro Correia
+
+[CRED156]
+@- Thanks -
+
+[CRED157]
+Alan Mui, Chris Hunter, Chris Mitchell, Iain Berekis
+
+[CRED158]
+Ben Greenall, Bryan Bradley, Julia Davies, Duncan Shields
+
+[CRED159]
+Eric Joseph, Andy Rimroth, Jason Page, Kris Larson
+
+[CRED160]
+Alan McGregor
+
+[CRED161]
+@- Special Thanks -
+
+[CRED162]
+Valerio Faggioni, Andrew Dowell, Morag Reilly
+
+[CRED163]
+Aaron, Louise and Kieran Hay, Phil Gurney, Sarah Oram
+
+[CRED164]
+Siun Clohosey, Alex Wright, Richard Ralfe, Layla Gedik
+
+[CRED165]
+Jennifer Arthur, Iain Fugue, Jack Hunter, The Pond
+
+[CRED166]
+<END>
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

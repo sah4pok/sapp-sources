@@ -1,0 +1,159 @@
+﻿[GOAL1]
+{Find a way into the factory complex}
+Descubre cómo entrar en el complejo industrial.
+
+[GOAL2]
+{Use the lever in the guard hut to open the ~blue~loading bay~colour~ gates}
+Utiliza la palanca de la garita de la guardia para abrir las puertas del ~blue~compartimiento de carga~colour~.
+
+[GOAL3]
+{Try to make your way to the factory's front reception area}
+Intenta abrirte paso hasta la zona de la entrada principal de la fábrica.
+
+[GOAL4]
+{The lift is out of action. Deactivate the failsafe to power it up again}
+El ascensor no funciona. Desactiva los sistemas de seguridad para que vuelva a tener energía.
+
+[GOAL5]
+{Get to the reception area and exit the factory anyway you can}
+Ve a la entrada principal y sal de la fábrica por donde puedas.
+
+[GOAL6]
+{The main doors are locked via the control room console}
+Las puertas principales están cerradas mediante la consola de la sala de control.
+
+[GOAL7]
+{Exit the factory complex and head for the ~blue~loading bay~colour~}
+Sal del complejo industrial y dirígete al ~blue~compartimiento de carga~colour~.
+
+[GRV1A1]
+{Time for a little overtime! Make your way through the factory!}
+¡Hay que hacer horas extras! ¡Ábrete camino por la fábrica!
+
+[GRV1A2]
+{The loading bay's your only way in.}
+La única forma de entrar es por el compartimiento de carga.
+
+[GRV13A1]
+{For a job well done make your way to the foyer.}
+Si quieres un trabajo bien hecho, ve hasta el vestíbulo.
+
+[GRV2A1]
+{Well that's put a spanner in the works. Why don't you try the guard hut.}
+Bueno, eso es como meter un palo entre los radios de una rueda. ¿Por qué no pruebas en la garita de la guardia?
+
+[GRV3A1]
+{Way to go, Cash! Now make your way through the factory.}
+¡Sigue así, Cash! Ahora ábrete camino por la fábrica...
+
+[GRV4A1]
+{Aw dammit, the lift's screwed again!}
+¡Maldita sea! ¡El ascensor ha vuelto a petar!
+
+[GRV4A2]
+{You're going to have to go down to the basement.}
+Tendrás que bajar hasta el sótano.
+
+[GRV5A1]
+{There's a circuit breaker down there that will get the lift working.}
+Allí hay un disyuntor que hará que el ascensor funcione.
+
+[GRV6A1]
+{You need to reset the circuit breaker in the basement for the lift to work!}
+¡Para que funcione el ascensor, tendrás que reiniciar el disyuntor del sótano!
+
+[GRV7A1]
+{You need to reset the circuit breaker for the lift to work!}
+¡Para que funcione el ascensor, tendrás que reiniciar el disyuntor!
+
+[GRV8A1]
+{Nice one, Cash. The lift should be working now.}
+Bien hecho, Cash. Ahora el ascensor debería funcionar.
+
+[GRV9A1]
+{Ok, I admit it - some of the doors are locked via a}
+Bueno, lo admito, algunas de las puertas están cerradas
+
+[GRV9A2]
+{panel in the control room - sorry.}
+desde un panel en la sala de control, lo siento.
+
+[GRV10A1]
+{That's my leading man! Attaboy! See you with some beers outside!}
+¡Ése es mi protagonista! ¡Muy bien hecho! ¡Nos tomaremos unas birras cuando estés fuera!
+
+[GRV11A1]
+{I told you. You're gonna have to use the panel in the control room to open the door!}
+Te lo dije. ¡Para abrir la puerta tendrás que usar el panel de la sala de control!
+
+[GRV12A1]
+{I don't think we've made too many friends - Hell, I like you, but these guys...}
+No creo que hayas hecho muchos amigos; joder, a mí me caes bien, pero a estos tíos...
+
+[HINT2]
+Director: Not that way! That would be too easy!
+
+[DOORSS]
+Director: Use the control room console to open these doors!
+
+[FSAFE2]
+Director: You need to get down to that basement and deactivate the failsafe...
+
+[FSAFE3]
+DIrector: It's preventing the gantry lift from working!
+
+[FAILON]
+Director: You need the failsafe off for the lift to work!
+
+[FAILOFF]
+Director: Good! That lift should be working now!
+
+[FOLLOW3]
+Director: That's it! Those main entrance doors are unlocked! Meet you outside!
+
+[SEWAGEL]
+Director: Some doors are locked via the main control room of the works!
+
+[END]
+Director: Well done for now! You haven't seen the last of that rabbit though!
+
+[GOTHRU1]
+Director: Time for a little overtime! Make your way through this factory!
+
+[GOTHRU2]
+Director: Use the loading bay as your entry point... If you can!
+
+[LOADLOK]
+Director: You'll need to reopen the loading bay gates! Check out the guard hut!
+
+[LOADOPN]
+Director: Excellent! Try and work your way through the factory complex...
+
+[FOYER]
+Director: Get to the foyer and pick up your wages when the job's done!
+
+[HNTCTRL]
+Director: That control room might be important!
+
+[COMMIT]
+Director: Seems your work isn't up to scratch! This reception committee looks pissed off!
+
+[MPG1]
+{What the fuck...}
+Qué cojones...
+
+[MPG2]
+{Get in the van now!}
+¡Entra en la furgoneta de una vez!
+
+[MPG3]
+{Move it!}
+¡Mueve el culo!
+
+[MPG4]
+{You heard the man!}
+¡Ya lo has oído!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

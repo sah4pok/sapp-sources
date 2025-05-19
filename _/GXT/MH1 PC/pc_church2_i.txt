@@ -1,0 +1,361 @@
+﻿[USE]
+{To make the Tramp follow you, press the Use button when you are facing him and he is waiting.}
+Per fare in modo che il vagabondo ti segua, premi il tasto Usa quando sei di fronte a lui e ti sta aspettando.
+
+[USE2]
+{To make the Tramp stop and wait for you, press the Use button when you are facing him and he is following you.}
+Per fare in modo che il vagabondo si fermi e ti aspetti, premi il tasto Usa quando sei di fronte a lui e ti sta seguendo.
+
+[WALK]
+{Hunters will attack the tramp, so make sure they don't find him. He can hide in the shadows if you guide him there.}
+I cacciatori attaccheranno il vagabondo: per fare in modo che non lo trovino, ordinagli di nascondersi nell'ombra.
+
+[STOP]
+{The tramp's health bar and arrow on the radar will go blue when he is hidden in a safe zone.}
+La barra e la freccia sul radar diventeranno blu quando il vagabondo è nascosto nell'ombra.
+
+[GOAL1]
+{Rescue the tramp from his cell}
+Fai evadere il vagabondo dalla sua cella.
+
+[GOAL2]
+{Take the tramp past the streets to the graveyard}
+Fai superare la strada al vagabondo per raggiungere il cimitero.
+
+[GOAL3]
+{Find a shotgun then take the tramp to the old tomb}
+Trova un fucile e poi conduci il vagabondo alla vecchia tomba.
+
+[MOAN1]
+{How did we end up on this shit post?}
+Com'è che siamo finiti in questo posto merdoso?
+
+[MOAN2]
+{Should be getting high with the guys guarding the derelict house.}
+Forse dovremmo fumarci qualcosa insieme agli altri uomini di guardia.
+
+[MOAN3]
+{Stop whining, this is what we do.}
+Basta lamentarsi, questo è il nostro lavoro.
+
+[MOAN4]
+{Fuck this guarding shit! Why only the others have to get all the fun?}
+Affanculo la guardia! Perché solo gli altri devono divertirsi?
+
+[MOAN5]
+{This sucks. Kinda like your sister.}
+Fa schifo. Piacerà forse a tua sorella.
+
+[QUIET1]
+{Shut up in there!}
+Silenzio!
+
+[QUIET2]
+{Stop it! You're making me mad!}
+Basta! Mi stai facendo impazzire!
+
+[TCHAT1]
+{Apparently a bum is gonna show up 'round here and we've got to do him. Poor bastard.}
+Sembra che il vagabondo stia per farsi vivo da queste parti e dovremo eliminarlo. Povero bastardo!
+
+[TCHAT2]
+{It's one thing to wax some psycho... but I aint into killing no bum.}
+Una cosa è freddare un folle psicopatico... un'altra uccidere un povero sfigato.
+
+[TCHAT3]
+{I saw that tramp before. Trust me - if he gets close, we'll smell him.}
+Ho già visto quel vagabondo. Fidatevi... se si avvicina... sentiremo la sua puzza.
+
+[TCHAT4]
+{I killed a bum once in ... It was no big deal.}
+Una volta ho ucciso un vagabondo in... Non è stato un grosso problema.
+
+[TCHAT5]
+{Oh que pasa, you don't have the stomach for this?}
+Cosa succede, credi che sia troppo per il tuo stomaco?
+
+[TCHAT6]
+{Ohhhhhh I think I can smell him already!}
+Ohhhhhhhh, credo di sentire già il suo odore!
+
+[TFOLL1]
+{Ok, buddy, anything you say!}
+Ok amico, come vuoi tu!
+
+[TFOLL2]
+{Whatever.}
+Come vuoi.
+
+[TFOLL3]
+{Hey, you're boss!}
+Ehi, sei tu il capo.
+
+[TFOLL4]
+{Anything for my new bestest buddy!}
+Qualsiasi cosa per il mio nuovo amico.
+
+[TFOLL5]
+{We going to get some liquor?}
+Riusciamo a farci un bicchierino?
+
+[TFOLL6]
+{Where we going, me ol'pal?}
+Dove stiamo andando, vecchio mio?!?
+
+[TSTAY1]
+{What the hell, this looks comfortable enough!}
+Che diavolo, qui sembra tutto sotto controllo!
+
+[TSTAY2]
+{Bring back something to drink, would ya!}
+Torna con qualcosa da bere, intesi?!?
+
+[TSTAY3]
+{No need to be so bossy - I was thinking of hanging around here anyway!}
+Non c'è bisogno di essere così autoritario... in ogni caso, stavo pensando di rimanere nei paraggi!
+
+[TSTAY4]
+{Make your mind up, buddy!}
+Deciditi, amico!
+
+[TSTAY5]
+{Ok, you two be careful now!}
+Ok, voi due state attenti, adesso!
+
+[TSTAY6]
+{Hey, you better come back for me, buddy...}
+Ehi, faresti meglio a tornare da me, amico...
+
+[TRMP1]
+{Uh -oh.. Hello.}
+Oh oh... salve.
+
+[TRMP2]
+{You got a couple of dollars, huh? Huh?}
+Non avresti qualche monetina, eh?
+
+[TRMP3]
+{You better have something to drink, pal.}
+Faresti meglio a berti qualcosa, amico.
+
+[CMON1]
+{Follow me.}
+Seguimi.
+
+[CMON2]
+{Move it!}
+Muoviti.
+
+[CMON3]
+{Come 'ere.}
+Vieni qui.
+
+[CMON4]
+{Stay close - make a sound an' I'll kill you myself.}
+Stammi vicino... fai un solo rumore e ti ucciderò con le mie stesse mani.
+
+[CMON5]
+{Shift your ass.}
+Muovi il culo.
+
+[CMON6]
+{You're with me.}
+Resta con me.
+
+[HOLD1]
+{Park it here.}
+Fermati qui.
+
+[HOLD2]
+{Stay here an' don't move a fuckin' muscle.}
+Stai qui e non muovere un solo dito.
+
+[HOLD3]
+{Stay put and shut up.}
+Stai fermo e taci.
+
+[HOLD4]
+{Don't move.}
+Non muoverti.
+
+[HOLD5]
+{Stay here, out of trouble.}
+Stai qui, lontano dai guai.
+
+[HOLD6]
+{Stop following me!}
+Smettila di seguirmi.
+
+[DRK1A1]
+{I've got a little surprise for you. You looked lonely, so I got you some company.}
+Ho una piccola sorpresa per te. Sembravi così solo, così ti ho portato un po' di compagnia.
+
+[DRK1A2]
+{Unfortunately the Innocentz thought better of it and locked him up.}
+Sfortunatamente ci hanno pensato gli Innocentz e l'hanno rinchiuso.
+
+[DRK1A3]
+{You're gonna have to bust him out!}
+Sei tu che dovrai liberarlo!
+
+[DRK2A1]
+{Well what do you think of your new friend? You look good together, Cash, really you do.}
+Allora, cosa ne pensi del tuo nuovo amico? Siete una bella coppia, Cash, davvero.
+
+[DRK2A2]
+{I'll only open any gates if he's with you, alive and well.}
+Aprirò qualsiasi cancello, solo se sarà con te, sano e salvo.
+
+[DRK2A3]
+{Now get going. Entertain me.}
+E ora muoviti, FAMMI DIVERTIRE!
+
+[DRK3A1]
+{You're going to have to think of a way of separating these guys and picking them off one by one…}
+Dovrai trovare un modo per dividere questi uomini e spennarli uno a uno...
+
+[DRK4A1]
+{I told you. Get that hobo safely to the gate and I'll buzz you through.}
+Te l'ho detto. Porta quel vagabondo sano e salvo al cancello e ti farò passare.
+
+[DRK5A1]
+{I thought this graveyard would make a great location for a shoot-out - what do you think, Cash?}
+Pensavo che questo cimitero fosse un set fantastico per... cosa ne pensi, Cash?
+
+[DRK6A1]
+{Aw, Cash, I'm disappointed, really I am,}
+Cash, mi hai deluso, davvero!
+
+[DRK6A2]
+{is that any way to care for your bestest buddy?!}
+Sarebbe questo il modo di occuparti del tuo miglior amico?
+
+[DRK6B1]
+{Cash! You let that poor man down in the biggest possible way.}
+Cash! Hai deluso quell'uomo nel peggiore dei modi.
+
+[DRK6B2]
+{I only hope you can live with yourself.}
+Spero solo che ti senta a posto con la tua coscienza.
+
+[DRK6C1]
+{You blew it Cash! All you had to do was look out for someone for ten minutes and you blew it...}
+Hai fallito, Cash! Tutto ciò che dovevi fare era sorvegliare qualcuno per dieci minuti e hai fallito...
+
+[DRK6D1]
+{Cash, baby, you let them kill your friend}
+Cash, hai lasciato che uccidessero il tuo amico
+
+[DRK6D2]
+{and you made such a lovely couple!}
+ed eravate una coppia così affiatata!
+
+[DRK7A1]
+{See that old house? That's where you're headed.}
+Vedi quella vecchia casa? È là che sei diretto.
+
+[DRK8A1]
+{You're doing good Cash, you'll need to go through the pedestrian tunnel - find it.}
+Stai andando bene Cash, dovrai attraversare il tunnel pedonale... trovalo.
+
+[DRK9A1]
+{Aren't you forgetting someone, Cash?}
+Ehi Cash, non ti stai dimenticando di nessuno?
+
+[DRK9B1]
+{Hey, what about your new buddy - you're not going to abandon him are you?}
+Ehi, e il tuo nuovo amico... non avrai intenzione di abbandonarlo qui, vero?
+
+[DRK9C1]
+{You've left your new chum behind - friends are supposed to look out for each other!}
+Hai lasciato indietro il tuo nuovo compagno... si suppone che gli amici debbano aiutarsi a vicenda.
+
+[DRK9D1]
+{Is that how you treat your pals? Leave 'em to rot?}
+È così che tratti i tuoi amici, lasciandoli marcire?
+
+[DRK10A1]
+{Cash! Your buddy's getting the crap kicked out of him!}
+Cash! Il tuo amico è a metà strada verso l'inferno!
+
+[DRK10B1]
+{You've got to learn how to care for others, Cash - Your new friend's in trouble!}
+Devi imparare a prenderti cura degli altri, Cash... Il tuo nuovo amico è nei guai!
+
+[DRK10C1]
+{Heads up, Cash, you better go rescue your new friend!}
+Forza Cash, faresti meglio a salvare il tuo nuovo amico!
+
+[DRK10D1]
+{Oh dear, looks like your new bunk buddy's run into a few Hunters!}
+Oh cielo, sembra che il tuo nuovo compagno di letto si sia imbattuto in dei cacciatori!
+
+[DRK11A1]
+{You know the deal, Cash. I open the door when I see your friend.}
+Conosci i patti, Cash. Aprirò la porta quando vedrò il tuo amico.
+
+[DRK11B1]
+{When I see your smelly friend I'll open the door.}
+Quando vedrò il tuo amico puzzolente, aprirò la porta.
+
+[DRK11C1]
+{I'm not blind Cash, where's your hobo buddy?}
+Non sono cieco, Cash. Dov'è il tuo amico vagabondo?
+
+[DRK11D1]
+{The tramp! Where's the fucking tramp, Cash?}
+Il vagabondo! Dov'è quel fottuto vagabondo, Cash?!?
+
+[DRK12A1]
+{The Exit is behind this old tomb. You'll need a shotgun}
+L'uscita è dietro a quella vecchia tomba. Ti servirà un fucile,
+
+[DRK12A2]
+{so make sure to pick one up along the way.}
+quindi assicurati di raccoglierne uno lungo la strada.
+
+[RESCUE]
+Director : Nice work Cash!, Alright take him out through the alley, only he can open the doors, so if he dies so do you. You need to get him to the graveyard.
+
+[GATE]
+Director : See this, That's a tramp gate, you gotta have the man if you wanna pass through.
+
+[START]
+Director : The tramps locked up behind that door, take out the guard.
+
+[BARREL]
+Hunter : How did we end up on this shit post, should be getting high with the guys at the derelict house.
+
+[FAILED]
+Director : The tramp got killed, do it again.
+
+[PICK]
+Tramp : Uhh, That's better.
+
+[WAIT]
+Tramp : Don't leave me man
+
+[UNDER]
+Director : The tramp is under attack, if he dies you'll have to start again.
+
+[GATE1]
+Director : Aren't you missing someone, go back and get the tramp.
+
+[GATE2]
+Director : The door won't be opened til I see that tramp.
+
+[GATE3]
+Director : I'm not stupid Cash, Go back and get the tramp, then I'll open the gate.
+
+[GATE4]
+Director : I'm not blind Cash, wheres the tramp?.
+
+[GATE5]
+Director : When I see the tramp, I'll open the door.
+
+[GUARD]
+(TRAMP SINGING) Guard : Shut up in there
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

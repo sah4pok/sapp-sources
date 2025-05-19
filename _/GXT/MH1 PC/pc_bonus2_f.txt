@@ -1,0 +1,15 @@
+﻿[INTRO1]
+{The banana shortage has given the Zoo monkeys an appetite for death!}
+Y a plus de bananes, et les singes du zoo CREVENT la dalle, si tu vois ce que je veux dire !
+
+[INTRO2]
+{Start feeding them lead to stop being on the menu too!}
+Fais-leur bouffer du plomb et évite de faire partie de leur menu !
+
+[GOAL]
+{Get out of the Zoo alive}
+Sors du zoo vivant !
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

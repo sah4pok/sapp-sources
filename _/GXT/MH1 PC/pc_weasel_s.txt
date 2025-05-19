@@ -1,0 +1,88 @@
+﻿[GAMEGOD]
+{To jump from roof to roof and over big gaps, run as fast as you can towards the edge and the player will jump automatically.}
+Para saltar de tejado a tejado y sobre grandes espacios, corre todo lo que puedas hacia el borde y el jugador saltará automáticamente.
+
+[HAMMER]
+{To open this door you need to find something to rip off its lock.}
+Para abrir esta puerta, necesitas encontrar algo para forzar la cerradura.
+
+[HIDE]
+{Watch out for hunters hiding in the shadows. They will not appear on the radar until you spot them.}
+Cuidado con los cazadores que se esconden en las sombras. No aparecerán en el radar hasta que los localices.
+
+[GOAL1]
+{Kill all the Hoods before the time runs out}
+Mata a todos los Hoods antes de que se acabe el tiempo
+
+[GOAL2]
+{Make your way to the exit gates}
+Ábrete el camino hasta la puerta de salida
+
+[W_CLEAN]
+{You have cleared the WAREHOUSE of all the Hoods}
+Has despejado el ALMACÉN de toda presencia de los Hoods
+
+[RS_FULL]
+{There are still hunters hiding away in the ROOFTOPS and in the ALLEYS}
+Todavía hay cazadores escondiéndose en los TEJADOS y en los CALLEJONES
+
+[W_FULL]
+{Remember to finish the Hoods hiding in the WAREHOUSE}
+No olvides terminar con los Hoods que se esconden en el ALMACÉN
+
+[R_CLEAN]
+{You have cleared the ROOFTOPS of all the Hoods}
+Has despejado los TEJADOS de toda presencia de los Hoods
+
+[R_FULL]
+{Remember to finish the Hoods hiding on the ROOFTOPS}
+No olvides terminar con los Hoods que se esconden en los TEJADOS
+
+[WS_FULL]
+{There are still hunters hiding away in the WAREHOUSE and in the ALLEYS}
+Todavía hay cazadores escondidos en el ALMACÉN y en los CALLEJONES
+
+[S_CLEAN]
+{You have cleared the ALLEYS of all the Hoods}
+Has despejado los CALLEJONES de toda presencia de los Hoods
+
+[S_FULL]
+{Remember to finish the Hoods hiding in the ALLEYS}
+No olvides terminar con los Hoods que se esconden en los CALLEJONES
+
+[RW_FULL]
+{There are still hunters hiding away on the ROOFTOPS and in the WAREHOUSE}
+Todavía hay cazadores escondidos en el ALMACÉN y en los TEJADOS
+
+[MUR1A1]
+{Cash, baby, you're scaring the shit out of these Hoods. They're trying to bug out!}
+Cash, cielo, tienes a los Hoods cagaditos de miedo. ¡Están intentando largarse!
+
+[MUR1A2]
+{I can see their van coming, should be here in ten minutes or so.}
+Veo que viene su furgoneta, debería llegar dentro de diez minutos o así.
+
+[MUR1A3]
+{Fucking low-life cowards... Do me a favour, kill every last one of them!}
+Jodidos cobardes de medio pelo... Hazme un favor, ¡mata hasta el último de ellos!
+
+[MUR2A1]
+{Well that's it! That wasn't too bad, was it? Head on over to that gate and I'll let you out…}
+Bueno, ¡eso es! Eso no ha sido tan malo, ¿verdad? Dirígete a esa puerta y te dejaré ir...
+
+[MUR3A1]
+{Oh, for christ's sake, Cash, you blew it! It's the cutting room floor for you!}
+Oh, por el amor de Dios, Cash, ¡la cagaste! ¡Es el fin para ti!
+
+[START01]
+Cash, my man, you scared the shit out of the HOODS. They dont want to play with us anymore.
+
+[START02]
+It will take 10 minutes for their VAN to arrive. Do me a favour and kill EVERYONE, Ok?
+
+[END]
+Well done Cash, the Hoods have been wiped out and the gates are open. Make your way towards them and Ill let you go.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

@@ -1,0 +1,80 @@
+﻿[GOAL1]
+{Make your way to the end of the Trainyard}
+Arriva in fondo al deposito dei treni.
+
+[DISP4]
+{The suspect is believed to be in the area, approach with extreme caution!}
+Si suppone che il sospetto sia in zona, avvicinarsi con la massima cautela!
+
+[DISP5]
+{He is armed and is considered to be highly dangerous!}
+È armato e si suppone anche molto pericoloso!
+
+[FREEZ1]
+{Freeze Punk! Just give me an excuse to waste you.}
+Fermati bastardo! Non cerco che una scusa per eliminarti.
+
+[FREEZ2]
+{CCPD! Hold it right there!}
+Polizia! Fermo dove sei!
+
+[FREEZ3]
+{Not another inch, asshole!}
+Non un altro passo, pezzo di merda!
+
+[CAPT1]
+{Be advised, Dispatch, we have the animal!}
+Centrale, l'animale è nelle nostre mani!
+
+[CAPT2]
+{Dispatch! Dispatch! We got the bastard!}
+Centrale! Centrale! Abbiamo trovato il bastardo!
+
+[CAPT3]
+{Fuckin'A - We got him! Woohoo!}
+Ci siamo... è nostro! Woohoo!
+
+[MPG1]
+{Put your fucking hands up!}
+Alza quelle fottute mani!
+
+[MPG2]
+{Shoot that copkiller sonofabitch!}
+Uccidete quel figlio di puttana ammazza poliziotti!
+
+[MPG3]
+{What the fuck is this?}
+Cosa diavolo sta succedendo?
+
+[MPG4]
+{Shoot that cop killin sonofabitch!}
+Uccidete quel fottuto elimina-poliziotti!
+
+[GAMEGOD]
+{To jump from wagon to wagon and over big gaps, run as fast as you can towards the edge and the player will jump automatically.}
+Per saltare da un vagone all'altro e superare ampi spazi, corri più veloce che puoi fino al bordo e spiccherai automaticamente un balzo.
+
+[INTRO]
+COP : JUST KEEP YOUR EYES PEELED HES AROUND HERE SOMEWHERE, WEVE GOT THE ACCESS TO THE TRACK LOCKED
+
+[SNIPER]
+COP : AND SWAT HAVE A SNIPER IN THE WATER TOWER WITH A GOOD VIEW OF THE TRACK SO HE AINT GOING NOWHERE WITHOUT US KNOWING
+
+[DEAD]
+COP : WE GOT HIM HE AINT GONNA BE CAUSING US ANYMORE TROUBLE
+
+[RADIO1]
+POLICE RADIO: The suspect is believed to be in the area, approach with extreme caution .
+
+[RADIO2]
+POLICE RADIO: He is armed and considered dangerous.
+
+[CAPTUR1]
+COP: Freeze Fucker! Just give me an excuse to waste you.
+
+[CAPTUR2]
+COP ON RADIO: Control we have captured the suspect.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

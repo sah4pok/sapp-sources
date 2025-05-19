@@ -1,0 +1,205 @@
+﻿[KEY]
+{You have collected the ELEVATOR KEY.}
+Du hast dir den AUFZUG-SCHLÜSSEL besorgt.
+
+[KEY2]
+{The Cerberus Leader has dropped the ~green~ELEVATOR KEY~colour~, go and get it!}
+Der Cerberus-Anführer hat den ~green~AUFZUG-SCHLÜSSEL~colour~ fallengelassen. Schnapp ihn dir!
+
+[CAMERA]
+{You have been spotted by a SECURITY CAMERA - The guards will know your position now.}
+Du bist von einer ÜBERWACHUNGSKAMERA gesehen worden - Jetzt kennen die Wachen deine Position.
+
+[CAMERA2]
+{Watch out for SECURITY CAMERAS. The Cerberus guards use them to know where you are.}
+Pass auf ÜBERWACHUNGSKAMERAS auf. Damit können die Cerberus-Wachen herausfinden, wo du bist.
+
+[LIFT]
+{The ELEVATOR is now operational again.}
+Der AUFZUG funktioniert wieder.
+
+[GOD1]
+{You cannot use the elevator yet. You don't have the KEY and the POWER is still off.}
+Du kannst den Aufzug noch nicht benutzen. Du hast keinen SCHLÜSSEL und der STROM ist immer noch aus.
+
+[GOD2]
+{You cannot use the elevator yet. You don't have the KEY.}
+Du kannst den Aufzug noch nicht benutzen. Du hast keinen SCHLÜSSEL.
+
+[GOD3]
+{You cannot use the elevator yet. The POWER is still off.}
+Du kannst den Aufzug noch nicht benutzen. Der STROM ist noch immer aus.
+
+[GOAL1]
+{Find the ~green~LEADER~colour~ of the Cerberus team and acquire the ELEVATOR KEY}
+Finde den ~green~ANFÜHRER~colour~ des Cerberus-Teams und besorge dir den AUFZUG-SCHLÜSSEL.
+
+[GOAL2]
+{Reach the ~blue~basement~colour~ in the west wing and turn Starkweather's ELEVATOR back on}
+Begib dich in den ~blue~Keller~colour~ im Westflügel und schalte Starkweathers AUFZUG wieder ein.
+
+[GOAL3]
+{Use the ELEVATOR to reach Starkweather}
+Benutze den AUFZUG, um an Starkweather ranzukommen.
+
+[SUPRT1]
+{Copy that request for support! Hang in there guys, help is coming!}
+Verstanden! Verstärkung anfordern. Haltet durch, Jungs, Hilfe ist unterwegs!
+
+[SUPRT2]
+{Roger that! Reinforcements are on their way!}
+Bestätige! Verstärkung ist unterwegs!
+
+[SUPRT3]
+{Wilco, should be with you guys ASAP!}
+Verstanden, müsste jeden Augenblick bei euch sein!
+
+[CNV1_1]
+{Sir, one of the men is not responding. We have to move you somewhere more secure.}
+Sir, einer der Männer antwortet nicht. Wir müssen Sie an einen sichereren Ort bringen.
+
+[CNV1_2]
+{I want that asshole's head on a spike, sergeant!}
+Servieren Sie mir den Kopf von diesem Arschloch auf einem Silbertablett, Seargent!
+
+[CNV1_3]
+{It will be a pleasure, sir! Escort him upstairs.}
+Wird mir ein Vergnügen sein, Sir! Begleitet ihn nach oben.
+
+[CNV2_1]
+{How did that psycho bastard get past the perimeter guards?}
+Wie ist dieses Psychopathen-Schwein bei der Absperrung an den Wachposten vorbeigekommen?
+
+[CNV2_2]
+{Cash has already neutralised two of our snipers, sir. We should assume he is armed.}
+Cash hat bereits zwei unserer Scharfschützen erledigt, Sir. Wir können davon ausgehen, dass er bewaffnet ist.
+
+[CNV2_3]
+{Leave two of your best men in the basement, I don't want any more surprises.}
+Lassen Sie zwei ihrer besten Männer im Keller. Ich will keine weiteren Überraschungen.
+
+[CNV2_4]
+{Already taken care of, sir. All the men are ready.}
+Das habe ich bereits getan, Sir. Alle Männer sind bereit.
+
+[CNV2_5]
+{I have instructed them to equip themselves from the armoury.}
+Ich habe sie angewiesen, sich in der Waffenkammer auszurüsten.
+
+[CNV2_6]
+{Very well. Any sign of him on the security cameras?}
+Ausgezeichnet. Irgendein Zeichen von ihm auf den Überwachungskameras?
+
+[CNV2_7]
+{No sir, but if he gets anywhere near that elevator we will be right on him.}
+Nein, Sir, aber wenn er in die Nähe des Aufzugs kommt, haben wir ihn.
+
+[LIFT1]
+{Shut the lift down, Starkweather said no unexpected visitors.}
+Schalten Sie den Aufzug aus. Starkweather möchte keine ungebetenen Besucher.
+
+[LIFT2]
+{Roger.}
+Verstanden.
+
+[GUN1]
+{Target is armed! Keep him confined!}
+Zielobjekt ist bewaffnet! Lassen Sie ihn nicht raus!
+
+[NOGUN1]
+{Target is not armed! Flush him so we can take him out!}
+Zielobjekt ist nicht bewaffnet! Scheuchen Sie ihn raus, dann können wir ihn erledigen!
+
+[HEAVY1]
+{What the? -oh shit!!!}
+Was zum ... Oh, verflucht!
+
+[HEAVY2]
+{Holy fuck! He's packing heavy!}
+Heilige Scheiße! Der legt richtig los!
+
+[HEAVY3]
+{Take cover, he means business!}
+In Deckung, er meint es Ernst!
+
+[STORM1]
+{Fuck this, I'm going in!!!!}
+Scheiß drauf, ich gehe jetzt rein!
+
+[STORM2]
+{I'm coming in there to fuck you up!!!}
+Ich komm jetzt rein und reiße dir den Arsch auf!
+
+[STORM3]
+{Who dares, wins - rraagghh!!!}
+Wer wagt, gewinnt - rraagghh!!
+
+[MPG1]
+{Have you locked the elevator?}
+Habt ihr den Aufzug zugeschlossen?
+
+[MPG2]
+{Nobody gets anywhere near Starkweather. Give me the key.}
+NIEMAND BEGIBT SICH IN DIE NÄHE VON Starkweather. Geben Sie mir den Schlüssel.
+
+[MPG3]
+{Yes sir.}
+Jawohl, Sir.
+
+[MPG4]
+{I want you to go down to the basement and turn off the motor.}
+Ich will, dass ihr in den Keller geht und den Motor ausschaltet.
+
+[MPG5]
+{We can't be safe with these two bastards running around.}
+Solange diese beiden Bastarde frei sind, können wir gar nicht vorsichtig genug sein.
+
+[MPG6]
+{We're on it, sir.}
+Zu Befehl, Sir.
+
+[CERB1]
+GUARD: Shut the lift down, Strarkweather said no unexpected visitors.
+
+[CERB2]
+GUARD: Roger. (Pulls lever).
+
+[CERB3]
+GUARD: Sir, One of the men is not responding. We have to take you somewhere more secure.
+
+[CHF1]
+CHIEF: Order the men to shoot at anything that moves.
+
+[CERB4]
+GUARD: Consider it done, sir. Escort him upstairs.
+
+[CHF2]
+CHIEF: How did that bastard get past the perimeter guards?
+
+[CERB5]
+GUARD: He has killed two of our snipers, sir. We should assume he is armed.
+
+[CHF3]
+CHIEF: I want his head on a silver plate, seargent!
+
+[CERB6]
+GUARD: All men are ready, I have instructed them to equip themselves from the armoury.
+
+[CHF4]
+CHIEF: Very well. Any sign of him in the security cameras?
+
+[CERB7]
+GUARD: No sir, but if he gets anywhere near that elevator we will be right on him
+
+[CHF5]
+CHIEF: Leave two of your best men in the basement, I don't want more surprise.
+
+[CERB8]
+GUARD: This has been already taken care of, sir.
+
+[BAS1]
+GUARD: OH SHIT!!!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

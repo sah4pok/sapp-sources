@@ -1,0 +1,6 @@
+gxt -i "III PS2/american.txt" -o "III PS2/american.gxt" -t "tables/iii_table.txt"
+gxt -i "III PS2/english.txt" -o "III PS2/english.gxt" -t "tables/iii_table.txt"
+gxt -i "III PS2/french.txt" -o "III PS2/french.gxt" -t "tables/iii_table.txt"
+gxt -i "III PS2/german.txt" -o "III PS2/german.gxt" -t "tables/iii_table.txt"
+gxt -i "III PS2/italian.txt" -o "III PS2/italian.gxt" -t "tables/iii_table.txt"
+gxt -i "III PS2/spanish.txt" -o "III PS2/spanish.gxt" -t "tables/iii_table.txt"

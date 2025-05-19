@@ -1,0 +1,85 @@
+#
+# Load IDEs first, then the models and after that the IPLs
+#
+
+# everything is loaded on a per directory basis and in alphabetical order 
+# to improve the speed of loading
+
+#
+# Object types
+#
+IDE Data/DEFAULT.IDE
+IDE Data/Maps/commer.ide
+IDE Data/Maps/comroad.ide
+IDE Data/Maps/generic.ide
+IDE Data/Maps/indroads.ide
+IDE Data/Maps/indust.ide
+IDE Data/Maps/subroads.ide
+IDE Data/Maps/suburb.ide
+IDE Data/Maps/temppart.ide
+IDE Data/Maps/making.ide
+IDE Data/Maps/overview.ide
+IDE Data/Maps/fortstaunton.ide
+IDE Data/Maps/fortdestroyed.ide
+IDE Data/Maps/leedsbits.ide
+IDE Data/Maps/leedsbits2.ide
+
+
+
+#
+# Standard objects
+#
+# texture dictionaries
+#andyg... these have been merged into a generic.txd which is loaded in code
+# TEXDICTION MODELS/MISC.TXD
+# TEXDICTION MODELS/GENERIC.TXD
+TEXDICTION Models/GENERIC.TXD
+TEXDICTION Models/Generic/WHEELS.TXD
+
+SPLASH LOADSC2
+
+# model data
+MODELFILE Models/Generic/AIR_VLO.DFF
+MODELFILE Models/Generic/WHEELS.DFF
+#MODELFILE Models/Generic/WEAPONS.DFF
+
+#collision data
+COLFILE 0 Models/Coll/vehicles.col
+COLFILE 0 Models/Coll/WEAPONS.COL
+#COLFILE 0 Models/Coll/GENERIC.COL
+
+#COLFILE 0 Models/Coll/MAKING.COL
+COLFILE 0 Models/Coll/vegepart.col
+COLFILE 0 Models/Coll/barriers.col
+COLFILE 0 Models/Coll/dynamic.col
+COLFILE 0 Models/Coll/roadpart.col
+COLFILE 0 Models/Coll/service.col
+COLFILE 0 Models/Coll/shops.col
+#andyg: not sure if this should be in 1 or 0
+#COLFILE 0 Models/Coll/TEMPPART.COL
+#COLFILE 0 Models/CollLEEDSBITS.COL
+
+#COLFILE 1 Models/Coll/INDUST.COL
+#COLFILE 1 Models/Coll/INDROADS.COL
+#COLFILE 2 Models/Coll/COMMER.COL
+#COLFILE 2 Models/Coll/COMROAD.COL
+#COLFILE 3 Models/Coll/SUBURB.COL
+#COLFILE 3 Models/Coll/SUBROADS.COL
+
+
+SPLASH LOADSC3
+
+# have to load map.zon before any of the IPLs
+#IPL DATA/MAP.ZON andyg: ive put this in with the next file
+IPL Data/GTA3.ZON
+
+#
+# Scene information
+#
+
+IPL Data/Maps/commer.ipl
+IPL Data/Maps/suburb.ipl
+IPL Data/Maps/CULL.IPL
+IPL Data/Maps/overview.ipl
+IPL Data/Maps/indust.ipl
+

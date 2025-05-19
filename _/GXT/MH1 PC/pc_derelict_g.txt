@@ -1,0 +1,140 @@
+﻿[GOAL1]
+{Get to the street}
+Geh auf die Straße.
+
+[GOAL2]
+{Find something to break the ~blue~PADLOCK~colour~}
+Finde etwas, womit du das ~blue~VORHÄNGESCHLOSS~colour~ aufbrechen kannst.
+
+[GOAL3]
+{Use the CROWBAR to break the ~blue~PADLOCK~colour~}
+Benutze die BRECHSTANGE, um das ~blue~VORHÄNGESCHLOSS~colour~ aufzubrechen.
+
+[GOAL4]
+{Win the fight in the cellar}
+Gewinne den Kampf im Keller.
+
+[GOAL5]
+{Head through the buildings to get to the library}
+Gehe durch die Gebäude zur Bibliothek.
+
+[GOAL6]
+{Go through the cellar to the exit}
+Gehe durch den Keller zum Ausgang.
+
+[START0]
+{You can look behind you by pressing down the Look Back button.}
+Mit der Umsehen-Taste kannst du nach hinten sehen.
+
+[START2]
+~!~
+
+[START1]
+~!~
+
+[BLUE]
+{One handed weapons like the Bat are ~blue~Blue ~colour~Objects. They are not lost after use but make noise during executions.}
+Waffen, die du mit einer Hand bedienen kannst, wie beispielsweise die Keule, sind ~blue~blaue~colour~ Objekte. Sie können wiederholt benutzt werden, machen aber Lärm, wenn du jemanden damit tötest.
+
+[SWAP]
+{You can select individual weapons using the four Inventory Item buttons, or cycle through them with the Inventory button.}
+Du kannst mit der vier Inventar Gegenstand Tasten die verfügbaren Waffen wählen, oder mit der Inventar-Taste zwischen ihnen hin- und herwechseln.
+
+[LOOK]
+{Hold down the First Person button to view your surroundings. You can use this to spot hunters at a distance.}
+Durch Gedrückthalten der Erste Person Ansichts Taste kannst du dir deine Umgebung ansehen. So kannst du weit entfernte Jäger frühzeitig erkennen.
+
+[SMASH]
+{Select the crowbar then press the Use button to break the padlock.}
+Wähle die Brechstange, dann drücke die Benutzen-Taste, um das Vorhängeschloss aufzubrechen.
+
+[GRAB]
+{Press the Action and the Action2 buttons together to grapple. Time the attack right and you can chain 3 hits together.}
+Wenn du die Aktionstaste und die Aktionstaste2 gleichzeitig drückst, kannst du um dich schlagen. Mit dem richtigen Timing kannst du 3 Schläge kombinieren.
+
+[GRAB2]
+{To break free from a hunter's grapple press the Action button repeatedly.}
+Drücke ein paar Mal hintereinander die Aktionstaste, um dich aus der Umklammerung eines Jägers zu befreien.
+
+[BAT]
+{The bigger weapons are stronger but not as fast as the lighter weapons like the crowbar.}
+Die größeren Waffen sind stärker, aber nicht so schnell wie die leichteren Waffen, also z. B. die Brechstange.
+
+[TRIAN]
+{The Crowbar can be used to break padlocks and other locked objects.}
+Mit der Brechstange kannst du Vorhängeschlösser und andere verschlossene Objekte aufbrechen.
+
+[GRAVE]
+{Walking on gravel will make noise that attracts the hunters.}
+Wenn du dich auf Kies bewegst, lockt das Geräusch die Jäger an.
+
+[WBAT]
+{Big weapons like this Baseball Bat are ~red~RED ~colour~items. They are stronger, but not as fast as the lighter weapons.}
+Große Waffen wie der Baseball-Schläger sind ~red~ROTE ~colour~Gegenstände. Sie sind stärker, aber nicht so schnell wie die leichteren Waffen.
+
+[BREAK]
+{Special Windows like this one can be smashed. They will create a glass shard for you to collect.}
+Spezielle Fenster wie dieses können eingeschlagen werden. Dabei entstehen Glasscherben, die du einsammeln kannst.
+
+[RADAR]
+{Objectives are shown as a dot on the radar.}
+Missionsziele erscheinen als Punkt auf dem Radar.
+
+[PISS]
+{Hunter : I'm taking a leak, I'll be out in the alley.}
+Jäger: Ich muss mal pinkeln, ich geh raus in die Gasse.
+
+[PISS1]
+{I need a leak. I'll be outside.}
+Ich muss pinkeln. Ich bin kurz draußen.
+
+[PISS2]
+{Man, I gotta take a piss.}
+Mann, hab ich einen Druck.
+
+[DOR1A1]
+{You're doing fine, Cash, just fine. We're getting some great material here! Keep going!}
+Du machst das gut, Cash, wirklich gut. Das wird tolles Material! Mach weiter so!
+
+[DOR2A1]
+{There's a Hood upstairs. Make some noise - hit something - that should get his attention!}
+Da ist einer von den Schlägern oben. Mach mal ein bisschen Lärm - schlag gegen etwas - damit er auf uns aufmerksam wird!
+
+[DOR3A1]
+{You're going to have to find something to bust that padlock!}
+Du musst etwas finden, um das Vorhängeschloss aufzubrechen!
+
+[DOR4A1]
+{A crowbar! That would be ideal for...}
+Eine Brechstange! Die wäre ideal zum ...
+
+[DOR4A2]
+{smashing a padlock, say!}
+Aufbrechen eines Vorhängeschlosses, nicht wahr!
+
+[DOR5A1]
+{Okay, this is what I like to call a 'set up'.}
+Jawohl, das nenne ich eine schöne Falle.
+
+[DOR5A2]
+{This guy will fight dirty, but once you're through with him, I'll open the next door.}
+Dieser Typ kämpft mit harten Bandagen, aber wenn du ihn kaltmachst, öffne ich die nächste Tür.
+
+[DER1A1]
+Director : Go through that building up ahead to get to the street.
+
+[DER2A1]
+Director : That hunter is watching the stairs, lure him downstairs by hitting a wall, then wait in a safe zone.
+
+[DER3A1]
+Director : This door is padlocked. You ever want to get outta here alive, you better find a way to bust that padlock!
+
+[DER4A1]
+Director : Okay Cash, nice going. Now Grab the crowbar and head back to smash that padlock.
+
+[DER5A1]
+Director : Okayyy, Put on a good show against this hooded fuck for me and it might help you outta here. Watch tho' this guy fights dirty.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

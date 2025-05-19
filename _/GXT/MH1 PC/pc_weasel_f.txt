@@ -1,0 +1,79 @@
+﻿[GAMEGOD]
+{To jump from roof to roof and over big gaps, run as fast as you can towards the edge and the player will jump automatically.}
+Pour passer d'un toit à l'autre ou par-dessus un trou, cours aussi vite que tu peux jusqu'au bord et tu sauteras automatiquement.
+
+[HAMMER]
+{To open this door you need to find something to rip off its lock.}
+Faut que tu trouves de quoi bousiller la serrure de cette porte.
+
+[HIDE]
+{Watch out for hunters hiding in the shadows. They will not appear on the radar until you spot them.}
+Fais gaffe aux chasseurs planqués dans l'ombre. Ils apparaissent sur ton radar que lorsque tu les répères.
+
+[GOAL1]
+{Kill all the Hoods before the time runs out}
+Bute tous les Lascars avant la fin du temps imparti.
+
+[GOAL2]
+{Make your way to the exit gates}
+Va jusqu'aux portes de sortie.
+
+[W_CLEAN]
+{You have cleared the WAREHOUSE of all the Hoods}
+T'as nettoyé l'ENTREPOT de tous les Lascars.
+
+[RS_FULL]
+{There are still hunters hiding away in the ROOFTOPS and in the ALLEYS}
+Il reste des chasseurs qui se planquent sur les TOITS et dans les ALLEES.
+
+[W_FULL]
+{Remember to finish the Hoods hiding in the WAREHOUSE}
+Oublie pas de débarbouiller les Lascars de l'ENTREPOT.
+
+[R_CLEAN]
+{You have cleared the ROOFTOPS of all the Hoods}
+T'as trucidé tous les Lascars des TOITS.
+
+[R_FULL]
+{Remember to finish the Hoods hiding on the ROOFTOPS}
+Oublie pas de dessouder les Lascars planqués sur les TOITS.
+
+[WS_FULL]
+{There are still hunters hiding away in the WAREHOUSE and in the ALLEYS}
+Il reste des chasseurs qui se planquent dans l'ENTREPOT et dans les ALLEES.
+
+[S_CLEAN]
+{You have cleared the ALLEYS of all the Hoods}
+T'as buté tous les Lascars des ALLEES.
+
+[S_FULL]
+{Remember to finish the Hoods hiding in the ALLEYS}
+Oublie pas de buter les Lascars planqués dans les ALLEES.
+
+[RW_FULL]
+{There are still hunters hiding away on the ROOFTOPS and in the WAREHOUSE}
+Il reste des chasseurs qui se planquent sur les TOITS et dans l'ENTREPOT.
+
+[MUR1A1]
+{Cash, baby, you're scaring the shit out of these Hoods. They're trying to bug out!}
+Cash, mon petit, tu flanques une frousse pas possible à ces Lascars. Ils essaient de se tailler.
+
+[MUR1A2]
+{I can see their van coming, should be here in ten minutes or so.}
+Je vois leur van qui arrive, il devrait être là d'ici dix minutes.
+
+[MUR1A3]
+{Fucking low-life cowards... Do me a favour, kill every last one of them!}
+Les petites lopettes... Rends-moi service, bute-les tous jusqu'au dernier !
+
+[MUR2A1]
+{Well that's it! That wasn't too bad, was it? Head on over to that gate and I'll let you out…}
+Voilà ! C'était pas si dur que ça, hein ? Va jusqu'à la porte et je te laisserai sortir...
+
+[MUR3A1]
+{Oh, for christ's sake, Cash, you blew it! It's the cutting room floor for you!}
+Oh, putain, Cash ! Tu t'es complètement planté ! T'es bon pour la casse !
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

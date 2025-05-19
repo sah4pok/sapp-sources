@@ -1,0 +1,7830 @@
+Global variables
+
+
+MAIN STATBIKELOWMUSCLE_CTR is never read
+
+MAIN STATTREADLOWMUSCLE_CTR is never read
+
+MAIN GF_GAME_TIMER is never read
+
+MAIN LA_HUB_ACTIVITY is never read
+
+MAIN RETURNED_RESPECT is never written
+
+MAIN ON_FOOTX is never read
+
+MAIN ON_FOOTY is never read
+
+MAIN ON_FOOTZ is never read
+
+MAIN IN_CARX is never read
+
+MAIN IN_CARY is never read
+
+MAIN IN_CARZ is never read
+
+MAIN F1_SPINLEFTGO_BEST_SCORE is never read
+
+MAIN F1_BURNLAPLEFT_BEST_SCORE is never read
+
+MAIN F1_WHIPLEFTTERMINATE_BEST_SCORE is never read
+
+MAIN F1_CONECOILLEFT_BEST_SCORE is never read
+
+MAIN WANTED_STAR_HELP is never read
+
+MAIN FLAG_HHIKER_TRIGGER is never read
+
+MAIN FLAG_PIMPING_TRIGGER is never read
+
+MAIN BEEN_IN_FREIGHT_BEFORE is never read
+
+MAIN LA_SHOOTX is never read
+
+MAIN LA_SHOOTY is never read
+
+MAIN LA_SHOOTZ is never read
+
+MAIN TIMER_BONUS is never read
+MAIN TIMER_BONUS is never written
+
+MAIN FLAG_4X4_MISSION2_PASSED is never read
+MAIN FLAG_4X4_MISSION2_PASSED is never written
+
+MAIN FLAG_4X4_MISSION3_PASSED is never read
+MAIN FLAG_4X4_MISSION3_PASSED is never written
+
+MAIN FLAG_4X4TWO_TRIGGER is never read
+MAIN FLAG_4X4TWO_TRIGGER is never written
+
+MAIN FLAG_4X4THREE_TRIGGER is never read
+MAIN FLAG_4X4THREE_TRIGGER is never written
+
+MAIN RECORD_TEMP is never read
+
+MAIN FLAG_INTRO2_BEFORE is never read
+MAIN FLAG_INTRO2_BEFORE is never written
+
+MAIN FLAG_INTRO3_BEFORE is never read
+MAIN FLAG_INTRO3_BEFORE is never written
+
+MAIN FLAG_INTRO_CARPARK1_BEFORE is never read
+MAIN FLAG_INTRO_CARPARK1_BEFORE is never written
+
+MAIN FLAG_CARPARK1_PASSED is never read
+MAIN FLAG_CARPARK1_PASSED is never written
+
+MAIN RECORD_CARPARK1 is never read
+MAIN RECORD_CARPARK1 is never written
+
+MAIN FLAG_CARPARK1_TRIGGER is never read
+MAIN FLAG_CARPARK1_TRIGGER is never written
+
+MAIN FLAG_LAUNCH_4X4_1_OK is never read
+
+MAIN FLAG_USJ_OFF is never read
+
+MAIN FLAG_BMX_3_PASSED is never read
+MAIN FLAG_BMX_3_PASSED is never written
+
+MAIN FLAG_KICKSTART_MISSION1_PASSED is never written
+
+MAIN BMX_1_X is never read
+
+MAIN BMX_1_Y is never read
+
+MAIN BMX_1_Z is never read
+
+MAIN TAXI_PASSED is never written
+
+MAIN FLAG_COURIER_MISSION_PASSED is never read
+
+MAIN FLAG_AIRRACE_MISSION_PASSED is never read
+
+MAIN BEEN_IN_A_COASTGUARD_BEFORE is never read
+
+MAIN FLAG_PLAYER_ON_COASTGUARD_MISSION is never read
+
+MAIN COURIER_TYPE is never read
+
+MAIN TOTAL_INSTRUCTOR_CAR_HEALTH is never read
+
+MAIN LAP1_SECS is never read
+
+MAIN LAP1_MILLISECS is never read
+
+MAIN OVERALL_LAP1 is never read
+
+MAIN LAP2_SECS is never read
+
+MAIN LAP2_MILLISECS is never read
+
+MAIN OVERALL_LAP2 is never read
+
+MAIN LAP3_SECS is never read
+
+MAIN LAP3_MILLISECS is never read
+
+MAIN OVERALL_LAP3 is never read
+
+MAIN LAP4_SECS is never read
+
+MAIN LAP4_MILLISECS is never read
+
+MAIN OVERALL_LAP4 is never read
+
+MAIN LAP5_SECS is never read
+
+MAIN LAP5_MILLISECS is never read
+
+MAIN OVERALL_LAP5 is never read
+
+MAIN RACE1_BEST_POSITION_AIRRACE is never read
+
+MAIN RACE1_BEST_TIME_AIRRACE is never read
+
+MAIN RACE2_BEST_POSITION_AIRRACE is never read
+
+MAIN RACE2_BEST_TIME_AIRRACE is never read
+
+MAIN RACE3_BEST_POSITION_AIRRACE is never read
+
+MAIN RACE3_BEST_TIME_AIRRACE is never read
+
+MAIN RACE4_BEST_POSITION_AIRRACE is never read
+
+MAIN RACE4_BEST_TIME_AIRRACE is never read
+
+MAIN RACE5_BEST_POSITION_AIRRACE is never read
+
+MAIN RACE5_BEST_TIME_AIRRACE is never read
+
+MAIN RACE6_BEST_POSITION_AIRRACE is never read
+
+MAIN RACE6_BEST_TIME_AIRRACE is never read
+
+MAIN DONE_RACE1_PROGRESS_AIRRACE is never read
+
+MAIN DONE_RACE2_PROGRESS_AIRRACE is never read
+
+MAIN DONE_RACE3_PROGRESS_AIRRACE is never read
+
+MAIN DONE_RACE4_PROGRESS_AIRRACE is never read
+
+MAIN DONE_RACE5_PROGRESS_AIRRACE is never read
+
+MAIN DONE_RACE6_PROGRESS_AIRRACE is never read
+
+MAIN TXTCURRZONE is never written
+
+MAIN IACTIVEGF is never written
+
+MAIN FLAG_PLAYER_ON_ODDJOB is never read
+
+MAIN TOTAL_SAVED_PEDS is never written
+
+MAIN WEAPON_SHOP1_BLIP is never read
+
+MAIN CHICKX is never read
+
+MAIN CHICKY is never read
+
+MAIN CHICKZ is never read
+
+MAIN WHEELOX is never read
+
+MAIN WHEELOY is never read
+
+MAIN WHEELOZ is never read
+
+MAIN FLAG_CATCUTSCENE_COUNTER is never read
+
+MAIN TRACE_CONTACT_BLIP2 is never read
+
+MAIN GROVEX is never read
+
+MAIN GROVEY is never read
+
+MAIN GROVEZ is never read
+
+MAIN BLACKJACKX is never read
+
+MAIN BLACKJACKY is never read
+
+MAIN BLACKJACKZ is never read
+
+MAIN DRIVING_SCHOOLY is never read
+
+MAIN DRIVING_SCHOOLZ is never read
+
+MAIN LIMOY is never read
+
+MAIN LIMOZ is never read
+
+MAIN DIRECTORY is never read
+
+MAIN DIRECTORZ is never read
+
+MAIN SKIP_SHOPPING_WAIT is never read
+
+MAIN SHOPS_TEXT_SCALEX is never read
+
+MAIN SHOPS_TEXT_SCALEY is never read
+
+MAIN TEXT_COL_SELECT_R is never read
+
+MAIN TEXT_COL_SELECT_G is never read
+
+MAIN TEXT_COL_SELECT_B is never read
+
+MAIN TEXT_COL_SELECT_A is never read
+
+MAIN TEXT_COL_DULL_R is never read
+
+MAIN TEXT_COL_DULL_G is never read
+
+MAIN TEXT_COL_DULL_B is never read
+
+MAIN TEXT_COL_DULL_A is never read
+
+MAIN TEXT_COL_NA_R is never read
+
+MAIN TEXT_COL_NA_G is never read
+
+MAIN TEXT_COL_NA_B is never read
+
+MAIN TEXT_COL_NA_A is never read
+
+MAIN SHOP_NAME is never written
+
+MAIN ALL_TAGS_PICKUP1 is never read
+
+MAIN ALL_TAGS_PICKUP2 is never read
+
+MAIN ALL_TAGS_PICKUP3 is never read
+
+MAIN ALL_TAGS_PICKUP4 is never read
+
+MAIN ALL_PHOTOS_PICKUP1 is never read
+
+MAIN ALL_PHOTOS_PICKUP2 is never read
+
+MAIN ALL_PHOTOS_PICKUP3 is never read
+
+MAIN ALL_PHOTOS_PICKUP4 is never read
+
+MAIN ALL_HORSE_PICKUP1 is never read
+
+MAIN ALL_HORSE_PICKUP2 is never read
+
+MAIN ALL_HORSE_PICKUP3 is never read
+
+MAIN ALL_HORSE_PICKUP4 is never read
+
+MAIN MILLIES_DOUBLE_ENDER is never read
+
+MAIN CREATED_MILLIE_MARKER is never read
+MAIN CREATED_MILLIE_MARKER is never written
+
+MAIN REMOVE_GROVE_PICKUP[18] is never read
+
+MAIN ENTRY_EXIT_NAME is never read
+
+AUDIO_SINGLELINE AUDIO_STRING is never read
+
+BEATDISPLAY DEBUG_SHOW_BEAT_POSITION is never written
+
+BEATDISPLAY TIME_OF_FIRST_BEAT is never written
+
+IMPEXP IMPEXP_DOOR_ROTATION is never read
+
+IMPEXP IMPEXP_TEXT_LABEL is never read
+
+IMPEXP IMPEXP_MENU_TEXT_LABEL[6] is never read
+
+IMPEXP IMPEXP_DAY[7] is never read
+
+GIRLS IGFAVAILABLEFOR2PLAYER is never written
+
+GIRLS GF_LEFT_STICK_X is never read
+
+GIRLS GF_RIGHT_STICK_X is never read
+
+GIRLS GF_RIGHT_STICK_Y is never read
+
+GIRLS GF_TXTCONSOLEIN is never written
+
+GIRLS IGFCONTEXTVARIATION is never read
+
+INT_MANAGER TXTENTRYEXIT is never written
+
+AUDIO_CONTROLLER SLOT_X[2] is never read
+AUDIO_CONTROLLER SLOT_X[2] is never written
+
+AUDIO_CONTROLLER SLOT_Y[2] is never read
+AUDIO_CONTROLLER SLOT_Y[2] is never written
+
+AUDIO_CONTROLLER SLOT_Z[2] is never read
+AUDIO_CONTROLLER SLOT_Z[2] is never written
+
+AUDIO_CONTROLLER SLOT_TEXT[2] is never read
+
+AUDIO_CONTROLLER LOAD_TEXT is never read
+
+MOBILE MOBILE_PRINT_LABELS[20] is never read
+
+DEBUG CARCOLOUR_FLAG1 is never read
+
+DEBUG CARCOLOUR_FLAG2 is never read
+
+DEBUG BUTTON_PRESSED_WARP is never read
+
+DEBUG BUTTON_PRESSED_WARP_ODD is never read
+
+DEBUG RELATIVE_BUTTON_PRESS is never read
+
+DEBUG BUTTON_PRESSED_CUTSCENE_MAIN is never read
+
+DEBUG INITIAL_PICKUP is never read
+
+DEBUG DEBUG_ACTIVE is never read
+
+DEBUG PRINT_STUFF_BUTTON is never read
+
+DEBUG PRINT_STUFF_COUNTER is never read
+
+DEBUG TEST_HELI1_CREATED is never read
+
+DEBUG DEBUG_CUTSCENE_NUMBER is never read
+
+DEBUG ADD_JUST_THE_ONCE_THOUGH is never read
+
+DEBUG DEBUG_GAME_TIMER is never read
+
+DEBUG CUTTEXT is never read
+
+DEBUG CUTSCENE_NAME[84] is never read
+
+DEBUG CUTSCENE_FILE[84] is never read
+
+DEBUG CUTSCENE_TEXT[84] is never read
+
+DEBUG CUTSCENE_NAME2[75] is never read
+
+DEBUG CUTSCENE_FILE2[75] is never read
+
+DEBUG CUTSCENE_TEXT2[75] is never read
+
+DEBUG CUTSCENE_NAME3[23] is never read
+
+DEBUG CUTSCENE_FILE3[23] is never read
+
+DEBUG COORD_INDEX is never read
+
+INITIAL FLAG_HAD_TAXI_JUMP_HELP is never read
+
+INITIAL NASCAR_BEST_LAP_TIME is never read
+
+INITIAL NASCAR_BEST_TIME is never read
+
+INITIAL BEST_NASCAR_RESULT is never read
+
+INITIAL PARA_FLARE_VY is never read
+
+INITIAL PARA_PICKUP_FLAG is never read
+
+INITIAL STADIUM_BLIP1 is never read
+
+INITIAL STADIUM_BLIP2 is never read
+
+INITIAL STADIUM_BLIP3 is never read
+
+INITIAL FIRE_LA_LEVELS_COMPLETED[6] is never read
+
+INITIAL FIRE_SF_LEVELS_COMPLETED[6] is never read
+
+INITIAL FIRE_VG_LEVELS_COMPLETED[6] is never read
+
+INITIAL FIRE_TOTAL_LA_COMPLETED is never read
+
+INITIAL FIRE_TOTAL_SF_COMPLETED is never read
+
+INITIAL FIRE_TOTAL_VG_COMPLETED is never read
+
+INITIAL FIRE_TOTAL_LEVELS_COMPLETED is never read
+
+INITIAL FIRE_TEMP_COUNTER is never written
+
+INITIAL PROS_ACTIVE is never read
+
+INITIAL PLAYER_IN_OTB_FLAG is never read
+
+INITIAL COUNTER_ROBBERY_CAT4 is never read
+
+INITIAL INT_DISTANCE_PLAYER_GIRL is never read
+
+INITIAL FLAG_OTB_ROBBING_PEDS_PANIC is never read
+
+INITIAL FLAG_DUMPER_PASSED_1STIME is never read
+
+INITIAL POWERBAR is never read
+
+INITIAL LOWERBODYMUSCLESTAT_GYM is never written
+
+INITIAL INCLINE_TREAD_FLAG is never read
+
+INITIAL RAM_2P_LEVEL is never written
+
+INITIAL BIKE_2P_LEVEL is never written
+
+INITIAL HELI_2P_LEVEL is never written
+
+INITIAL CARS_2P_LEVEL is never written
+
+INITIAL PEDS_2P_LEVEL is never written
+
+INITIAL SR_SKILL_AWARD_GIVEN is never written
+
+INITIAL VALET_MISSION_TERMINATE is never read
+
+INITIAL CAN_SCRIPT_BE_CLEANED is never read
+
+INITIAL DEBUG_THIS is never read
+
+INITIAL VALET_EVENT is never written
+
+INITIAL ZERO_CASH_PICKUP is never read
+
+INITIAL FINISH_CRANE_LOADING_SCRIPT is never read
+
+INITIAL DISABLE_CRANE_SLIDE is never read
+
+INITIAL DISABLE_CRANE_ROTATE is never read
+
+INITIAL G_QUARRY_CASHPICKUPKM is never read
+
+INITIAL G_TRUCK_CASHPICKUPKM is never read
+
+INITIAL D6_DOOR_HEALTH is never read
+
+INITIAL SHOWROOM_CASH_PICKUP is never read
+
+INITIAL BOAT_CUT_WATCHED is never read
+
+INITIAL COURIERLA_CASH_PICKUP is never read
+
+INITIAL COURIERSF_CASH_PICKUP is never read
+
+INITIAL COURIERLV_CASH_PICKUP is never read
+
+INITIAL SHTR_HI_1[10] is never read
+
+INITIAL SHTR_HI_2[10] is never read
+
+INITIAL SHTR_HI_3[10] is never read
+
+INITIAL GRAV_HI_1[10] is never read
+
+INITIAL GRAV_HI_2[10] is never read
+
+INITIAL GRAV_HI_3[10] is never read
+
+INITIAL BS_WHICH_MISSIONS_ARE_OPEN_FLAG is never read
+
+INITIAL FLAG_GRAV_PASSED_1STIME is never read
+
+INITIAL CARCRANEX is never read
+
+INITIAL CARCRANEY is never read
+
+INITIAL CARCRANEZ is never read
+
+INITIAL DEMOX is never read
+
+INITIAL DEMOY is never read
+
+INITIAL DEMOZ is never read
+
+INITIAL DANCEX is never read
+
+INITIAL DANCEY is never read
+
+INITIAL DANCEZ is never read
+
+INITIAL KILL2PX is never read
+
+INITIAL KILL2PY is never read
+
+INITIAL KILL2PZ is never read
+
+INITIAL BIKE_2PX is never read
+
+INITIAL BIKE_2PY is never read
+
+INITIAL BIKE_2PZ is never read
+
+INITIAL CARS_2PX is never read
+
+INITIAL CARS_2PY is never read
+
+INITIAL CARS_2PZ is never read
+
+INITIAL HELI_2PX is never read
+
+INITIAL HELI_2PY is never read
+
+INITIAL HELI_2PZ is never read
+
+INITIAL PEDS_2PX is never read
+
+INITIAL PEDS_2PY is never read
+
+INITIAL PEDS_2PZ is never read
+
+INITIAL RUN_2PX is never read
+
+INITIAL RUN_2PY is never read
+
+INITIAL RUN_2PZ is never read
+
+INITIAL DEMO_2PX is never read
+
+INITIAL DEMO_2PY is never read
+
+INITIAL DEMO_2PZ is never read
+
+INITIAL TAGX is never read
+
+INITIAL TAGY is never read
+
+INITIAL TAGZ is never read
+
+INITIAL BOXINGX is never read
+
+INITIAL BOXINGY is never read
+
+INITIAL BOXINGZ is never read
+
+INITIAL SURVIVEX is never read
+
+INITIAL SURVIVEY is never read
+
+INITIAL SURVIVEZ is never read
+
+INITIAL SUMOX is never read
+
+INITIAL SUMOY is never read
+
+INITIAL SUMOZ is never read
+
+INITIAL SPECIAL_CAMERA is never read
+
+INITIAL ITEM1 is never read
+
+INITIAL ITEM2 is never read
+
+INITIAL ITEM3 is never read
+
+INITIAL ITEM4 is never read
+
+INITIAL ITEM5 is never read
+
+INITIAL ITEM6 is never read
+
+INITIAL ITEM7 is never read
+
+INITIAL ITEM8 is never read
+
+INITIAL ITEM9 is never read
+
+INITIAL ITEM10 is never read
+
+INITIAL ITEM11 is never read
+
+INITIAL ITEM12 is never read
+
+INITIAL PLAYER_ITEM_MODEL_SHOPS is never read
+
+INITIAL FLAG_PLAYER_OWNED_ITEM_SHOPS is never read
+
+INITIAL FLAG_ON_NEIL_LOWRIDER_MISSION is never read
+
+INITIAL SAMPLE_NAME_SHOP is never read
+
+INITIAL FLAG_BOUGHT_GUN_FOR_DOBERMAN is never read
+
+INITIAL FLAG_GANG_WAR_ACTIVE is never read
+
+INITIAL AMMU_SHOP_BLIP[10] is never read
+
+INITIAL BARBERS_BLIPS[6] is never read
+
+INITIAL PIZZA_BLIPS[8] is never read
+
+INITIAL BURGER_BLIPS[10] is never read
+
+INITIAL CHICKEN_BLIPS[12] is never read
+
+INITIAL TATTOO_BLIPS[4] is never read
+
+INITIAL CLOTHES_BLIPS[17] is never read
+
+INITIAL INIT_PED_DENSITY is never read
+
+INITIAL FLAG_FOOD_MESSAGE is never read
+
+INITIAL SHOP_ITEM_LABEL is never read
+
+INITIAL GEN_CAR13 is never read
+
+INITIAL GEN_CAR14 is never read
+
+INITIAL GEN_CAR15 is never read
+
+INITIAL GEN_CAR52 is never read
+INITIAL GEN_CAR52 is never written
+
+INITIAL GEN_CAR53 is never read
+INITIAL GEN_CAR53 is never written
+
+INITIAL GEN_CAR54 is never read
+INITIAL GEN_CAR54 is never written
+
+INITIAL GEN_CAR55 is never read
+INITIAL GEN_CAR55 is never written
+
+INITIAL GEN_CAR56 is never read
+INITIAL GEN_CAR56 is never written
+
+INITIAL GEN_CAR57 is never read
+INITIAL GEN_CAR57 is never written
+
+INITIAL GEN_CAR58 is never read
+INITIAL GEN_CAR58 is never written
+
+INITIAL GEN_CAR59 is never read
+INITIAL GEN_CAR59 is never written
+
+INITIAL GEN_CAR60 is never read
+INITIAL GEN_CAR60 is never written
+
+INITIAL GEN_CAR61 is never read
+INITIAL GEN_CAR61 is never written
+
+INITIAL GEN_CAR62 is never read
+INITIAL GEN_CAR62 is never written
+
+INITIAL GEN_CAR63 is never read
+INITIAL GEN_CAR63 is never written
+
+INITIAL GEN_CAR64 is never read
+INITIAL GEN_CAR64 is never written
+
+INITIAL GEN_CAR65 is never read
+INITIAL GEN_CAR65 is never written
+
+INITIAL GEN_CAR66 is never read
+INITIAL GEN_CAR66 is never written
+
+INITIAL GEN_CAR67 is never read
+INITIAL GEN_CAR67 is never written
+
+INITIAL GEN_CAR68 is never read
+INITIAL GEN_CAR68 is never written
+
+INITIAL GEN_CAR69 is never read
+INITIAL GEN_CAR69 is never written
+
+INITIAL GEN_CAR70 is never read
+INITIAL GEN_CAR70 is never written
+
+INITIAL GEN_CAR71 is never read
+INITIAL GEN_CAR71 is never written
+
+INITIAL GEN_CAR72 is never read
+INITIAL GEN_CAR72 is never written
+
+INITIAL GEN_CAR73 is never read
+INITIAL GEN_CAR73 is never written
+
+INITIAL GEN_CAR74 is never read
+INITIAL GEN_CAR74 is never written
+
+INITIAL GEN_CAR75 is never read
+INITIAL GEN_CAR75 is never written
+
+INITIAL GEN_CAR76 is never read
+INITIAL GEN_CAR76 is never written
+
+INITIAL GEN_CAR77 is never read
+INITIAL GEN_CAR77 is never written
+
+INITIAL GEN_CAR78 is never read
+INITIAL GEN_CAR78 is never written
+
+INITIAL GEN_CAR79 is never read
+INITIAL GEN_CAR79 is never written
+
+INITIAL GEN_CAR80 is never read
+INITIAL GEN_CAR80 is never written
+
+INITIAL GEN_CAR81 is never read
+INITIAL GEN_CAR81 is never written
+
+INITIAL GEN_CAR82 is never read
+INITIAL GEN_CAR82 is never written
+
+INITIAL GEN_CAR83 is never read
+INITIAL GEN_CAR83 is never written
+
+INITIAL GEN_CAR84 is never read
+INITIAL GEN_CAR84 is never written
+
+INITIAL GEN_CAR85 is never read
+INITIAL GEN_CAR85 is never written
+
+INITIAL GEN_CAR86 is never read
+INITIAL GEN_CAR86 is never written
+
+INITIAL GEN_CAR87 is never read
+INITIAL GEN_CAR87 is never written
+
+INITIAL GEN_CAR88 is never read
+INITIAL GEN_CAR88 is never written
+
+INITIAL GEN_CAR89 is never read
+INITIAL GEN_CAR89 is never written
+
+INITIAL GEN_CAR90 is never read
+INITIAL GEN_CAR90 is never written
+
+INITIAL GEN_CAR91 is never read
+INITIAL GEN_CAR91 is never written
+
+INITIAL GEN_CAR92 is never read
+INITIAL GEN_CAR92 is never written
+
+INITIAL GEN_CAR93 is never read
+INITIAL GEN_CAR93 is never written
+
+INITIAL GEN_CAR94 is never read
+INITIAL GEN_CAR94 is never written
+
+INITIAL GEN_CAR95 is never read
+INITIAL GEN_CAR95 is never written
+
+INITIAL GEN_CAR96 is never read
+INITIAL GEN_CAR96 is never written
+
+INITIAL GEN_CAR97 is never read
+INITIAL GEN_CAR97 is never written
+
+INITIAL GEN_CAR98 is never read
+INITIAL GEN_CAR98 is never written
+
+INITIAL GEN_CAR99 is never read
+INITIAL GEN_CAR99 is never written
+
+INITIAL GEN_CAR100 is never read
+INITIAL GEN_CAR100 is never written
+
+INITIAL GEN_CAR101 is never read
+INITIAL GEN_CAR101 is never written
+
+INITIAL GEN_CAR102 is never read
+INITIAL GEN_CAR102 is never written
+
+INITIAL GEN_CAR103 is never read
+INITIAL GEN_CAR103 is never written
+
+INITIAL GEN_CAR104 is never read
+INITIAL GEN_CAR104 is never written
+
+INITIAL GEN_CAR105 is never read
+INITIAL GEN_CAR105 is never written
+
+INITIAL GEN_CAR106 is never read
+INITIAL GEN_CAR106 is never written
+
+INITIAL GEN_CAR107 is never read
+INITIAL GEN_CAR107 is never written
+
+INITIAL GEN_CAR108 is never read
+INITIAL GEN_CAR108 is never written
+
+INITIAL GEN_CAR109 is never read
+INITIAL GEN_CAR109 is never written
+
+INITIAL GEN_CAR110 is never read
+INITIAL GEN_CAR110 is never written
+
+INITIAL GEN_CAR111 is never read
+INITIAL GEN_CAR111 is never written
+
+INITIAL GEN_CAR112 is never read
+INITIAL GEN_CAR112 is never written
+
+INITIAL GEN_CAR113 is never read
+INITIAL GEN_CAR113 is never written
+
+INITIAL GEN_CAR114 is never read
+INITIAL GEN_CAR114 is never written
+
+INITIAL GEN_CAR115 is never read
+INITIAL GEN_CAR115 is never written
+
+INITIAL GEN_CAR116 is never read
+INITIAL GEN_CAR116 is never written
+
+INITIAL GEN_CAR117 is never read
+INITIAL GEN_CAR117 is never written
+
+INITIAL GEN_CAR118 is never read
+INITIAL GEN_CAR118 is never written
+
+INITIAL GEN_CAR119 is never read
+INITIAL GEN_CAR119 is never written
+
+INITIAL GEN_CAR120 is never read
+INITIAL GEN_CAR120 is never written
+
+INITIAL GEN_CAR121 is never read
+INITIAL GEN_CAR121 is never written
+
+INITIAL GEN_CAR122 is never read
+INITIAL GEN_CAR122 is never written
+
+INITIAL GEN_CAR123 is never read
+INITIAL GEN_CAR123 is never written
+
+INITIAL GEN_CAR124 is never read
+INITIAL GEN_CAR124 is never written
+
+INITIAL GEN_CAR125 is never read
+INITIAL GEN_CAR125 is never written
+
+INITIAL GEN_CAR126 is never read
+INITIAL GEN_CAR126 is never written
+
+INITIAL GEN_CAR127 is never read
+INITIAL GEN_CAR127 is never written
+
+INITIAL GEN_CAR128 is never read
+INITIAL GEN_CAR128 is never written
+
+INITIAL GEN_CAR129 is never read
+INITIAL GEN_CAR129 is never written
+
+INITIAL GEN_CAR130 is never read
+INITIAL GEN_CAR130 is never written
+
+INITIAL GEN_CAR131 is never read
+INITIAL GEN_CAR131 is never written
+
+INITIAL GEN_CAR132 is never read
+INITIAL GEN_CAR132 is never written
+
+INITIAL GEN_CAR133 is never read
+INITIAL GEN_CAR133 is never written
+
+INITIAL GEN_CAR134 is never read
+INITIAL GEN_CAR134 is never written
+
+INITIAL GEN_CAR135 is never read
+INITIAL GEN_CAR135 is never written
+
+INITIAL GEN_CAR136 is never read
+INITIAL GEN_CAR136 is never written
+
+INITIAL GEN_CAR137 is never read
+INITIAL GEN_CAR137 is never written
+
+INITIAL GEN_CAR138 is never read
+INITIAL GEN_CAR138 is never written
+
+INITIAL GEN_CAR139 is never read
+INITIAL GEN_CAR139 is never written
+
+INITIAL GEN_CAR140 is never read
+INITIAL GEN_CAR140 is never written
+
+INITIAL GEN_CAR141 is never read
+INITIAL GEN_CAR141 is never written
+
+INITIAL GEN_CAR142 is never read
+INITIAL GEN_CAR142 is never written
+
+INITIAL GEN_CAR143 is never read
+INITIAL GEN_CAR143 is never written
+
+INITIAL GEN_CAR144 is never read
+INITIAL GEN_CAR144 is never written
+
+INITIAL GEN_CAR145 is never read
+INITIAL GEN_CAR145 is never written
+
+INITIAL GEN_CAR146 is never read
+INITIAL GEN_CAR146 is never written
+
+INITIAL GEN_CAR147 is never read
+INITIAL GEN_CAR147 is never written
+
+INITIAL GEN_CAR148 is never read
+INITIAL GEN_CAR148 is never written
+
+INITIAL GEN_CAR149 is never read
+INITIAL GEN_CAR149 is never written
+
+INITIAL GEN_CAR150 is never read
+INITIAL GEN_CAR150 is never written
+
+INITIAL GEN_CAR151 is never read
+INITIAL GEN_CAR151 is never written
+
+INITIAL GEN_CAR152 is never read
+INITIAL GEN_CAR152 is never written
+
+INITIAL GEN_CAR153 is never read
+INITIAL GEN_CAR153 is never written
+
+INITIAL GEN_CAR154 is never read
+INITIAL GEN_CAR154 is never written
+
+INITIAL GEN_CAR155 is never read
+INITIAL GEN_CAR155 is never written
+
+INITIAL GEN_CAR156 is never read
+INITIAL GEN_CAR156 is never written
+
+INITIAL GEN_CAR157 is never read
+INITIAL GEN_CAR157 is never written
+
+INITIAL GEN_CAR158 is never read
+INITIAL GEN_CAR158 is never written
+
+INITIAL GEN_CAR159 is never read
+INITIAL GEN_CAR159 is never written
+
+INITIAL GEN_CAR160 is never read
+INITIAL GEN_CAR160 is never written
+
+INITIAL GEN_CAR161 is never read
+INITIAL GEN_CAR161 is never written
+
+INITIAL GEN_CAR162 is never read
+INITIAL GEN_CAR162 is never written
+
+INITIAL GEN_CAR163 is never read
+INITIAL GEN_CAR163 is never written
+
+INITIAL GEN_CAR164 is never read
+INITIAL GEN_CAR164 is never written
+
+INITIAL GEN_CAR165 is never read
+INITIAL GEN_CAR165 is never written
+
+INITIAL GEN_CAR166 is never read
+INITIAL GEN_CAR166 is never written
+
+INITIAL GEN_CAR167 is never read
+INITIAL GEN_CAR167 is never written
+
+INITIAL GEN_CAR168 is never read
+INITIAL GEN_CAR168 is never written
+
+INITIAL GEN_CAR169 is never read
+INITIAL GEN_CAR169 is never written
+
+INITIAL GEN_CAR170 is never read
+INITIAL GEN_CAR170 is never written
+
+INITIAL GEN_CAR171 is never read
+INITIAL GEN_CAR171 is never written
+
+INITIAL GEN_CAR172 is never read
+INITIAL GEN_CAR172 is never written
+
+INITIAL GEN_CAR173 is never read
+INITIAL GEN_CAR173 is never written
+
+INITIAL GEN_CAR174 is never read
+INITIAL GEN_CAR174 is never written
+
+INITIAL GEN_CAR175 is never read
+INITIAL GEN_CAR175 is never written
+
+INITIAL GEN_CAR176 is never read
+INITIAL GEN_CAR176 is never written
+
+INITIAL GEN_CAR177 is never read
+INITIAL GEN_CAR177 is never written
+
+INITIAL GEN_CAR178 is never read
+INITIAL GEN_CAR178 is never written
+
+INITIAL GEN_CAR179 is never read
+INITIAL GEN_CAR179 is never written
+
+INITIAL GEN_CAR180 is never read
+INITIAL GEN_CAR180 is never written
+
+INITIAL GUN_TORENO1 is never read
+
+INITIAL GUN_TORENO2 is never read
+
+INITIAL GUN_TORENO3 is never read
+
+INITIAL GUN_TORENO4 is never read
+
+INITIAL HUNTER_CREATED is never read
+
+INITIAL PICKUP_HORSESHOE[50] is never read
+
+INITIAL LOCATION_PHOTO[50] is never read
+
+INITIAL PICKUP_OYSTER[50] is never read
+
+INITIAL PICKUP_WEAPON[217] is never read
+
+INITIAL GOGGLE_PICKUPS[8] is never read
+
+INITIAL PICKUP_FLOWERS[40] is never read
+
+INITIAL PICKUP_HEALTH[51] is never read
+
+INITIAL PICKUP_ARMOUR[48] is never read
+
+INITIAL PICKUP_BRIBE[50] is never read
+
+INITIAL2 BS_BRONZE_CAR_GEN is never read
+INITIAL2 BS_BRONZE_CAR_GEN is never written
+
+INITIAL2 BS_SILVER_CAR_GEN is never read
+INITIAL2 BS_SILVER_CAR_GEN is never written
+
+INITIAL2 BS_GOLD_CAR_GEN is never read
+INITIAL2 BS_GOLD_CAR_GEN is never written
+
+INITIAL2 BS_CHUNKY is never read
+INITIAL2 BS_CHUNKY is never written
+
+INITIAL2 BS_DBP is never read
+INITIAL2 BS_DBP is never written
+
+INITIAL2 BS_BLOOD_CAR_GEN is never read
+INITIAL2 BS_BLOOD_CAR_GEN is never written
+
+INITIAL2 PICKUPS_FILM_STUDIO[7] is never read
+
+INITIAL2 VALET_CASH_PICKUP is never read
+
+INITIAL2 PLAYER_HAS_FAST_RELOAD is never read
+
+INITIAL2 IDANCEREPORT is never written
+
+INITIAL2 TXTCURR_DANCE_MOVE_P is never read
+
+INITIAL2 TXTCURR_DANCE_BLOCK is never read
+
+INITIAL2 TXTSTRING is never written
+
+DUAL DARK_LETTER1[10] is never read
+
+DUAL DARK_LETTER2[10] is never read
+
+DUAL DARK_LETTER3[10] is never read
+
+DUAL LIGHT_LETTER1[10] is never read
+
+DUAL LIGHT_LETTER2[10] is never read
+
+DUAL LIGHT_LETTER3[10] is never read
+
+SHTR UNK_5566 is never read
+
+SHTR SHTR_RSTICKX is never read
+
+SHTR SHTR_RSTICKY is never read
+
+SHTR SHTR_PLYR_COL_X is never read
+
+SHTR SHTR_PLYR_COL_Y is never read
+
+SHTR SHTR_START_TIME_HIT is never read
+
+SHTR SHTR_END_TIME_HIT is never read
+
+SHTR SHTR_TIME_DIFF_HIT is never read
+
+SHTR UNK_5957 is never read
+
+SHTR UNK_5960 is never read
+SHTR UNK_5960 is never written
+
+SHTR UNK_5961 is never read
+SHTR UNK_5961 is never written
+
+SHTR UNK_5962 is never read
+
+SHTR SHTR_CHAR[37] is never read
+
+SHTR SHTR_LEVEL is never written
+
+GRAV UNK_6190[10] is never read
+GRAV UNK_6190[10] is never written
+
+GRAV GRAV_FIRE_HEADING is never read
+GRAV GRAV_FIRE_HEADING is never written
+
+GRAV GRAV_CHAR[37] is never read
+
+GRAV GRAV_SCREEN_X is never written
+
+POOL DEBUG_CHAR_HEALTH is never read
+
+POOL CAM_Z1 is never read
+
+POOL CAM_Z2 is never read
+
+INTRO1 INTRO1_CHAT[14] is never read
+
+INTRO2 INTRO2_CHAT[17] is never read
+
+SWEET1 SWEET1_CHAT[8] is never read
+
+SWEET1B SWEET1B_CHAT[8] is never read
+
+SWEET3 SWEET3_CHAT[13] is never read
+
+SWEET2 SWEET2_CHAT[14] is never read
+
+SWEET5 SW5_TARGET[6] is never read
+
+SWEET6 SWEET6_CONTACT_BLIP is never read
+
+CRASH1 G_CRASH1_COUNTERKM1 is never read
+
+RYDER1 RYD1_TEXT[82] is never read
+
+SMOKE3 DIFFICULTY_S3FLAG is never written
+
+CAT_CUTS CATCUT_CHAT[8] is never read
+
+TRUTH1 RECORDFLAG is never read
+TRUTH1 RECORDFLAG is never written
+
+GARAGE1 FLAG_IS_ZERO_ON_BIKE is never read
+
+GARAGE1 GARAGE1_TEXT[106] is never read
+
+SCRASH1 CUNT_X is never read
+
+SCRASH1 CUNT_Y is never read
+
+WUZI2 ATTACK_STATUS_W2 is never read
+
+SYN2 SYN2_TIMER is never read
+
+SYN4 OFF1_Y is never read
+
+SYN4 SYN4_OFFSETX is never read
+
+SYN4 SYN4_OFFSETY is never read
+
+SYN4 S4_HAS_PHONE is never read
+
+SYN4 S4_LIMO_HLTH is never read
+
+FARLIE3 FARLIE3_TEXT[40] is never read
+
+STEAL4 ST4_MISSION_ATTEMPTS is never written
+
+STEAL4 BUDDY_HEALTH is never read
+
+DESERT1 DES1_BOARD_NAME[5] is never read
+
+DESERT1 DES1_TEXT[17] is never read
+
+DESERT3 DESERT3_MISSION_ATTEMPTS is never written
+
+DESERT3 PHELI_HEALTH is never read
+
+DESERT10 PILOT_CASH_PICKUP is never read
+
+CASINO1 CA1_TEST is never read
+
+CASINO4 CAS4_TEXT[114] is never read
+
+CASINO10 CASINO10_CHAT[17] is never read
+
+DOC2 DOC2_HEAL is never read
+
+DOC2 D2_ANIM_RND is never read
+
+HEIST3 HEI3_TEXT[44] is never read
+
+HEIST2 HEI2_TEXT[18] is never read
+
+HEIST9 H9_UNDER_DOOR is never read
+
+HEIST9 H9_FUCK_OFF is never read
+
+MANSION3 M3_IN_THE_ZONE is never read
+
+MANSION5 TRIP_SKIP_M5 is never written
+
+GROVE1 GROVE1_CHAT[17] is never read
+
+GROVE2 G2_IDLEWOOD_OFF is never read
+
+GROVE2 G2_LAB is never read
+GROVE2 G2_LAB is never written
+
+FINALEC ESCAPETIMER_FC is never read
+
+FINALEC IGRIPBARDISPLAY_FC is never read
+
+SH_RANGE SCHALLENGE_X[4] is never read
+
+SH_RANGE SCHALLENGE_Y[4] is never read
+
+SH_RANGE SR_TEMP_TARGET[3] is never read
+SH_RANGE SR_TEMP_TARGET[3] is never written
+
+SH_RANGE THIS_WATCH[9] is never read
+
+GYMLS LS_HAS_THE_KNUCKLE_DUSTER is never read
+
+TRUCK G_NTRUCKMISSIONSPASSED is never written
+
+TRUCK G_TRUCK_CASHKM is never read
+
+TRUCK G_TRUCK_DAMAGEKM is never read
+
+TRUCK G_TRUCK_TIMEDKM is never read
+
+FIRETRUCK FIRE_ZONE_NAME is never written
+
+FIRETRUCK FIRE_ZONE_NAME2 is never written
+
+FIRETRUCK CAR_OR_PED_FLAG is never read
+
+FIRETRUCK CAR_NUMER_FLAG is never read
+
+COPCAR CRIMINAL_ZONE is never written
+
+BURGLARY BURGLARY_GARAGE[3] is never read
+
+FREIGHT FT_DISTANCE is never read
+
+FREIGHT FT_SPEED is never read
+
+FREIGHT FREIGHT_PLAYER_LOCATION is never read
+FREIGHT FREIGHT_PLAYER_LOCATION is never written
+
+BLOOD BLOOD_BEST_TIME is never read
+
+KICKSTART RACE_TIMER_SECONDS_KICKSTART is never read
+
+KICKSTART RACE_TIMER_MINS_KICKSTART is never read
+
+KICKSTART RACE_TIMER_SECONDS2_KICKSTART is never read
+
+PARACHUTE HAS_FREEFALL_STARTED is never read
+
+PARACHUTE PLAYER_FREEFALL is never read
+
+PARACHUTE PARA_GIVE_SPEED is never written
+
+PARACHUTE PARA_GIVE_HEADING is never written
+
+BCESAR2 BCE2_TEXT[12] is never read
+
+ROULETTE PAD1_RIGHT_STICK_X is never read
+
+ROULETTE PAD1_RIGHT_STICK_Y is never read
+
+GYMBIKE TEMP_PLY_Z is never read
+
+GYMBIKE BIKE_HAS_KD is never read
+
+GYMBENCH BENCH_HAS_KD is never read
+
+GYMBENCH BENCH_AUDIO is never read
+GYMBENCH BENCH_AUDIO is never written
+
+GYMBENCH BENCH_PLAYING is never read
+
+GYMBENCH BENCH_SFX is never read
+
+GYMTREAD TREAD_TXT is never read
+GYMTREAD TREAD_TXT is never written
+
+GYMTREAD TREAD_HAS_KD is never read
+
+GYMDUMB SUB_MENU_BELL is never read
+GYMDUMB SUB_MENU_BELL is never written
+
+GYMDUMB REPS_DUMBELLFLOAT is never read
+
+GYMDUMB DUMB_HAS_KD is never read
+
+GYMDUMB DUMB_SFX is never read
+
+BASKETB BBALL_COURT_Z is never read
+
+BASKETB INTRP_DEST_X is never written
+
+BASKETB INTRP_DEST_Y is never written
+
+BASKETB INTRP_DEST_Z is never written
+
+BASKETB INTRP_START_X is never written
+
+BASKETB INTRP_START_Y is never written
+
+BASKETB INTRP_START_Z is never written
+
+BASKETB INTRP_SPEED is never written
+
+BLACKJ TOTAL_BJ_TABLES is never written
+
+BLACKJ ACTIVE_BJ_CROUPIER is never read
+
+WHEELO WIN_DIALOGUE is never read
+WHEELO WIN_DIALOGUE is never written
+
+WHEELO WOF_BETTING_MENU is never written
+
+WHEELO TOTAL_WOF_TABLES is never written
+
+DEALER TXTGLOBALDEALERZONENAME is never written
+
+PLANES PL_DAYS[8] is never read
+
+PLANES PL_WHICH_CAR_RECORDING is never read
+
+DANCE D_RSTICKX is never read
+
+DANCE D_RSTICKY is never read
+
+AMMU CREATED_THIS_WEAPON is never read
+
+AMMU WEAPON_NAME is never written
+
+AMMU STORED_WEAPON_SHOP is never read
+
+AMMU ANIM_NAME_LIFT_AMMU is never read
+
+AMMU ANIM_NAME_LIFT_END_AMMU is never read
+
+AMMU ANIM_NAME_RETURN_START_AMMU is never read
+
+AMMU ANIM_NAME_RETURN_AMMU is never read
+
+AMMU SHOP_ALARM_AMMU is never read
+
+AMMU SHOP_ITEM_AMMU is never read
+
+AMMU PLAYER_WEAPON_MODEL is never read
+
+AMMU NO_OF_HEAVY is never read
+
+AMMU HEAVY_NAME_MENU is never read
+
+TATTOO TATTOO_NAME is never written
+
+TATTOO STORED_TATTOO_SHOP is never read
+
+TATTOO PLAYER_IN_VIEW_MODE_TATTOO is never read
+
+TATTOO OBJECT_ANIMATION_TIME_TATTOO is never read
+
+TATTOO MODEL_TATTOO2 is never read
+
+TATTOO NAME_OF_PLAYER_IN_ANIM_TATTOO is never read
+
+TATTOO NAME_OF_SHOP_IN_ANIM_TATTOO is never read
+
+TATTOO NAME_OF_OBJECT_IN_ANIM_TATTOO is never read
+
+TATTOO NAME_OF_PLAYER_POSE_ANIM_TATTOO is never read
+
+TATTOO NAME_OF_SHOP_POSE_ANIM_TATTOO is never read
+
+TATTOO NAME_OF_OBJECT_POSE_ANIM_TATTOO is never read
+
+TATTOO NAME_OF_PLAYER_OUT_ANIM_TATTOO is never read
+
+TATTOO NAME_OF_SHOP_OUT_ANIM_TATTOO is never read
+
+TATTOO NAME_OF_OBJECT_OUT_ANIM_TATTOO is never read
+
+TATTOO STORED_ITEM_PICKED_SHOPS is never read
+
+BARBER UNK9728 is never read
+
+BARBER STORED_BARBERS_SHOP is never read
+
+BARBER HAIRSTYLE_NAME is never written
+
+BARBER UNK9747 is never read
+
+BARBER NAME_OF_ANIM_BARBERS is never read
+
+BARBER PLAYER_ITEM_MODEL_AUDIO_SHOPS is never read
+
+WARDROBE NUMBER_OF_ITEMS_WARDROBE is never read
+
+WARDROBE PLAYER_IN_VIEW_MODE_WARDROBE is never read
+
+WARDROBE FLAG_PLAYER_USE_CHANGING_ROOM_WARDROBE is never read
+
+WARDROBE OBJECT_ANIMATION_TIME_WARDROBE is never read
+
+WARDROBE FLAG_PLAYER_IN_CHANGING_ROOM_WARDROBE is never read
+
+WARDROBE NAME_OF_ANIM_WARDROBE[12] is never read
+
+WARDROBE CURRENT_NAME_OF_ANIM_WARDROBE is never read
+
+WARDROBE NUMBER_OF_WARDROBE_IN_AREA is never read
+
+WARDROBE MENU_ITEM[12] is never read
+
+WARDROBE NUMBER_OF_SPECIAL_WARDROBE is never read
+
+CLOTHES NUMBER_OF_ITEMS_CLOTHES is never read
+
+CLOTHES STORED_CLOTHES_SHOP is never read
+
+CLOTHES PLAYER_IN_VIEW_MODE is never read
+
+CLOTHES OBJECT_ANIMATION_TIME_CLOTHES is never read
+
+CLOTHES FLAG_PLAYER_IN_CHANGING_ROOM is never read
+
+CLOTHES NAME_OF_ANIM_CLOTHES is never read
+
+JUNKFUD FOUND_A_FOOD_SHOP is never read
+
+JUNKFUD FOOD_NAME is never written
+
+JUNKFUD STORED_SHOP is never read
+
+JUNKFUD SAMPLE_NAME_SHOPS is never read
+
+CARMOD1 PAINTJOB_MOD_COUNTER is never read
+
+CARMOD1 UNK10416 is never read
+
+CARMOD1 UNK10417 is never read
+
+CARMOD1 JUST_REPLACED_CAR_MOD is never read
+
+CARMOD1 FORTH_MENU_ITEM1 is never read
+
+CARMOD1 FORTH_MENU_ITEM2 is never read
+
+CARMOD1 SELECTED_CAR_COLOUR_MODS is never read
+
+CARMOD1 CAR_COLOUR2_CHANGE_MODS is never read
+
+CARMOD1 FLAG_CAR_LOWRIDER_CARMODS is never read
+
+CARMOD1 CAR_MOD_NUMBER[16] is never written
+
+CRANE1 CAMMY_OFF_X is never written
+
+CRANE1 CAMMY_OFF_Y is never written
+
+CRANE1 CAMMY_OFF_Z is never written
+
+IMPOUND COP_TERRITORY_XA1[4] is never read
+
+IMPOUND COP_TERRITORY_YA1[4] is never read
+
+IMPOUND COP_TERRITORY_ZA1[4] is never read
+
+IMPOUND COP_TERRITORY_XB1[4] is never read
+
+IMPOUND COP_TERRITORY_YB1[4] is never read
+
+IMPOUND COP_TERRITORY_ZB1[4] is never read
+
+IMPOUND COP_TERRITORY_XA2[4] is never read
+
+IMPOUND COP_TERRITORY_YA2[4] is never read
+
+IMPOUND COP_TERRITORY_ZA2[4] is never read
+
+IMPOUND COP_TERRITORY_XB2[4] is never read
+
+IMPOUND COP_TERRITORY_YB2[4] is never read
+
+IMPOUND COP_TERRITORY_ZB2[4] is never read
+
+IMPOUND COP_X[10] is never read
+
+IMPOUND COP_Y[10] is never read
+
+IMPOUND COP_Z[10] is never read
+
+IMPOUND COP_H[10] is never read
+
+VALET A_THIEF is never read
+
+VALET VALET_VG_Z[3] is never written
+
+VALET VALET_VG_H[3] is never written
+
+VALET THIS_A is never written
+
+VALET THIS_B is never written
+
+VALET DISTANCE_BONUS is never read
+
+VALET ANGLE_BONUS is never read
+
+VALET BLAHB is never read
+
+VALET LAST_STEAL_CAR is never written
+
+CAMERA TXTARSE is never read
+CAMERA TXTARSE is never written
+
+MAIN TIMER_BONUS
+MAIN FLAG_4X4_MISSION2_PASSED
+MAIN FLAG_4X4_MISSION3_PASSED
+MAIN FLAG_4X4TWO_TRIGGER
+MAIN FLAG_4X4THREE_TRIGGER
+MAIN FLAG_INTRO2_BEFORE
+MAIN FLAG_INTRO3_BEFORE
+MAIN FLAG_INTRO_CARPARK1_BEFORE
+MAIN FLAG_CARPARK1_PASSED
+MAIN RECORD_CARPARK1
+MAIN FLAG_CARPARK1_TRIGGER
+MAIN FLAG_BMX_3_PASSED
+MAIN CREATED_MILLIE_MARKER
+AUDIO_CONTROLLER SLOT_X[2]
+AUDIO_CONTROLLER SLOT_Y[2]
+AUDIO_CONTROLLER SLOT_Z[2]
+INITIAL GEN_CAR52
+INITIAL GEN_CAR53
+INITIAL GEN_CAR54
+INITIAL GEN_CAR55
+INITIAL GEN_CAR56
+INITIAL GEN_CAR57
+INITIAL GEN_CAR58
+INITIAL GEN_CAR59
+INITIAL GEN_CAR60
+INITIAL GEN_CAR61
+INITIAL GEN_CAR62
+INITIAL GEN_CAR63
+INITIAL GEN_CAR64
+INITIAL GEN_CAR65
+INITIAL GEN_CAR66
+INITIAL GEN_CAR67
+INITIAL GEN_CAR68
+INITIAL GEN_CAR69
+INITIAL GEN_CAR70
+INITIAL GEN_CAR71
+INITIAL GEN_CAR72
+INITIAL GEN_CAR73
+INITIAL GEN_CAR74
+INITIAL GEN_CAR75
+INITIAL GEN_CAR76
+INITIAL GEN_CAR77
+INITIAL GEN_CAR78
+INITIAL GEN_CAR79
+INITIAL GEN_CAR80
+INITIAL GEN_CAR81
+INITIAL GEN_CAR82
+INITIAL GEN_CAR83
+INITIAL GEN_CAR84
+INITIAL GEN_CAR85
+INITIAL GEN_CAR86
+INITIAL GEN_CAR87
+INITIAL GEN_CAR88
+INITIAL GEN_CAR89
+INITIAL GEN_CAR90
+INITIAL GEN_CAR91
+INITIAL GEN_CAR92
+INITIAL GEN_CAR93
+INITIAL GEN_CAR94
+INITIAL GEN_CAR95
+INITIAL GEN_CAR96
+INITIAL GEN_CAR97
+INITIAL GEN_CAR98
+INITIAL GEN_CAR99
+INITIAL GEN_CAR100
+INITIAL GEN_CAR101
+INITIAL GEN_CAR102
+INITIAL GEN_CAR103
+INITIAL GEN_CAR104
+INITIAL GEN_CAR105
+INITIAL GEN_CAR106
+INITIAL GEN_CAR107
+INITIAL GEN_CAR108
+INITIAL GEN_CAR109
+INITIAL GEN_CAR110
+INITIAL GEN_CAR111
+INITIAL GEN_CAR112
+INITIAL GEN_CAR113
+INITIAL GEN_CAR114
+INITIAL GEN_CAR115
+INITIAL GEN_CAR116
+INITIAL GEN_CAR117
+INITIAL GEN_CAR118
+INITIAL GEN_CAR119
+INITIAL GEN_CAR120
+INITIAL GEN_CAR121
+INITIAL GEN_CAR122
+INITIAL GEN_CAR123
+INITIAL GEN_CAR124
+INITIAL GEN_CAR125
+INITIAL GEN_CAR126
+INITIAL GEN_CAR127
+INITIAL GEN_CAR128
+INITIAL GEN_CAR129
+INITIAL GEN_CAR130
+INITIAL GEN_CAR131
+INITIAL GEN_CAR132
+INITIAL GEN_CAR133
+INITIAL GEN_CAR134
+INITIAL GEN_CAR135
+INITIAL GEN_CAR136
+INITIAL GEN_CAR137
+INITIAL GEN_CAR138
+INITIAL GEN_CAR139
+INITIAL GEN_CAR140
+INITIAL GEN_CAR141
+INITIAL GEN_CAR142
+INITIAL GEN_CAR143
+INITIAL GEN_CAR144
+INITIAL GEN_CAR145
+INITIAL GEN_CAR146
+INITIAL GEN_CAR147
+INITIAL GEN_CAR148
+INITIAL GEN_CAR149
+INITIAL GEN_CAR150
+INITIAL GEN_CAR151
+INITIAL GEN_CAR152
+INITIAL GEN_CAR153
+INITIAL GEN_CAR154
+INITIAL GEN_CAR155
+INITIAL GEN_CAR156
+INITIAL GEN_CAR157
+INITIAL GEN_CAR158
+INITIAL GEN_CAR159
+INITIAL GEN_CAR160
+INITIAL GEN_CAR161
+INITIAL GEN_CAR162
+INITIAL GEN_CAR163
+INITIAL GEN_CAR164
+INITIAL GEN_CAR165
+INITIAL GEN_CAR166
+INITIAL GEN_CAR167
+INITIAL GEN_CAR168
+INITIAL GEN_CAR169
+INITIAL GEN_CAR170
+INITIAL GEN_CAR171
+INITIAL GEN_CAR172
+INITIAL GEN_CAR173
+INITIAL GEN_CAR174
+INITIAL GEN_CAR175
+INITIAL GEN_CAR176
+INITIAL GEN_CAR177
+INITIAL GEN_CAR178
+INITIAL GEN_CAR179
+INITIAL GEN_CAR180
+INITIAL2 BS_BRONZE_CAR_GEN
+INITIAL2 BS_SILVER_CAR_GEN
+INITIAL2 BS_GOLD_CAR_GEN
+INITIAL2 BS_CHUNKY
+INITIAL2 BS_DBP
+INITIAL2 BS_BLOOD_CAR_GEN
+SHTR UNK_5960
+SHTR UNK_5961
+GRAV UNK_6190[10]
+GRAV GRAV_FIRE_HEADING
+TRUTH1 RECORDFLAG
+GROVE2 G2_LAB
+SH_RANGE SR_TEMP_TARGET[3]
+FREIGHT FREIGHT_PLAYER_LOCATION
+GYMBENCH BENCH_AUDIO
+GYMTREAD TREAD_TXT
+GYMDUMB SUB_MENU_BELL
+WHEELO WIN_DIALOGUE
+CAMERA TXTARSE
+
+
+
+
+Local variables
+
+
+MAIN CASH_WIN is never written
+
+MAIN TIME_TO_PRINT is never written
+
+MAIN RACETOUR_FLAG is never written
+
+BBTHROW START_X is never written
+
+BBTHROW START_Y is never written
+
+BBTHROW START_Z is never written
+
+BBTHROW TARGET_X is never written
+
+BBTHROW TARGET_Y is never written
+
+BBTHROW TARGET_Z is never written
+
+BBTHROW MISSED_SHOT is never written
+
+BBALL_CHAL Z3 is never read
+
+BBALL_CHAL VEC_Z is never read
+BBALL_CHAL VEC_Z is never written
+
+BBALL_CHAL VEC2_X is never read
+BBALL_CHAL VEC2_X is never written
+
+BBALL_CHAL VEC2_Y is never read
+BBALL_CHAL VEC2_Y is never written
+
+BBALL_CHAL VEC2_Z is never read
+BBALL_CHAL VEC2_Z is never written
+
+BBALL_CHAL TEMP_FLOAT2 is never read
+BBALL_CHAL TEMP_FLOAT2 is never written
+
+BBALL_CHAL TEMP_INT2 is never read
+BBALL_CHAL TEMP_INT2 is never written
+
+BBALL_CHAL TEMP_INT3 is never read
+BBALL_CHAL TEMP_INT3 is never written
+
+LOWRIDER_GAME OCAR_Z is never read
+
+LOWRIDER_GAME VEC_Z is never read
+LOWRIDER_GAME VEC_Z is never written
+
+LOWRIDER_GAME CUMULATIVE_SCORE is never read
+
+AUDIO_SINGLELINE AUDIO_ATTACHED is never written
+
+AUDIO_SINGLELINE AUDIO_FORCED is never written
+
+AUDIO_SINGLELINE AUDIO_SLOT is never written
+
+AUDIO_SINGLELINE AUDIO_IS_PRELOADED is never written
+
+BEATDISPLAY ITEMP2 is never read
+BEATDISPLAY ITEMP2 is never written
+
+BEATDISPLAY TEMP_FLOAT3 is never read
+BEATDISPLAY TEMP_FLOAT3 is never written
+
+BEATDISPLAY TIME_TO_THIS_BEAT_2 is never read
+BEATDISPLAY TIME_TO_THIS_BEAT_2 is never written
+
+BEATDISPLAY THIS_BEAT_TYPE_2 is never read
+BEATDISPLAY THIS_BEAT_TYPE_2 is never written
+
+BEATDISPLAY THIS_BEAT_CLOSESTNUMBER_STORED is never read
+BEATDISPLAY THIS_BEAT_CLOSESTNUMBER_STORED is never written
+
+IMPEXP UP_IS_PRESSED is never read
+IMPEXP UP_IS_PRESSED is never written
+
+IMPEXP DOWN_IS_PRESSED is never read
+IMPEXP DOWN_IS_PRESSED is never written
+
+IMPEXP X2 is never read
+
+IMPEXP Z2 is never read
+
+IMPEXP X3 is never read
+IMPEXP X3 is never written
+
+IMPEXP Y3 is never read
+IMPEXP Y3 is never written
+
+IMPEXP CRANE_OBJ is never read
+
+IMPEXP STORED_MODEL is never read
+IMPEXP STORED_MODEL is never written
+
+IMPEXP CURRENT_SELECTION is never written
+
+IMPEXP IMP_EXP_HELP is never read
+
+AIRPORTS IZONEIN is never written
+
+AIRPORTS FAP_TARGETX is never written
+
+AIRPORTS FAP_TARGETY is never written
+
+AIRPORTS FAP_TARGETZ is never written
+
+AIRPORTS IAPGUARD is never read
+AIRPORTS IAPGUARD is never written
+
+AIRPORTS IDM is never read
+AIRPORTS IDM is never written
+
+AIRPORTS ISOUNDIDX is never read
+AIRPORTS ISOUNDIDX is never written
+
+INT_MANAGER ISTATE is never written
+
+AUDIO_CONTROLLER ALAP_PLAY_STATUS is never written
+
+AUDIO_CONTROLLER ALAP_PRIORITY is never written
+
+MOBILE IGFCALLER is never written
+
+MOBILE ICALLTYPE is never written
+
+DEBUG ISTATE is never written
+
+INTRO SUBTITLE_STATUS_CUT is never written
+
+INTRO SUBTITLE_LABEL_CUT[25] is never read
+
+INTRO CAR_TIMER_CUT is never written
+
+INTRO RANDOM_CLASS_CUT is never read
+
+INTRO AUDIO_TEXT_LABEL_CUT[7] is never read
+
+INTRO TEXT_LABEL_SS is never read
+
+NONE NONE_CHAR[37] is never read
+
+DUAL MISSION_BLIP is never read
+DUAL MISSION_BLIP is never written
+
+DUAL MISSION_FLAG is never read
+DUAL MISSION_FLAG is never written
+
+DUAL MISSION_TIMER is never read
+DUAL MISSION_TIMER is never written
+
+DUAL SEQUENCE_TASK is never read
+DUAL SEQUENCE_TASK is never written
+
+DUAL PLAYERS_CAR is never read
+DUAL PLAYERS_CAR is never written
+
+DUAL H is never read
+DUAL H is never written
+
+DUAL Z2 is never read
+DUAL Z2 is never written
+
+DUAL X3 is never read
+DUAL X3 is never written
+
+DUAL Y3 is never read
+DUAL Y3 is never written
+
+DUAL Z3 is never read
+DUAL Z3 is never written
+
+DUAL SPEED is never read
+DUAL SPEED is never written
+
+DUAL PAD1_DPADLEFT_PRESSED is never read
+
+DUAL DUAL_CHAR[37] is never read
+
+DUAL STEP_X[5] is never read
+
+DUAL STEP_Y[4] is never read
+
+GRAV GRAV_RSTICKX is never read
+
+GRAV GRAV_RSTICKY is never read
+
+GRAV GRAV_ADD is never read
+GRAV GRAV_ADD is never written
+
+GRAV GRAV_ADD_SMOOTH is never read
+GRAV GRAV_ADD_SMOOTH is never written
+
+GRAV GRAV_FL_ADD is never read
+GRAV GRAV_FL_ADD is never written
+
+GRAV GRAV_FL_ADD_L is never read
+GRAV GRAV_FL_ADD_L is never written
+
+GRAV GRAV_FL_ADD_R is never read
+GRAV GRAV_FL_ADD_R is never written
+
+GRAV GRAV_JUMP_X is never read
+GRAV GRAV_JUMP_X is never written
+
+GRAV GRAV_JUMP_Y is never read
+GRAV GRAV_JUMP_Y is never written
+
+GRAV GRAV_PLYR is never read
+GRAV GRAV_PLYR is never written
+
+GRAV GRAV_JUMP_F is never read
+GRAV GRAV_JUMP_F is never written
+
+GRAV GRAV_POSITION is never read
+GRAV GRAV_POSITION is never written
+
+GRAV GRAV_SUCCESS is never read
+GRAV GRAV_SUCCESS is never written
+
+GRAV GRAV_PICKUP is never read
+GRAV GRAV_PICKUP is never written
+
+GRAV GRAV_HI_SCORE is never read
+
+GRAV GRAV_LEVEL_UP is never read
+
+GRAV GRAV_SPR_X is never read
+GRAV GRAV_SPR_X is never written
+
+GRAV GRAV_SPR_Y is never read
+GRAV GRAV_SPR_Y is never written
+
+GRAV GRAV_SPEED is never read
+GRAV GRAV_SPEED is never written
+
+GRAV GRAV_GRAVITY is never read
+GRAV GRAV_GRAVITY is never written
+
+GRAV GRAV_COLLISION_W is never read
+GRAV GRAV_COLLISION_W is never written
+
+GRAV GRAV_COLLISION_H is never read
+GRAV GRAV_COLLISION_H is never written
+
+GRAV GRAV_BIAS_LINE is never read
+GRAV GRAV_BIAS_LINE is never written
+
+GRAV GRAV_LAYER_Y is never read
+GRAV GRAV_LAYER_Y is never written
+
+GRAV GRAV_ORIGIN is never read
+GRAV GRAV_ORIGIN is never written
+
+OTB STAKE_X is never read
+
+OTB STAKE_Y is never read
+
+OTB V77 is never read
+
+OTB HORSE_NAMES[167] is never read
+
+OTB PAD1_RIGHTSTICK_X is never read
+
+OTB PAD1_RIGHTSTICK_Y is never read
+
+POOL FLAG3 is never written
+
+POOL TEMP_FLOAT4 is never read
+POOL TEMP_FLOAT4 is never written
+
+POOL TEMP_FLOAT5 is never read
+POOL TEMP_FLOAT5 is never written
+
+POOL PL_RECT_X is never read
+POOL PL_RECT_X is never written
+
+POOL PL_RECT_Y is never read
+POOL PL_RECT_Y is never written
+
+POOL PL_RECT_W is never read
+POOL PL_RECT_W is never written
+
+POOL PL_RECT_H is never read
+POOL PL_RECT_H is never written
+
+POOL PL_GRAY is never read
+POOL PL_GRAY is never written
+
+POOL PL_ALPHA is never read
+POOL PL_ALPHA is never written
+
+POOL PL_WAGER_TEXT_X[9] is never read
+POOL PL_WAGER_TEXT_X[9] is never written
+
+POOL PL_WAGER_TEXT_Y[9] is never read
+POOL PL_WAGER_TEXT_Y[9] is never written
+
+POOL PL_CURRENT_TEXT is never read
+POOL PL_CURRENT_TEXT is never written
+
+POOL PL_PLAYERS_CASH is never read
+POOL PL_PLAYERS_CASH is never written
+
+POOL PL_WAGER_TOO_HIGH is never read
+POOL PL_WAGER_TOO_HIGH is never written
+
+POOL PL_WAGER_TOO_LOW is never read
+POOL PL_WAGER_TOO_LOW is never written
+
+POOL PL_PLAYERS_TOTAL_CASH is never read
+
+POOL CAMERA_OBJECT is never read
+
+POOL VEC2_Z is never read
+POOL VEC2_Z is never written
+
+POOL LIGHT_X is never read
+
+POOL LIGHT_Y is never read
+
+POOL LIGHT_Z is never read
+
+POOL PROJ_HIT_BALL_OBJECTS[10] is never read
+POOL PROJ_HIT_BALL_OBJECTS[10] is never written
+
+POOL PROJ_USED_HIT_BALLS is never read
+POOL PROJ_USED_HIT_BALLS is never written
+
+POOL MOUSE_X is never read
+
+POOL CURRENT_CUE is never read
+
+POOL GOT_FIRST_HIT_BALL is never read
+
+POOL PROJ_CUE[10] is never read
+POOL PROJ_CUE[10] is never written
+
+POOL PROJ_HIT[5] is never read
+POOL PROJ_HIT[5] is never written
+
+POOL PROJ_HIT_DIST2 is never read
+POOL PROJ_HIT_DIST2 is never written
+
+POOL PROJ_HIT_DIST3 is never read
+POOL PROJ_HIT_DIST3 is never written
+
+POOL PROJ_LINEB_X1[3] is never read
+
+POOL PROJ_LINEB_Y1[3] is never read
+
+POOL PROJ_LINEB_X2[3] is never read
+
+POOL PROJ_LINEB_Y2[3] is never read
+
+POOL PROJ_HIT_BALL_DIST is never read
+
+POOL PROJ_HIT_BALL_VEC_X is never read
+
+POOL PROJ_HIT_BALL_VEC_Y is never read
+
+POOL PROJ_CUE_PATH_X[4] is never read
+POOL PROJ_CUE_PATH_X[4] is never written
+
+POOL PROJ_CUE_PATH_Y[4] is never read
+POOL PROJ_CUE_PATH_Y[4] is never written
+
+POOL PROJ_HIT_START_X is never read
+POOL PROJ_HIT_START_X is never written
+
+POOL PROJ_HIT_END_X is never read
+POOL PROJ_HIT_END_X is never written
+
+POOL PROJ_OFFSET_DIST is never written
+
+POOL PROJ_NEXT_OFFSET is never read
+
+POOL B_Z1 is never read
+
+POOL B_Z2 is never read
+
+POOL B_Z3 is never read
+
+POOL P_VEC3_X is never read
+POOL P_VEC3_X is never written
+
+POOL P_VEC3_Y is never read
+POOL P_VEC3_Y is never written
+
+POOL HIT_BALL_BOUNCE_VEC_X is never written
+
+POOL HIT_BALL_BOUNCE_VEC_Y is never written
+
+POOL MIN_DISTANCE_TO_TEST is never read
+POOL MIN_DISTANCE_TO_TEST is never written
+
+POOL CLOSEST_OBSTRUCTING_BALL is never read
+POOL CLOSEST_OBSTRUCTING_BALL is never written
+
+POOL CLOSEST_BALL_CONTACT_DISTANCE_TO_VECTOR is never read
+POOL CLOSEST_BALL_CONTACT_DISTANCE_TO_VECTOR is never written
+
+POOL CLOSEST_OBSTRUCTING_BALL_DISTANCE_TO_PATH is never read
+POOL CLOSEST_OBSTRUCTING_BALL_DISTANCE_TO_PATH is never written
+
+POOL BOUNCE2_BALL1 is never read
+
+POOL BOUNCE2_CUSHION_X is never read
+
+POOL BOUNCE2_CUSHION_Y is never read
+
+POOL BALL_0_X is never read
+POOL BALL_0_X is never written
+
+POOL BALL_0_Y is never read
+POOL BALL_0_Y is never written
+
+POOL BALL_0_Z is never read
+POOL BALL_0_Z is never written
+
+POOL LA_Z1 is never read
+
+POOL LB_Z1 is never read
+
+POOL LB_Z2 is never read
+
+POOL FAR_AIM_STANCE_Z is never read
+
+POOL FAR_AIM_STANCE_H is never read
+
+POOL LAST_STANCE is never read
+POOL LAST_STANCE is never written
+
+POOL NIB_SPEED is never read
+POOL NIB_SPEED is never written
+
+POOL WIN2_LONGEST_WIDTH is never read
+POOL WIN2_LONGEST_WIDTH is never written
+
+POOL BALL_TURN_MASS is never written
+
+LOWR TEMP_INT3 is never read
+LOWR TEMP_INT3 is never written
+
+LOWR VEC2_Z is never read
+LOWR VEC2_Z is never written
+
+LOWR X3 is never read
+LOWR X3 is never written
+
+LOWR Y3 is never read
+LOWR Y3 is never written
+
+LOWR Z3 is never read
+LOWR Z3 is never written
+
+LOWR HELP_FLAG is never read
+
+LOWR MECHANIC_DUDE is never read
+LOWR MECHANIC_DUDE is never written
+
+LOWR SW6_KENDAL is never read
+LOWR SW6_KENDAL is never written
+
+LOWR SW6_CESAR is never read
+LOWR SW6_CESAR is never written
+
+LOWR CAR_BLIP is never read
+
+LOWR CAR_HYD_FLAG is never read
+
+LOWR MEET_PED_FLAG[22] is never read
+
+LOWR INPUT_MODE is never read
+
+LOWR PSCORE_TIMER is never written
+
+LOWR INITIAL_STAKE is never written
+
+ZERO5 HEADING_REDBARON is never read
+
+ZERO5 HEADING_PLAYERS_VAN is never read
+ZERO5 HEADING_PLAYERS_VAN is never written
+
+ZERO5 FLAG_FLY_NEXT_TO_TRANSMITTOR_ZERO5 is never read
+
+ZERO5 FLAG_HELI_LANDING_CUTSCENE_ZERO5 is never read
+
+ZERO5 FLAG_FLY_BACK_TO_PLAYER_ZERO5 is never read
+
+ZERO5 FLAG_CREATED_RC_ENEMIES_ZERO5 is never read
+ZERO5 FLAG_CREATED_RC_ENEMIES_ZERO5 is never written
+
+ZERO5 FLAG_HELP_TEXT is never read
+
+ZERO5 FLAG_HELP_TEXT2 is never read
+
+ZERO5 FLAG_IS_ENEMY_VAN_DEAD[5] is never read
+ZERO5 FLAG_IS_ENEMY_VAN_DEAD[5] is never written
+
+ZERO5 FLAG_LAND_PLANE_ZERO5 is never read
+
+ZERO5 SEQ_ZERO_CUTSCENE is never read
+ZERO5 SEQ_ZERO_CUTSCENE is never written
+
+ZERO5 HELP_FLAGS_ZERO1 is never read
+
+ZERO5 CUTSCENE_FLAG_ZERO5 is never read
+ZERO5 CUTSCENE_FLAG_ZERO5 is never written
+
+ZERO5 BLIP_LANDING_ZERO5 is never read
+ZERO5 BLIP_LANDING_ZERO5 is never written
+
+ZERO5 INDEX_ZERO5 is never read
+
+INTRO1 BMX1 is never written
+
+INTRO1 BMX2 is never written
+
+INTRO1 BMX3 is never written
+
+INTRO1 BIG_SMOKE_BLIP is never read
+INTRO1 BIG_SMOKE_BLIP is never written
+
+INTRO1 BMX_PALS is never read
+INTRO1 BMX_PALS is never written
+
+INTRO1 INTRO_BLIP1 is never read
+INTRO1 INTRO_BLIP1 is never written
+
+INTRO1 PLAYERS_VEHICLE is never read
+INTRO1 PLAYERS_VEHICLE is never written
+
+INTRO1 IS_RECORDING_STARTED_INTR2 is never read
+
+INTRO1 EVERYONE_FINISHED is never read
+
+INTRO1 TEST_CAR_BLIP is never read
+INTRO1 TEST_CAR_BLIP is never written
+
+INTRO1 FREEZE_THE_GANGCAR is never read
+
+INTRO1 DONT_REPEAT_TASK is never read
+
+INTRO1 BMX_BOYS is never read
+INTRO1 BMX_BOYS is never written
+
+INTRO1 BMX_RIVAL_GANG is never read
+INTRO1 BMX_RIVAL_GANG is never written
+
+INTRO1 DRIVE_TO_HUB is never read
+INTRO1 DRIVE_TO_HUB is never written
+
+INTRO1 SPLIT_UP_CUT is never read
+
+INTRO1 BMX_GANG_FINISHED[3] is never read
+
+INTRO1 SMOKES_DECISION is never read
+INTRO1 SMOKES_DECISION is never written
+
+INTRO1 SWEETS_DECISION is never read
+INTRO1 SWEETS_DECISION is never written
+
+INTRO1 RYDERS_DECISION is never read
+INTRO1 RYDERS_DECISION is never written
+
+INTRO1 PLAYER_BMXZ is never read
+
+INTRO2 BARBER_TEXT_FINISHED is never read
+
+INTRO2 SHITE_HAIRCUT is never read
+INTRO2 SHITE_HAIRCUT is never written
+
+INTRO2 SMOKE_EFFECT is never read
+INTRO2 SMOKE_EFFECT is never written
+
+INTRO2 PRINT_INTO2_TEXT is never read
+
+INTRO2 PLAYED_RYDER_FREAKING_OUT is never read
+
+SWEET1 ADDED_SWEET1_BLIP is never read
+
+SWEET1 JUMP_HELP3 is never read
+
+SWEET1 JUMP_HELP4 is never read
+
+SWEET1 SWEET_DELETED is never read
+
+SWEET1 START_TAGGING is never read
+
+SWEET1 SWEET1_SEQUENCE_2 is never read
+SWEET1 SWEET1_SEQUENCE_2 is never written
+
+SWEET1 SWEET1_SEQUENCE_3 is never read
+SWEET1 SWEET1_SEQUENCE_3 is never written
+
+SWEET1 SWEET_TAGGED_TAG is never read
+
+SWEET1 RETURNED_STATUS is never read
+SWEET1 RETURNED_STATUS is never written
+
+SWEET1 RETURNED_PROGRESS is never read
+
+SWEET1 SWEET_IN_TAG_POSITION1 is never read
+
+SWEET1 SWEET_IN_TAG_POSITION2 is never read
+
+SWEET1 SWEET_IN_TAG_POSITION3 is never read
+
+SWEET1 TAG_PERCENTAGE3_TAGGED is never read
+
+SWEET1 SWEET1X is never read
+SWEET1 SWEET1X is never written
+
+SWEET1 SWEET1Y is never read
+SWEET1 SWEET1Y is never written
+
+SWEET1 SWEET1Z is never read
+SWEET1 SWEET1Z is never written
+
+SWEET1 RETURED_ANIM_TIME is never read
+
+SWEET1B CRACKHEAD1_ATTRACTOR is never read
+SWEET1B CRACKHEAD1_ATTRACTOR is never written
+
+SWEET1B PLAYER_GROVE_GANG is never read
+SWEET1B PLAYER_GROVE_GANG is never written
+
+SWEET1B CRACKBOSS_HELP is never read
+
+SWEET1B CRACK_BOSS_DEAD is never read
+SWEET1B CRACK_BOSS_DEAD is never written
+
+SWEET1B ALREADY_GOT_TASK_SWEET1 is never read
+
+SWEET1B ALREADY_GOT_TASK_SWEET1_2 is never read
+SWEET1B ALREADY_GOT_TASK_SWEET1_2 is never written
+
+SWEET1B IN_CRACK_LOCATE is never read
+
+SWEET1B RETURNSTATUS is never read
+SWEET1B RETURNSTATUS is never written
+
+SWEET1B SPECIAL_DEATH3 is never read
+
+SWEET1B CRACK_BITCHES is never read
+
+SWEET1B SMOKER1_ATTACK is never read
+
+SWEET1B WHORE_COWER is never read
+
+SWEET1B SMOKER2_ATTACK is never read
+
+SWEET1B FLAG_SWEET1_CHAT is never read
+
+SWEET1B DONT_PLAY_FIRST_BATCH is never read
+
+SWEET3 GOT_TO_DRIVE_THROUGH is never read
+
+SWEET3 STARTED_TO_KILL_GANG is never read
+
+SWEET3 DRIVE_BY_BLOKE1 is never written
+
+SWEET3 DRIVE_BY_BLOKE2 is never written
+
+SWEET3 GOT_TO_HUB_FIRST_TIME is never read
+
+SWEET3 RETURN_PROGRESS is never read
+SWEET3 RETURN_PROGRESS is never written
+
+SWEET3 CHICKEN_MAN1 is never read
+SWEET3 CHICKEN_MAN1 is never written
+
+SWEET3 CHICKEN_MAN2 is never read
+SWEET3 CHICKEN_MAN2 is never written
+
+SWEET3 SWEET3_MATE4 is never read
+SWEET3 SWEET3_MATE4 is never written
+
+SWEET3 CREATE_CHICKEN_MEN is never read
+SWEET3 CREATE_CHICKEN_MEN is never written
+
+SWEET3 PRINT_SWEET3_TEXT is never read
+
+SWEET3 KILL_THEM_ALL_SWEET3D is never read
+SWEET3 KILL_THEM_ALL_SWEET3D is never written
+
+SWEET3 TASK_RETURNED is never read
+SWEET3 TASK_RETURNED is never written
+
+SWEET3 OUT_OF_CAR1 is never read
+
+SWEET3 OUT_OF_CAR2 is never read
+
+SWEET3 SWEET3_CUTSCENE_FLAG is never read
+
+SWEET3 CHICKEN_CIGGY is never read
+SWEET3 CHICKEN_CIGGY is never written
+
+SWEET3 DRIVE_BY_INDEX is never read
+
+SWEET3 SEQUENCE_INITIATED is never read
+
+SWEET3 DRIVE_BY_BLOKE1_DEAD is never read
+
+SWEET3 DRIVE_BY_BLOKE2_DEAD is never read
+
+SWEET3 TASK_EXIT_BURNING_CAR1 is never read
+
+SWEET3 TASK_EXIT_BURNING_CAR2 is never read
+
+SWEET3 CHICKEN_TEXT_1 is never read
+
+SWEET3 CHICKEN_TEXT_2 is never read
+
+SWEET3 BLOCK_IN_CAR_BLOCKED is never read
+
+SWEET3 CHICKEN_CHAR1 is never read
+SWEET3 CHICKEN_CHAR1 is never written
+
+SWEET3 CHICKEN_CAR1 is never read
+SWEET3 CHICKEN_CAR1 is never written
+
+SWEET3 SWEET3_CAR2 is never read
+SWEET3 SWEET3_CAR2 is never written
+
+SWEET2 WANTED_TAG is never read
+SWEET2 WANTED_TAG is never written
+
+SWEET2 PLAYERGROUP_SW2 is never read
+SWEET2 PLAYERGROUP_SW2 is never written
+
+SWEET2 SMOKE_SITTING_IN_CAR is never read
+
+SWEET2 EXP_BARREL1 is never read
+SWEET2 EXP_BARREL1 is never written
+
+SWEET2 EXP_BARREL2 is never read
+SWEET2 EXP_BARREL2 is never written
+
+SWEET2 BARREL2_EXISTS is never read
+
+SWEET2 RETURN_STATUS is never read
+
+SWEET2 PLAYED_THE_TIMER is never read
+
+SWEET2 BIG_SMOKE_GROUP_SPILT_BLIP is never read
+
+SWEET4 SW4_SIDE is never written
+
+SWEET4 SW4_GOSUB_Z is never read
+
+SWEET4 SW4_FLEE_EXP_CAR is never read
+SWEET4 SW4_FLEE_EXP_CAR is never written
+
+SWEET4 SW4_DESTROY_LEAD_CAR is never read
+SWEET4 SW4_DESTROY_LEAD_CAR is never written
+
+SWEET4 SW4_MOVE is never read
+
+SWEET4 SW4_FLEE_CAR is never read
+SWEET4 SW4_FLEE_CAR is never written
+
+SWEET4 SW4_SWEET_END_CUT is never read
+SWEET4 SW4_SWEET_END_CUT is never written
+
+SWEET4 SW4_SMOKE_END_CUT is never read
+SWEET4 SW4_SMOKE_END_CUT is never written
+
+SWEET4 SW4_PLAYER_SHAKE is never read
+
+SWEET4 SW4_GANG_STRENGTH[40] is never read
+SWEET4 SW4_GANG_STRENGTH[40] is never written
+
+SWEET4 SW4_PLAYER_CAR_ARRIVE is never read
+SWEET4 SW4_PLAYER_CAR_ARRIVE is never written
+
+SWEET4 SW4_PLAYER_GROUP is never read
+SWEET4 SW4_PLAYER_GROUP is never written
+
+SWEET4 SW4_PASSENGER is never read
+SWEET4 SW4_PASSENGER is never written
+
+SWEET4 SW4_ANIM_TIME is never read
+SWEET4 SW4_ANIM_TIME is never written
+
+SWEET4 SW4_TEXT[62] is never read
+
+SWEET5 SW5_RANDOM is never read
+SWEET5 SW5_RANDOM is never written
+
+SWEET5 SW5_RED_GROUP is never read
+SWEET5 SW5_RED_GROUP is never written
+
+SWEET5 SW5_RED_GROUP_DEC is never read
+SWEET5 SW5_RED_GROUP_DEC is never written
+
+SWEET5 SW5_PAUSE_TIME is never read
+SWEET5 SW5_PAUSE_TIME is never written
+
+SWEET5 SW5_SPECIAL_RED_ACTION is never read
+SWEET5 SW5_SPECIAL_RED_ACTION is never written
+
+SWEET5 SWEET_CHANGE_STATE_TIME is never read
+SWEET5 SWEET_CHANGE_STATE_TIME is never written
+
+SWEET5 SW5_SWEET_DUCKING is never read
+SWEET5 SW5_SWEET_DUCKING is never written
+
+SWEET5 SW5_SWEETS_TARGET is never read
+SWEET5 SW5_SWEETS_TARGET is never written
+
+SWEET5 SW5_REDS_SHOOTING_PLAYER is never read
+SWEET5 SW5_REDS_SHOOTING_PLAYER is never written
+
+SWEET5 NEXT_RED_TIME_CHECK is never read
+SWEET5 NEXT_RED_TIME_CHECK is never written
+
+SWEET5 SW5_REDI is never read
+SWEET5 SW5_REDI is never written
+
+SWEET5 SW5_CLOSEST_DIST_A is never read
+SWEET5 SW5_CLOSEST_DIST_A is never written
+
+SWEET5 SW5_CLOSEST_DIST_B is never read
+SWEET5 SW5_CLOSEST_DIST_B is never written
+
+SWEET5 SW5_NEAREST_RED_A is never read
+SWEET5 SW5_NEAREST_RED_A is never written
+
+SWEET5 SW5_NEAREST_RED_B is never read
+SWEET5 SW5_NEAREST_RED_B is never written
+
+SWEET5 SW5_SPOTTED_FOR_FIRST_TIME is never read
+SWEET5 SW5_SPOTTED_FOR_FIRST_TIME is never written
+
+SWEET5 SW5_SWEET_DEC is never read
+
+SWEET5 SW5_PROGRESS is never read
+SWEET5 SW5_PROGRESS is never written
+
+SWEET5 SW5_SWEET_SHOOTING_AT is never read
+SWEET5 SW5_SWEET_SHOOTING_AT is never written
+
+SWEET5 SW5_CAN_SKIP_CUT is never read
+
+SWEET5 SW5_CAR_MODEL is never read
+
+SWEET5 PED_ATTACK_EVENT[6] is never read
+SWEET5 PED_ATTACK_EVENT[6] is never written
+
+SWEET5 SW5_REDPAS[2] is never read
+SWEET5 SW5_REDPAS[2] is never written
+
+SWEET5 SW5_SKIPPING_CUT is never read
+
+SWEET5 NEXT_INSULT is never read
+
+SWEET5 SW9_SEQ is never read
+SWEET5 SW9_SEQ is never written
+
+SWEET5 SW5_CHECK_SWEET_HEALTH is never read
+SWEET5 SW5_CHECK_SWEET_HEALTH is never written
+
+SWEET5 PHONE_CALL_IN_CAR is never read
+
+SWEET5 SW5_REDS_ATTACK is never read
+SWEET5 SW5_REDS_ATTACK is never written
+
+SWEET5 SW5_CHECK is never read
+SWEET5 SW5_CHECK is never written
+
+SWEET5 SW5_FIRST_RED_SHOOT_FLAG is never read
+SWEET5 SW5_FIRST_RED_SHOOT_FLAG is never written
+
+SWEET5 SW5_RED_BLIP1 is never read
+
+SWEET5 SW5_RED_BLIP2 is never read
+
+SWEET5 AUDIO_TEXT[40] is never read
+
+SWEET5 PLAY_AUDIO_DELAY is never written
+
+SWEET5 LOADED_AUDIO is never read
+SWEET5 LOADED_AUDIO is never written
+
+SWEET6 TEMP_INT3 is never read
+SWEET6 TEMP_INT3 is never written
+
+SWEET6 VEC2_Z is never read
+SWEET6 VEC2_Z is never written
+
+SWEET6 X3 is never read
+SWEET6 X3 is never written
+
+SWEET6 Y3 is never read
+SWEET6 Y3 is never written
+
+SWEET6 Z3 is never read
+SWEET6 Z3 is never written
+
+SWEET6 SW6_KENDAL is never read
+SWEET6 SW6_KENDAL is never written
+
+SWEET6 SW6_CESAR is never read
+SWEET6 SW6_CESAR is never written
+
+SWEET6 MEET_PED_FLAG[22] is never read
+
+SWEET6 INPUT_MODE is never read
+
+SWEET6 PSCORE_TIMER is never written
+
+SWEET6 INITIAL_STAKE is never written
+
+SWEET6 MOD_GARAGE_HELP_DISPLAYED is never written
+
+SWEET6 LOWRIDER_INSTRUCTIONS_BEEN_DISPLAYED is never written
+
+SWEET7 SW7_PROTECTOR1DEAD is never read
+
+SWEET7 SW7_PROTECTOR2DEAD is never read
+
+SWEET7 SW7_PROTECTOR3DEAD is never read
+
+SWEET7 SW7_ENDANIMS is never read
+
+SWEET7 SW7_CARDAMPROMPT is never read
+SWEET7 SW7_CARDAMPROMPT is never written
+
+SWEET7 SW7_HEARSEHEALTH is never read
+SWEET7 SW7_HEARSEHEALTH is never written
+
+SWEET7 SW7_TOUGHDM is never read
+
+SWEET7 SW7_NORMALDM is never read
+
+SWEET7 SW7_CASKET is never read
+
+SWEET7 SW7_LEADERS is never read
+
+SWEET7 SW7_REGROUPFIX is never read
+
+SWEET7 SW7_BALLASB is never read
+SWEET7 SW7_BALLASB is never written
+
+SWEET7 SW7_CURRENTWANTED is never read
+
+SWEET7 SW7_POTENTIALMEMBERS is never written
+
+SWEET7 SW7_DIALOGUE is never read
+SWEET7 SW7_DIALOGUE is never written
+
+SWEET7 SW7_AUDIO_CHAR is never read
+SWEET7 SW7_AUDIO_CHAR is never written
+
+SWEET7 SW7_TEXT_TIMER_DIFF is never read
+SWEET7 SW7_TEXT_TIMER_DIFF is never written
+
+SWEET7 SW7_TEXT_TIMER_END is never read
+SWEET7 SW7_TEXT_TIMER_END is never written
+
+SWEET7 SW7_TEXT_TIMER_START is never read
+SWEET7 SW7_TEXT_TIMER_START is never written
+
+SWEET7 SW7_TEXT[74] is never read
+
+SWEET7 SW7_CONVO_UNDERWAY is never read
+SWEET7 SW7_CONVO_UNDERWAY is never written
+
+SWEET7 SW7_CUT_COUNTER is never read
+
+SWEET7 SW7_BANGER1MEETSEQ is never read
+SWEET7 SW7_BANGER1MEETSEQ is never written
+
+SWEET7 SW7_BANGER2MEETSEQ is never read
+SWEET7 SW7_BANGER2MEETSEQ is never written
+
+SWEET7 TESTHEALTH is never read
+
+CRASH4 FLAG_ENEMY_TAUNT_CRASH4 is never read
+
+CRASH4 ENEMY_CREATED_CRASH4 is never read
+
+CRASH4 ENEMY_OUT_CAR_CRASH4 is never read
+CRASH4 ENEMY_OUT_CAR_CRASH4 is never written
+
+CRASH4 ENEMY2_CRASH4 is never read
+CRASH4 ENEMY2_CRASH4 is never written
+
+CRASH4 CAR_CRASH4 is never read
+CRASH4 CAR_CRASH4 is never written
+
+CRASH4 ENEMY2_OUT_CAR_CRASH4 is never read
+
+CRASH4 TASK_STATUS_CRASH4 is never read
+CRASH4 TASK_STATUS_CRASH4 is never written
+
+CRASH4 FLAG_GANG_HELP_CRASH4 is never read
+
+CRASH4 EMMETTS_BLIP_CRASH4 is never read
+CRASH4 EMMETTS_BLIP_CRASH4 is never written
+
+CRASH4 RETURN_ANIMATION_TIME_GUY2_CRASH4 is never read
+
+CRASH4 RETURN_ANIMATION_TIME_GUY3_CRASH4 is never read
+
+CRASH4 FLAG_GUY2_FINISHED_CRASH4 is never read
+
+CRASH4 FLAG_GUY3_FINISHED_CRASH4 is never read
+
+CRASH4 FLAG_AMMU_HELP_CRASH4 is never read
+
+CRASH4 DUMMY_CAR_CRASH4 is never read
+CRASH4 DUMMY_CAR_CRASH4 is never written
+
+CRASH4 FLAG_GUN_MESSAGE_CRASH4 is never read
+
+CRASH4 STORED_CAR_CRASH4 is never read
+
+CRASH1 TLCONVERSATIONSEQUENCESUBTITLE[9] is never read
+
+CRASH1 FIREHOUSECOWER is never read
+
+CRASH1 FIREHOUSESTAIRS is never read
+
+CRASH1 AIHOUSEGUYINCOWER is never read
+
+CRASH1 AIHOUSEGUYINSTAIRS is never read
+
+CRASH1 TIMEROUTSIDEDELAY is never read
+
+CRASH1 NIGNORE is never read
+
+CRASH1 FLAGMOLOTOVSONROUTEACTIVE is never written
+
+CRASH1 FLAGFIREEXTINGUISHERCUTSCENEPLAYING is never read
+
+CRASH1 EXISTSWALLS is never read
+
+CRASH3 CRASH3WEAK_DM is never read
+
+CRASH3 SHUTTERSOUND_C3 is never read
+
+CRASH3 TEXT_LABEL_C3 is never read
+
+CRASH3 INPUT_TEXT_C3 is never read
+
+CRASH3 GUARD9_C3 is never read
+CRASH3 GUARD9_C3 is never written
+
+CRASH3 RUSSIAN1_C3 is never read
+CRASH3 RUSSIAN1_C3 is never written
+
+CRASH3 RUSSIAN2_C3 is never read
+CRASH3 RUSSIAN2_C3 is never written
+
+CRASH3 RUSSIAN3_C3 is never read
+CRASH3 RUSSIAN3_C3 is never written
+
+CRASH3 RUSSIAN4_C3 is never read
+CRASH3 RUSSIAN4_C3 is never written
+
+CRASH3 PLAYERBIKE_C3 is never read
+CRASH3 PLAYERBIKE_C3 is never written
+
+CRASH3 TOLOTOVDRIVE_C3SEQ is never read
+CRASH3 TOLOTOVDRIVE_C3SEQ is never written
+
+CRASH3 CHASECAR1A_SEQ is never read
+CRASH3 CHASECAR1A_SEQ is never written
+
+CRASH3 CHASECAR1B_SEQ is never read
+CRASH3 CHASECAR1B_SEQ is never written
+
+CRASH3 RUSSIANBOSS1_C3BLIP is never read
+CRASH3 RUSSIANBOSS1_C3BLIP is never written
+
+CRASH3 RUSSIANBOSS2_C3BLIP is never read
+CRASH3 RUSSIANBOSS2_C3BLIP is never written
+
+CRASH3 WORKERDOOR_C3FLAG is never read
+
+CRASH3 GUARD4_C3FLAG is never read
+
+CRASH3 GUARD9_C3FLAG is never read
+
+CRASH3 TRAILER_C3FLAG is never read
+
+CRASH3 DOORCOUNTER_C3FLAG is never read
+
+CRASH3 RUSSIAN1_C3FLAG is never read
+
+RYDER1 RYD1_TEMP_X is never read
+
+RYDER1 RYD1_TEMP_Y is never read
+
+RYDER1 RYD1_SFX_PLAYED is never read
+
+RYDER3 R3_CAR_PAUSED is never read
+RYDER3 R3_CAR_PAUSED is never written
+
+RYDER3 R3_LEFT_CAR is never read
+RYDER3 R3_LEFT_CAR is never written
+
+RYDER3 R3_CRATES_0 is never read
+RYDER3 R3_CRATES_0 is never written
+
+RYDER3 R3_CRATES_1 is never read
+RYDER3 R3_CRATES_1 is never written
+
+RYDER3 R3_CRATES_2 is never read
+RYDER3 R3_CRATES_2 is never written
+
+RYDER3 R3_M3_BLIP[8] is never read
+RYDER3 R3_M3_BLIP[8] is never written
+
+RYDER3 R3_GROVE_BLIP is never read
+RYDER3 R3_GROVE_BLIP is never written
+
+RYDER3 R3_PLAYED_ANIM is never read
+RYDER3 R3_PLAYED_ANIM is never written
+
+RYDER3 R3_CRATE_CNT is never written
+
+RYDER3 R3_START_TEXT is never read
+RYDER3 R3_START_TEXT is never written
+
+RYDER3 RYDERS_GOON3 is never read
+RYDER3 RYDERS_GOON3 is never written
+
+RYDER3 R3_CRATE_D is never read
+RYDER3 R3_CRATE_D is never written
+
+RYDER3 R3_SPRAYED is never read
+RYDER3 R3_SPRAYED is never written
+
+RYDER3 R3_PRINT is never read
+
+RYDER3 R3_GROVE_CAR is never read
+RYDER3 R3_GROVE_CAR is never written
+
+RYDER3 R3_LSV_CAR is never read
+RYDER3 R3_LSV_CAR is never written
+
+RYDER3 DESTX is never read
+
+RYDER3 DESTY is never read
+
+RYDER3 DESTZ is never read
+
+RYDER2 TEMP_INT3 is never read
+RYDER2 TEMP_INT3 is never written
+
+RYDER2 TEMP_FLOAT2 is never read
+RYDER2 TEMP_FLOAT2 is never written
+
+RYDER2 TEMP_FLOAT3 is never read
+RYDER2 TEMP_FLOAT3 is never written
+
+RYDER2 JEEP_TIMER is never written
+
+RYDER2 JEEP1 is never read
+RYDER2 JEEP1 is never written
+
+RYDER2 JEEP2 is never read
+RYDER2 JEEP2 is never written
+
+RYDER2 PLAYER_GOT_UNIFORM is never read
+
+RYDER2 GUARDS_ALERTED is never read
+
+RYDER2 FORK_LOADED is never read
+
+RYDER2 FORK_BOX1 is never read
+
+RYDER2 GENERATE_BADDIES is never read
+
+RYDER2 M_WAVE is never read
+
+RYDER2 JEEP_WAVE is never read
+
+RYDER2 PASSENGER1_GOT_TASK is never read
+
+RYDER2 PASSENGER2_GOT_TASK is never read
+
+RYDER2 RYDER_HEALTH_DISPLAYED is never read
+
+RYDER2 PING_BOX_TIMER is never written
+
+RYDER2 BOXES_ARE_OUTSIDE_DIALOGUE is never read
+
+RYDER2 RYDER_EXPLAINED_WHAT_TO_DO is never read
+
+RYDER2 JEEP_CREATED is never read
+
+RYDER2 SPAWN_DIFFICULTY is never read
+
+RYDER2 M_GUARD_OFF_X is never read
+
+RYDER2 M_GUARD_OFF_Y is never read
+
+RYDER2 M_GUARD_OFF_Z is never read
+
+RYDER2 GATE3_TARGET_X is never read
+
+RYDER2 GATE3_TARGET_Y is never read
+
+RYDER2 GATE3_TARGET_Z is never read
+
+RYDER2 VAN_BACK_X is never read
+
+RYDER2 VAN_BACK_Y is never read
+
+RYDER2 VAN_BACK_Z is never read
+
+RYDER2 SPAWN_NEW_WAVE_OF_GUARDS is never read
+
+RYDER2 THROWING_STATUS is never read
+RYDER2 THROWING_STATUS is never written
+
+RYDER2 NGM_TEMP_INT2 is never read
+
+RYDER2 SPAWN_H1[10] is never read
+
+RYDER2 SPAWN_X4[10] is never read
+
+RYDER2 SPAWN_Y4[10] is never read
+
+RYDER2 SPAWN_Z4[10] is never read
+
+SMOKE1 TW7_CLASS is never read
+
+SMOKE1 TW7_PRINT_LABEL[13] is never read
+
+SMOKE2 S2_AUDIO_TEXT[9] is never read
+
+SMOKE2 S2_STARTED_TALKING is never read
+
+SMOKE2 S2_RANDOM_CAR_CLASS is never read
+
+SMOKE3 OPPTRAIN2_S3 is never read
+SMOKE3 OPPTRAIN2_S3 is never written
+
+SMOKE3 STD1PED_S3 is never read
+SMOKE3 STD1PED_S3 is never written
+
+SMOKE3 PLAYERCARX_S3 is never read
+SMOKE3 PLAYERCARX_S3 is never written
+
+SMOKE3 PLAYERCARY_S3 is never read
+SMOKE3 PLAYERCARY_S3 is never written
+
+SMOKE3 PLAYERCARZ_S3 is never read
+SMOKE3 PLAYERCARZ_S3 is never written
+
+SMOKE3 TRAINX_S3 is never read
+SMOKE3 TRAINX_S3 is never written
+
+SMOKE3 TRAINY_S3 is never read
+SMOKE3 TRAINY_S3 is never written
+
+SMOKE3 TRAINZ_S3 is never read
+SMOKE3 TRAINZ_S3 is never written
+
+SMOKE3 DISTANCE_S3 is never read
+SMOKE3 DISTANCE_S3 is never written
+
+SMOKE3 TRAINSPEED_S3 is never read
+SMOKE3 TRAINSPEED_S3 is never written
+
+SMOKE3 TRAINISMOVING_S3FLAG is never read
+
+SMOKE3 RUN_S2FLAG is never read
+
+SMOKE3 DRIVEBYFIRSTTIME_S3FLAG is never read
+
+SMOKE3 TEXT_LABEL_S3 is never read
+
+SMOKE3 INPUT_TEXT_S3 is never read
+
+SMOKE4 RUSSIAN19_S4 is never read
+SMOKE4 RUSSIAN19_S4 is never written
+
+SMOKE4 VISIBLEAREA_S4 is never read
+SMOKE4 VISIBLEAREA_S4 is never written
+
+SMOKE4 RUSSIAN11_S4FLAG is never read
+
+SMOKE4 RUSSIAN19REMOVE_S4FLAG is never read
+
+SMOKE4 RUSSIAN20REMOVE_S4FLAG is never read
+
+SMOKE4 CAM_P_ACC_Z_S4 is never read
+SMOKE4 CAM_P_ACC_Z_S4 is never written
+
+SMOKE4 CAM_L_ACC_X_S4 is never read
+SMOKE4 CAM_L_ACC_X_S4 is never written
+
+SMOKE4 BARREL1_S4 is never read
+
+SMOKE4 BARREL2_S4 is never read
+
+SMOKE4 BARREL3_S4 is never read
+
+SMOKE4 BARREL4_S4 is never read
+
+SMOKE4 BARREL5_S4 is never read
+
+SMOKE4 CAR12_S4 is never read
+SMOKE4 CAR12_S4 is never written
+
+SMOKE4 DRIVER12_S4 is never read
+SMOKE4 DRIVER12_S4 is never written
+
+SMOKE4 DRIVER13_S4 is never read
+SMOKE4 DRIVER13_S4 is never written
+
+SMOKE4 CAM_X_POS_S4 is never read
+SMOKE4 CAM_X_POS_S4 is never written
+
+SMOKE4 CAM_Y_POS_S4 is never read
+SMOKE4 CAM_Y_POS_S4 is never written
+
+SMOKE4 CAM_Z_POS_S4 is never read
+SMOKE4 CAM_Z_POS_S4 is never written
+
+SMOKE4 CAM_X_LOOK_S4 is never read
+SMOKE4 CAM_X_LOOK_S4 is never written
+
+SMOKE4 CAM_Y_LOOK_S4 is never read
+SMOKE4 CAM_Y_LOOK_S4 is never written
+
+SMOKE4 BIKE8_S4BLIP is never read
+SMOKE4 BIKE8_S4BLIP is never written
+
+SMOKE4 BIKE9_S4BLIP is never read
+SMOKE4 BIKE9_S4BLIP is never written
+
+SMOKE4 TEXT_LABEL_S4 is never read
+
+SMOKE4 INPUT_TEXT_S4 is never read
+
+SMOKE4 BIKE6SWAP_S4FLAG is never read
+
+SMOKE4 BIKE7SWAP_S4FLAG is never read
+
+SMOKE4 BIKE8SWAP_S4FLAG is never read
+
+SMOKE4 PACKERCAR1_S4FLAG is never read
+
+SMOKE4 PACKERCAR2_S4FLAG is never read
+
+SMOKE4 DIFFICULTY_S4FLAG is never written
+
+STRAP1 M1_MINUTES is never read
+
+STRAP1 M1_AUDIO_TEXT is never read
+
+STRAP1 M1_STARTED_TALKING is never read
+
+STRAP1 M1_DUMMY_WHEELMOD is never read
+
+STRAP1 M1_HI_NODE is never read
+
+STRAP1 M1_DOFFE_NODE is never read
+
+STRAP1 M1_BEXIT_NODE is never read
+
+STRAP1 M1_DSTAR_NODE is never read
+
+STRAP1 M1_GEXIT_NODE is never read
+
+STRAP1 M1_VOFFE_NODE is never read
+
+STRAP1 M1_VSURE_NODE is never read
+
+STRAP2 ENEMY_S2 is never read
+STRAP2 ENEMY_S2 is never written
+
+STRAP2 GUARD2_S2SEQ is never read
+STRAP2 GUARD2_S2SEQ is never written
+
+STRAP2 GUARD7_S2SEQ is never read
+STRAP2 GUARD7_S2SEQ is never written
+
+STRAP2 GUARD1_S2SEQ is never read
+STRAP2 GUARD1_S2SEQ is never written
+
+STRAP2 SEQUENCETASK_S2 is never read
+STRAP2 SEQUENCETASK_S2 is never written
+
+STRAP2 GUARD5_S2FLAG is never read
+
+STRAP2 GUARD6_S2FLAG is never read
+
+STRAP2 GUARD7_S2FLAG is never read
+
+STRAP2 GUARD1TEXT_S2FLAG is never read
+
+STRAP2 GUARD2TEXT_S2FLAG is never read
+
+STRAP2 GUARD3TEXT_S2FLAG is never read
+
+STRAP2 GUARD4TEXT_S2FLAG is never read
+
+STRAP2 GUARD5TEXT_S2FLAG is never read
+
+STRAP2 PLAYERSEENSTATE_S2 is never read
+
+STRAP2 GUARD1PLAYERSEENSTATE_S2 is never read
+
+STRAP2 GUARD2PLAYERSEENSTATE_S2 is never read
+
+STRAP2 GUARD3PLAYERSEENSTATE_S2 is never read
+
+STRAP2 GUARD4PLAYERSEENSTATE_S2 is never read
+
+STRAP2 GUARD5PLAYERSEENSTATE_S2 is never read
+
+STRAP2 GUARD6PLAYERSEENSTATE_S2 is never read
+
+STRAP2 GUARD7PLAYERSEENSTATE_S2 is never read
+
+STRAP3 M3_CONTEXT is never read
+
+STRAP3 M3_SEQ_PROGRESS is never read
+
+STRAP3 M3_PRINT_LABEL[14] is never read
+
+STRAP4 M5_GANG1_RECIEVED_ORDERS is never read
+
+STRAP4 M5_CLASS is never read
+
+STRAP4 M5_PRINT_LABEL[9] is never read
+
+STRAP4 M5_X is never read
+
+STRAP4 M5_Y is never read
+
+STRAP4 M5_Z is never read
+
+RACETOUR MISSION_BLIP is never read
+RACETOUR MISSION_BLIP is never written
+
+RACETOUR MISSION_TIMER is never read
+RACETOUR MISSION_TIMER is never written
+
+RACETOUR PLAYERS_CAR is never read
+RACETOUR PLAYERS_CAR is never written
+
+RACETOUR H is never read
+RACETOUR H is never written
+
+RACETOUR X2 is never read
+RACETOUR X2 is never written
+
+RACETOUR Y2 is never read
+RACETOUR Y2 is never written
+
+RACETOUR Z2 is never read
+RACETOUR Z2 is never written
+
+RACETOUR X3 is never read
+RACETOUR X3 is never written
+
+RACETOUR Y3 is never read
+RACETOUR Y3 is never written
+
+RACETOUR Z3 is never read
+RACETOUR Z3 is never written
+
+RACETOUR SPEED is never read
+RACETOUR SPEED is never written
+
+RACETOUR RACE_NAME[30] is never read
+
+RACETOUR PAD1_RIGHTSTICK_X is never read
+
+RACETOUR PAD1_RIGHTSTICK_Y is never read
+
+RACETOUR RACER_FINISHED_RACE[16] is never read
+
+RACETOUR TEST_JMP is never read
+RACETOUR TEST_JMP is never written
+
+CESAR1 CS1_TEXT[17] is never read
+
+CESAR1 CS1_AUDIO_CHAR is never read
+CESAR1 CS1_AUDIO_CHAR is never written
+
+CESAR1 CS1_PLAYER_CAR_Z is never read
+
+CESAR1 CS1_PLAYER_CAR_H is never read
+CESAR1 CS1_PLAYER_CAR_H is never written
+
+LA1FIN1 GROVE6_F1 is never read
+LA1FIN1 GROVE6_F1 is never written
+
+LA1FIN1 TEXT_LABEL_F1 is never read
+
+LA1FIN1 INPUT_TEXT_F1 is never read
+
+LA1FIN1 SWAT6_F1FLAG is never read
+
+LA1FIN1 TALKINCAR_F1FLAG is never read
+
+LA1FIN1 POLICECARBLOCK_F1 is never read
+LA1FIN1 POLICECARBLOCK_F1 is never written
+
+LA1FIN1 COP15_F1 is never read
+LA1FIN1 COP15_F1 is never written
+
+LA1FIN1 COP16_F1 is never read
+LA1FIN1 COP16_F1 is never written
+
+LA1FIN1 POLICECARBLOCK3_F1 is never read
+LA1FIN1 POLICECARBLOCK3_F1 is never written
+
+LA1FIN1 FENCE4_F1 is never read
+LA1FIN1 FENCE4_F1 is never written
+
+LA1FIN1 FENCE5_F1 is never read
+LA1FIN1 FENCE5_F1 is never written
+
+LA1FIN1 FENCE6_F1 is never read
+LA1FIN1 FENCE6_F1 is never written
+
+LA1FIN1 FENCE7_F1 is never read
+LA1FIN1 FENCE7_F1 is never written
+
+LA1FIN1 FENCE8_F1 is never read
+LA1FIN1 FENCE8_F1 is never written
+
+LA1FIN1 FENCE9_F1 is never read
+LA1FIN1 FENCE9_F1 is never written
+
+LA1FIN1 FENCE10_F1 is never read
+LA1FIN1 FENCE10_F1 is never written
+
+LA1FIN1 FENCE11_F1 is never read
+LA1FIN1 FENCE11_F1 is never written
+
+LA1FIN1 FENCE12_F1 is never read
+LA1FIN1 FENCE12_F1 is never written
+
+LA1FIN1 FENCE4L_F1 is never read
+LA1FIN1 FENCE4L_F1 is never written
+
+LA1FIN1 FENCE5L_F1 is never read
+LA1FIN1 FENCE5L_F1 is never written
+
+LA1FIN1 FENCE6L_F1 is never read
+LA1FIN1 FENCE6L_F1 is never written
+
+LA1FIN1 FENCE7L_F1 is never read
+LA1FIN1 FENCE7L_F1 is never written
+
+LA1FIN1 FENCE8L_F1 is never read
+LA1FIN1 FENCE8L_F1 is never written
+
+LA1FIN1 FENCE9L_F1 is never read
+LA1FIN1 FENCE9L_F1 is never written
+
+LA1FIN1 FENCE10L_F1 is never read
+LA1FIN1 FENCE10L_F1 is never written
+
+LA1FIN1 FENCE11L_F1 is never read
+LA1FIN1 FENCE11L_F1 is never written
+
+LA1FIN1 FENCE12L_F1 is never read
+LA1FIN1 FENCE12L_F1 is never written
+
+LA1FIN1 ADVERTHOLDER_F1 is never read
+LA1FIN1 ADVERTHOLDER_F1 is never written
+
+LA1FIN1 FIRE_F1 is never read
+
+LA1FIN1 FIRE2_F1 is never read
+
+LA1FIN1 FIRE3_F1 is never read
+
+LA1FIN1 FIRE4_F1 is never read
+
+LA1FIN1 FIRE5_F1 is never read
+
+LA1FIN1 FIRE6_F1 is never read
+
+LA1FIN1 DIFFICULTY_F1FLAG is never written
+
+LA1FIN1 POLICECARBLOCK_F1FLAG is never read
+
+LA1FIN1 CHASETEXT_F1FLAG is never read
+
+LA1FIN2 LF2_CAR_ID[5] is never read
+
+LA1FIN2 LF2_RED_SCRIPT_ACT[6] is never read
+LA1FIN2 LF2_RED_SCRIPT_ACT[6] is never written
+
+LA1FIN2 LF2_CAR_ACTION[2] is never read
+LA1FIN2 LF2_CAR_ACTION[2] is never written
+
+LA1FIN2 LF2_CAR_HEALTH[5] is never read
+
+LA1FIN2 L1F2_CHECK_SWEET_HEALTH is never read
+
+LA1FIN2 LAST_X is never read
+
+LA1FIN2 LAST_Y is never read
+
+LA1FIN2 LAST_Z is never read
+
+LA1FIN2 LF2_BLUE_TARGET[3] is never read
+LA1FIN2 LF2_BLUE_TARGET[3] is never written
+
+LA1FIN2 L_HEADING is never read
+LA1FIN2 L_HEADING is never written
+
+LA1FIN2 LF3 is never read
+LA1FIN2 LF3 is never written
+
+LA1FIN2 LF2_DAMAGE_LEVEL[5] is never written
+
+LA1FIN2 AUDIO_TEXT[40] is never read
+
+LA1FIN2 LOADED_AUDIO is never read
+LA1FIN2 LOADED_AUDIO is never written
+
+BCRASH1 BC1_PERFORM is never read
+BCRASH1 BC1_PERFORM is never written
+
+BCRASH1 BC1_Z is never read
+BCRASH1 BC1_Z is never written
+
+BCRASH1 BC1_CAM_X[10] is never read
+
+BCRASH1 BC1_CAM_Y[10] is never read
+
+BCRASH1 BC1_CAM_Z[10] is never read
+
+BCRASH1 BC1_MARSHALL_BLIP[5] is never read
+BCRASH1 BC1_MARSHALL_BLIP[5] is never written
+
+BCRASH1 BC1_MARSHALL_CAR_BLIP is never read
+BCRASH1 BC1_MARSHALL_CAR_BLIP is never written
+
+BCRASH1 BC1_BMX_BLIP is never read
+BCRASH1 BC1_BMX_BLIP is never written
+
+CATALINA MISSION_FLAG is never read
+CATALINA MISSION_FLAG is never written
+
+CATALINA MISSION_TIMER is never read
+CATALINA MISSION_TIMER is never written
+
+CATALINA SEQUENCE_TASK is never read
+CATALINA SEQUENCE_TASK is never written
+
+CATALINA PLAYERS_CAR is never read
+CATALINA PLAYERS_CAR is never written
+
+CATALINA A is never read
+CATALINA A is never written
+
+CATALINA B is never read
+CATALINA B is never written
+
+CATALINA C is never read
+CATALINA C is never written
+
+CATALINA H is never read
+CATALINA H is never written
+
+CATALINA X2 is never read
+CATALINA X2 is never written
+
+CATALINA Y2 is never read
+CATALINA Y2 is never written
+
+CATALINA Z2 is never read
+CATALINA Z2 is never written
+
+CATALINA X3 is never read
+CATALINA X3 is never written
+
+CATALINA Y3 is never read
+CATALINA Y3 is never written
+
+CATALINA Z3 is never read
+CATALINA Z3 is never written
+
+CATALINA TEMP_FLOAT is never read
+CATALINA TEMP_FLOAT is never written
+
+CATALINA SPEED is never read
+CATALINA SPEED is never written
+
+CATALINA CAT_CONVO1[20] is never read
+
+CATALINA CAT_CONVO2[12] is never read
+
+CATALINA CAT_CONVO3[12] is never read
+
+CAT1 TEMP_INT3 is never read
+CAT1 TEMP_INT3 is never written
+
+CAT1 VEC_X is never read
+CAT1 VEC_X is never written
+
+CAT1 VEC_Y is never read
+CAT1 VEC_Y is never written
+
+CAT1 VEC_Z is never read
+CAT1 VEC_Z is never written
+
+CAT1 VEC2_X is never read
+CAT1 VEC2_X is never written
+
+CAT1 VEC2_Y is never read
+CAT1 VEC2_Y is never written
+
+CAT1 VEC2_Z is never read
+CAT1 VEC2_Z is never written
+
+CAT1 CAT1_COPS_DIALOGUE is never read
+
+CAT1 CATALINA_CAR_ON_FIRE_DIALOGUE is never read
+CAT1 CATALINA_CAR_ON_FIRE_DIALOGUE is never written
+
+CAT1 CATALINA_STUNT_JUMP_DIALOGUE is never read
+
+CAT1 DEBUG_FLOAT is never read
+CAT1 DEBUG_FLOAT is never written
+
+CAT1 LAST_CAT_DIALOGUE1 is never read
+CAT1 LAST_CAT_DIALOGUE1 is never written
+
+CAT1 THIS_CAT_DIALOGUE1 is never read
+CAT1 THIS_CAT_DIALOGUE1 is never written
+
+CAT2 A is never read
+CAT2 A is never written
+
+CAT2 Y2 is never read
+
+CAT2 Z2 is never read
+
+CAT2 X3 is never read
+CAT2 X3 is never written
+
+CAT2 Y3 is never read
+CAT2 Y3 is never written
+
+CAT2 Z3 is never read
+CAT2 Z3 is never written
+
+CAT2 TEMP_FLOAT is never read
+CAT2 TEMP_FLOAT is never written
+
+CAT2 GRANNY is never read
+CAT2 GRANNY is never written
+
+CAT2 RECORDING_GOING_ON is never read
+
+CAT2 CATALINA_PICKUP_BLIP is never read
+CAT2 CATALINA_PICKUP_BLIP is never written
+
+CAT2 PLAYERS_CAR is never read
+
+CAT2 COPS_SHOOT_TIME is never written
+
+CAT2 CAT_MONEY_COLLECTED is never written
+
+CAT2 SHOOT_COUNT is never written
+
+CAT2 C2_Z is never read
+
+CAT2 BEACH_PED is never read
+CAT2 BEACH_PED is never written
+
+CAT2 BIKE1_EMPTY is never read
+CAT2 BIKE1_EMPTY is never written
+
+CAT2 AUDIO_TEXT[60] is never read
+
+CAT2 LOADED_AUDIO is never read
+CAT2 LOADED_AUDIO is never written
+
+CAT3 C3_TEXT[56] is never read
+
+CAT3 C3_TRAILER_HEALTH is never read
+
+CAT3 C3_TRAILER_HEALTH_OLD is never read
+
+CAT3 C3_PLAYER_CAR is never read
+
+CAT3 C3_EXP_CAR_BLIP is never read
+CAT3 C3_EXP_CAR_BLIP is never written
+
+CAT4 GETAWAY_CAR_CAR4 is never read
+CAT4 GETAWAY_CAR_CAR4 is never written
+
+CAT4 FLAG_POLICE_ARRIVE is never read
+
+CAT4 FLAG_DISPLAY_HELP_CAT4 is never read
+
+CAT4 FLAG_SET_CAT_AS_GROUP_MEMBER is never read
+
+CAT4 SET_AUDIO_TO_BE_PLAYED is never read
+
+CAT4 MAX_NUMBER_IN_PLAYERS_GROUP is never written
+
+CAT4 CAT4_TEXT[52] is never read
+
+CAT4 TEMP_COP_CAT4 is never read
+CAT4 TEMP_COP_CAT4 is never written
+
+CAT_CUTS CATCUT_CUTSCENE_FLAG is never read
+
+TRUTH1 BIKE_T1 is never read
+TRUTH1 BIKE_T1 is never written
+
+TRUTH1 QUAD_T1 is never read
+TRUTH1 QUAD_T1 is never written
+
+TRUTH1 TEXT_LABEL_T1 is never read
+
+TRUTH1 INPUT_TEXT_T1 is never read
+
+TRUTH1 FARMERCHASE2_T1FLAG is never read
+
+TRUTH1 CHASER6_T1FLAG is never read
+
+TRUTH1 CHASER7_T1FLAG is never read
+
+TRUTH1 CHASER8_T1FLAG is never read
+
+TRUTH1 CHASER9_T1FLAG is never read
+
+TRUTH2 T2_ONE_COP_ALIVE_IN_AREA is never read
+
+TRUTH2 T2_PRINT_LABEL[16] is never read
+
+GARAGE1 CAR_MECH3_GARAG1 is never read
+GARAGE1 CAR_MECH3_GARAG1 is never written
+
+GARAGE1 NOISE_OF_BOARD_ROLLING is never read
+GARAGE1 NOISE_OF_BOARD_ROLLING is never written
+
+GARAGE1 DRIVER_OF_CAR_MECH3_GARAG1 is never read
+GARAGE1 DRIVER_OF_CAR_MECH3_GARAG1 is never written
+
+GARAGE1 FLAG_GO_TO_MECHANIC4_GARAG1 is never read
+
+GARAGE1 FLAG_LOOSE_MECH3_GARAG1 is never read
+
+GARAGE1 FLAG_IS_MECH3_OFF_BIKE_GARAG1 is never read
+
+GARAGE1 FLAG_TEXT_GARAGE1 is never read
+
+GARAGE1 SEQ_TRUTH_TALKING_TO_MECH2_GARAG1 is never read
+GARAGE1 SEQ_TRUTH_TALKING_TO_MECH2_GARAG1 is never written
+
+GARAGE1 SEQ_TRUTH_TALKING_TO_MECH4_GARAG1 is never read
+GARAGE1 SEQ_TRUTH_TALKING_TO_MECH4_GARAG1 is never written
+
+GARAGE1 SEQ_MECH1_GARAGE1 is never read
+GARAGE1 SEQ_MECH1_GARAGE1 is never written
+
+GARAGE2 TEMP_INT3 is never read
+GARAGE2 TEMP_INT3 is never written
+
+GARAGE2 TEMP_FLOAT3 is never read
+GARAGE2 TEMP_FLOAT3 is never written
+
+GARAGE2 VEC2_Z is never read
+GARAGE2 VEC2_Z is never written
+
+GARAGE2 Z2 is never read
+
+GARAGE2 X3 is never read
+GARAGE2 X3 is never written
+
+GARAGE2 Y3 is never read
+GARAGE2 Y3 is never written
+
+GARAGE2 Z3 is never read
+GARAGE2 Z3 is never written
+
+GARAGE2 NEW_HOLE_IN_GROUND is never read
+GARAGE2 NEW_HOLE_IN_GROUND is never written
+
+GARAGE2 DUMPER_TRUCK is never read
+GARAGE2 DUMPER_TRUCK is never written
+
+SCRASH1 SC3_VALET is never read
+SCRASH1 SC3_VALET is never written
+
+SCRASH1 SC3_VALET1 is never read
+SCRASH1 SC3_VALET1 is never written
+
+SCRASH1 SC3_VALET2 is never read
+SCRASH1 SC3_VALET2 is never written
+
+SCRASH1 SC3_VALETX is never read
+SCRASH1 SC3_VALETX is never written
+
+SCRASH1 SC3_VALETY is never read
+SCRASH1 SC3_VALETY is never written
+
+SCRASH1 SC3_VALETZ is never read
+SCRASH1 SC3_VALETZ is never written
+
+SCRASH1 SC3_X is never read
+
+SCRASH1 SC3_Y is never read
+
+SCRASH1 SC3_Z is never read
+
+SCRASH1 SC3_PLAYER_X is never read
+SCRASH1 SC3_PLAYER_X is never written
+
+SCRASH1 SC3_PLAYER_Y is never read
+SCRASH1 SC3_PLAYER_Y is never written
+
+SCRASH1 SC3_PLAYER_Z is never read
+SCRASH1 SC3_PLAYER_Z is never written
+
+SCRASH1 SC3_CARX is never read
+SCRASH1 SC3_CARX is never written
+
+SCRASH1 SC3_CARY is never read
+SCRASH1 SC3_CARY is never written
+
+SCRASH1 SC3_CARZ is never read
+SCRASH1 SC3_CARZ is never written
+
+SCRASH1 SC3_H is never read
+
+SCRASH1 SC3_BIKE is never read
+SCRASH1 SC3_BIKE is never written
+
+SCRASH1 SC3_CAR1 is never read
+SCRASH1 SC3_CAR1 is never written
+
+SCRASH1 SC3_PLAYERSCAR is never read
+SCRASH1 SC3_PLAYERSCAR is never written
+
+SCRASH1 SC3_COPCAR1 is never read
+SCRASH1 SC3_COPCAR1 is never written
+
+SCRASH1 SC3_COPCAR2 is never read
+SCRASH1 SC3_COPCAR2 is never written
+
+SCRASH1 SC3_HOTEL_BLIP is never read
+SCRASH1 SC3_HOTEL_BLIP is never written
+
+SCRASH1 SC3_VEHICLE_WARNING is never read
+
+SCRASH1 SC3_ALIVE is never read
+
+SCRASH1 SC3_DRIVING is never read
+
+SCRASH1 SC3_WARNING is never read
+
+SCRASH1 SC3_CARHEALTH is never read
+SCRASH1 SC3_CARHEALTH is never written
+
+SCRASH1 SC3_VALET_CYCLE_FAST is never read
+
+SCRASH1 SC3_MISSIONCAR_SEQ is never read
+SCRASH1 SC3_MISSIONCAR_SEQ is never written
+
+SCRASH1 SC3_DEC is never read
+SCRASH1 SC3_DEC is never written
+
+SCRASH1 SC3_RANDOMCHAR is never read
+SCRASH1 SC3_RANDOMCHAR is never written
+
+SCRASH1 SC3_CHANGE_CUT_TIME is never read
+SCRASH1 SC3_CHANGE_CUT_TIME is never written
+
+SCRASH1 AUDIO_TIME[10] is never written
+
+SCRASH1 AUDIO_TO_PLAY[10] is never written
+
+SCRASH1 AUDIO_TEXT[40] is never read
+
+SCRASH1 LOADED_AUDIO is never read
+SCRASH1 LOADED_AUDIO is never written
+
+SCRASH2 NTEMPPED is never read
+SCRASH2 NTEMPPED is never written
+
+SCRASH2 NTEMPOBJECT is never read
+SCRASH2 NTEMPOBJECT is never written
+
+SCRASH2 NTEMPAMMO is never read
+SCRASH2 NTEMPAMMO is never written
+
+SCRASH2 NTEMPTIMER is never read
+SCRASH2 NTEMPTIMER is never written
+
+SCRASH2 ZLOTEMP is never read
+SCRASH2 ZLOTEMP is never written
+
+SCRASH2 ZHITEMP is never read
+SCRASH2 ZHITEMP is never written
+
+SCRASH2 FLAGCUTSCENEPLAYING is never read
+
+SCRASH2 FLAGCLEANINGUPSKIPPEDCUTSCENE is never read
+
+SCRASH2 FLAGSKIPCUTSCENE is never read
+
+SCRASH2 CARREPORTER is never read
+
+SCRASH2 TIMERTAXISTOPPED is never read
+SCRASH2 TIMERTAXISTOPPED is never written
+
+WUZI1 WZ1_KEYPAD is never read
+WUZI1 WZ1_KEYPAD is never written
+
+WUZI1 WZ1_LANTERNS[5] is never read
+WUZI1 WZ1_LANTERNS[5] is never written
+
+WUZI1 WZ1_TABLE[7] is never read
+
+WUZI1 WZ1_VENT[2] is never read
+WUZI1 WZ1_VENT[2] is never written
+
+WUZI1 WZ1_CUTSCENE_FLAG is never read
+WUZI1 WZ1_CUTSCENE_FLAG is never written
+
+WUZI1 WZ1_CUTSCENE_SKIPPED is never read
+WUZI1 WZ1_CUTSCENE_SKIPPED is never written
+
+WUZI1 WZ1_ESCAPE_FLAG is never read
+
+WUZI1 WZ1_TRIGGER_ROLLERS is never read
+WUZI1 WZ1_TRIGGER_ROLLERS is never written
+
+WUZI1 WZ1_DEAD_TONGS is never read
+WUZI1 WZ1_DEAD_TONGS is never written
+
+WUZI1 WZ1_SNIPER_FLAG is never read
+WUZI1 WZ1_SNIPER_FLAG is never written
+
+WUZI1 WZ1_ADVANCE_FLAG is never written
+
+WUZI1 WZ1_NEXT_TONG_TIME is never read
+WUZI1 WZ1_NEXT_TONG_TIME is never written
+
+WUZI1 WZ1_R is never read
+WUZI1 WZ1_R is never written
+
+WUZI1 WZ1_SEQ2 is never read
+WUZI1 WZ1_SEQ2 is never written
+
+WUZI1 WZ1_TONG_GROUP is never read
+
+WUZI1 WZ1_ESCAPE_TIMER is never read
+WUZI1 WZ1_ESCAPE_TIMER is never written
+
+WUZI1 WZ1_RANDOM is never read
+WUZI1 WZ1_RANDOM is never written
+
+WUZI1 WZ1_TONG_GROUP_ATTACK_TIME is never read
+WUZI1 WZ1_TONG_GROUP_ATTACK_TIME is never written
+
+WUZI1 WZ1_THIS_TONG_ATTACK_TIME[8] is never read
+WUZI1 WZ1_THIS_TONG_ATTACK_TIME[8] is never written
+
+WUZI1 WZ_I is never read
+WUZI1 WZ_I is never written
+
+WUZI1 WZ1_TONG_TARGET[18] is never read
+WUZI1 WZ1_TONG_TARGET[18] is never written
+
+WUZI1 WZ1_UPPER_CHECK is never read
+
+WUZI1 WZ1_THREATS_IN_AREA is never read
+WUZI1 WZ1_THREATS_IN_AREA is never written
+
+WUZI1 WZ1_TIMER is never read
+WUZI1 WZ1_TIMER is never written
+
+WUZI1 WZ1_DEAD_TONG is never read
+WUZI1 WZ1_DEAD_TONG is never written
+
+WUZI1 WZ1_TONGGROUP is never read
+WUZI1 WZ1_TONGGROUP is never written
+
+WUZI1 WZ1_GROUP_DEC is never read
+WUZI1 WZ1_GROUP_DEC is never written
+
+WUZI1 WZ1_EVENT is never read
+WUZI1 WZ1_EVENT is never written
+
+WUZI1 WZ1_FLOAT3 is never read
+WUZI1 WZ1_FLOAT3 is never written
+
+WUZI1 WUZI_Z is never read
+
+WUZI1 TEMP_AUDIO is never read
+
+WUZI1 PLAYER_LEAVES_CAR is never read
+WUZI1 PLAYER_LEAVES_CAR is never written
+
+WUZI1 WZ1_FLOAT is never read
+WUZI1 WZ1_FLOAT is never written
+
+WUZI1 SAMPLE_WUZI is never read
+
+WUZI1 INSULTS_GIVEN is never written
+
+WUZI1 WUZI_BEEN_HIT is never read
+
+WUZI1 AUDIO_PLAYS_GLOBAL is never read
+WUZI1 AUDIO_PLAYS_GLOBAL is never written
+
+WUZI1 AUDIO_TEXT[100] is never read
+
+WUZI1 LOADED_AUDIO is never read
+WUZI1 LOADED_AUDIO is never written
+
+WUZI1 PLAY_AUDIO_DELAY is never written
+
+FARLIE4 F4_CP is never read
+FARLIE4 F4_CP is never written
+
+FARLIE4 F4_GARAGE_OPEN is never read
+FARLIE4 F4_GARAGE_OPEN is never written
+
+FARLIE4 F4_PLY_RIDE is never read
+FARLIE4 F4_PLY_RIDE is never written
+
+FARLIE4 RETURNSTATUS is never read
+FARLIE4 RETURNSTATUS is never written
+
+FARLIE4 F4_PLY_IN_CAR[5] is never read
+FARLIE4 F4_PLY_IN_CAR[5] is never written
+
+FARLIE4 F4_PRINT is never read
+
+FARLIE4 F4_TEMP_X is never read
+FARLIE4 F4_TEMP_X is never written
+
+FARLIE4 F4_TEMP_Y is never read
+FARLIE4 F4_TEMP_Y is never written
+
+FARLIE4 F4_TEMP_Z is never read
+FARLIE4 F4_TEMP_Z is never written
+
+FARLIE5 D6_AUDIO_TEXT[7] is never read
+
+WUZI2 EMPTY_DM_W2 is never read
+
+WUZI2 FAIL_TEXT_W2 is never read
+WUZI2 FAIL_TEXT_W2 is never written
+
+WUZI2 PLAYER_BEEN_ON_MAIN_BOAT_W2 is never read
+WUZI2 PLAYER_BEEN_ON_MAIN_BOAT_W2 is never written
+
+WUZI2 PLAYER_SECTION_W2 is never read
+WUZI2 PLAYER_SECTION_W2 is never written
+
+WUZI2 BOAT_FOUND_W2 is never read
+WUZI2 BOAT_FOUND_W2 is never written
+
+WUZI2 AUDIO_TEXT_LABEL_W2[63] is never read
+
+WUZI2 HELP_TEXT_W2[8] is never read
+
+WUZI2 BOAT_ATTACK_W2[2] is never read
+WUZI2 BOAT_ATTACK_W2[2] is never written
+
+WUZI2 BOAT_GUARD1_W2[2] is never read
+WUZI2 BOAT_GUARD1_W2[2] is never written
+
+WUZI2 BOAT_GUARD2_W2[2] is never read
+WUZI2 BOAT_GUARD2_W2[2] is never written
+
+WUZI2 BOAT_GUARD3_W2[2] is never read
+WUZI2 BOAT_GUARD3_W2[2] is never written
+
+WUZI2 GUARD1_HEADING_W2 is never read
+WUZI2 GUARD1_HEADING_W2 is never written
+
+WUZI2 GUARD2_HEADING_W2 is never read
+WUZI2 GUARD2_HEADING_W2 is never written
+
+WUZI2 GUARD3_HEADING_W2 is never read
+WUZI2 GUARD3_HEADING_W2 is never written
+
+WUZI2 VOID_W2 is never read
+
+WUZI2 IN_SEARCHLIGHT_W2 is never read
+
+WUZI2 RADAR_STATUS_W2 is never written
+
+WUZI2 WEAPON_TOTALS_W2 is never written
+
+WUZI4 W5_SMOKE is never read
+WUZI4 W5_SMOKE is never written
+
+WUZI4 W5_PRINT_LABEL[6] is never read
+
+SYN1 SY1_FX_FLAG is never read
+
+SYN1 SYN1_TIMER is never read
+SYN1 SYN1_TIMER is never written
+
+SYN1 SY1_TIMER_DIFF is never read
+SYN1 SY1_TIMER_DIFF is never written
+
+SYN1 SY1_TIMER_END is never read
+SYN1 SY1_TIMER_END is never written
+
+SYN1 SY1_TIMER_START is never read
+SYN1 SY1_TIMER_START is never written
+
+SYN1 SY1_ANIM_TIME is never read
+SYN1 SY1_ANIM_TIME is never written
+
+SYN1 SY1_FAIL_CAM_X is never read
+SYN1 SY1_FAIL_CAM_X is never written
+
+SYN1 SY1_FAIL_CAM_Y is never read
+SYN1 SY1_FAIL_CAM_Y is never written
+
+SYN1 SY1_FAIL_CAM_Z is never read
+SYN1 SY1_FAIL_CAM_Z is never written
+
+SYN1 SY1_TEXT[60] is never read
+
+SYN1 SY1_PLAYER_CONFRONT is never read
+
+SYN1 SY1_CESAR_ENTER_HELI is never read
+SYN1 SY1_CESAR_ENTER_HELI is never written
+
+SYN1 SY1_RYDER_EXIT_CAR is never read
+SYN1 SY1_RYDER_EXIT_CAR is never written
+
+SYN1 SY1_BALLA_1_MEET is never read
+SYN1 SY1_BALLA_1_MEET is never written
+
+SYN1 SY1_JIZZY_LEAVE_CAR is never read
+SYN1 SY1_JIZZY_LEAVE_CAR is never written
+
+SYN1 SY1_PILOT_CONFRONT_X[3] is never read
+
+SYN1 SY1_PILOT_CONFRONT_Y[3] is never read
+
+SYN1 SY1_PILOT_CONFRONT_Z[3] is never read
+
+SYN1 SY1_SMOKE_FX[2] is never read
+SYN1 SY1_SMOKE_FX[2] is never written
+
+SYN1 SY1_PLAYER_CAR_CLASS is never read
+SYN1 SY1_PLAYER_CAR_CLASS is never written
+
+SYN1 SY1_PLAYER_X is never read
+
+SYN1 SY1_PLAYER_Y is never read
+
+SYN1 SY1_PLAYER_Z is never read
+
+SYN1 SY1_PLAYER_H is never read
+
+SYN1 SY1_CESAR_CAR_HEALTH is never read
+SYN1 SY1_CESAR_CAR_HEALTH is never written
+
+SYN1 SY1_CESAR_X is never read
+SYN1 SY1_CESAR_X is never written
+
+SYN1 SY1_CESAR_Y is never read
+SYN1 SY1_CESAR_Y is never written
+
+SYN1 SY1_CESAR_Z is never read
+SYN1 SY1_CESAR_Z is never written
+
+SYN1 SY1_BALLA is never read
+
+SYN1 SY1_RYDER_PROGRESS is never read
+SYN1 SY1_RYDER_PROGRESS is never written
+
+SYN1 SY1_RYDER_X is never read
+SYN1 SY1_RYDER_X is never written
+
+SYN1 SY1_RYDER_Y is never read
+SYN1 SY1_RYDER_Y is never written
+
+SYN1 SY1_RYDER_Z is never read
+SYN1 SY1_RYDER_Z is never written
+
+SYN1 SY1_TBONE_PROGRESS is never read
+SYN1 SY1_TBONE_PROGRESS is never written
+
+SYN1 SY1_TBONE_X is never read
+SYN1 SY1_TBONE_X is never written
+
+SYN1 SY1_TBONE_Y is never read
+SYN1 SY1_TBONE_Y is never written
+
+SYN1 SY1_TBONE_Z is never read
+SYN1 SY1_TBONE_Z is never written
+
+SYN1 SY1_PRO is never read
+
+SYN1 SY1_JIZZY_X is never read
+SYN1 SY1_JIZZY_X is never written
+
+SYN1 SY1_JIZZY_Y is never read
+SYN1 SY1_JIZZY_Y is never written
+
+SYN1 SY1_JIZZY_Z is never read
+SYN1 SY1_JIZZY_Z is never written
+
+SYN1 SY1_TORENO_PROGRESS is never read
+SYN1 SY1_TORENO_PROGRESS is never written
+
+SYN1 SY1_TORENO_X is never read
+SYN1 SY1_TORENO_X is never written
+
+SYN1 SY1_TORENO_Y is never read
+SYN1 SY1_TORENO_Y is never written
+
+SYN1 SY1_TORENO_Z is never read
+SYN1 SY1_TORENO_Z is never written
+
+SYN2 TEMP_INT3 is never read
+SYN2 TEMP_INT3 is never written
+
+SYN2 TEMP_FLOAT3 is never read
+SYN2 TEMP_FLOAT3 is never written
+
+SYN2 CLEAR_TEXT_FLAG is never read
+
+SYN2 GIRL2_DM is never read
+SYN2 GIRL2_DM is never written
+
+SYN2 RIVAL_PIMP_DM is never read
+SYN2 RIVAL_PIMP_DM is never written
+
+SYN2 GIRL_IS_WITH_RIVAL is never read
+
+SYN2 PIMP_ATTACK_PLAYER is never read
+
+SYN2 PIMP_IS_WAITING is never read
+
+SYN2 CONVOY_ROUTE_X[38] is never read
+
+SYN2 CONVOY_ROUTE_Y[38] is never read
+
+SYN2 CONVOY_ROUTE_Z[38] is never read
+
+SYN2 HIPPY_DM is never read
+SYN2 HIPPY_DM is never written
+
+SYN2 GIRL3_DM is never read
+SYN2 GIRL3_DM is never written
+
+SYN2 RICH_HELP is never read
+
+SYN2 CAR_SPEED is never read
+
+SYN2 LAST_CAR_HEALTH is never written
+
+SYN2 THIS_CAR_HEALTH is never written
+
+SYN2 LAST_LIMO_DISTANCE is never read
+
+SYN2 STORED_WEAPONTYPE is never read
+SYN2 STORED_WEAPONTYPE is never written
+
+SYN2 STORED_AMMO is never read
+SYN2 STORED_AMMO is never written
+
+SYN2 STORED_WEAPON_MODEL is never read
+
+SYN3 S3_ROADBLOCK_PED_Z is never read
+
+SYN3 S3_AUDIO_TEXT[8] is never read
+
+SYN4 S4_BARRIER is never read
+SYN4 S4_BARRIER is never written
+
+SYN4 SEQ_WALK is never read
+SYN4 SEQ_WALK is never written
+
+SYN4 S4_LIMO_DRIVER is never read
+SYN4 S4_LIMO_DRIVER is never written
+
+SYN4 S4_BOUNCERS is never read
+SYN4 S4_BOUNCERS is never written
+
+SYN4 S4_STOPPING is never read
+SYN4 S4_STOPPING is never written
+
+SYN4 S4_DRIVEBY_ONCE is never read
+SYN4 S4_DRIVEBY_ONCE is never written
+
+SYN4 S4_PRINT is never read
+
+SYN6 PLAYERS_CAR is never read
+SYN6 PLAYERS_CAR is never written
+
+SYN6 TEMP_INT is never read
+SYN6 TEMP_INT is never written
+
+SYN6 R is never read
+SYN6 R is never written
+
+SYN6 SYN6_HELICRATE is never read
+SYN6 SYN6_HELICRATE is never written
+
+SYN6 SYN6_CRATE1 is never read
+SYN6 SYN6_CRATE1 is never written
+
+SYN6 TORENO_VANDRIVER is never read
+SYN6 TORENO_VANDRIVER is never written
+
+SYN6 AK_PICKUP is never read
+
+SYN6 ROCKETX is never read
+SYN6 ROCKETX is never written
+
+SYN6 ROCKETY is never read
+SYN6 ROCKETY is never written
+
+SYN6 ROCKETZ is never read
+SYN6 ROCKETZ is never written
+
+SYN6 V is never read
+
+SYN6 M is never read
+
+SYN6 E is never read
+
+SYN6 FIX_PB is never read
+
+SYN6 SYN6_EXPLOSIONX is never read
+SYN6 SYN6_EXPLOSIONX is never written
+
+SYN6 SYN6_EXPLOSIONY is never read
+SYN6 SYN6_EXPLOSIONY is never written
+
+SYN6 SYN6_EXPLOSIONZ is never read
+SYN6 SYN6_EXPLOSIONZ is never written
+
+SYN6 SYN6_DIALOGUE is never read
+SYN6 SYN6_DIALOGUE is never written
+
+SYN6 SYN6_AUDIO_CHAR is never read
+SYN6 SYN6_AUDIO_CHAR is never written
+
+SYN6 SYN6_TEXT_TIMER_DIFF is never read
+SYN6 SYN6_TEXT_TIMER_DIFF is never written
+
+SYN6 SYN6_TEXT_TIMER_END is never read
+SYN6 SYN6_TEXT_TIMER_END is never written
+
+SYN6 SYN6_TEXT_TIMER_START is never read
+SYN6 SYN6_TEXT_TIMER_START is never written
+
+SYN6 SYN6_TEXT[12] is never read
+
+SYN6 SYN6_CONVO_UNDERWAY is never read
+SYN6 SYN6_CONVO_UNDERWAY is never written
+
+SYN6 SYN6_CONVO_COUNTER is never read
+SYN6 SYN6_CONVO_COUNTER is never written
+
+SYN6 SYN6_RANDOM is never read
+SYN6 SYN6_RANDOM is never written
+
+SYN7 S7_COURTYARD_BIKE is never read
+SYN7 S7_COURTYARD_BIKE is never written
+
+SYN7 S7_BIKE_2 is never read
+SYN7 S7_BIKE_2 is never written
+
+SYN7 S7_SEQUENCE is never read
+SYN7 S7_SEQUENCE is never written
+
+SYN7 S7_DONT_PRINT_AGAIN is never read
+SYN7 S7_DONT_PRINT_AGAIN is never written
+
+SYN7 S7_PRINT is never read
+
+SYN7 S7_TEMP_GEN is never read
+SYN7 S7_TEMP_GEN is never written
+
+SYN5 SYN5_RANDOM_CAR is never read
+SYN5 SYN5_RANDOM_CAR is never written
+
+SYN5 SYN5_PRINT_LABEL[16] is never read
+
+FARLIE2 D2_DUMMY_Z is never read
+
+FARLIE3 OFFSET_TORENO_FARLIE3_X is never read
+
+FARLIE3 OFFSET_TORENO_FARLIE3_Y is never read
+
+FARLIE3 OFFSET_TORENO_FARLIE3_Z is never read
+
+FARLIE3 COPS_HEADING_FARLIE3 is never read
+
+FARLIE3 HEADING_TORENO is never read
+
+FARLIE3 FLAG_COPS_SEE_COCAINE is never read
+
+FARLIE3 MAX_NUMBER_IN_PLAYERS_GROUP is never written
+
+FARLIE3 FLOAT_TEMP_CALCULATION_B_DRIV3 is never read
+FARLIE3 FLOAT_TEMP_CALCULATION_B_DRIV3 is never written
+
+FARLIE3 CAR_COP1_FARLIE3 is never read
+FARLIE3 CAR_COP1_FARLIE3 is never written
+
+FARLIE3 CAR_COP2_FARLIE3 is never read
+FARLIE3 CAR_COP2_FARLIE3 is never written
+
+FARLIE3 CHAR_COP1_FARLIE3 is never read
+FARLIE3 CHAR_COP1_FARLIE3 is never written
+
+FARLIE3 CHAR_COP2_FARLIE3 is never read
+FARLIE3 CHAR_COP2_FARLIE3 is never written
+
+STEAL1 ST1_CUT_H is never read
+
+STEAL1 ST1_GIRL_IDX is never read
+
+STEAL1 ST1_ONSCREEN is never read
+
+STEAL1 ST1_BLIP_IDX is never read
+STEAL1 ST1_BLIP_IDX is never written
+
+STEAL1 ST1_COL[6] is never read
+
+STEAL1 ST1_GIRL_ROUTE is never read
+
+STEAL1 ST1_BLIP[6] is never read
+STEAL1 ST1_BLIP[6] is never written
+
+STEAL1 ST1_FAIL_COLOUR is never read
+
+STEAL1 ST1_R_END is never read
+
+STEAL1 ST1_G_END is never read
+
+STEAL1 ST1_B_END is never read
+
+STEAL1 ST1_GIRL_INCAR is never read
+
+STEAL1 ST1_GIRL_OUTCAR is never read
+
+STEAL1 ST1_SPOOKED_FL is never read
+STEAL1 ST1_SPOOKED_FL is never written
+
+STEAL1 ST1_BLIP_DIST is never read
+STEAL1 ST1_BLIP_DIST is never written
+
+STEAL1 ST1_GUY_MOURN is never read
+STEAL1 ST1_GUY_MOURN is never written
+
+STEAL1 ST1_COOL_HEALTH is never read
+STEAL1 ST1_COOL_HEALTH is never written
+
+STEAL1 ST1_LOC_DIFF is never read
+STEAL1 ST1_LOC_DIFF is never written
+
+STEAL1 ST1_LOC_END is never read
+STEAL1 ST1_LOC_END is never written
+
+STEAL1 ST1_LOC_START is never read
+
+STEAL1 ST1_VECTOR_X is never read
+STEAL1 ST1_VECTOR_X is never written
+
+STEAL1 ST1_VECTOR_Y is never read
+STEAL1 ST1_VECTOR_Y is never written
+
+STEAL1 ST1_VECTOR_H is never read
+STEAL1 ST1_VECTOR_H is never written
+
+STEAL1 ST1_HEADING_LEFT is never read
+STEAL1 ST1_HEADING_LEFT is never written
+
+STEAL1 ST1_HEADING_RIGHT is never read
+STEAL1 ST1_HEADING_RIGHT is never written
+
+STEAL1 ST1_BLIP_X[6] is never read
+
+STEAL1 ST1_BLIP_Y[6] is never read
+
+STEAL1 ST1_BLIP_Z[6] is never read
+
+STEAL1 ST1_REPO_X is never read
+
+STEAL1 ST1_REPO_Y is never read
+
+STEAL1 ST1_REPO_Z is never read
+
+STEAL1 ST1_REPO_H1 is never read
+
+STEAL1 ST1_REPO_H2 is never read
+
+STEAL1 ST1_CUT_X[6] is never read
+
+STEAL1 ST1_CUT_Y[6] is never read
+
+STEAL1 ST1_CUT_Z[6] is never read
+
+STEAL1 ST1_DOOR_X[2] is never read
+
+STEAL1 ST1_DOOR_Y[2] is never read
+
+STEAL1 ST1_DOOR_Z[2] is never read
+
+STEAL1 ST1_DIV_X[6] is never read
+
+STEAL1 ST1_DIV_Y[6] is never read
+
+STEAL1 ST1_DIV_Z[6] is never read
+
+STEAL1 ST1_CAR_LOC_X is never read
+STEAL1 ST1_CAR_LOC_X is never written
+
+STEAL1 ST1_CAR_LOC_Y is never read
+STEAL1 ST1_CAR_LOC_Y is never written
+
+STEAL1 ST1_CAR_LOC_Z is never read
+STEAL1 ST1_CAR_LOC_Z is never written
+
+STEAL1 ST1_PLAYER_Z is never read
+
+STEAL1 ST1_VELOCITY_Z is never read
+
+STEAL1 ST1_VELOCITY_MAG is never read
+
+STEAL1 ST1_PLAYER_STATUS is never read
+STEAL1 ST1_PLAYER_STATUS is never written
+
+STEAL1 ST1_TEXT[6] is never read
+
+STEAL1 ST1_AUDIO_CHAR is never read
+STEAL1 ST1_AUDIO_CHAR is never written
+
+STEAL1 ST1_CAM_X[10] is never read
+
+STEAL1 ST1_CAM_Y[10] is never read
+
+STEAL1 ST1_CAM_Z[10] is never read
+
+STEAL1 ST1_GIRL_BLIP is never read
+STEAL1 ST1_GIRL_BLIP is never written
+
+STEAL1 ST1_ZERO_H is never read
+
+STEAL2 ST2_SALESMAN_FLAG is never read
+
+STEAL2 ST2_CLASS is never read
+
+STEAL2 ST2_PRINT_LABEL[13] is never read
+
+STEAL4 TEMP_FLOAT2 is never read
+STEAL4 TEMP_FLOAT2 is never written
+
+STEAL4 TEMP_FLOAT3 is never read
+STEAL4 TEMP_FLOAT3 is never written
+
+STEAL4 VEC2_Z is never read
+STEAL4 VEC2_Z is never written
+
+STEAL4 DROPPED_CONT_TIMER is never written
+
+STEAL4 BAD_WAVE2_PED[4] is never read
+STEAL4 BAD_WAVE2_PED[4] is never written
+
+STEAL4 TRAIN is never read
+STEAL4 TRAIN is never written
+
+STEAL4 PARTICLE_FX1 is never read
+STEAL4 PARTICLE_FX1 is never written
+
+STEAL4 PARTICLE_FX2 is never read
+STEAL4 PARTICLE_FX2 is never written
+
+STEAL4 IN_CAR_DIALOGUE_FLAG is never read
+
+STEAL4 CLEAR_IN_CAR_DIALOGUE_FLAG is never read
+
+STEAL4 TRAIN_IS_COMING is never read
+
+STEAL4 DRIVE_BY_TARGET is never read
+
+STEAL4 GARAGE_IS_OPEN is never read
+
+STEAL4 BADDIE_DM is never read
+STEAL4 BADDIE_DM is never written
+
+STEAL4 BAD_WAVE2_DM is never read
+STEAL4 BAD_WAVE2_DM is never written
+
+STEAL4 PLAY_AUDIO_TEXT is never read
+
+STEAL4 PLAY_AUDIO_ATTACHED is never read
+
+STEAL4 PLAY_SINGLE_AUDIO_TEXT is never read
+
+STEAL5 S5_SPEECH_FLAG is never read
+
+STEAL5 S5_RANDOM_LAST_LABEL is never read
+
+STEAL5 S5_PRINT_LABEL[6] is never read
+
+FARLIE1 F1_AREA_CODE is never read
+
+FARLIE1 F1_SPEECH_FLAG is never read
+
+FARLIE1 F1_RANDOM_LAST_LABEL is never read
+
+FARLIE1 F1_PRINT_LABEL[7] is never read
+
+ZERO1 FLAG_CREATE_KAMIKAZE_BARON_ZERO1 is never read
+
+ZERO1 FIRE_TRANSMITTOR[4] is never read
+
+ZERO2 CHAR_DUDE_WITH_GUN[5] is never read
+ZERO2 CHAR_DUDE_WITH_GUN[5] is never written
+
+ZERO2 SPEED_RC_PLAYERBARON_ZERO2 is never read
+
+ZERO2 HEADING_REDBARON is never read
+
+ZERO2 HEADING_PLAYERS_VAN is never read
+ZERO2 HEADING_PLAYERS_VAN is never written
+
+ZERO2 FLAG_FLY_NEXT_TO_TRANSMITTOR_ZERO2 is never read
+
+ZERO2 FLAG_FLY_BACK_TO_PLAYER_ZERO2 is never read
+
+ZERO2 FLAG_CREATED_RC_ENEMIES_ZERO2 is never read
+ZERO2 FLAG_CREATED_RC_ENEMIES_ZERO2 is never written
+
+ZERO2 FLAG_HELP_TEXT is never read
+
+ZERO2 FLAG_HELP_TEXT2 is never read
+
+ZERO2 SEQ_ZERO_CUTSCENE is never read
+ZERO2 SEQ_ZERO_CUTSCENE is never written
+
+ZERO4 TEMP_SEQ is never read
+ZERO4 TEMP_SEQ is never written
+
+ZERO4 WINCH_CAR is never read
+
+ZERO4 WINCH_OBJECT is never read
+
+ZERO4 WINCH_PED is never read
+
+ZERO4 BRIDE is never read
+ZERO4 BRIDE is never written
+
+ZERO4 VEC is never read
+ZERO4 VEC is never written
+
+DESERT2 DES2_PRINT_LABEL[8] is never read
+
+DESERT2 DES2_X is never read
+
+DESERT2 DES2_Y is never read
+
+DESERT2 DES2_Z is never read
+
+DESERT3 TEMP_INT3 is never read
+DESERT3 TEMP_INT3 is never written
+
+DESERT3 TEMP_FLOAT3 is never read
+DESERT3 TEMP_FLOAT3 is never written
+
+DESERT3 VEC2_Z is never read
+DESERT3 VEC2_Z is never written
+
+DESERT3 X3 is never read
+DESERT3 X3 is never written
+
+DESERT3 Y3 is never read
+DESERT3 Y3 is never written
+
+DESERT3 Z3 is never read
+DESERT3 Z3 is never written
+
+DESERT3 GRABBED_CAR is never read
+
+DESERT3 OLD_WOMAN is never read
+
+DESERT3 FED_TIMER2 is never written
+
+DESERT3 CAM_DIST_Z is never read
+DESERT3 CAM_DIST_Z is never written
+
+DESERT3 SWING_SPEED_Y is never read
+
+DESERT3 SWING_SPEED_Z is never read
+
+DESERT3 SWING_ACCEL_Y is never read
+DESERT3 SWING_ACCEL_Y is never written
+
+DESERT3 SWING_ACCEL_Z is never read
+DESERT3 SWING_ACCEL_Z is never written
+
+DESERT3 SWING_ROT_Y is never read
+
+DESERT3 SWING_ROT_Z is never read
+
+DESERT3 CLEANUP_PEDS[24] is never read
+DESERT3 CLEANUP_PEDS[24] is never written
+
+DESERT6 M_STATUS is never read
+
+DESERT6 NLOOP2 is never read
+DESERT6 NLOOP2 is never written
+
+DESERT6 NTEMPPED is never read
+DESERT6 NTEMPPED is never written
+
+DESERT6 NTEMPOBJECT is never read
+DESERT6 NTEMPOBJECT is never written
+
+DESERT6 NTEMPAMMO is never read
+DESERT6 NTEMPAMMO is never written
+
+DESERT6 NTEMPTIMER is never read
+DESERT6 NTEMPTIMER is never written
+
+DESERT6 NSEQTASK is never read
+DESERT6 NSEQTASK is never written
+
+DESERT6 XLOTEMP is never read
+DESERT6 XLOTEMP is never written
+
+DESERT6 YLOTEMP is never read
+DESERT6 YLOTEMP is never written
+
+DESERT6 ZLOTEMP is never read
+DESERT6 ZLOTEMP is never written
+
+DESERT6 XHITEMP is never read
+DESERT6 XHITEMP is never written
+
+DESERT6 YHITEMP is never read
+DESERT6 YHITEMP is never written
+
+DESERT6 ZHITEMP is never read
+DESERT6 ZHITEMP is never written
+
+DESERT6 FLAGTEMPFLAG2 is never read
+DESERT6 FLAGTEMPFLAG2 is never written
+
+DESERT6 FLAGCUTSCENEPLAYING is never read
+
+DESERT6 FLAGCLEANINGUPSKIPPEDCUTSCENE is never read
+
+DESERT6 FLAGSKIPCUTSCENE is never read
+
+DESERT6 TLCONVERSATIONSEQUENCESUBTITLE[11] is never read
+
+DESERT6 TIMERABOVERADARLIMIT is never read
+DESERT6 TIMERABOVERADARLIMIT is never written
+
+DESERT6 TIMERBELOWRADARLIMIT is never read
+DESERT6 TIMERBELOWRADARLIMIT is never written
+
+DESERT9 D9_PLANE_RAMP is never read
+DESERT9 D9_PLANE_RAMP is never written
+
+DESERT9 D9_PARACHUTE is never read
+DESERT9 D9_PARACHUTE is never written
+
+DESERT9 D9_PRINT_TEXT_FLAG is never read
+DESERT9 D9_PRINT_TEXT_FLAG is never written
+
+DESERT9 D9_SKIP_PRESSED is never read
+DESERT9 D9_SKIP_PRESSED is never written
+
+DESERT9 D9_FAKE_DEATH is never read
+DESERT9 D9_FAKE_DEATH is never written
+
+DESERT9 D9_CHECK_X1 is never read
+DESERT9 D9_CHECK_X1 is never written
+
+DESERT9 D9_CHECK_X2 is never read
+DESERT9 D9_CHECK_X2 is never written
+
+DESERT9 D9_CHECK_Y1 is never read
+DESERT9 D9_CHECK_Y1 is never written
+
+DESERT9 D9_CHECK_Y2 is never read
+DESERT9 D9_CHECK_Y2 is never written
+
+DESERT9 D9_HATCH_ANGLE is never read
+
+DESERT9 D9_PLANE_PITCH is never read
+DESERT9 D9_PLANE_PITCH is never written
+
+DESERT9 D9_BOTTOM_RAMP is never read
+DESERT9 D9_BOTTOM_RAMP is never written
+
+DESERT9 D9_TOP_RAMP is never read
+DESERT9 D9_TOP_RAMP is never written
+
+DESERT9 D9_TRIGGER_ROLL is never read
+DESERT9 D9_TRIGGER_ROLL is never written
+
+DESERT9 D9_BARREL_START_ROLL_TIME is never read
+
+DESERT9 D9_VELX is never read
+DESERT9 D9_VELX is never written
+
+DESERT9 D9_VELY is never read
+DESERT9 D9_VELY is never written
+
+DESERT9 D9_VELZ is never read
+DESERT9 D9_VELZ is never written
+
+DESERT9 D9_ADDVEL is never read
+DESERT9 D9_ADDVEL is never written
+
+DESERT9 D9_BARREL_X1 is never read
+DESERT9 D9_BARREL_X1 is never written
+
+DESERT9 D9_BARREL_Y1 is never read
+DESERT9 D9_BARREL_Y1 is never written
+
+DESERT9 D9_BARREL_Z1 is never read
+DESERT9 D9_BARREL_Z1 is never written
+
+DESERT9 D9_BARREL_X2 is never read
+DESERT9 D9_BARREL_X2 is never written
+
+DESERT9 D9_BARREL_MOVE_PERCENT is never read
+DESERT9 D9_BARREL_MOVE_PERCENT is never written
+
+DESERT9 D9_GROUND_X is never read
+
+DESERT9 D9_GROUND_Z is never read
+
+DESERT9 D9_PRIME_RECORDING is never read
+DESERT9 D9_PRIME_RECORDING is never written
+
+DESERT9 D9_PARA_BLIP is never read
+DESERT9 D9_PARA_BLIP is never written
+
+DESERT9 D9_PICKUP_X is never read
+DESERT9 D9_PICKUP_X is never written
+
+DESERT9 D9_PICKUP_Y is never read
+DESERT9 D9_PICKUP_Y is never written
+
+DESERT9 D9_PICKUP_Z is never read
+DESERT9 D9_PICKUP_Z is never written
+
+DESERT9 BUILDING_HIT is never read
+DESERT9 BUILDING_HIT is never written
+
+DESERT9 CAM_START_X is never read
+
+DESERT9 CAM_START_Y is never read
+
+DESERT9 CAM_START_Z is never read
+
+DESERT9 CAM_END_X is never read
+
+DESERT9 CAM_END_Y is never read
+
+DESERT9 CAM_END_Z is never read
+
+DESERT9 EXPLOSION_COUNT is never written
+
+DESERT9 D9_NEXT_BOX is never written
+
+DESERT9 D9_BLIP[15] is never read
+DESERT9 D9_BLIP[15] is never written
+
+DESERT9 BARREL_BLIP[20] is never read
+DESERT9 BARREL_BLIP[20] is never written
+
+DESERT9 D9_HEALTH is never read
+DESERT9 D9_HEALTH is never written
+
+DESERT9 D9_TRIGGER_TIME is never read
+DESERT9 D9_TRIGGER_TIME is never written
+
+DESERT9 AUDIO_TIME[10] is never written
+
+DESERT9 AUDIO_TO_PLAY[10] is never written
+
+DESERT9 AUDIO_TEXT[40] is never read
+
+DESERT9 PLAY_AUDIO_DELAY is never written
+
+DESERT9 LOADED_AUDIO is never read
+DESERT9 LOADED_AUDIO is never written
+
+DESERT8 INPUT_TEXT_D8 is never read
+
+DESERT8 DESERT8_D8FLAG is never read
+
+DESERT10 MISSION_BLIP is never read
+DESERT10 MISSION_BLIP is never written
+
+DESERT10 SEQUENCE_TASK is never read
+DESERT10 SEQUENCE_TASK is never written
+
+DESERT10 PLAYERS_CAR is never read
+DESERT10 PLAYERS_CAR is never written
+
+DESERT10 TEMP_INT is never read
+DESERT10 TEMP_INT is never written
+
+DESERT10 R is never read
+DESERT10 R is never written
+
+DESERT10 C is never read
+DESERT10 C is never written
+
+DESERT10 E is never read
+DESERT10 E is never written
+
+DESERT10 V is never read
+DESERT10 V is never written
+
+DESERT10 S is never read
+DESERT10 S is never written
+
+DESERT10 B is never read
+DESERT10 B is never written
+
+DESERT10 A is never read
+DESERT10 A is never written
+
+DESERT10 H is never read
+DESERT10 H is never written
+
+DESERT10 X2 is never read
+DESERT10 X2 is never written
+
+DESERT10 Y2 is never read
+DESERT10 Y2 is never written
+
+DESERT10 Z2 is never read
+DESERT10 Z2 is never written
+
+DESERT10 X3 is never read
+DESERT10 X3 is never written
+
+DESERT10 Y3 is never read
+DESERT10 Y3 is never written
+
+DESERT10 Z3 is never read
+DESERT10 Z3 is never written
+
+DESERT10 SPEED is never read
+DESERT10 SPEED is never written
+
+DESERT10 TEMP_FLOAT is never read
+DESERT10 TEMP_FLOAT is never written
+
+DESERT10 JETPACK_PICKUP is never read
+
+DESERT5 D5_PLANE_X is never read
+
+DESERT5 D5_PLANE_Y is never read
+
+DESERT5 D5_JUST_WATCHED_FIRST_CUTSCENE is never read
+
+DESERT5 D5_AUDIO_TEXT[12] is never read
+
+DESERT5 D5_ROW_LABELS[12] is never read
+
+CASINO1 CA1_TIMER_DIFF1 is never read
+CASINO1 CA1_TIMER_DIFF1 is never written
+
+CASINO1 CA1_TIMER_END1 is never read
+CASINO1 CA1_TIMER_END1 is never written
+
+CASINO1 CA1_TIMER_START1 is never read
+
+CASINO1 CA1_L_Y is never read
+
+CASINO1 CA1_R_X is never read
+
+CASINO1 CA1_R_Y is never read
+
+CASINO1 CA1_TEXT[67] is never read
+
+CASINO1 CA1_CAM_X[4] is never read
+
+CASINO1 CA1_CAM_Y[4] is never read
+
+CASINO1 CA1_CAM_Z[4] is never read
+
+CASINO1 CA1_DOOR is never read
+CASINO1 CA1_DOOR is never written
+
+CASINO2 T is never written
+
+CASINO2 C2_BREAKPOINT is never written
+
+CASINO2 C2_WORKER_YELL is never written
+
+CASINO2 C2_CRATE_DROPPED is never written
+
+CASINO2 C2_FX is never read
+CASINO2 C2_FX is never written
+
+CASINO2 C2_SEQ_LOOKABOUT is never read
+CASINO2 C2_SEQ_LOOKABOUT is never written
+
+CASINO2 C2_PLY_X is never read
+
+CASINO2 C2_PLY_Y is never read
+
+CASINO2 C2_DYNA_ROCK[10] is never read
+CASINO2 C2_DYNA_ROCK[10] is never written
+
+CASINO2 C2_DUMPER_GEN is never read
+CASINO2 C2_DUMPER_GEN is never written
+
+CASINO2 C2_AUDIO_3 is never written
+
+CASINO2 C2_CAN_SEE is never read
+CASINO2 C2_CAN_SEE is never written
+
+CASINO2 C2_BIKE_GEN is never read
+CASINO2 C2_BIKE_GEN is never written
+
+CASINO2 C2_BIKE_GEN1 is never read
+CASINO2 C2_BIKE_GEN1 is never written
+
+CASINO3 CA3_BOSSB is never read
+CASINO3 CA3_BOSSB is never written
+
+CASINO3 CA3_BLIP1SWAP is never read
+
+CASINO3 CA3_GATEREOPENED is never read
+
+CASINO3 CA3_FORKLIFT1 is never read
+CASINO3 CA3_FORKLIFT1 is never written
+
+CASINO3 CA3_FORKLIFT4 is never read
+CASINO3 CA3_FORKLIFT4 is never written
+
+CASINO3 CA3_TRUCK is never read
+CASINO3 CA3_TRUCK is never written
+
+CASINO3 CA3_PONY is never read
+CASINO3 CA3_PONY is never written
+
+CASINO3 CA3_ADMIRAL1 is never read
+CASINO3 CA3_ADMIRAL1 is never written
+
+CASINO3 CA3_ADMIRAL2 is never read
+CASINO3 CA3_ADMIRAL2 is never written
+
+CASINO3 CA3_PLVAND is never read
+CASINO3 CA3_PLVAND is never written
+
+CASINO3 CA3_FORKIE4 is never read
+CASINO3 CA3_FORKIE4 is never written
+
+CASINO3 CA3_GOON4P is never read
+CASINO3 CA3_GOON4P is never written
+
+CASINO3 CA3_GOON5P is never read
+CASINO3 CA3_GOON5P is never written
+
+CASINO3 CA3_GOON6P is never read
+CASINO3 CA3_GOON6P is never written
+
+CASINO3 CA3_FOREMANGROUP is never read
+CASINO3 CA3_FOREMANGROUP is never written
+
+CASINO3 CA3_CHECKPLAYERFOREMAN is never read
+
+CASINO3 CA3_FOREMANSEQ is never read
+CASINO3 CA3_FOREMANSEQ is never written
+
+CASINO3 CA3_BOSSRAMMY is never read
+
+CASINO3 CA3_BOSSINIT is never read
+
+CASINO3 CA3_GATEO is never read
+CASINO3 CA3_GATEO is never written
+
+CASINO3 CA3_GATESWITCHO is never read
+CASINO3 CA3_GATESWITCHO is never written
+
+CASINO3 CA3_PORTAKABIN is never read
+CASINO3 CA3_PORTAKABIN is never written
+
+CASINO3 CA3_CUTBOX is never read
+CASINO3 CA3_CUTBOX is never written
+
+CASINO3 CA3_FIRE1 is never read
+CASINO3 CA3_FIRE1 is never written
+
+CASINO3 CA3_FIRE2 is never read
+CASINO3 CA3_FIRE2 is never written
+
+CASINO3 CA3_FIRE3 is never read
+CASINO3 CA3_FIRE3 is never written
+
+CASINO3 CA3_FIRE4 is never read
+CASINO3 CA3_FIRE4 is never written
+
+CASINO3 CA3_FIRE5 is never read
+CASINO3 CA3_FIRE5 is never written
+
+CASINO3 CA3_FIRE6 is never read
+CASINO3 CA3_FIRE6 is never written
+
+CASINO3 CA3_EXTING is never read
+CASINO3 CA3_EXTING is never written
+
+CASINO3 CA3_BLOCK1 is never read
+CASINO3 CA3_BLOCK1 is never written
+
+CASINO3 CA3_BLOCK2 is never read
+CASINO3 CA3_BLOCK2 is never written
+
+CASINO3 CA3_BLOCK3 is never read
+CASINO3 CA3_BLOCK3 is never written
+
+CASINO3 CA3_MACHINE1 is never read
+CASINO3 CA3_MACHINE1 is never written
+
+CASINO3 CA3_MACHINE2 is never read
+CASINO3 CA3_MACHINE2 is never written
+
+CASINO3 CA3_MACHINE3 is never read
+CASINO3 CA3_MACHINE3 is never written
+
+CASINO3 CA3_MACHINE4 is never read
+CASINO3 CA3_MACHINE4 is never written
+
+CASINO3 CA3_MACHINE5 is never read
+CASINO3 CA3_MACHINE5 is never written
+
+CASINO3 CA3_MACHINE6 is never read
+CASINO3 CA3_MACHINE6 is never written
+
+CASINO3 CA3_INCREMENT1 is never read
+
+CASINO3 CA3_INCREMENT2 is never read
+CASINO3 CA3_INCREMENT2 is never written
+
+CASINO3 CA3_INCREMENT3 is never read
+CASINO3 CA3_INCREMENT3 is never written
+
+CASINO3 CA3_INCREMENT4 is never read
+CASINO3 CA3_INCREMENT4 is never written
+
+CASINO3 CA3_INCREMENT5 is never read
+
+CASINO3 CA3_INCREMENT6 is never read
+CASINO3 CA3_INCREMENT6 is never written
+
+CASINO3 CA3_INCREMENT7 is never read
+
+CASINO3 CA3_BIDLESEQ is never read
+CASINO3 CA3_BIDLESEQ is never written
+
+CASINO3 CA3_GATE1SEQ is never read
+CASINO3 CA3_GATE1SEQ is never written
+
+CASINO3 CA3_GATE2SEQ is never read
+CASINO3 CA3_GATE2SEQ is never written
+
+CASINO3 CA3_TEST is never read
+
+CASINO3 CA3_DRIVERFLEE is never read
+
+CASINO3 CA3_FORKOUT1 is never read
+
+CASINO3 CA3_FORKOUT2 is never read
+
+CASINO3 CA3_TESTCAM is never read
+
+CASINO3 CA3_CUTFORK is never read
+
+CASINO3 CA3_KEYPADTEST is never read
+CASINO3 CA3_KEYPADTEST is never written
+
+CASINO3 CA3_ANIMPLAYING is never read
+CASINO3 CA3_ANIMPLAYING is never written
+
+CASINO3 CA3_MACHINE1DAMAGE is never read
+CASINO3 CA3_MACHINE1DAMAGE is never written
+
+CASINO3 CA3_MACHINE2DAMAGE is never read
+CASINO3 CA3_MACHINE2DAMAGE is never written
+
+CASINO3 CA3_MACHINE3DAMAGE is never read
+CASINO3 CA3_MACHINE3DAMAGE is never written
+
+CASINO3 CA3_MACHINE4DAMAGE is never read
+CASINO3 CA3_MACHINE4DAMAGE is never written
+
+CASINO3 CA3_MACHINE5DAMAGE is never read
+CASINO3 CA3_MACHINE5DAMAGE is never written
+
+CASINO3 CA3_MACHINE6DAMAGE is never read
+CASINO3 CA3_MACHINE6DAMAGE is never written
+
+CASINO3 CA3_BACKUPCAR is never read
+CASINO3 CA3_BACKUPCAR is never written
+
+CASINO3 CA3_DIALOGUE is never read
+CASINO3 CA3_DIALOGUE is never written
+
+CASINO3 CA3_AUDIO_CHAR is never read
+CASINO3 CA3_AUDIO_CHAR is never written
+
+CASINO3 CA3_TEXT_TIMER_DIFF is never read
+CASINO3 CA3_TEXT_TIMER_DIFF is never written
+
+CASINO3 CA3_TEXT_TIMER_END is never read
+CASINO3 CA3_TEXT_TIMER_END is never written
+
+CASINO3 CA3_TEXT_TIMER_START is never read
+CASINO3 CA3_TEXT_TIMER_START is never written
+
+CASINO3 CA3_TEXT[15] is never read
+
+CASINO3 CA3_CONVO_UNDERWAY is never read
+CASINO3 CA3_CONVO_UNDERWAY is never written
+
+CASINO3 CA3_CONVO_COUNTER is never read
+CASINO3 CA3_CONVO_COUNTER is never written
+
+CASINO3 CA3_RANDOM is never read
+CASINO3 CA3_RANDOM is never written
+
+CASINO4 CAS4_FIGHT_HEADING is never written
+
+CASINO4 CAS4_PLAYERZ is never read
+
+CASINO4 CAS4_DONE_PISS is never read
+
+CASINO4 CAS4_PISS_AUDIO_COMPLETED is never read
+
+CASINO4 CAS4_PUKE_AUDIO_COMPLETED is never read
+
+CASINO4 CAS4_TEMP_CLASS is never read
+
+CASINO5 MAFIA_TIMERS_C5[3] is never read
+CASINO5 MAFIA_TIMERS_C5[3] is never written
+
+CASINO5 NORMAL_DM_C5 is never read
+
+CASINO5 FAIL_TEXT_C5 is never read
+
+CASINO5 PATRIOT_STATUS_C5 is never written
+
+CASINO5 MAFIA_EXIST_C5 is never read
+
+CASINO5 OTHER_ID_C5 is never read
+CASINO5 OTHER_ID_C5 is never written
+
+CASINO5 MOTEL_X_C5 is never read
+CASINO5 MOTEL_X_C5 is never written
+
+CASINO5 MOTEL_Y_C5 is never read
+CASINO5 MOTEL_Y_C5 is never written
+
+CASINO5 MOTEL_Z_C5 is never read
+CASINO5 MOTEL_Z_C5 is never written
+
+CASINO5 MAFIA_AUDIO_C5 is never written
+
+CASINO5 AUDIO_TEXT_LABEL_C5[16] is never read
+
+CASINO6 MT_STOPPED_C6 is never read
+
+CASINO6 Z2_C6 is never read
+
+CASINO6 FAIL_TEXT_C6 is never read
+
+CASINO6 HEALTH_PICKUP_C6 is never read
+
+CASINO6 CAR_TYRES_C6 is never written
+
+CASINO6 CAR_POS_C6[4] is never read
+
+CASINO6 SPARE_CAR_C6 is never read
+CASINO6 SPARE_CAR_C6 is never written
+
+CASINO6 PED_NODE_X_C6 is never read
+CASINO6 PED_NODE_X_C6 is never written
+
+CASINO6 PED_NODE_Y_C6 is never read
+CASINO6 PED_NODE_Y_C6 is never written
+
+CASINO6 PED_NODE_Z_C6 is never read
+CASINO6 PED_NODE_Z_C6 is never written
+
+CASINO6 AUDIO_TEXT_LABEL_C6[23] is never read
+
+CASINO9 CUTSCENE_FLAG_C9 is never read
+CASINO9 CUTSCENE_FLAG_C9 is never written
+
+CASINO9 FAIL_TEXT_C9 is never read
+
+CASINO9 DODO_DOOR_C9 is never read
+CASINO9 DODO_DOOR_C9 is never written
+
+CASINO9 SHAMAL_DOOR_C9 is never read
+CASINO9 SHAMAL_DOOR_C9 is never written
+
+CASINO9 DOOR_C9 is never read
+CASINO9 DOOR_C9 is never written
+
+CASINO9 DOOR_STATUS_C9 is never read
+CASINO9 DOOR_STATUS_C9 is never written
+
+CASINO9 HITMAN_DUCKED_C9[4] is never read
+CASINO9 HITMAN_DUCKED_C9[4] is never written
+
+CASINO9 TOTAL_HITMEN_C9 is never read
+CASINO9 TOTAL_HITMEN_C9 is never written
+
+CASINO9 PLAYER_STATUS_C9 is never read
+
+CASINO9 HITMAN_SEQUENCE_C9 is never read
+CASINO9 HITMAN_SEQUENCE_C9 is never written
+
+CASINO9 PLAYER_POS_TIMER_C9 is never read
+CASINO9 PLAYER_POS_TIMER_C9 is never written
+
+CASINO9 HELP_TEXT_FLAG_C9 is never written
+
+CASINO9 AUDIO_POINTER_C9 is never written
+
+CASINO9 AUDIO_FIGHT_USED_C9[4] is never written
+
+CASINO9 AUDIO_HIDE_USED_C9[4] is never written
+
+CASINO9 AUDIO_TEXT_ENTER_C9[4] is never read
+
+CASINO9 AUDIO_TEXT_FIGHT_C9[4] is never read
+
+CASINO9 AUDIO_TEXT_HIDE_C9[4] is never read
+
+CASINO9 PILOT_STATUS_C9 is never read
+
+CASINO9 UNDERCARRIAGE_C9 is never read
+
+CASINO10 FORELLI_TAUNTS_CASINO10 is never read
+
+CASINO10 WATCHED_PLANE_CUTSCENE_CASINO10 is never read
+
+CASINO10 STORED_CAR_CASINO10 is never read
+CASINO10 STORED_CAR_CASINO10 is never written
+
+CASINO10 FLAG_WATCHED_END1_CASINO10 is never read
+
+CASINO10 FLAG_WATCHED_END2_CASINO10 is never read
+
+CASINO10 CASINO10_CUTSCENE_FLAG is never read
+
+VCRASH1 SEQUENCE_TASK is never read
+VCRASH1 SEQUENCE_TASK is never written
+
+VCRASH1 PLAYERS_CAR is never read
+VCRASH1 PLAYERS_CAR is never written
+
+VCRASH1 TEMP_INT is never read
+VCRASH1 TEMP_INT is never written
+
+VCRASH1 V is never read
+VCRASH1 V is never written
+
+VCRASH1 M is never read
+VCRASH1 M is never written
+
+VCRASH1 S is never read
+VCRASH1 S is never written
+
+VCRASH1 B is never read
+VCRASH1 B is never written
+
+VCRASH1 H is never read
+VCRASH1 H is never written
+
+VCRASH1 X3 is never read
+VCRASH1 X3 is never written
+
+VCRASH1 Y3 is never read
+VCRASH1 Y3 is never written
+
+VCRASH1 Z3 is never read
+VCRASH1 Z3 is never written
+
+VCRASH1 TEMP_FLOAT is never read
+VCRASH1 TEMP_FLOAT is never written
+
+VCRASH2 TEMP_INT is never read
+VCRASH2 TEMP_INT is never written
+
+VCRASH2 H is never read
+VCRASH2 H is never written
+
+VCRASH2 X2 is never read
+VCRASH2 X2 is never written
+
+VCRASH2 Y2 is never read
+VCRASH2 Y2 is never written
+
+VCRASH2 Z2 is never read
+VCRASH2 Z2 is never written
+
+VCRASH2 X3 is never read
+VCRASH2 X3 is never written
+
+VCRASH2 Y3 is never read
+VCRASH2 Y3 is never written
+
+VCRASH2 Z3 is never read
+VCRASH2 Z3 is never written
+
+VCRASH2 TEMP_FLOAT is never read
+VCRASH2 TEMP_FLOAT is never written
+
+VCRASH2 SPEED is never read
+VCRASH2 SPEED is never written
+
+VCRASH2 PULASKI_CHAT[20] is never read
+
+DOC2 D2_PRINT is never read
+
+DOC2 D2_PLAYING_SFX is never read
+
+DOC2 D2_AUDIO_SFX is never read
+DOC2 D2_AUDIO_SFX is never written
+
+DOC2 D2_EMPTY is never read
+DOC2 D2_EMPTY is never written
+
+DOC2 D2_SEQ_MEDIC_A is never read
+DOC2 D2_SEQ_MEDIC_A is never written
+
+DOC2 D2_SEQ_MEDIC_B is never read
+DOC2 D2_SEQ_MEDIC_B is never written
+
+HEIST1 HE1_RECEPT2 is never read
+HEIST1 HE1_RECEPT2 is never written
+
+HEIST1 HE1_CLEANER is never read
+HEIST1 HE1_CLEANER is never written
+
+HEIST1 HE1_GUARD4 is never read
+HEIST1 HE1_GUARD4 is never written
+
+HEIST1 HE1_SWATSTAIR is never read
+HEIST1 HE1_SWATSTAIR is never written
+
+HEIST1 HE1_SWATSTAIRPTSY is never read
+HEIST1 HE1_SWATSTAIRPTSY is never written
+
+HEIST1 HE1_SUITGEN is never read
+HEIST1 HE1_SUITGEN is never written
+
+HEIST1 HE1_DUMMY is never read
+HEIST1 HE1_DUMMY is never written
+
+HEIST1 HE1_DOORR is never read
+HEIST1 HE1_DOORR is never written
+
+HEIST1 HE1_STAIRDOOR is never read
+HEIST1 HE1_STAIRDOOR is never written
+
+HEIST1 HE1_VENDING1HEALTH is never read
+HEIST1 HE1_VENDING1HEALTH is never written
+
+HEIST1 HE1_VENDING2HEALTH is never read
+
+HEIST1 HE1_VENDING2MASS is never read
+
+HEIST1 HE1_DEPBOX1 is never read
+HEIST1 HE1_DEPBOX1 is never written
+
+HEIST1 HE1_DEPBOX2 is never read
+HEIST1 HE1_DEPBOX2 is never written
+
+HEIST1 HE1_DEPBOX3 is never read
+HEIST1 HE1_DEPBOX3 is never written
+
+HEIST1 HE1_DEPBOX4 is never read
+HEIST1 HE1_DEPBOX4 is never written
+
+HEIST1 HE1_DEPBOX5 is never read
+HEIST1 HE1_DEPBOX5 is never written
+
+HEIST1 HE1_HINTBOX1 is never read
+HEIST1 HE1_HINTBOX1 is never written
+
+HEIST1 HE1_HINTBOX2 is never read
+HEIST1 HE1_HINTBOX2 is never written
+
+HEIST1 HE1_HINTBOX3 is never read
+HEIST1 HE1_HINTBOX3 is never written
+
+HEIST1 HE1_FIRE1 is never read
+HEIST1 HE1_FIRE1 is never written
+
+HEIST1 HE1_FIRE2 is never read
+HEIST1 HE1_FIRE2 is never written
+
+HEIST1 HE1_STOPSMOKE1 is never read
+HEIST1 HE1_STOPSMOKE1 is never written
+
+HEIST1 HE1_STOPSMOKE2 is never read
+HEIST1 HE1_STOPSMOKE2 is never written
+
+HEIST1 HE1_STOPSMOKE3 is never read
+HEIST1 HE1_STOPSMOKE3 is never written
+
+HEIST1 HE1_SCRIPTFIRE1 is never read
+
+HEIST1 HE1_SCRIPTFIRE3 is never read
+HEIST1 HE1_SCRIPTFIRE3 is never written
+
+HEIST1 HE1_SCRIPTFIRE4 is never read
+HEIST1 HE1_SCRIPTFIRE4 is never written
+
+HEIST1 HE1_HEALTH1 is never read
+HEIST1 HE1_HEALTH1 is never written
+
+HEIST1 HE1_HEALTH2 is never read
+HEIST1 HE1_HEALTH2 is never written
+
+HEIST1 HE1_READINGROOMB is never read
+HEIST1 HE1_READINGROOMB is never written
+
+HEIST1 HE1_VENDING1B is never read
+HEIST1 HE1_VENDING1B is never written
+
+HEIST1 HE1_CAMTOG is never read
+
+HEIST1 HE1_PLAYERWARNED is never read
+
+HEIST1 HE1_SCRATCH is never read
+
+HEIST1 HE1_BYROUTE1 is never read
+
+HEIST1 HE1_BYROUTE2 is never read
+
+HEIST1 HE1_BYROUTE3 is never read
+
+HEIST1 HE1_FIRESCREATED is never read
+
+HEIST1 HE1_CAMINDEX is never written
+
+HEIST1 HE1_DIALOGUE is never read
+HEIST1 HE1_DIALOGUE is never written
+
+HEIST1 HE1_AUDIO_CHAR is never read
+HEIST1 HE1_AUDIO_CHAR is never written
+
+HEIST1 HE1_TEXT_TIMER_DIFF is never read
+HEIST1 HE1_TEXT_TIMER_DIFF is never written
+
+HEIST1 HE1_TEXT_TIMER_END is never read
+HEIST1 HE1_TEXT_TIMER_END is never written
+
+HEIST1 HE1_TEXT_TIMER_START is never read
+HEIST1 HE1_TEXT_TIMER_START is never written
+
+HEIST1 HE1_TEXT[24] is never read
+
+HEIST1 HE1_CONVO_UNDERWAY is never read
+HEIST1 HE1_CONVO_UNDERWAY is never written
+
+HEIST1 HE1_CONVO_COUNTER is never read
+HEIST1 HE1_CONVO_COUNTER is never written
+
+HEIST1 HE1_RANDOM is never read
+HEIST1 HE1_RANDOM is never written
+
+HEIST1 LIGHT_OBJECT is never read
+HEIST1 LIGHT_OBJECT is never written
+
+HEIST1 LIGHTX is never read
+HEIST1 LIGHTX is never written
+
+HEIST1 LIGHTY is never read
+HEIST1 LIGHTY is never written
+
+HEIST1 LIGHTZ is never read
+HEIST1 LIGHTZ is never written
+
+HEIST3 HEI3_TIMER_START is never read
+
+HEIST3 HEI3_TIME_PASSED is never read
+
+HEIST3 HEI3_CURRENT_TIME is never read
+
+HEIST3 HIE3_DUMMY is never read
+
+HEIST3 HEI3_PLAYER_SPEED is never read
+
+HEIST3 HEI3_AREA_VIS is never read
+HEIST3 HEI3_AREA_VIS is never written
+
+HEIST3 HEI3_CLOTHES_CHANGED is never read
+
+HEIST3 HEI3_SFX_PLAYED is never read
+
+HEIST2 HEI2_PLAYER_X is never read
+HEIST2 HEI2_PLAYER_X is never written
+
+HEIST2 HEI2_PLAYER_Y is never read
+HEIST2 HEI2_PLAYER_Y is never written
+
+HEIST2 HEI2_PLAYER_Z is never read
+HEIST2 HEI2_PLAYER_Z is never written
+
+HEIST2 HEI2_CLOTHES_CHANGED is never written
+
+HEIST2 HEI2_DUMMY is never read
+
+HEIST4 MISSION_BLIP2 is never read
+HEIST4 MISSION_BLIP2 is never written
+
+HEIST4 MISSION_FLAG is never read
+HEIST4 MISSION_FLAG is never written
+
+HEIST4 MISSION_TIMER is never read
+HEIST4 MISSION_TIMER is never written
+
+HEIST4 SEQUENCE_TASK is never read
+HEIST4 SEQUENCE_TASK is never written
+
+HEIST4 PLAYERS_CAR is never read
+HEIST4 PLAYERS_CAR is never written
+
+HEIST4 CAR_HEALTH is never read
+HEIST4 CAR_HEALTH is never written
+
+HEIST4 TEMP_INT is never read
+HEIST4 TEMP_INT is never written
+
+HEIST4 R is never read
+HEIST4 R is never written
+
+HEIST4 C is never read
+HEIST4 C is never written
+
+HEIST4 E is never read
+HEIST4 E is never written
+
+HEIST4 S is never read
+HEIST4 S is never written
+
+HEIST4 B is never read
+HEIST4 B is never written
+
+HEIST4 H is never read
+HEIST4 H is never written
+
+HEIST4 X3 is never read
+HEIST4 X3 is never written
+
+HEIST4 Y3 is never read
+HEIST4 Y3 is never written
+
+HEIST4 Z3 is never read
+HEIST4 Z3 is never written
+
+HEIST4 SPEED is never read
+HEIST4 SPEED is never written
+
+HEIST4 TEMP_FLOAT is never read
+HEIST4 TEMP_FLOAT is never written
+
+HEIST4 HST4_TOUGHDM is never read
+
+HEIST4 HST4_PIZZABOX is never read
+HEIST4 HST4_PIZZABOX is never written
+
+HEIST4 HST4_PIZZABIKE is never read
+HEIST4 HST4_PIZZABIKE is never written
+
+HEIST4 HST4_PIZZABOX2 is never read
+HEIST4 HST4_PIZZABOX2 is never written
+
+HEIST4 HST4_STATIONCAR is never read
+HEIST4 HST4_STATIONCAR is never written
+
+HEIST4 HST4_PUKE is never read
+HEIST4 HST4_PUKE is never written
+
+HEIST4 TRUCK_THUMBSFX is never read
+
+HEIST4 TRUCK_CONTEXT is never read
+HEIST4 TRUCK_CONTEXT is never written
+
+HEIST4 TRUCK_THUMBX is never read
+
+HEIST4 TRUCK_THUMBY is never read
+
+HEIST4 TRUCK_THUMBZ is never read
+
+HEIST4 SLOWZONEZ1 is never read
+
+HEIST4 SLOWZONEZ2 is never read
+
+HEIST4 SZTEST is never read
+HEIST4 SZTEST is never written
+
+HEIST4 HST4_DIALOGUE is never read
+HEIST4 HST4_DIALOGUE is never written
+
+HEIST4 HST4_AUDIO_CHAR is never read
+HEIST4 HST4_AUDIO_CHAR is never written
+
+HEIST4 HST4_TEXT_TIMER_DIFF is never read
+HEIST4 HST4_TEXT_TIMER_DIFF is never written
+
+HEIST4 HST4_TEXT_TIMER_END is never read
+HEIST4 HST4_TEXT_TIMER_END is never written
+
+HEIST4 HST4_TEXT_TIMER_START is never read
+HEIST4 HST4_TEXT_TIMER_START is never written
+
+HEIST4 HST4_TEXT[19] is never read
+
+HEIST4 HST4_CONVO_UNDERWAY is never read
+HEIST4 HST4_CONVO_UNDERWAY is never written
+
+HEIST4 HST4_RANDOM is never read
+HEIST4 HST4_RANDOM is never written
+
+HEIST5 HELI_LOCKED_HEIST5 is never read
+
+HEIST5 HELI_PILOT1_HEIST5 is never read
+
+HEIST5 HELI_PILOT2_HEIST5 is never read
+
+HEIST5 CHAR_ON_WINCH_HEIST5 is never read
+
+HEIST5 OBJECT_ON_WINCH_HEIST5 is never read
+
+HEIST5 FLAG_MOVE_ROCKET_GUYS_HEIST5 is never read
+
+HEIST5 STORED_VEHICLE_HEIST5 is never read
+
+HEIST9 H9_DOOR_Z is never read
+
+HEIST9 FLAG_OPEN_KEYPADDOOR_HEIST9 is never read
+
+HEIST9 H9_SPAWNED_END_GUYS is never read
+
+HEIST9 SEQ_WALK_TO_SAFE is never read
+HEIST9 SEQ_WALK_TO_SAFE is never written
+
+HEIST9 H9_GENERATOR_BLIP is never read
+HEIST9 H9_GENERATOR_BLIP is never written
+
+HEIST9 H9_CHARGE_SET[4] is never read
+HEIST9 H9_CHARGE_SET[4] is never written
+
+HEIST9 H9_NO_OF_CHARGES is never read
+HEIST9 H9_NO_OF_CHARGES is never written
+
+HEIST9 H9_CHARGES[4] is never read
+HEIST9 H9_CHARGES[4] is never written
+
+HEIST9 H9_FX1 is never read
+HEIST9 H9_FX1 is never written
+
+HEIST9 H9_FX2 is never read
+HEIST9 H9_FX2 is never written
+
+HEIST9 SEQ_WALK_TO_VAN is never read
+HEIST9 SEQ_WALK_TO_VAN is never written
+
+HEIST9 H9_VAN_COUNT is never written
+
+HEIST9 H9_SEAT_COUNT is never read
+HEIST9 H9_SEAT_COUNT is never written
+
+HEIST9 H9_IN_VAN[4] is never read
+HEIST9 H9_IN_VAN[4] is never written
+
+HEIST9 H9_PARACHUTE is never read
+HEIST9 H9_PARACHUTE is never written
+
+HEIST9 H9_CHUTE_DELETED is never read
+
+HEIST9 H9_PARACHUTE1 is never read
+HEIST9 H9_PARACHUTE1 is never written
+
+HEIST9 H9_ELEVATOR_MESSAGE is never read
+HEIST9 H9_ELEVATOR_MESSAGE is never written
+
+HEIST9 H9_OUTSIDE is never read
+HEIST9 H9_OUTSIDE is never written
+
+HEIST9 H9_POWER_CUT is never read
+HEIST9 H9_POWER_CUT is never written
+
+HEIST9 H9_CLOSING_2 is never read
+HEIST9 H9_CLOSING_2 is never written
+
+HEIST9 H9_FX_DYNA is never read
+HEIST9 H9_FX_DYNA is never written
+
+HEIST9 H9_PICKED_UP_BAG[5] is never read
+HEIST9 H9_PICKED_UP_BAG[5] is never written
+
+HEIST9 H9_SAFE_CHARGE[2] is never read
+HEIST9 H9_SAFE_CHARGE[2] is never written
+
+HEIST9 H9_SEQ_PILLAR is never read
+HEIST9 H9_SEQ_PILLAR is never written
+
+HEIST9 H9_BAG_COUNT is never read
+
+HEIST9 H9_SEQ_MAFIA_IN_SAFE_L is never read
+HEIST9 H9_SEQ_MAFIA_IN_SAFE_L is never written
+
+HEIST9 H9_SEQ_MAFIA_IN_SAFE_R is never read
+HEIST9 H9_SEQ_MAFIA_IN_SAFE_R is never written
+
+HEIST9 H9_ATTACK_SAFE[5] is never read
+HEIST9 H9_ATTACK_SAFE[5] is never written
+
+HEIST9 H9_SEQ_STAIRS is never read
+HEIST9 H9_SEQ_STAIRS is never written
+
+HEIST9 H9_AI is never read
+HEIST9 H9_AI is never written
+
+HEIST9 H9_SEQ_CORRIDOR is never read
+HEIST9 H9_SEQ_CORRIDOR is never written
+
+HEIST9 H9_IS_RUNNING[4] is never read
+HEIST9 H9_IS_RUNNING[4] is never written
+
+HEIST9 H9_SEQ_CORRIDOR_1 is never read
+HEIST9 H9_SEQ_CORRIDOR_1 is never written
+
+HEIST9 H9_SEQ_BAG[5] is never read
+HEIST9 H9_SEQ_BAG[5] is never written
+
+HEIST9 H9_SEQ_ROOM is never read
+HEIST9 H9_SEQ_ROOM is never written
+
+HEIST9 H9_ROLLIN is never read
+HEIST9 H9_ROLLIN is never written
+
+HEIST9 H9_SEQ_CORRIDOR_A is never read
+HEIST9 H9_SEQ_CORRIDOR_A is never written
+
+HEIST9 H9_SEQ_CORRIDOR_B is never read
+HEIST9 H9_SEQ_CORRIDOR_B is never written
+
+HEIST9 H9_SEQ_CORRIDOR_C is never read
+HEIST9 H9_SEQ_CORRIDOR_C is never written
+
+HEIST9 H9_POWER_ON is never read
+HEIST9 H9_POWER_ON is never written
+
+HEIST9 H9_BOMB_HEADING is never read
+HEIST9 H9_BOMB_HEADING is never written
+
+HEIST9 X1 is never read
+
+HEIST9 Y1 is never read
+
+HEIST9 Z1 is never read
+HEIST9 Z1 is never written
+
+HEIST9 TEMP_HEADING is never read
+HEIST9 TEMP_HEADING is never written
+
+HEIST9 H9_HELP_1 is never read
+HEIST9 H9_HELP_1 is never written
+
+HEIST9 H9_HELP_2 is never read
+HEIST9 H9_HELP_2 is never written
+
+HEIST9 H9_CUTSCENE_MAN is never read
+HEIST9 H9_CUTSCENE_MAN is never written
+
+HEIST9 H9_DARKNESS is never read
+HEIST9 H9_DARKNESS is never written
+
+HEIST9 H9_BK_DOOR is never read
+HEIST9 H9_BK_DOOR is never written
+
+HEIST9 H9_ZERO_CREATED is never read
+
+HEIST9 H9_SAFE_DOOR_BLIP is never read
+HEIST9 H9_SAFE_DOOR_BLIP is never written
+
+HEIST9 H9_GOGGLE_BLIP is never read
+HEIST9 H9_GOGGLE_BLIP is never written
+
+HEIST9 H9_USED_VENT is never read
+HEIST9 H9_USED_VENT is never written
+
+HEIST9 H9_ONCE_ONLY is never read
+
+HEIST9 H9_WEAK_DECISION is never read
+
+HEIST9 H9_CLOTHES_CHANGED is never read
+
+HEIST9 H9_GUYS_AT_SAFE is never read
+
+HEIST9 H9_SEQ_SAFE_COVER[4] is never read
+HEIST9 H9_SEQ_SAFE_COVER[4] is never written
+
+HEIST9 H9_HAS_A_GUN is never read
+HEIST9 H9_HAS_A_GUN is never written
+
+HEIST9 H9_PLAY_SAFE_DIALOGUE is never written
+
+HEIST9 H9_SPAWN_THE_DUDES is never read
+HEIST9 H9_SPAWN_THE_DUDES is never written
+
+HEIST9 H9_THIRD_NODE is never read
+HEIST9 H9_THIRD_NODE is never written
+
+HEIST9 H9_SEQ_RUN_FIRST_NODE[4] is never read
+HEIST9 H9_SEQ_RUN_FIRST_NODE[4] is never written
+
+HEIST9 H9_SEQ_RUN_SECOND_NODE is never read
+HEIST9 H9_SEQ_RUN_SECOND_NODE is never written
+
+HEIST9 H9_SEQ_RUN_THIRD_NODE is never read
+HEIST9 H9_SEQ_RUN_THIRD_NODE is never written
+
+HEIST9 H9_SECOND[4] is never read
+
+HEIST9 H9_THIRD[4] is never read
+
+HEIST9 H9_KICKED[4] is never read
+HEIST9 H9_KICKED[4] is never written
+
+HEIST9 H9_SPAWNED_END_GUYS_1 is never read
+HEIST9 H9_SPAWNED_END_GUYS_1 is never written
+
+HEIST9 H9_PRINT is never read
+
+HEIST9 H9_RUN_TO_VAN is never read
+HEIST9 H9_RUN_TO_VAN is never written
+
+HEIST9 H9_REQUESTED is never read
+HEIST9 H9_REQUESTED is never written
+
+HEIST9 H9_DOOR_TRIG is never read
+HEIST9 H9_DOOR_TRIG is never written
+
+HEIST9 H9_CRT_1 is never read
+HEIST9 H9_CRT_1 is never written
+
+HEIST9 H9_DUMMY_CAR is never read
+HEIST9 H9_DUMMY_CAR is never written
+
+HEIST9 H9_VISIBLE_AREA is never read
+
+MANSION1 FAIL_TEXT_M1 is never read
+
+MANSION1 AUDIO_TEXT_LABEL_M1[10] is never read
+
+MANSION1 FAKE_PLAYER_PARACHUTE_M1 is never read
+MANSION1 FAKE_PLAYER_PARACHUTE_M1 is never written
+
+MANSION1 LSV_LOCATION_M1 is never read
+
+MANSION1 LSV_ID_M1 is never written
+
+MANSION1 CARGO_DOOR_STATUS_M1 is never written
+
+MANSION1 LSV_SPAWN_TEXT_M1[4] is never read
+
+MANSION1 TRIAD_CLEAR_TEXT_M1[8] is never read
+
+MANSION1 LSV_SPAWN_MODEL_M1[3] is never read
+MANSION1 LSV_SPAWN_MODEL_M1[3] is never written
+
+MANSION1 POPPAS_CAR_STATUS_M1 is never written
+
+MANSION2 NLOOP2 is never read
+MANSION2 NLOOP2 is never written
+
+MANSION2 NTEMPINT2 is never read
+MANSION2 NTEMPINT2 is never written
+
+MANSION2 NTEMPOBJECT is never read
+MANSION2 NTEMPOBJECT is never written
+
+MANSION2 NTEMPAMMO is never read
+MANSION2 NTEMPAMMO is never written
+
+MANSION2 NTEMPTIMER is never read
+MANSION2 NTEMPTIMER is never written
+
+MANSION2 ZLOTEMP is never read
+MANSION2 ZLOTEMP is never written
+
+MANSION2 ZHITEMP is never read
+MANSION2 ZHITEMP is never written
+
+MANSION2 FLAGTEMPFLAG2 is never read
+MANSION2 FLAGTEMPFLAG2 is never written
+
+MANSION2 FLAGCLEANINGUPSKIPPEDCUTSCENE is never read
+
+MANSION2 TLCONVERSATIONSEQUENCESUBTITLE[13] is never read
+
+MANSION2 FLAGENEMYBOATMOVING is never read
+
+MANSION3 M3_STOLEN_CAR is never read
+MANSION3 M3_STOLEN_CAR is never written
+
+MANSION3 FLYING_DRUGS is never read
+MANSION3 FLYING_DRUGS is never written
+
+MANSION3 M3_DRUG_X is never read
+MANSION3 M3_DRUG_X is never written
+
+MANSION3 M3_DRUG_Y is never read
+MANSION3 M3_DRUG_Y is never written
+
+MANSION3 M3_DRUG_Z is never read
+MANSION3 M3_DRUG_Z is never written
+
+MANSION3 M3_BUS_SIGN1 is never read
+MANSION3 M3_BUS_SIGN1 is never written
+
+MANSION3 M3_GAN2 is never read
+MANSION3 M3_GAN2 is never written
+
+MANSION3 V is never read
+MANSION3 V is never written
+
+MANSION3 M3_PRINT is never read
+
+MANSION3 M3_DUMMY_CAR is never read
+MANSION3 M3_DUMMY_CAR is never written
+
+MANSION5 P_BLIP_M5 is never read
+MANSION5 P_BLIP_M5 is never written
+
+MANSION5 MAN_QUAD_M5 is never read
+MANSION5 MAN_QUAD_M5 is never written
+
+MANSION5 FAIL_TEXT_M5 is never read
+
+MANSION5 MD_BLIP_STATUS_M5 is never written
+
+MANSION5 PED_NODE_X_M5 is never read
+MANSION5 PED_NODE_X_M5 is never written
+
+MANSION5 PED_NODE_Y_M5 is never read
+MANSION5 PED_NODE_Y_M5 is never written
+
+MANSION5 PED_NODE_Z_M5 is never read
+MANSION5 PED_NODE_Z_M5 is never written
+
+MANSION5 OG_REC_TOTAL_M5 is never read
+
+MANSION5 CAMERA_STATUS_M5 is never written
+
+MANSION5 A_RUNNER_M5 is never read
+MANSION5 A_RUNNER_M5 is never written
+
+MANSION5 AUDIO_TEXT_LABEL_M5[24] is never read
+
+MANSION5 SOUNDLABEL_M5 is never read
+MANSION5 SOUNDLABEL_M5 is never written
+
+MANSION5 TEXTLABEL_M5 is never read
+MANSION5 TEXTLABEL_M5 is never written
+
+GROVE1 GANG_STRENTH2_GROVE1 is never read
+
+GROVE1 GANG_STRENTH3_GROVE1 is never read
+
+GROVE1 GANG_STRENTH4_GROVE1 is never read
+
+GROVE1 GROVE1_CUTSCENE_FLAG is never read
+
+GROVE2 GANG_STRENGTH1_GROVE3 is never read
+GROVE2 GANG_STRENGTH1_GROVE3 is never written
+
+GROVE2 G2_FLAG is never read
+GROVE2 G2_FLAG is never written
+
+GROVE2 G2_PRINT is never read
+
+RIOT1 R1_PRINT_LABEL[15] is never read
+
+RIOT2 R2_ATTACK_FLAG is never read
+
+RIOT2 RANDOM_TIME is never read
+RIOT2 RANDOM_TIME is never written
+
+RIOT2 R2_CONTEXT is never read
+
+RIOT2 R2_PRINT_LABEL[22] is never read
+
+FINALEA CARTERCOWARD_DM is never read
+
+FINALEA COPCAR3_FA is never read
+FINALEA COPCAR3_FA is never written
+
+FINALEA CAR3_FA is never read
+FINALEA CAR3_FA is never written
+
+FINALEA CAR4_FA is never read
+FINALEA CAR4_FA is never written
+
+FINALEA CAR5_FA is never read
+FINALEA CAR5_FA is never written
+
+FINALEA SWAT6_FA is never read
+FINALEA SWAT6_FA is never written
+
+FINALEA SWAT7_FA is never read
+FINALEA SWAT7_FA is never written
+
+FINALEA WALLHEALTH_FA is never read
+FINALEA WALLHEALTH_FA is never written
+
+FINALEA ENEMYTARGET_FA is never read
+
+FINALEA ENEMYTARGET2_FA is never read
+FINALEA ENEMYTARGET2_FA is never written
+
+FINALEA TEXT_LABEL_FA is never read
+
+FINALEA INPUT_TEXT_FA is never read
+
+FINALEA COORDSHOOT_FAFLAG is never read
+
+FINALEB FIRE20_FB is never read
+
+FINALEB FIRE21_FB is never read
+
+FINALEB FIRE23_FB is never read
+
+FINALEB FIRE27_FB is never read
+
+FINALEB FIRE28_FB is never read
+
+FINALEB FIRE29_FB is never read
+
+FINALEB FIRE30_FB is never read
+
+FINALEB FIRE31_FB is never read
+
+FINALEB FIRE32_FB is never read
+
+FINALEB FIRE33_FB is never read
+
+FINALEB FIRE34_FB is never read
+
+FINALEB FIRE35_FB is never read
+
+FINALEB FIRE36_FB is never read
+
+FINALEB ENEMYTARGET_FB is never read
+FINALEB ENEMYTARGET_FB is never written
+
+FINALEB ENEMYTARGET2_FB is never read
+FINALEB ENEMYTARGET2_FB is never written
+
+FINALEB SWEET_FBBLIP is never read
+FINALEB SWEET_FBBLIP is never written
+
+FINALEB NIGHTVISION_FB is never read
+FINALEB NIGHTVISION_FB is never written
+
+FINALEB FLOORG_FBFLAG is never read
+
+FINALEB FLOOR1_FBFLAG is never read
+
+FINALEB FLOOR2_FBFLAG is never read
+
+FINALEB FLOOR3_FBFLAG is never read
+
+FINALEB FIRETRUCK_FB is never read
+FINALEB FIRETRUCK_FB is never written
+
+FINALEB BENZ_FB is never read
+FINALEB BENZ_FB is never written
+
+FINALEB COP1_FB is never read
+FINALEB COP1_FB is never written
+
+FINALEB COP2_FB is never read
+FINALEB COP2_FB is never written
+
+FINALEB COP3_FB is never read
+FINALEB COP3_FB is never written
+
+FINALEB TRAIN_FB is never read
+FINALEB TRAIN_FB is never written
+
+FINALEB COPLADDER_FB is never read
+FINALEB COPLADDER_FB is never written
+
+FINALEB COPTRUCK_FB is never read
+FINALEB COPTRUCK_FB is never written
+
+FINALEB GANGCAR1_FB is never read
+FINALEB GANGCAR1_FB is never written
+
+FINALEB GANGCAR2_FB is never read
+FINALEB GANGCAR2_FB is never written
+
+FINALEB GANGCAR3_FB is never read
+FINALEB GANGCAR3_FB is never written
+
+FINALEB GANGCAR4_FB is never read
+FINALEB GANGCAR4_FB is never written
+
+FINALEB GANGCAR5_FB is never read
+FINALEB GANGCAR5_FB is never written
+
+FINALEB CHASEKILL_FBSEQ is never read
+FINALEB CHASEKILL_FBSEQ is never written
+
+FINALEB SWEETHANG_FBFLAG is never read
+
+FINALEB FINALEBCHASE_FBFLAG is never read
+
+FINALEB SWEETLEGSUP_FBFLAG is never read
+
+FINALEB LOCATESTAGE_FBFLAG is never read
+
+FINALEB SPEEDUP_FBFLAG is never read
+
+FINALEB CREATETRAIN_FBFLAG is never read
+
+FINALEB COPLADDER_FBFLAG is never read
+
+FINALEB COPTRUCK_FBFLAG is never read
+
+FINALEB CARDENSITY_FBFLAG is never read
+
+FINALEB NOTINCAR_FBFLAG is never read
+
+FINALEC PLAYERVISIBLE_FC is never read
+FINALEC PLAYERVISIBLE_FC is never written
+
+FINALEC FXPLAYERSMOKE_FC[9] is never read
+FINALEC FXPLAYERSMOKE_FC[9] is never written
+
+FINALEC NLOOP_FC is never read
+FINALEC NLOOP_FC is never written
+
+FINALEC FIRE3_FC is never read
+
+FINALEC FIRE4_FC is never read
+
+FINALEC FIRE5_FC is never read
+
+FINALEC FIRE6_FC is never read
+
+FINALEC FIRE7_FC is never read
+
+FINALEC FIRE8_FC is never read
+
+FINALEC FIRE9_FC is never read
+
+FINALEC FIRE10_FC is never read
+
+FINALEC FIRE11_FC is never read
+
+FINALEC FIRE12_FC is never read
+
+FINALEC FIRE13_FC is never read
+
+FINALEC FIRE14_FC is never read
+
+FINALEC FIRE15_FC is never read
+
+FINALEC FIRE16_FC is never read
+
+FINALEC FIRE17_FC is never read
+
+FINALEC FIRE18_FC is never read
+
+FINALEC FIRE19_FC is never read
+
+FINALEC FIRE20_FC is never read
+
+FINALEC FIRE21_FC is never read
+FINALEC FIRE21_FC is never written
+
+FINALEC FIRE22_FC is never read
+FINALEC FIRE22_FC is never written
+
+FINALEC FIRE23_FC is never read
+FINALEC FIRE23_FC is never written
+
+FINALEC FIRE24_FC is never read
+FINALEC FIRE24_FC is never written
+
+FINALEC FIRE25_FC is never read
+FINALEC FIRE25_FC is never written
+
+FINALEC FIRE26_FC is never read
+FINALEC FIRE26_FC is never written
+
+FINALEC FIRE27_FC is never read
+FINALEC FIRE27_FC is never written
+
+FINALEC FIRE28_FC is never read
+FINALEC FIRE28_FC is never written
+
+FINALEC FIRE29_FC is never read
+FINALEC FIRE29_FC is never written
+
+FINALEC FIRE30_FC is never read
+FINALEC FIRE30_FC is never written
+
+FINALEC FIRE31_FC is never read
+FINALEC FIRE31_FC is never written
+
+FINALEC FIRE32_FC is never read
+FINALEC FIRE32_FC is never written
+
+FINALEC FIRE33_FC is never read
+FINALEC FIRE33_FC is never written
+
+FINALEC FIRE34_FC is never read
+FINALEC FIRE34_FC is never written
+
+FINALEC FIRE35_FC is never read
+FINALEC FIRE35_FC is never written
+
+FINALEC FIRE36_FC is never read
+FINALEC FIRE36_FC is never written
+
+FINALEC ROLLOUTR_FCSEQ is never read
+FINALEC ROLLOUTR_FCSEQ is never written
+
+FINALEC PEEKRIGHT_FCSEQ is never read
+FINALEC PEEKRIGHT_FCSEQ is never written
+
+FINALEC PEEKLEFT_FCSEQ is never read
+FINALEC PEEKLEFT_FCSEQ is never written
+
+FINALEC ENEMYX_FC is never read
+FINALEC ENEMYX_FC is never written
+
+FINALEC ENEMYY_FC is never read
+FINALEC ENEMYY_FC is never written
+
+FINALEC ENEMYZ_FC is never read
+FINALEC ENEMYZ_FC is never written
+
+FINALEC ENEMYTARGET2_FC is never read
+FINALEC ENEMYTARGET2_FC is never written
+
+FINALEC RUN2SHOOT_FCSEQ is never read
+FINALEC RUN2SHOOT_FCSEQ is never written
+
+FINALEC SHOOTIMER_S4 is never read
+FINALEC SHOOTIMER_S4 is never written
+
+FINALEC ENEMYX2_FC is never read
+FINALEC ENEMYX2_FC is never written
+
+FINALEC ENEMYY2_FC is never read
+FINALEC ENEMYY2_FC is never written
+
+FINALEC ENEMYZ2_FC is never read
+FINALEC ENEMYZ2_FC is never written
+
+FINALEC HEADING_FC is never read
+FINALEC HEADING_FC is never written
+
+FINALEC CARTER_FCBLIP is never read
+FINALEC CARTER_FCBLIP is never written
+
+FINALEC EXTINGUISHER1_FCBLIP is never read
+FINALEC EXTINGUISHER1_FCBLIP is never written
+
+FINALEC ARMOUR1_FC is never read
+FINALEC ARMOUR1_FC is never written
+
+FINALEC ARMOUR2_FC is never read
+FINALEC ARMOUR2_FC is never written
+
+FINALEC ARMOUR3_FC is never read
+FINALEC ARMOUR3_FC is never written
+
+FINALEC ARMOUR4_FC is never read
+FINALEC ARMOUR4_FC is never written
+
+FINALEC HEALTH1_FC is never read
+FINALEC HEALTH1_FC is never written
+
+FINALEC HEALTH2_FC is never read
+FINALEC HEALTH2_FC is never written
+
+FINALEC HEALTH3_FC is never read
+FINALEC HEALTH3_FC is never written
+
+FINALEC NIGHTVISION_FC is never read
+FINALEC NIGHTVISION_FC is never written
+
+FINALEC EXTINGUISHER1_FC is never read
+FINALEC EXTINGUISHER1_FC is never written
+
+FINALEC EXTINGUISHER2_FC is never read
+FINALEC EXTINGUISHER2_FC is never written
+
+FINALEC FLOORG_FCFLAG is never read
+
+FINALEC FLOOR1_FCFLAG is never read
+
+FINALEC FLOOR2_FCFLAG is never read
+
+FINALEC FLOOR3_FCFLAG is never read
+
+FINALEC GANG1_FCFLAG is never read
+
+FINALEC GANG2_FCFLAG is never read
+
+FINALEC GANG3_FCFLAG is never read
+
+FINALEC GANG4_FCFLAG is never read
+
+FINALEC GANG5_FCFLAG is never read
+
+FINALEC GANG6_FCFLAG is never read
+
+FINALEC GANG7_FCFLAG is never read
+
+FINALEC GANG8_FCFLAG is never read
+
+FINALEC GANG9_FCFLAG is never read
+
+FINALEC GANG10_FCFLAG is never read
+
+FINALEC GANG11_FCFLAG is never read
+
+FINALEC GANG12_FCFLAG is never read
+
+FINALEC GANG13_FCFLAG is never read
+
+FINALEC GANG14_FCFLAG is never read
+
+FINALEC GANG15_FCFLAG is never read
+
+FINALEC TENPENNYCUT_FCFLAG is never read
+
+FINALEC EXPLOSION_FCFLAG is never read
+
+FINALEC TIMEROUT_FCFLAG is never read
+
+FINALEC TEXT_LABEL_FC is never read
+
+FINALEC INPUT_TEXT_FC is never read
+
+FINALEC BIKE4_FC is never read
+FINALEC BIKE4_FC is never written
+
+FINALEC GANG16_FC is never read
+FINALEC GANG16_FC is never written
+
+FINALEC BIKE4_FCBLIP is never read
+FINALEC BIKE4_FCBLIP is never written
+
+FINALEC BIKE4_FCFLAG is never read
+
+FINALEC BIKE4SWAP_FCFLAG is never read
+
+FINALEC POLICEHELI_FC is never read
+FINALEC POLICEHELI_FC is never written
+
+SH_RANGE FAR_RANGE_OFFSET[4] is never read
+
+GYMLS BOXER3_LSGYM is never read
+GYMLS BOXER3_LSGYM is never written
+
+GYMLS SENSEI_LSGYM is never read
+GYMLS SENSEI_LSGYM is never written
+
+GYMLS GYM_HLTH is never read
+GYMLS GYM_HLTH is never written
+
+GYMLS GYM_TEACH is never read
+
+GYMLS GYMLS_DISPLAY is never read
+
+GYMLS LS_PRINT is never read
+GYMLS LS_PRINT is never written
+
+GYMLS LS_AUDIO is never written
+
+GYMLS LS_SFX is never read
+GYMLS LS_SFX is never written
+
+GYMSF GYM_HLTH is never read
+GYMSF GYM_HLTH is never written
+
+GYMSF GYMSF_DISPLAY is never read
+
+GYMSF SF_LEFT_RING is never read
+
+GYMSF SF_PRINT is never read
+GYMSF SF_PRINT is never written
+
+GYMSF SF_AUDIO is never written
+
+GYMLV LV_BLACK_BOXER is never read
+GYMLV LV_BLACK_BOXER is never written
+
+GYMLV LV_DJ is never read
+GYMLV LV_DJ is never written
+
+GYMLV GYM_HLTH is never read
+GYMLV GYM_HLTH is never written
+
+GYMLV LV_SEQ_BLACK_BOXER is never read
+GYMLV LV_SEQ_BLACK_BOXER is never written
+
+GYMLV LV_SEQ_DJ_BOXER is never read
+GYMLV LV_SEQ_DJ_BOXER is never written
+
+GYMLV GYMLV_DISPLAY is never read
+
+GYMLV LV_PRINT is never read
+GYMLV LV_PRINT is never written
+
+GYMLV LV_AUDIO is never written
+
+TRUCK M_STATUS is never read
+
+TRUCK NLOOP is never written
+
+TRUCK NTEMPPED is never read
+TRUCK NTEMPPED is never written
+
+TRUCK NTEMPCAR is never read
+TRUCK NTEMPCAR is never written
+
+TRUCK NTEMPOBJECT is never read
+TRUCK NTEMPOBJECT is never written
+
+TRUCK NTEMPAMMO is never read
+TRUCK NTEMPAMMO is never written
+
+TRUCK NTEMPTIMER is never read
+TRUCK NTEMPTIMER is never written
+
+TRUCK NSEQTASK is never read
+TRUCK NSEQTASK is never written
+
+TRUCK FTEMPDISTANCE is never read
+TRUCK FTEMPDISTANCE is never written
+
+TRUCK NMISSIONSELECTED is never read
+TRUCK NMISSIONSELECTED is never written
+
+TRUCK TLMISSIONTYPE is never read
+
+TRUCK TLMISSIONDESTINATION is never read
+
+QUARRY M_STATUS is never read
+
+QUARRY NLOOP2 is never read
+QUARRY NLOOP2 is never written
+
+QUARRY NTEMPPED is never read
+
+QUARRY NTEMPAMMO is never read
+QUARRY NTEMPAMMO is never written
+
+QUARRY NTEMPTIMER is never read
+QUARRY NTEMPTIMER is never written
+
+QUARRY NSEQTASK is never read
+QUARRY NSEQTASK is never written
+
+QUARRY HEADTEMP is never read
+QUARRY HEADTEMP is never written
+
+QUARRY XLOTEMP is never read
+QUARRY XLOTEMP is never written
+
+QUARRY YLOTEMP is never read
+QUARRY YLOTEMP is never written
+
+QUARRY ZLOTEMP is never read
+QUARRY ZLOTEMP is never written
+
+QUARRY XHITEMP is never read
+QUARRY XHITEMP is never written
+
+QUARRY YHITEMP is never read
+QUARRY YHITEMP is never written
+
+QUARRY ZHITEMP is never read
+QUARRY ZHITEMP is never written
+
+QUARRY FLAGTEMPFLAG2 is never read
+QUARRY FLAGTEMPFLAG2 is never written
+
+QUARRY FLAGCUTSCENEPLAYING is never read
+
+QUARRY FLAGCLEANINGUPSKIPPEDCUTSCENE is never read
+
+QUARRY FLAGSKIPCUTSCENE is never read
+
+QUARRY TIMERMISSIONTEXT is never read
+QUARRY TIMERMISSIONTEXT is never written
+
+QUARRY NADDHOURS is never written
+
+QUARRY NADDMINUTES is never written
+
+QUARRY FLAGRETURNED is never read
+QUARRY FLAGRETURNED is never written
+
+QUARRY FLAGDISPLAYINGMISSIONTEXT is never read
+
+BOAT BOAT_TVB is never read
+BOAT BOAT_TVB is never written
+
+BOAT BOAT_CAPTSWAP is never read
+
+BOAT BOAT_TVX is never read
+
+BOAT BOAT_TVY is never read
+
+BOAT BOAT_TVZ is never read
+
+BOAT BUOYR_Z is never read
+
+BOAT BOAT_RAMPZ is never read
+
+BOAT SHOWN_HELP is never read
+
+BOAT BOAT_BEST_SCORE_MEDAL is never read
+
+BOAT BOAT_JUMPDIST1 is never read
+BOAT BOAT_JUMPDIST1 is never written
+
+BOAT BOAT_JUMPDIST2 is never read
+BOAT BOAT_JUMPDIST2 is never written
+
+BOAT BOAT_JUMPDIST3 is never read
+BOAT BOAT_JUMPDIST3 is never written
+
+BOAT TEMP_INT is never read
+
+BIKESCH BS_BLIP_FLAG is never read
+
+BIKESCH TOTAL_INSTRUCTOR_BIKE_HEALTH is never read
+
+BIKESCH INSTRUCTOR_BIKE_ROLL is never read
+
+BIKESCH INSTRUCTOR_BIKE_ROLL_SCORE is never read
+
+BIKESCH INSTRUCTOR_BIKE_ROLL_PLUS_MINUS is never read
+
+BIKESCH BS_CHECKPOINT is never read
+BIKESCH BS_CHECKPOINT is never written
+
+BIKESCH TEST_TIMER is never read
+
+BIKESCH PAUSING_FLAG is never read
+
+BIKESCH BS_SPEECH_FLAG is never read
+BIKESCH BS_SPEECH_FLAG is never written
+
+BIKESCH BS_RANDOM_LAST_LABEL is never read
+BIKESCH BS_RANDOM_LAST_LABEL is never written
+
+BIKESCH BS_PRINT_LABEL[7] is never read
+
+TAXIODD NHEALTH is never read
+
+TAXIODD NLOOP2 is never read
+TAXIODD NLOOP2 is never written
+
+TAXIODD NTEMPPED is never read
+TAXIODD NTEMPPED is never written
+
+TAXIODD NTEMPOBJECT is never read
+TAXIODD NTEMPOBJECT is never written
+
+TAXIODD NTEMPAMMO is never read
+TAXIODD NTEMPAMMO is never written
+
+TAXIODD NTEMPTIMER is never read
+TAXIODD NTEMPTIMER is never written
+
+TAXIODD NSEQTASK is never read
+TAXIODD NSEQTASK is never written
+
+TAXIODD ZDIFFTEMP is never read
+TAXIODD ZDIFFTEMP is never written
+
+TAXIODD ZDIFFSQTEMP is never read
+TAXIODD ZDIFFSQTEMP is never written
+
+TAXIODD ZLOTEMP is never read
+TAXIODD ZLOTEMP is never written
+
+TAXIODD ZHITEMP is never read
+TAXIODD ZHITEMP is never written
+
+TAXIODD FLAGCUTSCENEPLAYING is never read
+
+TAXIODD FLAGCLEANINGUPSKIPPEDCUTSCENE is never read
+
+TAXIODD FLAGSKIPCUTSCENE is never read
+
+TAXIODD NIGNORE is never read
+
+AMBULANCE AMB_SOUND_X is never read
+
+AMBULANCE AMB_SOUND_Y is never read
+
+AMBULANCE AMB_SOUND_Z is never read
+
+AMBULANCE DIFFERENCE_X_FLOAT_A is never read
+AMBULANCE DIFFERENCE_X_FLOAT_A is never written
+
+AMBULANCE DIFFERENCE_Y_FLOAT_A is never read
+AMBULANCE DIFFERENCE_Y_FLOAT_A is never written
+
+AMBULANCE SUM_DIFFERENCE_A_XY is never read
+AMBULANCE SUM_DIFFERENCE_A_XY is never written
+
+AMBULANCE AMBULANCE_MIN_Z is never read
+
+AMBULANCE AMBULANCE_MAX_Z is never read
+
+AMBULANCE AMB_DUMMY_SAMPLE is never read
+
+FIRETRUCK ONFIRE_CAR_HEALTH is never read
+
+FIRETRUCK FIRE_COLLISION_LOADED_PED[12] is never read
+
+FIRETRUCK TIME_DIVIDER is never read
+
+FIRETRUCK DB_DX is never read
+FIRETRUCK DB_DX is never written
+
+FIRETRUCK DB_DY is never read
+FIRETRUCK DB_DY is never written
+
+FIRETRUCK DB_TEMP_XY is never read
+FIRETRUCK DB_TEMP_XY is never written
+
+FIRETRUCK DB_SUM_X_Y_TEMP is never read
+FIRETRUCK DB_SUM_X_Y_TEMP is never written
+
+FIRETRUCK TEMP_Z is never read
+
+FIRETRUCK FIRE_GENERATING_COORDS is never read
+
+BURGLARY BURGLARY_CURRENT_SCORE is never read
+
+BURGLARY BURGLARY_OLD_SCORE is never read
+
+BURGLARY BURGLARY_SCORE_DIF is never read
+BURGLARY BURGLARY_SCORE_DIF is never written
+
+BURGLARY BURGLARY_TEMP_FLOAT is never read
+BURGLARY BURGLARY_TEMP_FLOAT is never written
+
+BURGLARY BURGLARY_TOTAL_MADE_F is never read
+
+BURGLARY BURGLARY_ENTRY_EXIT_BLIP is never read
+
+BURGLARY BURGLARY_INT_Z is never read
+
+BURGLARY BURGLARY_HAS_BEEN_IN_A_HOUSE is never read
+
+FREIGHT FREIGHT_TRAIN_ENGINE is never read
+FREIGHT FREIGHT_TRAIN_ENGINE is never written
+
+FREIGHT FT_TEST_TRAIN is never read
+FREIGHT FT_TEST_TRAIN is never written
+
+FREIGHT FREIGHT_DUMMY_CAR is never read
+FREIGHT FREIGHT_DUMMY_CAR is never written
+
+PIMP PIMP_REMOVALINDEX is never written
+
+PIMP BACKINTIMER is never read
+
+PIMP WHORE_ZONE is never read
+PIMP WHORE_ZONE is never written
+
+PIMP PUNTER_WANDER[28] is never read
+
+PIMP PIMP_ISAWHORE is never read
+
+BLOOD BLOOD_SPEECH_FLAG is never read
+
+BLOOD BLOOD_CLASS is never read
+
+KICKSTART PLAYER_X_KICKSTART is never read
+
+KICKSTART PLAYER_Y_KICKSTART is never read
+
+KICKSTART BIKE_X_KICKSTART is never read
+
+KICKSTART BIKE_Y_KICKSTART is never read
+
+KICKSTART PLAYER_BEEN_REWARDED_KICKSTART is never read
+
+KICKSTART AUDIO_FLAG_CHEER_KICK is never read
+
+KICKSTART FLASH_NUMBER_KICKSTART is never read
+
+KICKSTART WATCHED_CUTSCENE_KS is never read
+
+TRIATHALON STUCK_Z[12] is never read
+TRIATHALON STUCK_Z[12] is never written
+
+TRIATHALON COORD_RACERS_CURRENT_X[12] is never read
+TRIATHALON COORD_RACERS_CURRENT_X[12] is never written
+
+TRIATHALON COORD_RACERS_CURRENT_Y[12] is never read
+TRIATHALON COORD_RACERS_CURRENT_Y[12] is never written
+
+TRIATHALON COORD_RACERS_CURRENT_Z[12] is never read
+TRIATHALON COORD_RACERS_CURRENT_Z[12] is never written
+
+TRIATHALON COORD_RACERS_BIKES_CURRENT_X[12] is never read
+TRIATHALON COORD_RACERS_BIKES_CURRENT_X[12] is never written
+
+TRIATHALON COORD_RACERS_BIKES_CURRENT_Y[12] is never read
+TRIATHALON COORD_RACERS_BIKES_CURRENT_Y[12] is never written
+
+TRIATHALON COORD_RACERS_BIKES_CURRENT_Z[12] is never read
+TRIATHALON COORD_RACERS_BIKES_CURRENT_Z[12] is never written
+
+TRIATHALON OFFSET_SWIMMING_OPPONENTS_Z[12] is never read
+TRIATHALON OFFSET_SWIMMING_OPPONENTS_Z[12] is never written
+
+TRIATHALON NEW_HEADING_TRIATHALON is never read
+TRIATHALON NEW_HEADING_TRIATHALON is never written
+
+TRIATHALON FLAG_IS_PLAYER_FALLING is never read
+
+TRIATHALON HEADING_TRIATHALON is never read
+
+TRIATHALON TEMP_Z is never read
+
+TRIATHALON FALLING_TIMER is never read
+TRIATHALON FALLING_TIMER is never written
+
+TRIATHALON FLAG_BOOSTING_OPPONENTS_SPEED is never read
+
+TRIATHALON TRIATHALON_BEST_TIME is never read
+TRIATHALON TRIATHALON_BEST_TIME is never written
+
+TRIATHALON RACER_BLIP_TRIATHALON[12] is never read
+TRIATHALON RACER_BLIP_TRIATHALON[12] is never written
+
+TRIATHALON PLAYER_DISTANCE_FROM_CP_TRIATHALON is never read
+TRIATHALON PLAYER_DISTANCE_FROM_CP_TRIATHALON is never written
+
+COURIER BCOU_HOMEB is never read
+COURIER BCOU_HOMEB is never written
+
+COURIER DROPOFFDONE[30] is never read
+COURIER DROPOFFDONE[30] is never written
+
+COURIER PICKUPDONE[10] is never read
+COURIER PICKUPDONE[10] is never written
+
+COURIER BCOU_PAYMENTSEQ is never read
+COURIER BCOU_PAYMENTSEQ is never written
+
+COURIER PLAYERX is never read
+
+COURIER PLAYERY is never read
+
+COURIER PLAYERZ is never read
+
+COURIER BCOU_MENUONSCREEN is never read
+COURIER BCOU_MENUONSCREEN is never written
+
+COURIER ROW_COUNTER is never read
+
+MTBIKERACE STUCK_Z[10] is never read
+MTBIKERACE STUCK_Z[10] is never written
+
+MTBIKERACE COORD_RACERS_CURRENT_X[10] is never read
+
+MTBIKERACE COORD_RACERS_CURRENT_Y[10] is never read
+
+MTBIKERACE COORD_RACERS_BIKES_CURRENT_X[10] is never read
+
+MTBIKERACE COORD_RACERS_BIKES_CURRENT_Y[10] is never read
+
+MTBIKERACE NEW_HEADING_MTBIKE is never read
+MTBIKERACE NEW_HEADING_MTBIKE is never written
+
+MTBIKERACE STATUS_MTBIKERS_TASK[10] is never read
+MTBIKERACE STATUS_MTBIKERS_TASK[10] is never written
+
+MTBIKERACE PLAYER_DISTANCE_FROM_CP_MTBIKERACE is never read
+MTBIKERACE PLAYER_DISTANCE_FROM_CP_MTBIKERACE is never written
+
+STUNT CHECKPOINT_HEADING[20] is never written
+
+RAM_2P AMOUNT_OF_MENU_ITEMS_MS is never read
+RAM_2P AMOUNT_OF_MENU_ITEMS_MS is never written
+
+RAM_2P CURRENT_MENU_POSITION_MS is never read
+RAM_2P CURRENT_MENU_POSITION_MS is never written
+
+RAM_2P MENU_BUTTON_DELAY_MS is never read
+RAM_2P MENU_BUTTON_DELAY_MS is never written
+
+RAM_2P OPTION_NUMBER_VALUES_MS[60] is never read
+RAM_2P OPTION_NUMBER_VALUES_MS[60] is never written
+
+RAM_2P AMOUNT_OF_OPTION_VALUES_MS[10] is never read
+RAM_2P AMOUNT_OF_OPTION_VALUES_MS[10] is never written
+
+RAM_2P CURRENT_OPTION_VALUE_MS[10] is never read
+RAM_2P CURRENT_OPTION_VALUE_MS[10] is never written
+
+RAM_2P AMOUNT_OF_VALUES_PER_OPTION_MS is never read
+RAM_2P AMOUNT_OF_VALUES_PER_OPTION_MS is never written
+
+RAM_2P SELECTION_ALPHA_MS is never read
+RAM_2P SELECTION_ALPHA_MS is never written
+
+RAM_2P MAIN_MENU_RAM_2P is never read
+RAM_2P MAIN_MENU_RAM_2P is never written
+
+RAM_2P TITLE is never read
+RAM_2P TITLE is never written
+
+RAM_2P OPTION_TEXT_MS[10] is never read
+RAM_2P OPTION_TEXT_MS[10] is never written
+
+RAM_2P OPTION_TEXT_VALUES_MS[60] is never read
+RAM_2P OPTION_TEXT_VALUES_MS[60] is never written
+
+RAM_2P TEMP_INT_1_MS is never read
+RAM_2P TEMP_INT_1_MS is never written
+
+RAM_2P TEMP_INT_2_MS is never read
+RAM_2P TEMP_INT_2_MS is never written
+
+RAM_2P TEMP_INT_3_MS is never read
+RAM_2P TEMP_INT_3_MS is never written
+
+RAM_2P TEMP_INT_4_MS is never read
+RAM_2P TEMP_INT_4_MS is never written
+
+RAM_2P MY_TEST_VAR4 is never read
+RAM_2P MY_TEST_VAR4 is never written
+
+RAM_2P TEMP_FLOAT_1_MS is never read
+RAM_2P TEMP_FLOAT_1_MS is never written
+
+RAM_2P TEMP_FLOAT_2_MS is never read
+RAM_2P TEMP_FLOAT_2_MS is never written
+
+RAM_2P PLAYER1_MODEL_VS[3] is never read
+RAM_2P PLAYER1_MODEL_VS[3] is never written
+
+RAM_2P PLAYER1_BUTTON_DELAY_VS is never read
+RAM_2P PLAYER1_BUTTON_DELAY_VS is never written
+
+RAM_2P PLAYER1_CAR_VS is never read
+RAM_2P PLAYER1_CAR_VS is never written
+
+RAM_2P PLAYER1_WAITING_VS is never read
+RAM_2P PLAYER1_WAITING_VS is never written
+
+RAM_2P PLAYER1_CHOSEN_CAR is never read
+RAM_2P PLAYER1_CHOSEN_CAR is never written
+
+RAM_2P PLAYER1_CAR_X is never read
+RAM_2P PLAYER1_CAR_X is never written
+
+RAM_2P PLAYER1_CAR_Y is never read
+RAM_2P PLAYER1_CAR_Y is never written
+
+RAM_2P PLAYER1_CAR_Z is never read
+RAM_2P PLAYER1_CAR_Z is never written
+
+RAM_2P PLAYER1_CAR_HEADING is never read
+RAM_2P PLAYER1_CAR_HEADING is never written
+
+RAM_2P RAM_PLY1_KILLS is never read
+RAM_2P RAM_PLY1_KILLS is never written
+
+RAM_2P RAM_PLY2_KILLS is never read
+RAM_2P RAM_PLY2_KILLS is never written
+
+RAM_2P RAM_PLY_RAM is never read
+
+RAM_2P RAM_PLY_RAM2 is never read
+
+RAM_2P BLACK_CAR[5] is never read
+
+RAM_2P RAM_SOME_GUY is never read
+
+RAM_2P VEHICLE_MODELS_VS[31] is never read
+RAM_2P VEHICLE_MODELS_VS[31] is never written
+
+RAM_2P LAST_VEHICLE_VS is never read
+RAM_2P LAST_VEHICLE_VS is never written
+
+RAM_2P TEMP_INT_1_VS is never read
+RAM_2P TEMP_INT_1_VS is never written
+
+RAM_2P TEMP_INT_2_VS is never read
+RAM_2P TEMP_INT_2_VS is never written
+
+RAM_2P R2_NUMBER is never read
+RAM_2P R2_NUMBER is never written
+
+RAM_2P SUB_MENU_RAM_2P is never read
+RAM_2P SUB_MENU_RAM_2P is never written
+
+RAM_2P HELI_MODEL_SELECT is never read
+RAM_2P HELI_MODEL_SELECT is never written
+
+RAM_2P HELI_MODEL_SELECT2 is never read
+RAM_2P HELI_MODEL_SELECT2 is never written
+
+RAM_2P HELI_LIMIT is never read
+RAM_2P HELI_LIMIT is never written
+
+RAM_2P HELI_MODEL[20] is never read
+RAM_2P HELI_MODEL[20] is never written
+
+RAM_2P HELI_COLOUR1 is never read
+RAM_2P HELI_COLOUR1 is never written
+
+RAM_2P HELI_COLOUR2 is never read
+RAM_2P HELI_COLOUR2 is never written
+
+RAM_2P R2_MENU is never read
+RAM_2P R2_MENU is never written
+
+RAM_2P R2_OVERALL_MENU is never read
+RAM_2P R2_OVERALL_MENU is never written
+
+RAM_2P RAM_DUMMY_CAR is never read
+RAM_2P RAM_DUMMY_CAR is never written
+
+BIKE_2P AMOUNT_OF_MENU_ITEMS_MS is never read
+BIKE_2P AMOUNT_OF_MENU_ITEMS_MS is never written
+
+BIKE_2P CURRENT_MENU_POSITION_MS is never read
+BIKE_2P CURRENT_MENU_POSITION_MS is never written
+
+BIKE_2P MENU_BUTTON_DELAY_MS is never read
+BIKE_2P MENU_BUTTON_DELAY_MS is never written
+
+BIKE_2P OPTION_NUMBER_VALUES_MS[60] is never read
+BIKE_2P OPTION_NUMBER_VALUES_MS[60] is never written
+
+BIKE_2P AMOUNT_OF_OPTION_VALUES_MS[10] is never read
+BIKE_2P AMOUNT_OF_OPTION_VALUES_MS[10] is never written
+
+BIKE_2P CURRENT_OPTION_VALUE_MS[10] is never read
+BIKE_2P CURRENT_OPTION_VALUE_MS[10] is never written
+
+BIKE_2P AMOUNT_OF_VALUES_PER_OPTION_MS is never read
+BIKE_2P AMOUNT_OF_VALUES_PER_OPTION_MS is never written
+
+BIKE_2P SELECTION_ALPHA_MS is never read
+BIKE_2P SELECTION_ALPHA_MS is never written
+
+BIKE_2P TITLE is never read
+BIKE_2P TITLE is never written
+
+BIKE_2P OPTION_TEXT_MS[10] is never read
+BIKE_2P OPTION_TEXT_MS[10] is never written
+
+BIKE_2P OPTION_TEXT_VALUES_MS[60] is never read
+BIKE_2P OPTION_TEXT_VALUES_MS[60] is never written
+
+BIKE_2P TEMP_INT_1_MS is never read
+BIKE_2P TEMP_INT_1_MS is never written
+
+BIKE_2P TEMP_INT_2_MS is never read
+BIKE_2P TEMP_INT_2_MS is never written
+
+BIKE_2P TEMP_INT_3_MS is never read
+BIKE_2P TEMP_INT_3_MS is never written
+
+BIKE_2P TEMP_INT_4_MS is never read
+BIKE_2P TEMP_INT_4_MS is never written
+
+BIKE_2P MY_TEST_VAR4 is never read
+BIKE_2P MY_TEST_VAR4 is never written
+
+BIKE_2P TEMP_FLOAT_1_MS is never read
+BIKE_2P TEMP_FLOAT_1_MS is never written
+
+BIKE_2P TEMP_FLOAT_2_MS is never read
+BIKE_2P TEMP_FLOAT_2_MS is never written
+
+BIKE_2P PLAYER1_MODEL_VS[3] is never read
+BIKE_2P PLAYER1_MODEL_VS[3] is never written
+
+BIKE_2P PLAYER1_BUTTON_DELAY_VS is never read
+BIKE_2P PLAYER1_BUTTON_DELAY_VS is never written
+
+BIKE_2P PLAYER1_CAR_VS is never read
+BIKE_2P PLAYER1_CAR_VS is never written
+
+BIKE_2P PLAYER1_WAITING_VS is never read
+BIKE_2P PLAYER1_WAITING_VS is never written
+
+BIKE_2P PLAYER1_CHOSEN_CAR is never read
+BIKE_2P PLAYER1_CHOSEN_CAR is never written
+
+BIKE_2P PLAYER1_CAR_X is never read
+BIKE_2P PLAYER1_CAR_X is never written
+
+BIKE_2P PLAYER1_CAR_Y is never read
+BIKE_2P PLAYER1_CAR_Y is never written
+
+BIKE_2P PLAYER1_CAR_Z is never read
+BIKE_2P PLAYER1_CAR_Z is never written
+
+BIKE_2P PLAYER1_CAR_HEADING is never read
+BIKE_2P PLAYER1_CAR_HEADING is never written
+
+BIKE_2P B2_MY_GUN is never read
+BIKE_2P B2_MY_GUN is never written
+
+BIKE_2P BIKE_PLY_BIKE2 is never read
+
+BIKE_2P BLACK_CAR[5] is never read
+
+BIKE_2P BIKE_SOME_GUY is never read
+
+BIKE_2P VEHICLE_MODELS_VS[31] is never read
+BIKE_2P VEHICLE_MODELS_VS[31] is never written
+
+BIKE_2P LAST_VEHICLE_VS is never read
+BIKE_2P LAST_VEHICLE_VS is never written
+
+BIKE_2P TEMP_INT_1_VS is never read
+BIKE_2P TEMP_INT_1_VS is never written
+
+BIKE_2P TEMP_INT_2_VS is never read
+BIKE_2P TEMP_INT_2_VS is never written
+
+BIKE_2P HELI_MODEL_SELECT is never read
+BIKE_2P HELI_MODEL_SELECT is never written
+
+BIKE_2P HELI_LIMIT is never read
+BIKE_2P HELI_LIMIT is never written
+
+BIKE_2P HELI_MODEL[20] is never read
+BIKE_2P HELI_MODEL[20] is never written
+
+BIKE_2P HELI_COLOUR1 is never read
+BIKE_2P HELI_COLOUR1 is never written
+
+BIKE_2P HELI_COLOUR2 is never read
+BIKE_2P HELI_COLOUR2 is never written
+
+BIKE_2P B2_MENU is never read
+BIKE_2P B2_MENU is never written
+
+BIKE_2P MAIN_MENU_BIKE_2P is never read
+BIKE_2P MAIN_MENU_BIKE_2P is never written
+
+BIKE_2P BIKE_DUMMY_CAR is never read
+BIKE_2P BIKE_DUMMY_CAR is never written
+
+CARS_2P AMOUNT_OF_MENU_ITEMS_MS is never read
+CARS_2P AMOUNT_OF_MENU_ITEMS_MS is never written
+
+CARS_2P CURRENT_MENU_POSITION_MS is never read
+CARS_2P CURRENT_MENU_POSITION_MS is never written
+
+CARS_2P MENU_BUTTON_DELAY_MS is never read
+CARS_2P MENU_BUTTON_DELAY_MS is never written
+
+CARS_2P OPTION_NUMBER_VALUES_MS[60] is never read
+CARS_2P OPTION_NUMBER_VALUES_MS[60] is never written
+
+CARS_2P AMOUNT_OF_OPTION_VALUES_MS[10] is never read
+CARS_2P AMOUNT_OF_OPTION_VALUES_MS[10] is never written
+
+CARS_2P CURRENT_OPTION_VALUE_MS[10] is never read
+CARS_2P CURRENT_OPTION_VALUE_MS[10] is never written
+
+CARS_2P AMOUNT_OF_VALUES_PER_OPTION_MS is never read
+CARS_2P AMOUNT_OF_VALUES_PER_OPTION_MS is never written
+
+CARS_2P SELECTION_ALPHA_MS is never read
+CARS_2P SELECTION_ALPHA_MS is never written
+
+CARS_2P TITLE is never read
+CARS_2P TITLE is never written
+
+CARS_2P OPTION_TEXT_MS[10] is never read
+CARS_2P OPTION_TEXT_MS[10] is never written
+
+CARS_2P OPTION_TEXT_VALUES_MS[60] is never read
+CARS_2P OPTION_TEXT_VALUES_MS[60] is never written
+
+CARS_2P TEMP_INT_1_MS is never read
+CARS_2P TEMP_INT_1_MS is never written
+
+CARS_2P TEMP_INT_2_MS is never read
+CARS_2P TEMP_INT_2_MS is never written
+
+CARS_2P TEMP_INT_3_MS is never read
+CARS_2P TEMP_INT_3_MS is never written
+
+CARS_2P TEMP_INT_4_MS is never read
+CARS_2P TEMP_INT_4_MS is never written
+
+CARS_2P MY_TEST_VAR4 is never read
+CARS_2P MY_TEST_VAR4 is never written
+
+CARS_2P TEMP_FLOAT_1_MS is never read
+CARS_2P TEMP_FLOAT_1_MS is never written
+
+CARS_2P TEMP_FLOAT_2_MS is never read
+CARS_2P TEMP_FLOAT_2_MS is never written
+
+CARS_2P PLAYER1_MODEL_VS[3] is never read
+CARS_2P PLAYER1_MODEL_VS[3] is never written
+
+CARS_2P PLAYER1_BUTTON_DELAY_VS is never read
+CARS_2P PLAYER1_BUTTON_DELAY_VS is never written
+
+CARS_2P PLAYER1_CAR_VS is never read
+CARS_2P PLAYER1_CAR_VS is never written
+
+CARS_2P PLAYER1_WAITING_VS is never read
+CARS_2P PLAYER1_WAITING_VS is never written
+
+CARS_2P PLAYER1_CHOSEN_CAR is never read
+CARS_2P PLAYER1_CHOSEN_CAR is never written
+
+CARS_2P PLAYER1_CAR_X is never read
+CARS_2P PLAYER1_CAR_X is never written
+
+CARS_2P PLAYER1_CAR_Y is never read
+CARS_2P PLAYER1_CAR_Y is never written
+
+CARS_2P PLAYER1_CAR_Z is never read
+CARS_2P PLAYER1_CAR_Z is never written
+
+CARS_2P PLAYER1_CAR_HEADING is never read
+CARS_2P PLAYER1_CAR_HEADING is never written
+
+CARS_2P CARS_PLY_CAR2 is never read
+
+CARS_2P BLACK_CAR[5] is never read
+
+CARS_2P CARS_SOME_GUY is never read
+
+CARS_2P VEHICLE_MODELS_VS[31] is never read
+CARS_2P VEHICLE_MODELS_VS[31] is never written
+
+CARS_2P LAST_VEHICLE_VS is never read
+CARS_2P LAST_VEHICLE_VS is never written
+
+CARS_2P TEMP_INT_1_VS is never read
+CARS_2P TEMP_INT_1_VS is never written
+
+CARS_2P TEMP_INT_2_VS is never read
+CARS_2P TEMP_INT_2_VS is never written
+
+CARS_2P HELI_MODEL_SELECT is never read
+CARS_2P HELI_MODEL_SELECT is never written
+
+CARS_2P HELI_LIMIT is never read
+CARS_2P HELI_LIMIT is never written
+
+CARS_2P HELI_MODEL[20] is never read
+CARS_2P HELI_MODEL[20] is never written
+
+CARS_2P HELI_COLOUR1 is never read
+CARS_2P HELI_COLOUR1 is never written
+
+CARS_2P HELI_COLOUR2 is never read
+CARS_2P HELI_COLOUR2 is never written
+
+CARS_2P C2_MENU is never read
+CARS_2P C2_MENU is never written
+
+CARS_2P MAIN_MENU_CARS_2P is never read
+CARS_2P MAIN_MENU_CARS_2P is never written
+
+HELI_2P HELI_CHOPPER[5] is never read
+HELI_2P HELI_CHOPPER[5] is never written
+
+HELI_2P HELI_PILOT[5] is never read
+HELI_2P HELI_PILOT[5] is never written
+
+HELI_2P AMOUNT_OF_MENU_ITEMS_MS is never read
+HELI_2P AMOUNT_OF_MENU_ITEMS_MS is never written
+
+HELI_2P CURRENT_MENU_POSITION_MS is never read
+HELI_2P CURRENT_MENU_POSITION_MS is never written
+
+HELI_2P MENU_BUTTON_DELAY_MS is never read
+HELI_2P MENU_BUTTON_DELAY_MS is never written
+
+HELI_2P OPTION_NUMBER_VALUES_MS[60] is never read
+HELI_2P OPTION_NUMBER_VALUES_MS[60] is never written
+
+HELI_2P AMOUNT_OF_OPTION_VALUES_MS[10] is never read
+HELI_2P AMOUNT_OF_OPTION_VALUES_MS[10] is never written
+
+HELI_2P CURRENT_OPTION_VALUE_MS[10] is never read
+HELI_2P CURRENT_OPTION_VALUE_MS[10] is never written
+
+HELI_2P AMOUNT_OF_VALUES_PER_OPTION_MS is never read
+HELI_2P AMOUNT_OF_VALUES_PER_OPTION_MS is never written
+
+HELI_2P SELECTION_ALPHA_MS is never read
+HELI_2P SELECTION_ALPHA_MS is never written
+
+HELI_2P TITLE is never read
+HELI_2P TITLE is never written
+
+HELI_2P OPTION_TEXT_MS[10] is never read
+HELI_2P OPTION_TEXT_MS[10] is never written
+
+HELI_2P OPTION_TEXT_VALUES_MS[60] is never read
+HELI_2P OPTION_TEXT_VALUES_MS[60] is never written
+
+HELI_2P TEMP_INT_1_MS is never read
+HELI_2P TEMP_INT_1_MS is never written
+
+HELI_2P TEMP_INT_2_MS is never read
+HELI_2P TEMP_INT_2_MS is never written
+
+HELI_2P TEMP_INT_3_MS is never read
+HELI_2P TEMP_INT_3_MS is never written
+
+HELI_2P TEMP_INT_4_MS is never read
+HELI_2P TEMP_INT_4_MS is never written
+
+HELI_2P MY_TEST_VAR4 is never read
+HELI_2P MY_TEST_VAR4 is never written
+
+HELI_2P TEMP_FLOAT_1_MS is never read
+HELI_2P TEMP_FLOAT_1_MS is never written
+
+HELI_2P TEMP_FLOAT_2_MS is never read
+HELI_2P TEMP_FLOAT_2_MS is never written
+
+HELI_2P PLAYER1_MODEL_VS[3] is never read
+HELI_2P PLAYER1_MODEL_VS[3] is never written
+
+HELI_2P PLAYER1_BUTTON_DELAY_VS is never read
+HELI_2P PLAYER1_BUTTON_DELAY_VS is never written
+
+HELI_2P PLAYER1_CAR_VS is never read
+HELI_2P PLAYER1_CAR_VS is never written
+
+HELI_2P PLAYER1_WAITING_VS is never read
+HELI_2P PLAYER1_WAITING_VS is never written
+
+HELI_2P PLAYER1_CHOSEN_CAR is never read
+HELI_2P PLAYER1_CHOSEN_CAR is never written
+
+HELI_2P PLAYER1_CAR_X is never read
+HELI_2P PLAYER1_CAR_X is never written
+
+HELI_2P PLAYER1_CAR_Y is never read
+HELI_2P PLAYER1_CAR_Y is never written
+
+HELI_2P PLAYER1_CAR_Z is never read
+HELI_2P PLAYER1_CAR_Z is never written
+
+HELI_2P PLAYER1_CAR_HEADING is never read
+HELI_2P PLAYER1_CAR_HEADING is never written
+
+HELI_2P VEHICLE_MODELS_VS[31] is never read
+HELI_2P VEHICLE_MODELS_VS[31] is never written
+
+HELI_2P LAST_VEHICLE_VS is never read
+HELI_2P LAST_VEHICLE_VS is never written
+
+HELI_2P TEMP_INT_1_VS is never read
+HELI_2P TEMP_INT_1_VS is never written
+
+HELI_2P TEMP_INT_2_VS is never read
+HELI_2P TEMP_INT_2_VS is never written
+
+HELI_2P HELI_MODEL_SELECT is never read
+HELI_2P HELI_MODEL_SELECT is never written
+
+HELI_2P HELI_LIMIT is never read
+HELI_2P HELI_LIMIT is never written
+
+HELI_2P HELI_MODEL[10] is never read
+HELI_2P HELI_MODEL[10] is never written
+
+HELI_2P HELI_COLOUR1 is never read
+HELI_2P HELI_COLOUR1 is never written
+
+HELI_2P HELI_COLOUR2 is never read
+HELI_2P HELI_COLOUR2 is never written
+
+HELI_2P H2_MENU is never read
+HELI_2P H2_MENU is never written
+
+HELI_2P MAIN_MENU_HELI_2P is never read
+HELI_2P MAIN_MENU_HELI_2P is never written
+
+HELI_2P HELI_DUMMY_CAR is never read
+HELI_2P HELI_DUMMY_CAR is never written
+
+PEDS_2P AMOUNT_OF_MENU_ITEMS_MS is never read
+PEDS_2P AMOUNT_OF_MENU_ITEMS_MS is never written
+
+PEDS_2P CURRENT_MENU_POSITION_MS is never read
+PEDS_2P CURRENT_MENU_POSITION_MS is never written
+
+PEDS_2P MENU_BUTTON_DELAY_MS is never read
+PEDS_2P MENU_BUTTON_DELAY_MS is never written
+
+PEDS_2P OPTION_NUMBER_VALUES_MS[60] is never read
+PEDS_2P OPTION_NUMBER_VALUES_MS[60] is never written
+
+PEDS_2P AMOUNT_OF_OPTION_VALUES_MS[10] is never read
+PEDS_2P AMOUNT_OF_OPTION_VALUES_MS[10] is never written
+
+PEDS_2P CURRENT_OPTION_VALUE_MS[10] is never read
+PEDS_2P CURRENT_OPTION_VALUE_MS[10] is never written
+
+PEDS_2P AMOUNT_OF_VALUES_PER_OPTION_MS is never read
+PEDS_2P AMOUNT_OF_VALUES_PER_OPTION_MS is never written
+
+PEDS_2P SELECTION_ALPHA_MS is never read
+PEDS_2P SELECTION_ALPHA_MS is never written
+
+PEDS_2P TITLE is never read
+PEDS_2P TITLE is never written
+
+PEDS_2P OPTION_TEXT_MS[10] is never read
+PEDS_2P OPTION_TEXT_MS[10] is never written
+
+PEDS_2P OPTION_TEXT_VALUES_MS[60] is never read
+PEDS_2P OPTION_TEXT_VALUES_MS[60] is never written
+
+PEDS_2P TEMP_INT_1_MS is never read
+PEDS_2P TEMP_INT_1_MS is never written
+
+PEDS_2P TEMP_INT_2_MS is never read
+PEDS_2P TEMP_INT_2_MS is never written
+
+PEDS_2P TEMP_INT_3_MS is never read
+PEDS_2P TEMP_INT_3_MS is never written
+
+PEDS_2P TEMP_INT_4_MS is never read
+PEDS_2P TEMP_INT_4_MS is never written
+
+PEDS_2P MY_TEST_VAR4 is never read
+PEDS_2P MY_TEST_VAR4 is never written
+
+PEDS_2P TEMP_FLOAT_1_MS is never read
+PEDS_2P TEMP_FLOAT_1_MS is never written
+
+PEDS_2P TEMP_FLOAT_2_MS is never read
+PEDS_2P TEMP_FLOAT_2_MS is never written
+
+PEDS_2P PLAYER1_MODEL_VS[3] is never read
+PEDS_2P PLAYER1_MODEL_VS[3] is never written
+
+PEDS_2P PLAYER1_BUTTON_DELAY_VS is never read
+PEDS_2P PLAYER1_BUTTON_DELAY_VS is never written
+
+PEDS_2P PLAYER1_PED_VS is never read
+PEDS_2P PLAYER1_PED_VS is never written
+
+PEDS_2P PLAYER1_WAITING_VS is never read
+PEDS_2P PLAYER1_WAITING_VS is never written
+
+PEDS_2P PLAYER1_CHOSEN_PED is never read
+PEDS_2P PLAYER1_CHOSEN_PED is never written
+
+PEDS_2P PLAYER1_PED_X is never read
+PEDS_2P PLAYER1_PED_X is never written
+
+PEDS_2P PLAYER1_PED_Y is never read
+PEDS_2P PLAYER1_PED_Y is never written
+
+PEDS_2P PLAYER1_PED_Z is never read
+PEDS_2P PLAYER1_PED_Z is never written
+
+PEDS_2P PLAYER1_PED_HEADING is never read
+PEDS_2P PLAYER1_PED_HEADING is never written
+
+PEDS_2P PEDS_PLY_PED2 is never read
+
+PEDS_2P BLACK_PED[5] is never read
+
+PEDS_2P PEDS_SOME_GUY is never read
+
+PEDS_2P VEHICLE_MODELS_VS[31] is never read
+PEDS_2P VEHICLE_MODELS_VS[31] is never written
+
+PEDS_2P LAST_VEHICLE_VS is never read
+PEDS_2P LAST_VEHICLE_VS is never written
+
+PEDS_2P TEMP_INT_1_VS is never read
+PEDS_2P TEMP_INT_1_VS is never written
+
+PEDS_2P TEMP_INT_2_VS is never read
+PEDS_2P TEMP_INT_2_VS is never written
+
+PEDS_2P HELI_MODEL_SELECT is never read
+PEDS_2P HELI_MODEL_SELECT is never written
+
+PEDS_2P HELI_LIMIT is never read
+PEDS_2P HELI_LIMIT is never written
+
+PEDS_2P HELI_MODEL[20] is never read
+PEDS_2P HELI_MODEL[20] is never written
+
+PEDS_2P HELI_COLOUR1 is never read
+PEDS_2P HELI_COLOUR1 is never written
+
+PEDS_2P HELI_COLOUR2 is never read
+PEDS_2P HELI_COLOUR2 is never written
+
+PEDS_2P P2_MENU is never read
+PEDS_2P P2_MENU is never written
+
+PEDS_2P MAIN_MENU_PEDS_2P is never read
+PEDS_2P MAIN_MENU_PEDS_2P is never written
+
+PEDS_2P PEDS_DUMMY_PED is never read
+PEDS_2P PEDS_DUMMY_PED is never written
+
+PLAYER_PARACHUTE PARACHUTE_PACK is never read
+PLAYER_PARACHUTE PARACHUTE_PACK is never written
+
+PLAYER_PARACHUTE SIN_ANGLE is never read
+PLAYER_PARACHUTE SIN_ANGLE is never written
+
+PARACHUTE FREEFALL_SPEED is never written
+
+PARACHUTE FREEFALL_FORWARD_SPEED is never written
+
+PARACHUTE PARACHUTE_SPEED is never written
+
+PARACHUTE PARACHUTE_DECEL_SPEED is never written
+
+PARACHUTE CHUTE_OPEN_FORWARD_SPEED is never written
+
+PARACHUTE CHUTE_OPEN_GLIDE_FORWARD_SPEED is never written
+
+BCESAR2 BCE2_TIMER is never read
+BCESAR2 BCE2_TIMER is never written
+
+BCESAR3 TEMP_INT3 is never read
+BCESAR3 TEMP_INT3 is never written
+
+BCESAR3 TEMP_FLOAT2 is never read
+BCESAR3 TEMP_FLOAT2 is never written
+
+BCESAR3 TEMP_FLOAT3 is never read
+BCESAR3 TEMP_FLOAT3 is never written
+
+GATES_SCRIPT GATE_SLIDE_SOUND is never read
+GATES_SCRIPT GATE_SLIDE_SOUND is never written
+
+GYMBIKE EXBIKELOOKCAMZ is never read
+
+GYMBENCH BPRESSCAMLOOKX is never read
+GYMBENCH BPRESSCAMLOOKX is never written
+
+GYMBENCH BPRESSCAMLOOKY is never read
+GYMBENCH BPRESSCAMLOOKY is never written
+
+GYMBENCH BPRESSCAMLOOKZ is never read
+GYMBENCH BPRESSCAMLOOKZ is never written
+
+GYMBENCH REPS_BPRESSFLOAT is never read
+
+GYMBENCH BUTTONPRESSBPRESS_FLAG is never read
+
+GYMBENCH SELECTWEIGHTBPRESS_FLAG is never read
+
+GYMBENCH BPRESSFIRSTTIME_FLAG is never read
+GYMBENCH BPRESSFIRSTTIME_FLAG is never written
+
+GYMTREAD SWITCHTONEXTLEVEL_TREAD is never read
+GYMTREAD SWITCHTONEXTLEVEL_TREAD is never written
+
+GYMTREAD SPRINTSTAT_GYM is never written
+
+GYMTREAD INCLINE_TREADBAR is never read
+GYMTREAD INCLINE_TREADBAR is never written
+
+GYMDUMB DUMBELLCAMLOOKX is never read
+GYMDUMB DUMBELLCAMLOOKX is never written
+
+GYMDUMB DUMBELLCAMLOOKY is never read
+GYMDUMB DUMBELLCAMLOOKY is never written
+
+GYMDUMB DUMBELLCAMLOOKZ is never read
+GYMDUMB DUMBELLCAMLOOKZ is never written
+
+GYMDUMB BUTTONPRESSDUMBELL_FLAG is never read
+
+GYMDUMB SELECTWEIGHTDUMBELL_FLAG is never read
+
+GYMDUMB DUMBELLFIRSTTIME_FLAG is never read
+GYMDUMB DUMBELLFIRSTTIME_FLAG is never written
+
+GYMDUMB DUMBELL_LAGYM is never read
+GYMDUMB DUMBELL_LAGYM is never written
+
+BASKETB TEMP_INT2 is never read
+BASKETB TEMP_INT2 is never written
+
+BASKETB MOVE_HEADING is never read
+BASKETB MOVE_HEADING is never written
+
+VIDPOK M_PASSED is never read
+
+VIDPOK M_FAILED is never read
+
+VIDPOK TEMP_FLOAT2 is never read
+VIDPOK TEMP_FLOAT2 is never written
+
+VIDPOK TEMP_FLOAT3 is never read
+VIDPOK TEMP_FLOAT3 is never written
+
+VIDPOK TEMP_SEQ is never read
+VIDPOK TEMP_SEQ is never written
+
+VIDPOK VEC_Y is never read
+
+VIDPOK VEC_Z is never read
+
+VIDPOK VEC2_Y is never read
+
+VIDPOK VEC2_Z is never read
+
+BLACKJ TEMP_FLOAT3 is never read
+BLACKJ TEMP_FLOAT3 is never written
+
+BLACKJ TEMP_SEQ is never read
+BLACKJ TEMP_SEQ is never written
+
+BLACKJ VEC2_X is never read
+BLACKJ VEC2_X is never written
+
+BLACKJ VEC2_Y is never read
+BLACKJ VEC2_Y is never written
+
+BLACKJ BJ_CROUPIER_DM is never read
+BLACKJ BJ_CROUPIER_DM is never written
+
+BLACKJ TEMP_PED is never read
+BLACKJ TEMP_PED is never written
+
+WHEELO TABLE_NOS is never read
+
+DEALER FPEDZ is never read
+
+DEALER FTEMP2 is never read
+DEALER FTEMP2 is never written
+
+DEALER TXTTHISDEALERZONENAME is never read
+
+HOME_BRAINS HOMELESS_CAR is never read
+
+HOME_BRAINS HOMELESS_LEADER is never read
+
+HOME_BRAINS HOMELESS_GROUP_SIZE is never read
+
+HOME_BRAINS HOME_DUMMY is never read
+
+HOME_BRAINS HOMELESS_BLIP is never read
+HOME_BRAINS HOMELESS_BLIP is never written
+
+BURG_BRAINS BURGLARY_TASK_ASSIGNED is never read
+
+BURG_BRAINS BURGLARY_COUNTER is never read
+BURG_BRAINS BURGLARY_COUNTER is never written
+
+GF_MEETING IGFIDX_PAR is never written
+
+GF_MEETING FPARX is never written
+
+GF_MEETING FPARY is never written
+
+GF_MEETING FPARZ is never written
+
+GF_MEETING FPARH is never written
+
+GF_MEETING FTEMP is never read
+GF_MEETING FTEMP is never written
+
+GF_MEETING IGF_DM is never read
+GF_MEETING IGF_DM is never written
+
+GF_MEETING GF_INTRO is never read
+
+GF_MEETING GF_POSITIVE is never read
+
+GF_MEETING GF_NEGATIVE is never read
+
+GF_SEX IGFIDX_PAR is never written
+
+GF_SEX ISPANKING is never written
+
+GF_SEX IGFHOMEAREA is never read
+GF_SEX IGFHOMEAREA is never written
+
+GF_SEX FGFHOMEX is never written
+
+GF_SEX FGFHOMEY is never written
+
+GF_SEX FGFHOMEZ is never written
+
+GF_SEX FGHHOMEHEADING is never written
+
+BAR_AMBIENCE FX is never written
+
+BAR_AMBIENCE FY is never written
+
+BAR_AMBIENCE FZ is never written
+
+FOODBRAINS ISHOPTYPE is never written
+
+FOODBRAINS IRAND is never written
+
+OTB_AMBIENCE FX is never written
+
+OTB_AMBIENCE FY is never written
+
+OTB_AMBIENCE FZ is never written
+
+STRIP_AMBIENCE ILAPDANCETYPE is never read
+
+ZERO_AMBIENCE IRAND is never written
+
+DANCE FPARH is never written
+
+SHOPKEEPER IISPLAYINGANIMS is never read
+
+SHOPKEEPER ITEMP is never read
+SHOPKEEPER ITEMP is never written
+
+CUSTOMER_PANIC IRANDPAR is never written
+
+CUSTOMER_PANIC FX is never read
+CUSTOMER_PANIC FX is never written
+
+CUSTOMER_PANIC FY is never read
+CUSTOMER_PANIC FY is never written
+
+CUSTOMER_PANIC FZ is never read
+CUSTOMER_PANIC FZ is never written
+
+BAR_STAFF FDEPTHOFBAR is never written
+
+BAR_STAFF ISKIPBARSERVE_GLASS is never written
+
+BAR_STAFF IFOODMODEL is never read
+BAR_STAFF IFOODMODEL is never written
+
+BAR_STAFF FCUSTOMERX is never read
+BAR_STAFF FCUSTOMERX is never written
+
+BAR_STAFF FCUSTOMERY is never read
+BAR_STAFF FCUSTOMERY is never written
+
+BAR_STAFF FCUSTOMERZ is never read
+BAR_STAFF FCUSTOMERZ is never written
+
+BOUNCER ISPAWNEDATATTRACTOR is never read
+BOUNCER ISPAWNEDATATTRACTOR is never written
+
+BOUNCER FTEMP is never read
+BOUNCER FTEMP is never written
+
+OTB_STAFF IMY_ATTRACTOR is never read
+
+OTB_STAFF IFOODMODEL is never read
+OTB_STAFF IFOODMODEL is never written
+
+OTB_STAFF ITEMP is never read
+OTB_STAFF ITEMP is never written
+
+PCHAIR ISPAWNEDATATTRACTOR is never written
+
+PCHAIR IISPLAYINGANIMS is never read
+
+PCUSTOM ISPAWNEDATATTRACTOR is never read
+PCUSTOM ISPAWNEDATATTRACTOR is never written
+
+PCUSTOM IISPLAYINGANIMS is never read
+
+PCUSTOM FANIM_TIME is never read
+PCUSTOM FANIM_TIME is never written
+
+OTBWTCH ISPAWNEDATATTRACTOR is never read
+OTBWTCH ISPAWNEDATATTRACTOR is never written
+
+OTBWTCH FANIM_TIME is never read
+OTBWTCH FANIM_TIME is never written
+
+OTBSLP ISPAWNEDATATTRACTOR is never read
+OTBSLP ISPAWNEDATATTRACTOR is never written
+
+OTBSLP FANIM_TIME is never read
+OTBSLP FANIM_TIME is never written
+
+OTBTILL ISPAWNEDATATTRACTOR is never read
+OTBTILL ISPAWNEDATATTRACTOR is never written
+
+OTBTILL IISPLAYINGANIMS is never read
+
+OTBTILL FANIM_TIME is never read
+OTBTILL FANIM_TIME is never written
+
+OTBTILL FX is never read
+OTBTILL FX is never written
+
+OTBTILL FY is never read
+OTBTILL FY is never written
+
+OTBTILL FZ is never read
+OTBTILL FZ is never written
+
+OTBTILL IFOODMODEL is never read
+OTBTILL IFOODMODEL is never written
+
+FBOOTHR ISPAWNEDATATTRACTOR is never written
+
+FBOOTHR IISPLAYINGANIMS is never read
+
+FBOOTHL ISPAWNEDATATTRACTOR is never written
+
+FBOOTHL IISPLAYINGANIMS is never read
+
+BARGUY ISPAWNEDATATTRACTOR is never read
+BARGUY ISPAWNEDATATTRACTOR is never written
+
+BARGUY IISPLAYINGANIMS is never read
+
+BARGUY FTEMP is never read
+BARGUY FTEMP is never written
+
+BARGUY FX is never read
+
+BARGUY FY is never read
+
+BARGUY FZ is never read
+
+BARGUY IDRINKMODEL is never read
+BARGUY IDRINKMODEL is never written
+
+PEDROUL ISPAWNEDATATTRACTOR is never read
+PEDROUL ISPAWNEDATATTRACTOR is never written
+
+PEDROUL FANIM_TIME is never read
+PEDROUL FANIM_TIME is never written
+
+PEDCARD ISPAWNEDATATTRACTOR is never read
+PEDCARD ISPAWNEDATATTRACTOR is never written
+
+PEDCARD FANIM_TIME is never read
+PEDCARD FANIM_TIME is never written
+
+PEDSLOT ISPAWNEDATATTRACTOR is never read
+PEDSLOT ISPAWNEDATATTRACTOR is never written
+
+PEDSLOT FANIM_TIME is never read
+PEDSLOT FANIM_TIME is never written
+
+DANCER ISPAWNEDATATTRACTOR is never read
+DANCER ISPAWNEDATATTRACTOR is never written
+
+DANCER FANIM_TIME is never read
+DANCER FANIM_TIME is never written
+
+STRIPW ISPAWNEDATATTRACTOR is never read
+STRIPW ISPAWNEDATATTRACTOR is never written
+
+STRIPM ISPAWNEDATATTRACTOR is never read
+STRIPM ISPAWNEDATATTRACTOR is never written
+
+STRIPM FANIM_TIME is never read
+STRIPM FANIM_TIME is never written
+
+STRIPM ITEMPMONEY is never read
+
+BROWSE ISPAWNEDATATTRACTOR is never read
+BROWSE ISPAWNEDATATTRACTOR is never written
+
+BROWSE FANIM_TIME is never read
+BROWSE FANIM_TIME is never written
+
+COPSIT ISPAWNEDATATTRACTOR is never written
+
+COPSIT IISPLAYINGANIMS is never read
+
+COPSIT FMINX is never read
+
+COPSIT FMINY is never read
+
+COPSIT FMINZ is never read
+
+COPSIT FMAXX is never read
+
+COPSIT FMAXY is never read
+
+COPSIT FMAXZ is never read
+
+COPLOOK ISPAWNEDATATTRACTOR is never read
+COPLOOK ISPAWNEDATATTRACTOR is never written
+
+COPLOOK FANIM_TIME is never read
+COPLOOK FANIM_TIME is never written
+
+TICKET ISPAWNEDATATTRACTOR is never read
+TICKET ISPAWNEDATATTRACTOR is never written
+
+TICKET IISCOWERING is never read
+TICKET IISCOWERING is never written
+
+TICKET FANIM_TIME is never read
+TICKET FANIM_TIME is never written
+
+SHOPPER ISPAWNEDATATTRACTOR is never read
+SHOPPER ISPAWNEDATATTRACTOR is never written
+
+SHOPPER IRAND is never read
+SHOPPER IRAND is never written
+
+SHOPPER FX is never read
+SHOPPER FX is never written
+
+SHOPPER FY is never read
+SHOPPER FY is never written
+
+SHOPPER FZ is never read
+SHOPPER FZ is never written
+
+CRANE1 BASE_LOD is never read
+
+CRANE1 Z2 is never read
+
+CRANE2 VEC2_Z is never read
+CRANE2 VEC2_Z is never written
+
+IMPOUND PLAYER_IS_DANGEROUS is never written
+
+IMPOUND COP_THREAT_DROP_TIME is never read
+IMPOUND COP_THREAT_DROP_TIME is never written
+
+IMPOUND THREAT_STATE_CHANGE is never read
+IMPOUND THREAT_STATE_CHANGE is never written
+
+IMPOUND REVISE_AI is never read
+IMPOUND REVISE_AI is never written
+
+PHOTO ISPAWNEDATATTRACTOR is never read
+PHOTO ISPAWNEDATATTRACTOR is never written
+
+PRISONR ISPAWNEDATATTRACTOR is never read
+PRISONR ISPAWNEDATATTRACTOR is never written
+
+PRISONR FANIM_TIME is never read
+PRISONR FANIM_TIME is never written
+
+CAMERA ISTATE is never written
+
+CAMERA ICODE is never written
+

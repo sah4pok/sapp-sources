@@ -1,0 +1,171 @@
+﻿[NAIL]
+{When using guns, shoot by pressing the Action button.}
+Wenn du Waffen verwendest, drücke die Aktionstaste, um zu schiessen.
+
+[NAIL2]
+{Press the Action2 button to zoom in on the closest hunter.}
+Drücke die Aktionstaste2, um auf den nahegelegensten Jäger zu zoomen.
+
+[NAIL0]
+{When wall-strafing you can aim at hunters around corners by holding the Action2 button.}
+Beim Schleichen entlang einer Wand, kannst du Jäger die sich hinter einer Ecke befinden anvisieren, indem du die Aktionstaste2 gedrückt hältst.
+
+[NAIL1]
+{Press the Reload button to reload your weapon.}
+Drücke die Nachladen-Taste, um deine Waffe nachzuladen.
+
+[NAIL4]
+{Press the Reload button to reload your weapon.}
+Drücke die Nachladen-Taste, um deine Waffe nachzuladen.
+
+[NAIL3]
+{Aim to the head if you can. Headshots do more damage and with firearms they can kill instantly.}
+Ziele auf den Kopf, wenn du kannst. Kopfschüsse sind effizienter und mit Feuerwaffen können sie tödlich sein.
+
+[PADLOCK]
+{You need something sharp to cut this rope.}
+Du benötigst etwas Scharfes, um dieses Seil durchzuschneiden.
+
+[OPEN]
+{Kill that hunter to open this gate.}
+Töte diesen Jäger, um das Tor zu öffnen.
+
+[DRUM]
+{You can detonate these Gas Canisters by shooting them with the nailgun.}
+Du kannst diese Benzinkanister zur Explosion bringen, indem du mit der Nail-Gun auf sie feuerst.
+
+[AMMOPK]
+{This is an ammo pick-up, you must have the desired weapon in your inventory to collect this.}
+Das ist ein Munitions-Pick-Up. Den kannst du nur einsammeln, wenn du die entsprechende Waffe besitzt.
+
+[GOAL1]
+{Kill the hunter guarding the gate}
+Töte den Jäger, der das Tor bewacht.
+
+[GOAL2]
+{Find something to cut the ~blue~rope ~colour~on the gate}
+Finde etwas, um das ~blue~Seil ~colour~am Tor zu zerschneiden.
+
+[GOAL3]
+{Find a way into the trailer to get the nailgun}
+Finde einen Weg in den Wohnwagen, um an die Nail-Gun zu gelangen.
+
+[GOAL4]
+{Find and activate the switch to open the ~blue~gate}
+Finde und betätige den Schalter für das ~blue~Tor.
+
+[GOAL5]
+{Go back to the gate to get to the exit}
+Gehe zurück zum Tor, um zum Ausgang zu gelangen.
+
+[CRAP1]
+{I can smell it's putrid corruption}
+Ich kann seine faulige Verderbnis riechen.
+
+[CRAP2]
+{Hallelujah! Praise The Lord!}
+Halleluja! Lobet den Herrn!
+
+[WHO1]
+{Hallelujah! There he is!}
+Halleluja! Da ist er!
+
+[WHO2]
+{Hallelujah! There he is!}
+Halleluja! Da ist er!
+
+[FILL1]
+{There he is! Sick deviant...}
+Da ist er! Dieses kranke Schwein ...
+
+[FILL2]
+{The Lord hath delivered! Amen!}
+Der Herr hat's gegeben! Amen!
+
+[SEEN1]
+{G-guys! I... I see him! He's here! Guys!}
+Leute! Ich ... ich sehe ihn! Er ist hier! Leute!
+
+[SEEN2]
+{Holy fuck - th - there he is! Hey he's over here!}
+Heilige Scheiße - da ist er! Hey, er ist hier drüben!
+
+[WHT1A1]
+{Ok, so I lied. We haven't quite wrapped this gig up, but hey}
+Na gut, ich habe eben gelogen. Wir haben die Sache noch nicht im Kasten, aber, hey,
+
+[WHT1A2]
+{you're having fun, right?!}
+du hast doch deinen Spaß, oder?
+
+[WHT1A3]
+{There's a double gate that leads on through to our next location - find it.}
+Hier gibt es ein Doppelflügel-Tor, das dich zum nächsten Drehort bringt - finde es.
+
+[WHT2A1]
+{Careful, there's a bigot guarding the gate. If he sees you he'll call his cheery buddies...}
+Vorsicht, das Tor wird von einem religiösen Spinner bewacht. Wenn er dich sieht, ruft er seine gläubigen Freunde ...
+
+[WHT3A1]
+{That's a pretty thick rope - you're gonna need a blade...}
+Das ist ein ganz schön dickes Seil - dazu brauchst du ein Messer ...
+
+[WHT4A1]
+{You didn't think I'd let you out that easily did you? It's an electric lock}
+Du hast doch nicht geglaubt, ich würde es dir so einfach machen, oder? Das ist ein elektrisches Schloss.
+
+[WHT4A2]
+{Find the release switch.}
+Finde den Schalter.
+
+[WHT5A1]
+{Beautiful! That's his hunting days over!}
+Wunderbar! Jetzt sind seine Tage als Jäger gezählt!
+
+[WHT6A1]
+{There's a nailgun in that trailer - if you can stand the smell!}
+In diesem Wohnwagen ist eine Nail-Gun - Wenn du den Gestank ertragen kannst!
+
+[WHT7A1]
+{He's got his hands full at the moment - go grab his nailgun...}
+Er hat im Moment alle Hände voll zu tun - Schnapp dir seine Nail-Gun
+
+[MPG1]
+{Ok, you limp-dicked faggots!}
+O. K., ihr madengesichtigen Schlappschwänze!
+
+[MPG2]
+{Let's give Mr. Starkweather a show to remember.}
+Liefern wir Mr. Starkweather eine Showeinlage, die er nicht wieder vergisst.
+
+[MPG3]
+{MOVE IT!!}
+BEWEG DICH!
+
+[INTRO]
+Director : Find this gate, and get past it.
+
+[WATCH]
+Director : Watch out for this guy though, he'll call in back-up if he sees you.
+
+[START]
+Director : Your on the Skinz turf now Cash, these racist pricks hate everything, grab a weapon and find a way into the scrapyard.
+
+[GLASS]
+Hunter : Bastard, You made me shit my pants.
+
+[GATE]
+Spotter : I see him, I see him, calling in back-up.
+
+[EXIT]
+Director : Through that door is the way out, I've hidden a power switch to open it, find that switch.
+
+[DOPE]
+Director : If you could just find a way into the trailer and steal that nailgun....
+
+[HEAR]
+Hunter : Is that you guys out there?, comon I'm taking a crap in here.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

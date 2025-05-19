@@ -1,0 +1,11 @@
+﻿[START]
+{Kill as many hunters as you can for a top score!}
+Bute autant de chasseurs que tu peux pour obtenir un super score !
+
+[GOAL1]
+{Kill as many hunters as you can for a top score}
+Bute autant de chasseurs que tu peux pour obtenir un super score !
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

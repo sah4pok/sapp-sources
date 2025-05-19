@@ -1,0 +1,175 @@
+﻿[GAS]
+{Pick up the gas can with the Use button and take it back to the crane.}
+Raccogli la tanica di benzina con il tasto Usa e riportala alla gru.
+
+[CRANE]
+{To rotate the crane use the keyboard or the mouse. To activate the magnet press the Action button.}
+Puoi ruotare la gru usando la tastiera o il mouse. Per attivare il magnete premi il tasto Azione.
+
+[CRANE1]
+{You can leave the crane by pressing the Use button.}
+Puoi lasciare la gru premendo il tasto Usa.
+
+[CRANE2]
+{Be careful as hunters can still shoot you whilst inside the crane.}
+Stai attento, i cacciatori possono spararti mentre sei sulla gru.
+
+[ENTER]
+{To enter the crane stand on the ground beside it and press the Use button.}
+Per salire sulla gru, posizionati accanto a essa e premi il tasto Usa.
+
+[SQUASH]
+{You can squash hunters by dropping the fridge on them using the Action button.}
+Puoi schiacciare i cacciatori facendo cadere loro addosso il frigorifero con il tasto Azione.
+
+[FUEL]
+{Take the gas can up the steps and press the Use button to refuel the crane.}
+Solleva la tanica di benzina e premi il tasto Usa per rifornire la gru.
+
+[OUT]
+{Find some gas to get the crane working.}
+Trova della benzina per far funzionare la gru.
+
+[ON]
+{You need some gas to activate this crane.}
+Hai bisogno di carburante per far funzionare la gru.
+
+[GREEN]
+{Your next objective is shown on the radar as a green dot.}
+Il tuo prossimo obiettivo è indicato dal puntino verde sul radar.
+
+[GOAL1]
+{Clear the area of hunters to open the ~blue~gate}
+Per aprire il ~blue~cancello~colour~, ripulisci l'area dai cacciatori.
+
+[GOAL2]
+{Find a way to lure out the hunter}
+Trova un modo per attirare il cacciatore.
+
+[GOAL3]
+{Find the gasoline to fill the crane}
+Trova la benzina per rifornire la gru.
+
+[GOAL4]
+{Head back with the gasoline to refuel the crane}
+Torna indietro con la benzina per rifornire la gru.
+
+[GOAL5]
+{Use the crane to unblock the path}
+Usa la gru per liberare la strada.
+
+[GOAL5A]
+{Find the crusher machine}
+Trova la pressa.
+
+[GOAL6]
+{Hunt down the five hunters to open the ~blue~gate}
+Abbatti cinque cacciatori per aprire il ~blue~cancello~colour~.
+
+[GOAL7]
+{Use the crane to unblock the path}
+Usa la gru per liberare la strada.
+
+[GOAL8]
+{Find the double doors to get to the exit}
+Trova le doppie porte per raggiungere l'uscita.
+
+[GOAL9]
+{Find a way to the hut}
+Raggiungi la baracca.
+
+[BLOCK1]
+{Cover the fuckin exits! Now!}
+Copriamo quella fottuta uscita!
+
+[BLOCK2]
+{Don't let him outta here! Move it, move it!}
+Non facciamolo uscire! Muoviamoci, muoviamoci!
+
+[FUSE1]
+{What the - ? How many god damned times can a fuse blow?!}
+Cosa...? Quante cazzo di volte può bruciare un fusibile?!?
+
+[FUSE2]
+{Aw that's just frickin' great - the fuse has fried again!}
+È stato semplicemente grandioso... il fusibile è partito di nuovo!
+
+[SKN1A1]
+{These Skinz are boring me - dumb-assed supremacist bastards.}
+Questi Skinz mi stanno davvero scocciando... dannati bastardi all'ennesima potenza.
+
+[SKN1A2]
+{Always blaming others for their inadequacies.}
+Sempre a incolpare gli altri per la loro incapacità.
+
+[SKN1A3]
+{Butcher them, Cash. Cut'em up, beat 'em down and choke the fucking life out of them!}
+Falli a pezzi, Cash. Triturali, maciullali, affettali e spremili come dei limoni!
+
+[SKN2A1]
+{Oh, man, that one was good! The gate's open.}
+Ci è andata bene! Il cancello è aperto.
+
+[SKN2A2]
+{Go on, get out of here!}
+Avanti, esci subito di qui!
+
+[SKN3A1]
+{This shit seems content to watch porn and avoid all the action! If he won't switch it off himself,}
+Come si fa a restare incollati davanti a un porno e perdersi tutta l'azione! Se proprio non vogliono spegnere la TV,
+
+[SKN3A2]
+{we'll have to do it for him!}
+credo che dovrai pensarci tu!
+
+[SKN4A1]
+{A crane. Well what d'ya reckon, Cash?}
+Una gru. Cosa ne pensi, Cash?!?
+
+[SKN5A1]
+{Alright Cash, Grab the blade you're gonna need it to get out of here.}
+D'accordo, Cash, afferra la lama che ti servirà per uscire da qui.
+
+[SKN6A1]
+{You'll need to find a way through the next gate.}
+Devi trovare il modo di superare il prossimo cancello.
+
+[SKN7A1]
+{Find a way to get that fat bastard out into the open!}
+Trova il modo per far uscire allo scoperto quel fottuto grassone!
+
+[SKN8A1]
+{Excellent - Death by heavy domestic appliance!}
+Grandioso... Morte da abuso d'elettrodomestico!
+
+[START]
+Director : Clean the area of hunters, then make your way to the gate.
+
+[OPEN]
+Director : Nice going Cash!, The door is open.
+
+[GASO]
+Director : A busted up crane, could have some use, if you could get it working.
+
+[DONE]
+Director : Nice going Cash, scout out the area, the gates open.
+
+[DELAY]
+Hunter : That fucking fuse again, do I look like an electrician.
+
+[HUT]
+Director : You need to find a way past this gate, Cash.
+
+[HUT1]
+Director : If you could lure this fat fucker out somehow...
+
+[ENTRY]
+Hunter : Block all the exits, the only way outta here is in a body bag.
+
+[GETTH]
+{Hunter : Hey you! Get the fuck outta that crane.}
+Hunter : Hey you!, get the fuck outta that crane.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

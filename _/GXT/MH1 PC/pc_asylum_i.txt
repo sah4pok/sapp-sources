@@ -1,0 +1,266 @@
+﻿[GOAL1]
+{Kill the hunter and escape from the ward}
+Uccidi il cacciatore e scappa dalla corsia.
+
+[GOAL2]
+{Gain access to the Greenhouse section}
+Entra nella serra.
+
+[GOAL3]
+{Destroy the bricked up doorway to gain access to the tower}
+Distruggi la porta di mattoni e guadagna l'accesso alla torre.
+
+[GOAL4]
+{Bring proof of the dress-wearing hunter's death to the Guard Room}
+Porta la prova dell'uccisione del cacciatore alla sala di guardia.
+
+[GOAL4B]
+{Kill the monkey and bring his body to the Guard Room}
+Uccidi la scimmia e porta il suo corpo nella sala di guardia.
+
+[CDOOR1]
+{He's gonna get away with my damned shoes! Close the door!}
+Sta scappando con le mie dannate scarpe! Chiudete la porta!
+
+[CDOOR2]
+{Stay boy, stay boy. Close that gate!}
+Aspetta, ragazzo, aspetta un momento... Chiudete quella porta!
+
+[CDOOR3]
+{Close the gate and stop that wriggly witchetty man!}
+Chiudi la porta e ferma quel derelitto ambulante!
+
+[CDOOR4]
+{Wuuurrgghh!! Close door! Close door!}
+Wuuurrgghh!!! Chiudete la porta! Chiudete la porta!
+
+[CDOOR5]
+{Fug see liddle man! Close door! Close door!}
+Fug vede un biggolo uomo! Ghiudi la borda! Ghiudi la borda!
+
+[CDOOR6]
+{Da door - shud id! Shud id!}
+La borda - ghiudila! Ghiudila!
+
+[CDOOR7]
+{Don't let that philandering scumball out of here! Close the gate!}
+Quella sottospecie di invertebrato non deve uscire vivo di qui! Chiudete la porta!
+
+[CDOOR8]
+{Oh no, you're not leaving this house to see her! Girls, lock that door!}
+Oh no, scordati pure il tuo appuntamento galante. Ragazze, chiudete la porta!
+
+[CDOOR9]
+{Oh you worthless, stupid, drunk! Lock that door!}
+Stupido insignificante ubriacone! Chiudete quella porta!
+
+[POWER1]
+{Time to play? Time to play! Fug coming!}
+È ora di giocare? Giochiamo, allora! Fug sta arrivando!
+
+[POWER2]
+{Oohh. Time for Fug to play doctor!}
+Oohh. È ora che Fug giochi al dottore!
+
+[LEVER1]
+{Doctor Fug make it all better, aaalll better...}
+Il dottor Fug ti fa sentire meglio, moooolto meglio...
+
+[LEVER2]
+{Don't worry, Fug stob da pain. Fug stob da paaiin.}
+Non breoccubarti, Fug verma il dolore. Fug verma il dolooore.
+
+[NOWAY1]
+{Who dat? Fug not playing this game...}
+Ghi è guello? Fug non gioga a guesdo giogo...
+
+[NOWAY2]
+{Huh? Fug not stoopid!}
+Uh? Fug non è sdubido!
+
+[ODOOR1]
+{Big bonez! Open the door! Bonez!}
+Big bonez! Apri la porta! Bonez!
+
+[ODOOR2]
+{I can't see Mr. Witchetty! Open the door!}
+Non riesco a vedere Mr. Witchetty! Aprite la porta!
+
+[ODOOR3]
+{Where's nasty wriggly Mr. Witchetty? Open the door!}
+Dov'è quel disgustoso Mr. Witchetty? Aprite la porta!
+
+[ODOOR4]
+{He hide from Fug! Open door!}
+Si sta nascondendo da Fug! Aprite la porta!
+
+[ODOOR5]
+{Open door so Fug can go and see!}
+Aprite la porta, così Fug può andare a vedere!
+
+[ODOOR6]
+{Fug can't see funny man - Open door! Open door!}
+Fug non riesce a vedere quell'uomo. Aprite la porta! Aprite la porta!
+
+[ODOOR7]
+{He's sloped off to see that whore again! Open the door, kids!}
+È andato ancora da quella puttana! Aprite la porta, bambini!
+
+[ODOOR8]
+{Barry? Barry! Where is that shit? Open the door!}
+Barry? Barry! Dov'è quel merdoso? Aprite la porta!
+
+[ODOOR9]
+{Barry? Barry! Where is that shit? Open the door!}
+Barry? Barry! Dov'è quel merdoso? Aprite la porta!
+
+[QUIET1]
+{Shut Up!}
+Taci!
+
+[QUIET2]
+{Argh! Shut up!}
+Argh! Chiudi il becco!
+
+[MTH1A1]
+{The lunatics have taken over the asylum, Cash!}
+Il manicomio è nelle mani dei pazzi, Cash!
+
+[MTH1A2]
+{The only way to reason with these gibbering idiots is with a stick and a gun!}
+L'unico modo di ragionare con quegli idioti è con un bastone e una pistola.
+
+[MTH1A3]
+{I want you to kill the hunter patrolling the tower walkway and bring his body to the Guard Room.}
+Voglio che tu uccida il cacciatore di vedetta alla torre e porti il suo corpo nella sala di guardia.
+
+[MTH2A1]
+{There's a good boy. Now drop all your weapons and move on.}
+Ecco un bravo ragazzo. Ora getta le tue armi e vieni avanti.
+
+[MTH3A1]
+{For bringing his head, I'll leave a gift for you in the next location.}
+In cambio della sua testa, ti lascerò un regalino nel prossimo set.
+
+[MTH4A1]
+{There are some more of these paranoid crazies guarding the door to the greenhouses.}
+Ce ne sono altri di questi pazzi paranoici a guardia della porta della serra.
+
+[MTH4A2]
+{They see you and I guarantee they'll lock that door!}
+Se ti vedono, ti assicuro che chiuderanno a chiave quella porta.
+
+[MTH4A3]
+{When they feel safe they'll probably unlock the door again. They like their routine.}
+Se si sentono al sicuro, forse sbloccheranno di nuovo la porta. Sono così abitudinari.
+
+[MTH5A1]
+{There's a hunter in the next room, through the mesh door.}
+C'è un cacciatore nella stanza vicina, oltre l'inferriata.
+
+[MTH5A2]
+{Hack him up and I'll buzz open the next set of doors for you!}
+Fallo a pezzi e ti aprirò la prossima serie di porte!
+
+[MTH6A1]
+{That's the ticket! I've opened the doors, run along, now!}
+Così va bene! Ho aperto le porte, ora vai avanti!
+
+[MTH7A1]
+{Some of these nut jobs have bricked themselves into the tower!}
+Alcuni di questi pazzi si sono barricati nella torre!
+
+[MTH7A2]
+{You'll have to find a way to blast your way in!}
+Devi trovare un modo per farti strada!
+
+[MTH8A1]
+{Another switch! Go on, throw it and see what happens, go on you can trust me...}
+Un altro interruttore! Forza, azionalo e vedi cosa succede. Avanti, puoi fidarti di me...
+
+[MTH9A1]
+{There, that wasn't anything to worry about, was it?}
+Visto, non c'era nulla di cui preoccuparsi, o sbaglio?
+
+[MPG1]
+{...the Senator also visited the Darkwoods Penitentiary}
+...il Senatore ha anche visitato il penitenziario di Darkwoods,
+
+[MPG2]
+{which hosts more than a thousand inmates from all over the country...}
+che ospita più di mille reclusi provenienti da tutto il paese...
+
+[MPG3]
+{The prison's modern facilities include spacious cells for the inmates}
+Le moderne attrezzature della prigione includono celle spaziose per i carcerati
+
+[MPG4]
+{...the exceptionally well staffed hospital is equipped for emergencies as well as routine health checks...}
+...l'ospedale, molto ben organizzato, è equipaggiato per le emergenze così come per le normali visite di controllo...
+
+[MPG5]
+{...adjacent to ROW 1, the electric chair room is where death sentences are carried out...}
+...vicino al GIRONE 1, la sala della sedia elettrica è dove vengono eseguite le condanne a morte.
+
+[MPG6]
+{Right here...Drop him!}
+Ci siamo...lasciatelo!
+
+[DIR_1]
+DIRECTOR: Eliminate this hunter and I will open the door for you, make it nice and messy.
+
+[DIR_2]
+DIRECTOR: Excellent, I have now unlocked the doors at the far end of the ward.
+
+[DIR_3]
+DIRECTOR: Cash I want you to kill this hunter in the dress and bring evidence of his death to the Guard Room.
+
+[DIR_4]
+DIRECTOR: Cash, you will need to find a way of destroying the bricked up door to get inside the tower.
+
+[DIR_5]
+DIRECTOR: Well done Cash,now on to the next area.
+
+[DIR_6]
+DIRECTOR: Cash for bringing his head here I will leave a gift in the next level.
+
+[DIR_7]
+DIRECTOR: Cash you will need to past these guards to enter the Greenhouses, if you are spotted they will lock the door.
+
+[DIR_8]
+DIRECTOR: When spotted use the shadows to hide. When they can't find you, they will unlock the door.
+
+[DIR_9]
+DIRECTOR: Cash, kill the monkey and bring his body to the guard room.
+
+[DIR_10]
+DIRECTOR: Cash for bringing his head here I will leave a gift in the next level, but I need you to bring his body.
+
+[DIR_11]
+DIRECTOR: Cash, I want you to drop all your weapons and put on the monkey outfit.
+
+[DRCL1]
+HUNTER: I see him, I see him, Close the door!
+
+[DROP1]
+HUNTER: Shit I can't see him, open the door.
+
+[HUT_1]
+WARDHUNTER: Shut the fuck up!, don't make me come through there!
+
+[HUT_2]
+WARDHUNTER: Shut the fuck up!
+
+[HUT_3]
+{WARDHUNTER: Damn machine! why do I have to turn it off, I should get a remote or something.}
+} WARDHUNTER: Damn machine! why do I have to turn it off, I should get a remote or something.
+
+[PAIN]
+GUY IN CHAIR: ARRGGG THE PAIN!!!!
+
+[HUT_4]
+WARDHUNTER: Shut up I am not playing this game...
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

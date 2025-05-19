@@ -1,0 +1,209 @@
+﻿[KEY]
+{You have collected the ELEVATOR KEY.}
+T'as récupéré la CLEF DE L'ASCENSEUR.
+
+[KEY2]
+{The Cerberus Leader has dropped the ~green~ELEVATOR KEY~colour~, go and get it!}
+Le chef des Cerbères a lâché la ~green~CLE DE L'ASCENSEUR~colour~. Va la chercher !
+
+[CAMERA]
+{You have been spotted by a SECURITY CAMERA - The guards will know your position now.}
+T'as été repéré par une CAMERA. Les gardes savent où t'es maintenant !
+
+[CAMERA2]
+{Watch out for SECURITY CAMERAS. The Cerberus guards use them to know where you are.}
+Gaffe aux CAMERAS ! Les Cerbères les utilisent pour te repérer.
+
+[LIFT]
+{The ELEVATOR is now operational again.}
+L'ASCENSEUR marche à nouveau!
+
+[GOD1]
+{You cannot use the elevator yet. You don't have the KEY and the POWER is still off.}
+Tu peux toujours pas utiliser l'ascenseur. T'as pas la CLEF et le COURANT est toujours coupé.
+
+[GOD2]
+{You cannot use the elevator yet. You don't have the KEY.}
+Tu peux toujours pas utiliser l'ascenseur. T'as pas la CLEF.
+
+[GOD3]
+{You cannot use the elevator yet. The POWER is still off.}
+Tu peux toujours pas utiliser l'ascenseur. Le COURANT est pas rétabli.
+
+[GOAL1]
+{Find the ~green~LEADER~colour~ of the Cerberus team and acquire the ELEVATOR KEY}
+Trouve le ~green~CHEF~colour~ des Cerbères et chope la CLEF DE L'ASCENSEUR.
+
+[GOAL2]
+{Reach the ~blue~basement~colour~ in the west wing and turn Starkweather's ELEVATOR back on}
+Va au ~blue~sous-sol~colour~ de l'aile ouest et rétablis le courant de l'ASCENSEUR de Starkweather.
+
+[GOAL3]
+{Use the ELEVATOR to reach Starkweather}
+Prends l'ASCENSEUR pour atteindre Starkweather.
+
+[SUPRT1]
+{Copy that request for support! Hang in there guys, help is coming!}
+Demande de renforts confirmée ! Tenez bon les gars, les renforts arrivent !
+
+[SUPRT2]
+{Roger that! Reinforcements are on their way!}
+Compris ! Les renforts sont en route !
+
+[SUPRT3]
+{Wilco, should be with you guys ASAP!}
+OK, on arrive tout de suite !
+
+[CNV1_1]
+{Sir, one of the men is not responding. We have to move you somewhere more secure.}
+Monsieur, un de nos hommes répond plus. Nous devons vous mettre en sécurité.
+
+[CNV1_2]
+{I want that asshole's head on a spike, sergeant!}
+Je veux la tête de ce trou du cul sur une pique, sergent !
+
+[CNV1_3]
+{It will be a pleasure, sir! Escort him upstairs.}
+Avec plaisir, monsieur ! Escortez-le en haut.
+
+[CNV2_1]
+{How did that psycho bastard get past the perimeter guards?}
+Comment ce taré a pu passer les gardes de l'entrée ?
+
+[CNV2_2]
+{Cash has already neutralised two of our snipers, sir. We should assume he is armed.}
+Cash a déjà neutralisé deux des snipers, monsieur. Faut croire qu'il est armé.
+
+[CNV2_3]
+{Leave two of your best men in the basement, I don't want any more surprises.}
+Laissez deux de vos meilleurs hommes au sous-sol. Je veux plus de mauvaises surprises.
+
+[CNV2_4]
+{Already taken care of, sir. All the men are ready.}
+C'est déjà fait, monsieur. Tous les hommes sont prêts !
+
+[CNV2_5]
+{I have instructed them to equip themselves from the armoury.}
+Je leur ai donné ordre de se servir dans l'armurerie.
+
+[CNV2_6]
+{Very well. Any sign of him on the security cameras?}
+Parfait. Aucun signe de lui sur les caméras ?
+
+[CNV2_7]
+{No sir, but if he gets anywhere near that elevator we will be right on him.}
+Non, monsieur. Mais s'il s'approche de cet ascenseur, il n'en sortira pas vivant !
+
+[LIFT1]
+{Shut the lift down, Starkweather said no unexpected visitors.}
+Coupez le courant de l'ascenseur. Starkweather n'attend aucune visite.
+
+[LIFT2]
+{Roger.}
+OK.
+
+[GUN1]
+{Target is armed! Keep him confined!}
+La cible est armée ! Retenez-la !
+
+[NOGUN1]
+{Target is not armed! Flush him so we can take him out!}
+La cible n'est pas armée ! Faites-le sortir pour qu'on le descende !
+
+[HEAVY1]
+{What the? -oh shit!!!}
+Qu'est-ce que... ? Et merde !
+
+[HEAVY2]
+{Holy fuck! He's packing heavy!}
+Putain ! Il a de l'artillerie !
+
+[HEAVY3]
+{Take cover, he means business!}
+A couvert ! Il rigole pas !
+
+[STORM1]
+{Fuck this, I'm going in!!!!}
+Rien à foutre, j'y vais !
+
+[STORM2]
+{I'm coming in there to fuck you up!!!}
+Je viens te régler ton compte, connard !
+
+[STORM3]
+{Who dares, wins - rraagghh!!!}
+On a rien sans rien ! Raaaggghh !
+
+[MPG1]
+{Have you locked the elevator?}
+Vous avez verrouillé l'ascenseur ?
+
+[MPG2]
+{Nobody gets anywhere near Starkweather. Give me the key.}
+Personne ne s'approche de Starkweather ! Donnez-moi la clef.
+
+[MPG3]
+{Yes sir.}
+Oui, monsieur.
+
+[MPG4]
+{I want you to go down to the basement and turn off the motor.}
+Allez au sous-sol et coupez le générateur.
+
+[MPG5]
+{We can't be safe with these two bastards running around.}
+Personne n'est en sécurité avec ces deux tarés dans les parages.
+
+[MPG6]
+{We're on it, sir.}
+On s'en occupe, monsieur.
+
+[GEN]
+{RADIO VOICE: We have reported casualties! Hang tough guys, reinforcements on their way!}
+RADIO VOICE: Nous avons demandé de l’aide ! Accrochez-vous les gars, les renforts arrivent !
+
+[CERB1]
+GUARD: Shut the lift down, Strarkweather said no unexpected visitors.
+
+[CERB2]
+GUARD: Roger. (Pulls lever).
+
+[CERB3]
+GUARD: Sir, One of the men is not responding. We have to take you somewhere more secure.
+
+[CHF1]
+CHIEF: Order the men to shoot at anything that moves.
+
+[CERB4]
+GUARD: Consider it done, sir. Escort him upstairs.
+
+[CHF2]
+CHIEF: How did that bastard get past the perimeter guards?
+
+[CERB5]
+GUARD: He has killed two of our snipers, sir. We should assume he is armed.
+
+[CHF3]
+CHIEF: I want his head on a silver plate, seargent!
+
+[CERB6]
+GUARD: All men are ready, I have instructed them to equip themselves from the armoury.
+
+[CHF4]
+CHIEF: Very well. Any sign of him in the security cameras?
+
+[CERB7]
+GUARD: No sir, but if he gets anywhere near that elevator we will be right on him
+
+[CHF5]
+CHIEF: Leave two of your best men in the basement, I don't want more surprise.
+
+[CERB8]
+GUARD: This has been already taken care of, sir.
+
+[BAS1]
+GUARD: OH SHIT!!!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

@@ -1,0 +1,140 @@
+﻿[GOAL1]
+{Get to the street}
+Consigue llegar a la calle.
+
+[GOAL2]
+{Find something to break the ~blue~PADLOCK~colour~}
+Encuentra algo para romper el ~blue~CANDADO~colour~.
+
+[GOAL3]
+{Use the CROWBAR to break the ~blue~PADLOCK~colour~}
+Utiliza la PALANCA para romper el ~blue~CANDADO~colour~.
+
+[GOAL4]
+{Win the fight in the cellar}
+Gana el combate en el sótano.
+
+[GOAL5]
+{Head through the buildings to get to the library}
+Atraviesa los edificios para llegar a la biblioteca.
+
+[GOAL6]
+{Go through the cellar to the exit}
+Atraviesa el sótano hasta llegar a la salida.
+
+[START0]
+{You can look behind you by pressing down the Look Back button.}
+Puedes mirar detrás de ti pulsando el botón Mirar atrás.
+
+[START2]
+~!~
+
+[START1]
+~!~
+
+[BLUE]
+{One handed weapons like the Bat are ~blue~Blue ~colour~Objects. They are not lost after use but make noise during executions.}
+Las armas a una mano, como el bate, son objetos ~blue~azules ~colour~. No se pierden después de usarse, pero hacen ruido durante las ejecuciones.
+
+[SWAP]
+{You can select individual weapons using the four Inventory Item buttons, or cycle through them with the Inventory button.}
+Puedes seleccionar armas individuales usando cuatro botones de Objeto de inventario, o cambiar entre ellas con el botón de Inventario.
+
+[LOOK]
+{Hold down the First Person button to view your surroundings. You can use this to spot hunters at a distance.}
+Deja pulsado el botón Primera persona para mirar por los alrededores. Puedes usarlo para localizar a los cazadores desde lejos.
+
+[SMASH]
+{Select the crowbar then press the Use button to break the padlock.}
+Selecciona la palanca y pulsa el botón Usar para romper el candado.
+
+[GRAB]
+{Press the Action and the Action2 buttons together to grapple. Time the attack right and you can chain 3 hits together.}
+Para agarrar, pulsa a la vez los botones Acción y Acción2. Si sincronizas bien el ataque, puedes encadenar 3 golpes.
+
+[GRAB2]
+{To break free from a hunter's grapple press the Action button repeatedly.}
+Para liberarte de la presa de un cazador, pulsa repetidamente el botón Acción.
+
+[BAT]
+{The bigger weapons are stronger but not as fast as the lighter weapons like the crowbar.}
+Las armas más grandes son más fuertes pero no tan rápidas como las más ligeras, como la palanca.
+
+[TRIAN]
+{The Crowbar can be used to break padlocks and other locked objects.}
+Se puede usar la palanca para romper candados y otros objetos cerrados.
+
+[GRAVE]
+{Walking on gravel will make noise that attracts the hunters.}
+Moverse sobre grava hace ruido que puede atraer a los cazadores.
+
+[WBAT]
+{Big weapons like this Baseball Bat are ~red~RED ~colour~items. They are stronger, but not as fast as the lighter weapons.}
+Las armas grandes, como el bate de béisbol, son objetos ~red~ROJOS~colour~. Son más fuertes, pero no tan rápidas como las armas más ligeras.
+
+[BREAK]
+{Special Windows like this one can be smashed. They will create a glass shard for you to collect.}
+Las ventanas especiales, como ésta, pueden romperse. Se crearán fragmentos de cristal que puedes recoger.
+
+[RADAR]
+{Objectives are shown as a dot on the radar.}
+Los objetivos se muestran en el radar en forma de punto.
+
+[PISS]
+{Hunter : I'm taking a leak, I'll be out in the alley.}
+Cazador: Voy a cambiarle el agua al canario, estaré en el callejón.
+
+[PISS1]
+{I need a leak. I'll be outside.}
+Tengo que regar las plantas. Estaré fuera.
+
+[PISS2]
+{Man, I gotta take a piss.}
+Tío, tengo que echar un meo.
+
+[DOR1A1]
+{You're doing fine, Cash, just fine. We're getting some great material here! Keep going!}
+Cash, ¡lo estás haciendo bien, bastante bien! ¡Muy buen material, sigue así!
+
+[DOR2A1]
+{There's a Hood upstairs. Make some noise - hit something - that should get his attention!}
+Arriba hay un Hood. ¡Si haces algo de ruido (golpeando algo), deberías llamar su atención!
+
+[DOR3A1]
+{You're going to have to find something to bust that padlock!}
+¡Vas a tener que buscar algo para forzar ese candado!
+
+[DOR4A1]
+{A crowbar! That would be ideal for...}
+¡Una palanca! Sería ideal para...
+
+[DOR4A2]
+{smashing a padlock, say!}
+forzar un candado, ¡claro!
+
+[DOR5A1]
+{Okay, this is what I like to call a 'set up'.}
+Vale, eso es lo que yo llamo una “emboscada”.
+
+[DOR5A2]
+{This guy will fight dirty, but once you're through with him, I'll open the next door.}
+Este tío luchará sucio, pero cuando acabes con él, abriré la siguiente puerta.
+
+[DER1A1]
+Director : Go through that building up ahead to get to the street.
+
+[DER2A1]
+Director : That hunter is watching the stairs, lure him downstairs by hitting a wall, then wait in a safe zone.
+
+[DER3A1]
+Director : This door is padlocked. You ever want to get outta here alive, you better find a way to bust that padlock!
+
+[DER4A1]
+Director : Okay Cash, nice going. Now Grab the crowbar and head back to smash that padlock.
+
+[DER5A1]
+Director : Okayyy, Put on a good show against this hooded fuck for me and it might help you outta here. Watch tho' this guy fights dirty.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

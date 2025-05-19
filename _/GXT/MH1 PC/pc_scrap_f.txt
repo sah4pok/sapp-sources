@@ -1,0 +1,171 @@
+﻿[NAIL]
+{When using guns, shoot by pressing the Action button.}
+Pour tirer avec une arme à feu, appuie sur la touche Action 1.
+
+[NAIL2]
+{Press the Action2 button to zoom in on the closest hunter.}
+Appuie sur la touche "Action 2" pour zoomer sur le chasseur le plus proche.
+
+[NAIL0]
+{When wall-strafing you can aim at hunters around corners by holding the Action2 button.}
+Quand tu es plaqué contre un mur, tu peux viser des chasseurs depuis un coin, en maintenant la touche "Action 2" enfoncée.
+
+[NAIL1]
+{Press the Reload button to reload your weapon.}
+Appuie sur la touche Recharger pour recharger ton arme.
+
+[NAIL4]
+{Press the Reload button to reload your weapon.}
+Appuie sur la touche Recharger pour recharger ton arme.
+
+[NAIL3]
+{Aim to the head if you can. Headshots do more damage and with firearms they can kill instantly.}
+Vise la tête si tu peux, c'est plus efficace. Et si t'as une arme à feu, sache qu'un tir dans la tête peut tuer sur-le-champ.
+
+[PADLOCK]
+{You need something sharp to cut this rope.}
+Il te faut un truc aiguisé pour couper cette corde.
+
+[OPEN]
+{Kill that hunter to open this gate.}
+Bute ce chasseur pour ouvrir ce portail.
+
+[DRUM]
+{You can detonate these Gas Canisters by shooting them with the nailgun.}
+Tu peux faire exploser ces barils en tirant dessus avec une riveteuse.
+
+[AMMOPK]
+{This is an ammo pick-up, you must have the desired weapon in your inventory to collect this.}
+Ce sont des munitions. Tu dois avoir l'arme correspondante dans ton inventaire pour les récupérer.
+
+[GOAL1]
+{Kill the hunter guarding the gate}
+Bute le chasseur qui garde le portail.
+
+[GOAL2]
+{Find something to cut the ~blue~rope ~colour~on the gate}
+Trouve un truc pour couper la ~blue~corde ~colour~sur le portail.
+
+[GOAL3]
+{Find a way into the trailer to get the nailgun}
+Cherche la riveteuse dans la caravane.
+
+[GOAL4]
+{Find and activate the switch to open the ~blue~gate}
+Trouve et active l'interrupteur qui ouvre le ~blue~portail~colour~.
+
+[GOAL5]
+{Go back to the gate to get to the exit}
+Retourne au portail pour atteindre la sortie.
+
+[CRAP1]
+{I can smell it's putrid corruption}
+Je peux sentir ta corruption putride !
+
+[CRAP2]
+{Hallelujah! Praise The Lord!}
+Alléluia ! Le Seigneur soit sanctifié !
+
+[WHO1]
+{Hallelujah! There he is!}
+Alléluia ! Le voila !
+
+[WHO2]
+{Hallelujah! There he is!}
+Alléluia ! Le voila !
+
+[FILL1]
+{There he is! Sick deviant...}
+Le voila ! Hérétique...
+
+[FILL2]
+{The Lord hath delivered! Amen!}
+Le Seigneur en a décidé ainsi ! Amen !
+
+[SEEN1]
+{G-guys! I... I see him! He's here! Guys!}
+Les gars ! Je... Je le vois ! Il est là ! Les gars !
+
+[SEEN2]
+{Holy fuck - th - there he is! Hey he's over here!}
+Bordel de merde ! Il... il est là ! Hé, il est là !
+
+[WHT1A1]
+{Ok, so I lied. We haven't quite wrapped this gig up, but hey}
+OK, j'ai menti, on a pas encore tout à fait fini, mais, bon,
+
+[WHT1A2]
+{you're having fun, right?!}
+tu t'éclates, non ?
+
+[WHT1A3]
+{There's a double gate that leads on through to our next location - find it.}
+Il y a un double portail qui mène à notre prochain terrain de jeu. Trouve-le !
+
+[WHT2A1]
+{Careful, there's a bigot guarding the gate. If he sees you he'll call his cheery buddies...}
+Attention, y'a une grenouille de bénitier qui garde le portail. Si elle te voit, elle appellera ses copines de la chorale.
+
+[WHT3A1]
+{That's a pretty thick rope - you're gonna need a blade...}
+C'est une corde sacrément épaisse. Va te falloir une lame...
+
+[WHT4A1]
+{You didn't think I'd let you out that easily did you? It's an electric lock}
+Tu pensais quand même pas que je te laisserais sortir aussi facilement, si ? C'est une serrure électrique.
+
+[WHT4A2]
+{Find the release switch.}
+Trouve l'interrupteur.
+
+[WHT5A1]
+{Beautiful! That's his hunting days over!}
+Magnifique ! Il a fait son temps !
+
+[WHT6A1]
+{There's a nailgun in that trailer - if you can stand the smell!}
+Tu trouveras une riveteuse dans cette caravane, si t'arrives à supporter l'odeur !
+
+[WHT7A1]
+{He's got his hands full at the moment - go grab his nailgun...}
+Il est occupé pour l'instant. Va choper sa riveteuse...
+
+[MPG1]
+{Ok, you limp-dicked faggots!}
+OK, les couilles molles !
+
+[MPG2]
+{Let's give Mr. Starkweather a show to remember.}
+Montrons à Starkweather ce qu'on sait faire !
+
+[MPG3]
+{MOVE IT!!}
+ALLEZ !
+
+[INTRO]
+Director : Find this gate, and get past it.
+
+[WATCH]
+Director : Watch out for this guy though, he'll call in back-up if he sees you.
+
+[START]
+Director : Your on the Skinz turf now Cash, these racist pricks hate everything, grab a weapon and find a way into the scrapyard.
+
+[GLASS]
+Hunter : Bastard, You made me shit my pants.
+
+[GATE]
+Spotter : I see him, I see him, calling in back-up.
+
+[EXIT]
+Director : Through that door is the way out, I've hidden a power switch to open it, find that switch.
+
+[DOPE]
+Director : If you could just find a way into the trailer and steal that nailgun....
+
+[HEAR]
+Hunter : Is that you guys out there?, comon I'm taking a crap in here.
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

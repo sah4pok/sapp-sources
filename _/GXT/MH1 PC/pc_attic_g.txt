@@ -1,0 +1,127 @@
+﻿[GOAL1]
+{Kill Piggsy and find a way to reach Starkweather}
+Töte Piggsy und finde einen Weg, zu Starkweather zu gelangen.
+
+[GOAL2]
+{Take care of the Cerberus guards to enter Starkweather's room}
+Schalte die Cerberus-Wachen aus um in Starkweathers Zimmer zu gelangen.
+
+[GOAL3]
+{Kill Starkweather}
+Töte Starkweather.
+
+[GOD]
+{The chainsaw makes noise when its engine is running. Turn it OFF with the Action2 button.}
+Die Kettensäge macht Lärm, wenn ihr Motor läuft. Mit der Aktionstaste2 machst du ihn AUS.
+
+[SICK1]
+{Hurt…huuurrrrttt!}
+Verletzt ... veeerrrleeetzt!
+
+[SICK2]
+{No more. Noo moooorre!!}
+Aufhören. Aufhöööreeeeen!
+
+[SICK3]
+{Going home, hoooooome!}
+Nach Hause, nach Haaauuuse!
+
+[AWAY1]
+{Go! Away! Go!}
+Geh weg! Weg! Geh!
+
+[AWAY2]
+{Not playing! Not funny!}
+Nicht mitspielen! Nicht komisch!
+
+[AWAY3]
+{Stop! Not fair! Stop!}
+Halt! Unfair! Halt!
+
+[ANGRY1]
+{Piggsy angry! Aarrgghhnngry!}
+Piggsy böse! Böse!
+
+[ANGRY2]
+{Rraarggh! Piggsy gonna suck your guts!}
+Rraarggh! Piggsy reißt dir die Eingeweide raus!
+
+[ANGRY3]
+{This Piggsy's home! Raaarrghh!!!}
+Hier Piggsys Zuhause! Raaarrghh!!
+
+[HOME1]
+{Piggsy forget why here...}
+Piggsy vergessen, wieso Piggsy ist hier ...
+
+[HOME2]
+{Piggsy bored. Go home to bed and sleep...}
+Piggsy langweilen. Geht jetzt nach Hause schlafen ...
+
+[HOME3]
+{Piggsy not play no more. Piggsy go hoome...}
+Piggsy nicht mehr spielen. Piggsy jetzt nach Hause gehen ...
+
+[LIFT1]
+{Starkweather said no unexpected visitors.}
+Starkweather wünscht keine unangemeldeten Besucher.
+
+[STORM1]
+{Fuck this, I'm going in!!!!}
+Scheiß drauf, ich geh jetzt da rein!!!!
+
+[STORM2]
+{I'm coming in there to fuck you up!!!}
+Ich komme jetzt rein und reiß dir den Arsch auf!!!!
+
+[STORM3]
+{Who dares, wins - rraagghh!!!}
+Wer wagt, gewinnt - Rraarggh!!!!
+
+[DIR]
+{Send him to hell! Go on!}
+Weiter! Schick ihn zum Teufel!
+
+[MPG1]
+{Acclaimed movie maker Lionel Starkweather has been found dead today}
+Der berühmte Filmemacher Lionel Starkweather wurde heute zusammen mit
+
+[MPG2]
+{along with several of his bodyguards, at his estate at the Wapona Hills residential district.}
+einigen seiner Leibwächter tot in seinem Haus in Wapona Hills aufgefunden.
+
+[MPG3]
+{In what investigators are calling a bloody vendetta,}
+Die Polizei spricht von einer blutigen Vendetta,
+
+[MPG4]
+{An unknown assailant infiltrated the compound, killing Starkweather,}
+in der ein unbekannter Angreifer sich Zutritt zu dem Gelände verschaffte und Starkweather tötete.
+
+[MPG5]
+{but more interestingly, leading police to the site of a snuff film ring being run from the estate's confines.}
+Interessanterweise stieß die Polizei hier jedoch auf Spuren eines Snuff-Movie-Ringes mit Hauptsitz in Starkweathers Haus.
+
+[MPG6]
+{Linked to this ring is Carcer City's own police chief Gary Schaffer,}
+Offenbar ist selbst der Polizeichef von Carcer City, Gary Schaffer, in die Sache verwickelt,
+
+[MPG7]
+{whose lawyer stated that he intends to plead not guilty.}
+aber sein Anwalt gab bekannt, Schaffer plädiere auf nicht schuldig.
+
+[MPG8]
+{Hello Kiddies...}
+Hallo Kinder ...
+
+[MPG9]
+{Pigsy ANGRY! Unh! Pigsy Angry!}
+Piggsy BÖSE! Unh! Piggsy böse!
+
+[MPG10]
+{Ahhh! Yeah! Pigsy Angry!}
+Ahhh! Jaa! Piggsy böse!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

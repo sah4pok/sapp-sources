@@ -1,0 +1,130 @@
+﻿[GOAL0]
+{Find the ~green~Hammer~colour~}
+Encuentra el ~green~martillo~colour~
+
+[GOAL1P1]
+{Perform 1 ~yellow~Violent~colour~ execution with the Hammer}
+Realiza una ejecución ~yellow~violenta~colour~ con el martillo
+
+[GOAL1P2]
+{Perform 1 ~red~Gruesome~colour~ execution with the Hammer}
+Realiza una ejecución ~red~atroz~colour~ con el martillo
+
+[GOAL1P3]
+{Get the Bat from the hunter}
+Consigue el bate que tiene el cazador
+
+[GOAL2P1]
+{Perform 1 ~yellow~Violent~colour~ execution with the Bat}
+Realiza una ejecución ~yellow~violenta~colour~ con el bate
+
+[GOAL2P2]
+{Perform 1 ~red~Gruesome~colour~ execution with the Bat}
+Realiza una ejecución ~red~atroz~colour~ con el bate
+
+[GOAL2]
+{Make your way to the end of the Cellblock}
+Consigue llegar hasta el final del bloque de celdas
+
+[GOAL3]
+{Go along the top of the Cellblock and get to the shower block}
+Ve hasta la parte superior del bloque de celdas y de ahí al bloque de duchas
+
+[GOAL4]
+{Kill all the hunters}
+Mata a todos los cazadores
+
+[GOAL5]
+{Go to the shower block}
+Ve al bloque de duchas
+
+[GETHAM]
+{Find the Hammer somewhere in the Cellblock.}
+Encuentra el martillo, que está en el bloque de celdas
+
+[GODHAM]
+{Perform a ~yellow~Violent~colour~ and a ~red~Gruesome~colour~ execution with the Hammer.}
+Realiza una ejecución ~yellow~violenta~colour~ y una ~red~atroz~colour~ con el martillo.
+
+[GETBAT]
+{Kill this hunter and get his Bat.}
+Mata a este cazador y hazte con el bate.
+
+[GODBAT]
+{Perform a ~yellow~Violent~colour~ and a ~red~Gruesome~colour~ execution with the Bat.}
+Realiza una ejecución ~yellow~violenta~colour~ y una ~red~atroz~colour~ con el bate.
+
+[USEBAT]
+{Use the Bat to perform the executions.}
+Utiliza el bate para realizar las ejecuciones.
+
+[FUGIN1]
+{Look like it up to Fug, Fuuuuuug!!!}
+Parece que ser cosa para Fug. ¡¡¡Fuuuuug!!!
+
+[FUGIN2]
+{Fug gonna finish this!}
+¡Fug acabará con esto!
+
+[FUGIN3]
+{Fug gonna make you sorreeeee!}
+¡Fug hará que te arrepientas!
+
+[JAL1A1]
+{Monkey see, monkey kill! That's your motivation for the next scenes!}
+¡El pardillo bueno es el pardillo muerto! ¡Ésa es tu consigna para las siguientes escenas!
+
+[JAL1A2]
+{You're killing to entertain, so take your time and play to the camera!}
+Matar es un espectáculo, así que ¡tómate tu tiempo y actúa para la cámara!
+
+[JAL2A1]
+{Jesus, Cash, you're chewing through these guys like you were popping bubble wrap.}
+Jesús, Cash, te estás cepillando a estos tíos como si fueran nenazas reumáticas.
+
+[JAL2A2]
+{Head over to the end of the cell block - I've got a surprise for you.}
+Dirígete al final del bloque de celdas. Te tengo preparada una sorpresa.
+
+[JAL3A1]
+{Get your funky ass along the walkway and head into the shower block.}
+Mueve tu culo asqueroso por ese pasillo y dirígete a ese bloque de duchas.
+
+[JAL4A1]
+{Kill 'em all, Cash, kill 'em all! Ha ha ha!}
+Mátalos a todos, Cash, ¡mátalos a todos! ¡Ja, ja, ja!
+
+[JAL5A1]
+{Here's your reward for being such a good head collector!}
+¡Ésta es tu recompensa por ser tan bueno consiguiendo cabezas!
+
+[JAL6A1]
+{Ok, Cash. You've performed brilliantly.}
+Vale, Cash. Lo has hecho de vicio.
+
+[JAL6A2]
+{Don't worry, I've got plenty more Wonderland fun lined up for you}
+No te preocupes, tengo mucha más diversión preparada.
+
+[JAL6A3]
+{(laughter)}
+(risa)
+
+[CEL1A1]
+Ah welcome, the idea of this little game is for you to execute all the hunters looking for you, thats if they dont find you first
+
+[CEL2A1]
+Well done, you do still have some surprises left in you, make your way to the end of the cellblock I have a few more surprises for you.
+
+[CEL3A1]
+If you wanna get out of here your gonna have to lose that guy and then make your way along the top of the cells to the shower block
+
+[CEL4A1]
+If you wanna get in here your gonna have to lose the attencion of those hunters
+
+[BONUS]
+Here is your reward for being such a good head collector
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

@@ -1,0 +1,195 @@
+﻿[LETTER1]
+abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789"$,.'-?!!SDBF
+
+[NUMBER1]
+0123456789
+
+[BACK]
+{There are still hostages alive to rescue, go back and find them.}
+Einige Geiseln leben noch und müssen gerettet werden. Geh zurück und finde sie.
+
+[GOAL1]
+{Save at least one of the four family members}
+Rette mindestens eins der vier Familienmitglieder.
+
+[GOAL2]
+{Find your sister to open the door}
+Um diese Tür zu öffnen, musst du deine Schwester finden.
+
+[GOAL3]
+{Go to the Sharks mouth}
+Begib dich zum "Hai-Rachen".
+
+[GOAL4]
+{Find the switch to open the exit door}
+Finde den Schalter für die Ausgangstür.
+
+[FREED_1]
+{Get out of here - Run!}
+Raus hier - schnell!
+
+[FREED_2]
+{Ok, you're ok. Go!}
+O. K., du bist in Ordnung. Los!
+
+[FREED_3]
+{Run as far away as you can!}
+Lauf so schnell du kannst!
+
+[FREED_4]
+{Trust no one, now go!}
+Vertraue niemandem und jetzt los!
+
+[FREED_5]
+{Don't stop until you're out of here!}
+Bleib nicht stehen, bis du hier raus bist!
+
+[FREED_6]
+{Go on, run, you idiot!}
+Na los, lauf schon, du Idiot!
+
+[BOD1A1]
+{Hold up Cash. You and your family weren't exactly close, am I right?}
+Warte mal, Cash. Du und deine Familie, ihr habt euch nicht besonders nah gestanden, oder?
+
+[BOD1A2]
+{It's just that I thought it would be nice to have a surprise reunion!}
+Ich hatte gedacht, ein kleines Überraschungs-Wiedersehen würde dich freuen!
+
+[BOD1A3]
+{But, these Wardogs didn't see it my way and they've taken matters into their own hands.}
+Aber diese Wardogs haben das anders gesehen und die Sache selbst in die Hand genommen.
+
+[BOD2A1]
+{They're using them as bait, Cash, bait. I know,}
+Sie benutzen sie als Köder, Cash, als Köder. Ich weiß,
+
+[BOD2A2]
+{I know, I can hardly believe it myself.}
+ich weiß, ich kann es selbst kaum glauben.
+
+[BOD2A3]
+{Each time they spot you, these Wardogs are gonna execute one of your beloved family.}
+Jedes Mal, wenn Sie dich zu Gesicht bekommen, werden diese Wardogs ein Mitglied deiner geliebten Familie umbringen.
+
+[BOD3A1]
+{I like my leading men to have a soul, Cash, and that means 'giving a shit'.}
+Ich mag es, wenn meine Hauptdarsteller Gefühle zeigen, Cash, also streng dich mal an.
+
+[BOD3A2]
+{So I'm not letting you out of here unless you free at least ONE of them.}
+Also lasse ich dich nicht hier raus, bevor du nicht wenigstens EINEN von ihnen befreit hast.
+
+[BOD4A1]
+{Guess what you have to do to open the shark's mouth? Go rescue your family!}
+Rate mal, was du tun musst, um den Rachen des Hais zu öffnen? Geh und rette deine Familie!
+
+[BOD5A1]
+{Now Cash; you've killed a few people in your time}
+Hör zu, Cash, du hast ja schon ein paar Leute um die Ecke gebracht,
+
+[BOD5A2]
+{don't be responsible for your whole family as well!}
+aber du willst doch nicht auch noch deine Familie auf dem Gewissen haben!
+
+[BOD6A1]
+{Oh man, he's toast!}
+Oh Mann, der ist erledigt!
+
+[BOD6B1]
+{Too slow, Cash, they've nailed him!}
+Zu langsam, Cash, sie haben ihn umgenietet!
+
+[BOD6C1]
+{Saw you, killed him! Life's a bitch.}
+Sie haben dich gesehen und ihn getötet! Ist das Leben nicht ungerecht?
+
+[BOD7A1]
+{Lady killer!}
+Du Lady-Killer!
+
+[BOD7B1]
+{Shit, you blew it! And now she pays the price.}
+Scheiße, du hast's versaut! Und sie muss jetzt dafür zahlen.
+
+[BOD7C1]
+{You as good as killed her yourself!}
+Du hast sie praktisch mit eigenen Händen umgebracht!
+
+[BOD8A1]
+{Well, one out of four ain't too bad I suppose.}
+Na ja, einer von vieren ist ja auch nicht so schlecht.
+
+[BOD9A1]
+{Two dead, two alive. Fifty, fifty.}
+Zwei tot, zwei lebendig. Fifty-Fifty.
+
+[BOD9A2]
+{Half a family. Good enough for me, though!}
+Eine halbe Familie. Aber das reicht mir!
+
+[BOD10A1]
+{What a bummer, you turn up alive and one o'them kicks it.}
+So eine Schande, du kommst lebend zurück und einer von denen muss dran glauben.
+
+[BOD11A1]
+{You rescued them all! I knew I'd bring the hero out in you!}
+Du hast alle gerettet! Ich wusste, dass ich aus dir noch einen Helden machen würde!
+
+[BOD12A1]
+{Ok, you can go through the shark's mouth now.}
+In Ordnung, jetzt kannst du durch den Rachen des Hais gehen.
+
+[MPG1]
+{You just won't fucking die will you?}
+Verdammter Mist, du bist einfach nicht totzukriegen, was?
+
+[MPG2]
+{Get him out of here.}
+Schaff ihn hier raus.
+
+[INTRO]
+Director : We captured your family. If your seen by one of the hunters guarding a hostage, he'll execute the hostage.
+
+[INTRO1]
+Director : Rescue your family before the wardogs get too excited.
+
+[SNIPE]
+Director : Ok Cash, there's still one of your sisters hostage in the monkey dome.
+
+[SNIPE1]
+Director : Find her, and I'll open this door.
+
+[FAIL]
+Director : You failed to rescue a hostage Cash, now it's over for you.
+
+[DBRO]
+Director : Say a prayer for your brother Cash.
+
+[DSIS]
+Director : Be more careful Cash, try not to get spotted.
+
+[DMOM]
+Director : Another body bag, alright Cash the door is open now.
+
+[DMOM1]
+Director : Nice going, alright Cash the door is open now.
+
+[DDAD]
+Director : Get with it Cash, Your running out of family members.
+
+[OPEN1]
+Director : Well, one out of four ain't too bad I suppose. I've opened the gate...
+
+[OPEN2]
+Director : Two dead, two alive. Fifty, fifty. Half a family. Good enough for me, though!
+
+[OPEN3]
+Director : What a bummer, you turn up alive and one o'them kicks it. The gate's open.
+
+[OPEN4]
+Director : I knew I'd bring the hero out in you! The gate's unlocked, go for it!
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!

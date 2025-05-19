@@ -1,0 +1,11 @@
+﻿[HELP1]
+{You must survive for as long as you can against the three gangs. The gangs will fight each other as well as you. Good Luck!}
+Tu dois survivre aussi longtemps que tu peux face aux trois gangs, qui s'affronteront entre eux, mais qui t'oublieront pas non plus. Bonne chance !
+
+[GOAL1]
+{Survive for as long as you can}
+Survis aussi longtemps que tu peux !
+
+[DUMMY]
+THIS LABEL NEEDS TO BE HERE !!!
+AS THE LAST LABEL DOES NOT GET COMPILED!!
